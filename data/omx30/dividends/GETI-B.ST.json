@@ -1,75 +1,79 @@
 [
     {
         "Date": "2000-04-27T00:00:00.000Z",
-        "Dividends": 0.797557
+        "Dividends": 3.5
     },
     {
         "Date": "2001-04-24T00:00:00.000Z",
-        "Dividends": 0.797557
+        "Dividends": 3.5
     },
     {
         "Date": "2002-04-19T00:00:00.000Z",
-        "Dividends": 0.854525
+        "Dividends": 3.75
     },
     {
         "Date": "2003-04-24T00:00:00.000Z",
-        "Dividends": 0.968462
+        "Dividends": 4.25
     },
     {
         "Date": "2004-04-22T00:00:00.000Z",
-        "Dividends": 1.230516
+        "Dividends": 1.35
     },
     {
         "Date": "2005-04-20T00:00:00.000Z",
-        "Dividends": 1.503964
+        "Dividends": 1.65
     },
     {
         "Date": "2006-04-21T00:00:00.000Z",
-        "Dividends": 1.822987
+        "Dividends": 2.0
     },
     {
         "Date": "2007-04-20T00:00:00.000Z",
-        "Dividends": 2.005286
+        "Dividends": 2.2
     },
     {
         "Date": "2008-04-18T00:00:00.000Z",
-        "Dividends": 2.219923
+        "Dividends": 2.4
     },
     {
         "Date": "2009-04-22T00:00:00.000Z",
-        "Dividends": 2.262761
+        "Dividends": 2.4
     },
     {
         "Date": "2010-04-21T00:00:00.000Z",
-        "Dividends": 2.592747
+        "Dividends": 2.75
+    },
+    {
+        "Date": "2010-04-22T00:00:00.000Z",
+        "Dividends": 1.925
     },
     {
         "Date": "2011-04-28T00:00:00.000Z",
-        "Dividends": 3.064156
+        "Dividends": 3.25
     },
     {
         "Date": "2012-03-29T00:00:00.000Z",
-        "Dividends": 3.535564
+        "Dividends": 3.75
     },
     {
         "Date": "2013-03-22T00:00:00.000Z",
-        "Dividends": 3.912691
+        "Dividends": 4.15
     },
     {
         "Date": "2014-03-21T00:00:00.000Z",
-        "Dividends": 3.912691
+        "Dividends": 4.15
     },
     {
         "Date": "2015-03-26T00:00:00.000Z",
-        "Dividends": 2.639888
+        "Dividends": 2.8
     },
     {
         "Date": "2016-03-31T00:00:00.000Z",
-        "Dividends": 2.639888
+        "Dividends": 2.63989
     },
     {
         "Date": "2017-03-30T00:00:00.000Z",
-        "Dividends": 1.885634
+        "Dividends": 1.88563
     },
     {
         "Date": "2018-04-27T00:00:00.000Z",
