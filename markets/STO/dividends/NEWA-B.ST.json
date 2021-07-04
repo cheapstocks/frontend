@@ -1,23 +1,23 @@
 [
     {
         "Date": "2000-05-15T00:00:00.000Z",
-        "Dividends": 4.0
+        "Dividends": 0.24357
     },
     {
         "Date": "2001-05-04T00:00:00.000Z",
-        "Dividends": 2.5
+        "Dividends": 0.304462
     },
     {
         "Date": "2002-06-20T00:00:00.000Z",
-        "Dividends": 3.0
+        "Dividends": 0.365355
     },
     {
         "Date": "2003-05-29T00:00:00.000Z",
-        "Dividends": 1.75
+        "Dividends": 0.426247
     },
     {
         "Date": "2005-05-13T00:00:00.000Z",
-        "Dividends": 1.5
+        "Dividends": 0.75
     },
     {
         "Date": "2006-05-30T00:00:00.000Z",

@@ -1,23 +1,23 @@
 [
     {
         "Date": "2015-05-07T00:00:00.000Z",
-        "Dividends": 2.6
+        "Dividends": 0.52
     },
     {
         "Date": "2016-05-13T00:00:00.000Z",
-        "Dividends": 3.0
+        "Dividends": 0.6
     },
     {
         "Date": "2017-05-05T00:00:00.000Z",
-        "Dividends": 3.5
+        "Dividends": 0.7
     },
     {
         "Date": "2018-04-25T00:00:00.000Z",
-        "Dividends": 4.0
+        "Dividends": 0.8
     },
     {
         "Date": "2019-04-29T00:00:00.000Z",
-        "Dividends": 4.6
+        "Dividends": 0.92
     },
     {
         "Date": "2020-04-27T00:00:00.000Z",

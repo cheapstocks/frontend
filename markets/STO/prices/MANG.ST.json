@@ -22420,6 +22420,76 @@
         "StockSplits": 0
     },
     {
+        "Date": "2021-06-22T00:00:00.000Z",
+        "Open": 2440.0,
+        "High": 2440.0,
+        "Low": 2440.0,
+        "Close": 2440.0,
+        "Volume": 1,
+        "Dividends": 0.0,
+        "StockSplits": 0
+    },
+    {
+        "Date": "2021-06-23T00:00:00.000Z",
+        "Open": 2500.0,
+        "High": 2900.0,
+        "Low": 2500.0,
+        "Close": 2740.0,
+        "Volume": 200,
+        "Dividends": 0.0,
+        "StockSplits": 0
+    },
+    {
+        "Date": "2021-06-24T00:00:00.000Z",
+        "Open": 3100.0,
+        "High": 3360.0,
+        "Low": 2500.0,
+        "Close": 2980.0,
+        "Volume": 335,
+        "Dividends": 0.0,
+        "StockSplits": 0
+    },
+    {
+        "Date": "2021-06-28T00:00:00.000Z",
+        "Open": 2980.0,
+        "High": 3000.0,
+        "Low": 2720.0,
+        "Close": 2880.0,
+        "Volume": 106,
+        "Dividends": 0.0,
+        "StockSplits": 0
+    },
+    {
+        "Date": "2021-06-29T00:00:00.000Z",
+        "Open": 2900.0,
+        "High": 3100.0,
+        "Low": 2900.0,
+        "Close": 3100.0,
+        "Volume": 35,
+        "Dividends": 0.0,
+        "StockSplits": 0
+    },
+    {
+        "Date": "2021-06-30T00:00:00.000Z",
+        "Open": 3100.0,
+        "High": 3280.0,
+        "Low": 3000.0,
+        "Close": 3280.0,
+        "Volume": 68,
+        "Dividends": 0.0,
+        "StockSplits": 0
+    },
+    {
+        "Date": "2021-07-01T00:00:00.000Z",
+        "Open": 3280.0,
+        "High": 4380.0,
+        "Low": 3280.0,
+        "Close": 4000.0,
+        "Volume": 231,
+        "Dividends": 0.0,
+        "StockSplits": 0
+    },
+    {
         "Date": "2021-07-02T00:00:00.000Z",
         "Open": 4000.0,
         "High": 4720.0,

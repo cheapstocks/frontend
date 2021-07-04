@@ -1,71 +1,71 @@
 [
     {
         "Date": "2000-05-11T00:00:00.000Z",
-        "Dividends": 3.5
+        "Dividends": 0.291667
     },
     {
         "Date": "2001-05-11T00:00:00.000Z",
-        "Dividends": 4.9
+        "Dividends": 0.408333
     },
     {
         "Date": "2002-05-07T00:00:00.000Z",
-        "Dividends": 5.5
+        "Dividends": 0.25
     },
     {
         "Date": "2003-05-06T00:00:00.000Z",
-        "Dividends": 7.1
+        "Dividends": 0.591667
     },
     {
         "Date": "2005-05-10T00:00:00.000Z",
-        "Dividends": 6.0
+        "Dividends": 0.5
     },
     {
         "Date": "2006-05-11T00:00:00.000Z",
-        "Dividends": 7.0
+        "Dividends": 0.583333
     },
     {
         "Date": "2007-05-09T00:00:00.000Z",
-        "Dividends": 8.5
+        "Dividends": 0.708333
     },
     {
         "Date": "2008-03-04T00:00:00.000Z",
-        "Dividends": 3.5
+        "Dividends": 0.875
     },
     {
         "Date": "2008-05-14T00:00:00.000Z",
-        "Dividends": 3.5
+        "Dividends": 0.875
     },
     {
         "Date": "2009-05-14T00:00:00.000Z",
-        "Dividends": 3.75
+        "Dividends": 0.9375
     },
     {
         "Date": "2010-02-24T00:00:00.000Z",
-        "Dividends": 2.75
+        "Dividends": 0.6875
     },
     {
         "Date": "2010-05-12T00:00:00.000Z",
-        "Dividends": 2.75
+        "Dividends": 0.6875
     },
     {
         "Date": "2011-05-13T00:00:00.000Z",
-        "Dividends": 3.75
+        "Dividends": 0.9375
     },
     {
         "Date": "2012-05-11T00:00:00.000Z",
-        "Dividends": 4.5
+        "Dividends": 0.375
     },
     {
         "Date": "2013-05-15T00:00:00.000Z",
-        "Dividends": 5.0
+        "Dividends": 1.25
     },
     {
         "Date": "2014-05-09T00:00:00.000Z",
-        "Dividends": 5.5
+        "Dividends": 1.375
     },
     {
         "Date": "2015-05-06T00:00:00.000Z",
-        "Dividends": 6.0
+        "Dividends": 1.5
     },
     {
         "Date": "2016-05-04T00:00:00.000Z",

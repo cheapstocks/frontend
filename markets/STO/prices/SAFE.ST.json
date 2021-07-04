@@ -33918,5 +33918,15 @@
         "Volume": 9402,
         "Dividends": 0,
         "StockSplits": 0.0
+    },
+    {
+        "Date": "2021-07-02T00:00:00.000Z",
+        "Open": 2.3299999237,
+        "High": 2.3299999237,
+        "Low": 2.1800000668,
+        "Close": 2.2200000286,
+        "Volume": 13907,
+        "Dividends": 0,
+        "StockSplits": 0.0
     }
 ]
