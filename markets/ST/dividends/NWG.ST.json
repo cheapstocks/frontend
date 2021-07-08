@@ -1,0 +1,42 @@
+[
+    {
+        "adjustedAmount": 3.75,
+        "amount": 3.75,
+        "currency": "SEK",
+        "date": "2017-04-28",
+        "declarationDate": "2017-02-14",
+        "payDate": "2017-05-05",
+        "recordDate": "2017-05-02",
+        "symbol": "NWG.ST"
+    },
+    {
+        "adjustedAmount": 3.75,
+        "amount": 3.75,
+        "currency": "SEK",
+        "date": "2018-04-23",
+        "declarationDate": "2018-02-08",
+        "payDate": "2018-04-27",
+        "recordDate": "2018-04-24",
+        "symbol": "NWG.ST"
+    },
+    {
+        "adjustedAmount": 4,
+        "amount": 4,
+        "currency": "SEK",
+        "date": "2019-04-25",
+        "declarationDate": "2019-02-12",
+        "payDate": "2019-05-02",
+        "recordDate": "2019-04-26",
+        "symbol": "NWG.ST"
+    },
+    {
+        "adjustedAmount": 4.5,
+        "amount": 4.5,
+        "currency": "SEK",
+        "date": "2021-04-30",
+        "declarationDate": "2021-02-09",
+        "payDate": "2021-05-06",
+        "recordDate": "2021-05-03",
+        "symbol": "NWG.ST"
+    }
+]

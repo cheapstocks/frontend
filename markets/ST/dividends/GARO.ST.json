@@ -1,0 +1,42 @@
+[
+    {
+        "adjustedAmount": 0.57,
+        "amount": 2.85,
+        "currency": "SEK",
+        "date": "2017-05-05",
+        "declarationDate": "2017-02-22",
+        "payDate": "2017-05-11",
+        "recordDate": "2017-05-08",
+        "symbol": "GARO.ST"
+    },
+    {
+        "adjustedAmount": 0.8,
+        "amount": 4,
+        "currency": "SEK",
+        "date": "2018-05-03",
+        "declarationDate": "2018-02-21",
+        "payDate": "2018-05-09",
+        "recordDate": "2018-05-04",
+        "symbol": "GARO.ST"
+    },
+    {
+        "adjustedAmount": 0.8,
+        "amount": 4,
+        "currency": "SEK",
+        "date": "2019-05-16",
+        "declarationDate": "2019-02-19",
+        "payDate": "2019-05-22",
+        "recordDate": "2019-05-17",
+        "symbol": "GARO.ST"
+    },
+    {
+        "adjustedAmount": 0.95,
+        "amount": 4.75,
+        "currency": "SEK",
+        "date": "2021-05-06",
+        "declarationDate": "2021-02-12",
+        "payDate": "2021-05-12",
+        "recordDate": "2021-05-07",
+        "symbol": "GARO.ST"
+    }
+]

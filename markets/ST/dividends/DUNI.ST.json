@@ -1,0 +1,92 @@
+[
+    {
+        "adjustedAmount": 3.5,
+        "amount": 3.5,
+        "currency": "SEK",
+        "date": "2012-05-04",
+        "declarationDate": "2012-02-15",
+        "payDate": "2012-05-11",
+        "recordDate": "2012-05-08",
+        "symbol": "DUNI.ST"
+    },
+    {
+        "adjustedAmount": 3.5,
+        "amount": 3.5,
+        "currency": "SEK",
+        "date": "2013-05-03",
+        "declarationDate": "2013-02-14",
+        "payDate": "2013-05-13",
+        "recordDate": "2013-05-07",
+        "symbol": "DUNI.ST"
+    },
+    {
+        "adjustedAmount": 4,
+        "amount": 4,
+        "currency": "SEK",
+        "date": "2014-05-07",
+        "declarationDate": "2014-02-13",
+        "payDate": "2014-05-14",
+        "recordDate": "2014-05-09",
+        "symbol": "DUNI.ST"
+    },
+    {
+        "adjustedAmount": 4.5,
+        "amount": 4.5,
+        "currency": "SEK",
+        "date": "2015-05-06",
+        "declarationDate": "2015-02-13",
+        "payDate": "2015-05-12",
+        "recordDate": "2015-05-07",
+        "symbol": "DUNI.ST"
+    },
+    {
+        "adjustedAmount": 5,
+        "amount": 5,
+        "currency": "SEK",
+        "date": "2016-05-04",
+        "declarationDate": "2016-02-12",
+        "payDate": "2016-05-11",
+        "recordDate": "2016-05-06",
+        "symbol": "DUNI.ST"
+    },
+    {
+        "adjustedAmount": 5,
+        "amount": 5,
+        "currency": "SEK",
+        "date": "2017-05-04",
+        "declarationDate": "2017-02-10",
+        "payDate": "2017-05-10",
+        "recordDate": "2017-05-05",
+        "symbol": "DUNI.ST"
+    },
+    {
+        "adjustedAmount": 5,
+        "amount": 5,
+        "currency": "SEK",
+        "date": "2018-05-09",
+        "declarationDate": "2018-02-09",
+        "payDate": "2018-05-16",
+        "recordDate": "2018-05-11",
+        "symbol": "DUNI.ST"
+    },
+    {
+        "adjustedAmount": 2.5,
+        "amount": 2.5,
+        "currency": "SEK",
+        "date": "2019-05-08",
+        "declarationDate": "2019-02-14",
+        "payDate": "2019-05-14",
+        "recordDate": "2019-05-09",
+        "symbol": "DUNI.ST"
+    },
+    {
+        "adjustedAmount": 2.5,
+        "amount": 2.5,
+        "currency": "SEK",
+        "date": "2019-11-11",
+        "declarationDate": "2019-02-14",
+        "payDate": "2019-11-15",
+        "recordDate": "2019-11-12",
+        "symbol": "DUNI.ST"
+    }
+]

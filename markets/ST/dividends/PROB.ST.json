@@ -1,0 +1,82 @@
+[
+    {
+        "adjustedAmount": 0.7076085,
+        "amount": 0.75,
+        "currency": "SEK",
+        "date": "2012-04-27",
+        "declarationDate": "2012-01-25",
+        "payDate": "2012-05-07",
+        "recordDate": "2012-05-02",
+        "symbol": "PROB.ST"
+    },
+    {
+        "adjustedAmount": 0.7076085,
+        "amount": 0.75,
+        "currency": "SEK",
+        "date": "2013-04-25",
+        "declarationDate": "2013-01-24",
+        "payDate": "2013-05-03",
+        "recordDate": "2013-04-29",
+        "symbol": "PROB.ST"
+    },
+    {
+        "adjustedAmount": 0.7076085,
+        "amount": 0.75,
+        "currency": "SEK",
+        "date": "2014-04-30",
+        "declarationDate": "2014-01-23",
+        "payDate": "2014-05-08",
+        "recordDate": "2014-05-05",
+        "symbol": "PROB.ST"
+    },
+    {
+        "adjustedAmount": 0.8019563,
+        "amount": 0.85,
+        "currency": "SEK",
+        "date": "2015-04-24",
+        "declarationDate": "2015-01-28",
+        "payDate": "2015-04-30",
+        "recordDate": "2015-04-27",
+        "symbol": "PROB.ST"
+    },
+    {
+        "adjustedAmount": 0.943478,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2016-04-28",
+        "declarationDate": "2016-01-26",
+        "payDate": "2016-05-04",
+        "recordDate": "2016-04-29",
+        "symbol": "PROB.ST"
+    },
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2017-05-05",
+        "declarationDate": "2017-03-30",
+        "payDate": "2017-05-11",
+        "recordDate": "2017-05-08",
+        "symbol": "PROB.ST"
+    },
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2020-05-14",
+        "declarationDate": "2020-02-11",
+        "payDate": "2020-05-20",
+        "recordDate": "2020-05-15",
+        "symbol": "PROB.ST"
+    },
+    {
+        "adjustedAmount": 1.1,
+        "amount": 1.1,
+        "currency": "SEK",
+        "date": "2021-05-10",
+        "declarationDate": "2021-02-09",
+        "payDate": "2021-05-17",
+        "recordDate": "2021-05-11",
+        "symbol": "PROB.ST"
+    }
+]

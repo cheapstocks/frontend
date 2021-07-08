@@ -1,0 +1,32 @@
+[
+    {
+        "adjustedAmount": 0.24609375,
+        "amount": 0.25,
+        "currency": "SEK",
+        "date": "2015-12-18",
+        "declarationDate": "2015-10-22",
+        "payDate": "2015-12-28",
+        "recordDate": "2015-12-21",
+        "symbol": "RNBS.ST"
+    },
+    {
+        "adjustedAmount": 0.24609375,
+        "amount": 0.25,
+        "currency": "SEK",
+        "date": "2016-12-22",
+        "declarationDate": "2016-10-19",
+        "payDate": "2016-12-29",
+        "recordDate": "2016-12-23",
+        "symbol": "RNBS.ST"
+    },
+    {
+        "adjustedAmount": 0.2953125,
+        "amount": 0.3,
+        "currency": "SEK",
+        "date": "2017-12-22",
+        "declarationDate": "2017-10-12",
+        "payDate": "2018-01-02",
+        "recordDate": "2017-12-27",
+        "symbol": "RNBS.ST"
+    }
+]

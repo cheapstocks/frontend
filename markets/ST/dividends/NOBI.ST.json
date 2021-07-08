@@ -1,0 +1,82 @@
+[
+    {
+        "adjustedAmount": 0.5,
+        "amount": 0.5,
+        "currency": "SEK",
+        "date": "2013-04-12",
+        "declarationDate": "2013-02-13",
+        "payDate": "2013-04-19",
+        "recordDate": "2013-04-16",
+        "symbol": "NOBI.ST"
+    },
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2014-04-10",
+        "declarationDate": "2014-02-13",
+        "payDate": "2014-04-17",
+        "recordDate": "2014-04-14",
+        "symbol": "NOBI.ST"
+    },
+    {
+        "adjustedAmount": 1.75,
+        "amount": 1.75,
+        "currency": "SEK",
+        "date": "2015-04-15",
+        "declarationDate": "2015-02-13",
+        "payDate": "2015-04-21",
+        "recordDate": "2015-04-16",
+        "symbol": "NOBI.ST"
+    },
+    {
+        "adjustedAmount": 2.5,
+        "amount": 2.5,
+        "currency": "SEK",
+        "date": "2016-04-12",
+        "declarationDate": "2016-02-05",
+        "payDate": "2016-04-18",
+        "recordDate": "2016-04-13",
+        "symbol": "NOBI.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2017-04-07",
+        "declarationDate": "2017-02-07",
+        "payDate": "2017-04-13",
+        "recordDate": "2017-04-10",
+        "symbol": "NOBI.ST"
+    },
+    {
+        "adjustedAmount": 3.5,
+        "amount": 3.5,
+        "currency": "SEK",
+        "date": "2018-04-11",
+        "declarationDate": "2018-02-16",
+        "payDate": "2018-04-17",
+        "recordDate": "2018-04-12",
+        "symbol": "NOBI.ST"
+    },
+    {
+        "adjustedAmount": 4,
+        "amount": 4,
+        "currency": "SEK",
+        "date": "2019-05-03",
+        "declarationDate": "2019-02-06",
+        "payDate": "2019-05-09",
+        "recordDate": "2019-05-06",
+        "symbol": "NOBI.ST"
+    },
+    {
+        "adjustedAmount": 2,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2021-04-30",
+        "declarationDate": "2021-02-04",
+        "payDate": "2021-05-06",
+        "recordDate": "2021-05-03",
+        "symbol": "NOBI.ST"
+    }
+]

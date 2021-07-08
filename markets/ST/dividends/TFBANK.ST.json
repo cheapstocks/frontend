@@ -1,0 +1,42 @@
+[
+    {
+        "adjustedAmount": 2.2,
+        "amount": 2.2,
+        "currency": "SEK",
+        "date": "2017-05-04",
+        "declarationDate": "2017-02-09",
+        "payDate": "2017-05-10",
+        "recordDate": "2017-05-05",
+        "symbol": "TFBANK.ST"
+    },
+    {
+        "adjustedAmount": 2.25,
+        "amount": 2.25,
+        "currency": "SEK",
+        "date": "2018-05-03",
+        "declarationDate": "2018-02-08",
+        "payDate": "2018-05-09",
+        "recordDate": "2018-05-04",
+        "symbol": "TFBANK.ST"
+    },
+    {
+        "adjustedAmount": 2.3,
+        "amount": 2.3,
+        "currency": "SEK",
+        "date": "2019-05-08",
+        "declarationDate": "2019-02-07",
+        "payDate": "2019-05-14",
+        "recordDate": "2019-05-09",
+        "symbol": "TFBANK.ST"
+    },
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2021-05-05",
+        "declarationDate": "2021-01-28",
+        "payDate": "2021-05-11",
+        "recordDate": "2021-05-06",
+        "symbol": "TFBANK.ST"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "adjustedAmount": 0.2,
+        "amount": 0.2,
+        "currency": "PLN",
+        "date": "2018-06-19",
+        "declarationDate": "2018-04-09",
+        "payDate": "2018-06-27",
+        "recordDate": "2018-06-20",
+        "symbol": "ARP.ST"
+    },
+    {
+        "adjustedAmount": null,
+        "amount": 0.3,
+        "currency": null,
+        "date": "2021-06-30",
+        "declarationDate": null,
+        "payDate": null,
+        "recordDate": null,
+        "symbol": "ARP.ST"
+    }
+]

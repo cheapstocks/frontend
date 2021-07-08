@@ -1,0 +1,22 @@
+[
+    {
+        "adjustedAmount": 0.75,
+        "amount": 0.75,
+        "currency": "SEK",
+        "date": "2021-04-22",
+        "declarationDate": "2021-02-15",
+        "payDate": "2021-04-28",
+        "recordDate": "2021-04-23",
+        "symbol": "NYF.ST"
+    },
+    {
+        "adjustedAmount": 0.75,
+        "amount": 0.75,
+        "currency": "SEK",
+        "date": "2021-06-29",
+        "declarationDate": "2021-02-15",
+        "payDate": "2021-07-05",
+        "recordDate": "2021-06-30",
+        "symbol": "NYF.ST"
+    }
+]

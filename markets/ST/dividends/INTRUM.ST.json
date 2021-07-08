@@ -1,0 +1,102 @@
+[
+    {
+        "adjustedAmount": 4.5,
+        "amount": 4.5,
+        "currency": "SEK",
+        "date": "2012-04-26",
+        "declarationDate": "2012-02-08",
+        "payDate": "2012-05-04",
+        "recordDate": "2012-04-30",
+        "symbol": "INTRUM.ST"
+    },
+    {
+        "adjustedAmount": 5,
+        "amount": 5,
+        "currency": "SEK",
+        "date": "2013-04-25",
+        "declarationDate": "2013-02-05",
+        "payDate": "2013-05-03",
+        "recordDate": "2013-04-29",
+        "symbol": "INTRUM.ST"
+    },
+    {
+        "adjustedAmount": 5.75,
+        "amount": 5.75,
+        "currency": "SEK",
+        "date": "2014-04-24",
+        "declarationDate": "2014-02-05",
+        "payDate": "2014-05-02",
+        "recordDate": "2014-04-28",
+        "symbol": "INTRUM.ST"
+    },
+    {
+        "adjustedAmount": 7,
+        "amount": 7,
+        "currency": "SEK",
+        "date": "2015-04-23",
+        "declarationDate": "2015-01-29",
+        "payDate": "2015-04-29",
+        "recordDate": "2015-04-24",
+        "symbol": "INTRUM.ST"
+    },
+    {
+        "adjustedAmount": 8.25,
+        "amount": 8.25,
+        "currency": "SEK",
+        "date": "2016-04-21",
+        "declarationDate": "2016-01-28",
+        "payDate": "2016-04-27",
+        "recordDate": "2016-04-22",
+        "symbol": "INTRUM.ST"
+    },
+    {
+        "adjustedAmount": 9,
+        "amount": 9,
+        "currency": "SEK",
+        "date": "2017-06-30",
+        "declarationDate": "2017-01-26",
+        "payDate": "2017-07-06",
+        "recordDate": "2017-07-03",
+        "symbol": "INTRUM.ST"
+    },
+    {
+        "adjustedAmount": 9.5,
+        "amount": 9.5,
+        "currency": "SEK",
+        "date": "2018-04-30",
+        "declarationDate": "2018-01-31",
+        "payDate": "2018-05-07",
+        "recordDate": "2018-05-02",
+        "symbol": "INTRUM.ST"
+    },
+    {
+        "adjustedAmount": 9.5,
+        "amount": 9.5,
+        "currency": "SEK",
+        "date": "2019-04-29",
+        "declarationDate": "2019-01-30",
+        "payDate": "2019-05-06",
+        "recordDate": "2019-04-30",
+        "symbol": "INTRUM.ST"
+    },
+    {
+        "adjustedAmount": 11,
+        "amount": 11,
+        "currency": "SEK",
+        "date": "2020-05-07",
+        "declarationDate": "2020-02-04",
+        "payDate": "2020-05-13",
+        "recordDate": "2020-05-08",
+        "symbol": "INTRUM.ST"
+    },
+    {
+        "adjustedAmount": 12,
+        "amount": 12,
+        "currency": "SEK",
+        "date": "2021-04-30",
+        "declarationDate": "2021-01-28",
+        "payDate": "2021-05-06",
+        "recordDate": "2021-05-03",
+        "symbol": "INTRUM.ST"
+    }
+]

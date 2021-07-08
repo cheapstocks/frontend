@@ -1,0 +1,92 @@
+[
+    {
+        "adjustedAmount": 0.7499985,
+        "amount": 6.75,
+        "currency": "SEK",
+        "date": "2012-05-04",
+        "declarationDate": "2012-02-14",
+        "payDate": "2012-05-11",
+        "recordDate": "2012-05-08",
+        "symbol": "INDT.ST"
+    },
+    {
+        "adjustedAmount": 0.7833317667,
+        "amount": 7.05,
+        "currency": "SEK",
+        "date": "2013-05-07",
+        "declarationDate": "2013-02-14",
+        "payDate": "2013-05-15",
+        "recordDate": "2013-05-10",
+        "symbol": "INDT.ST"
+    },
+    {
+        "adjustedAmount": 0.7833317667,
+        "amount": 7.05,
+        "currency": "SEK",
+        "date": "2014-04-29",
+        "declarationDate": "2014-02-17",
+        "payDate": "2014-05-07",
+        "recordDate": "2014-05-02",
+        "symbol": "INDT.ST"
+    },
+    {
+        "adjustedAmount": 0.8611093889,
+        "amount": 7.75,
+        "currency": "SEK",
+        "date": "2015-04-30",
+        "declarationDate": "2015-02-16",
+        "payDate": "2015-05-07",
+        "recordDate": "2015-05-04",
+        "symbol": "INDT.ST"
+    },
+    {
+        "adjustedAmount": 0.999998,
+        "amount": 9,
+        "currency": "SEK",
+        "date": "2016-04-28",
+        "declarationDate": "2016-02-16",
+        "payDate": "2016-05-04",
+        "recordDate": "2016-04-29",
+        "symbol": "INDT.ST"
+    },
+    {
+        "adjustedAmount": 1.0666656,
+        "amount": 3.2,
+        "currency": "SEK",
+        "date": "2017-04-27",
+        "declarationDate": "2017-02-14",
+        "payDate": "2017-05-04",
+        "recordDate": "2017-04-28",
+        "symbol": "INDT.ST"
+    },
+    {
+        "adjustedAmount": 1.24999875,
+        "amount": 3.75,
+        "currency": "SEK",
+        "date": "2018-04-27",
+        "declarationDate": "2018-02-13",
+        "payDate": "2018-05-04",
+        "recordDate": "2018-04-30",
+        "symbol": "INDT.ST"
+    },
+    {
+        "adjustedAmount": 1.4999985,
+        "amount": 4.5,
+        "currency": "SEK",
+        "date": "2019-05-10",
+        "declarationDate": "2019-02-13",
+        "payDate": "2019-05-16",
+        "recordDate": "2019-05-13",
+        "symbol": "INDT.ST"
+    },
+    {
+        "adjustedAmount": 1.8,
+        "amount": 1.8,
+        "currency": "SEK",
+        "date": "2021-04-14",
+        "declarationDate": "2021-02-02",
+        "payDate": "2021-04-20",
+        "recordDate": "2021-04-15",
+        "symbol": "INDT.ST"
+    }
+]

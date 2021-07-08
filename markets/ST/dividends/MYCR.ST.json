@@ -1,0 +1,82 @@
+[
+    {
+        "adjustedAmount": 2.5,
+        "amount": 2.5,
+        "currency": "SEK",
+        "date": "2014-07-30",
+        "declarationDate": "2014-02-04",
+        "payDate": "2014-08-06",
+        "recordDate": "2014-08-01",
+        "symbol": "MYCR.ST"
+    },
+    {
+        "adjustedAmount": 0.8,
+        "amount": 0.8,
+        "currency": "SEK",
+        "date": "2015-05-06",
+        "declarationDate": "2015-02-04",
+        "payDate": "2015-05-12",
+        "recordDate": "2015-05-07",
+        "symbol": "MYCR.ST"
+    },
+    {
+        "adjustedAmount": 1.5,
+        "amount": 1.5,
+        "currency": "SEK",
+        "date": "2016-05-04",
+        "declarationDate": "2016-02-04",
+        "payDate": "2016-05-11",
+        "recordDate": "2016-05-06",
+        "symbol": "MYCR.ST"
+    },
+    {
+        "adjustedAmount": 2,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2017-05-05",
+        "declarationDate": "2017-02-10",
+        "payDate": "2017-05-11",
+        "recordDate": "2017-05-08",
+        "symbol": "MYCR.ST"
+    },
+    {
+        "adjustedAmount": 2.5,
+        "amount": 2.5,
+        "currency": "SEK",
+        "date": "2018-05-09",
+        "declarationDate": "2018-02-07",
+        "payDate": "2018-05-16",
+        "recordDate": "2018-05-11",
+        "symbol": "MYCR.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2019-05-10",
+        "declarationDate": "2019-02-07",
+        "payDate": "2019-05-16",
+        "recordDate": "2019-05-13",
+        "symbol": "MYCR.ST"
+    },
+    {
+        "adjustedAmount": 2,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2020-06-26",
+        "declarationDate": "2020-02-06",
+        "payDate": "2020-07-02",
+        "recordDate": "2020-06-29",
+        "symbol": "MYCR.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2021-05-06",
+        "declarationDate": "2021-02-10",
+        "payDate": "2021-05-12",
+        "recordDate": "2021-05-07",
+        "symbol": "MYCR.ST"
+    }
+]

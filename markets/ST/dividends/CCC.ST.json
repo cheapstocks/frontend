@@ -1,0 +1,72 @@
+[
+    {
+        "adjustedAmount": 0.01897164,
+        "amount": 0.02,
+        "currency": "CHF",
+        "date": "2012-07-09",
+        "declarationDate": "2012-02-29",
+        "payDate": "2012-07-16",
+        "recordDate": "2012-07-06",
+        "symbol": "CCC.ST"
+    },
+    {
+        "adjustedAmount": 0.0474291,
+        "amount": 0.05,
+        "currency": "CHF",
+        "date": "2013-07-03",
+        "declarationDate": "2013-02-26",
+        "payDate": "2013-07-11",
+        "recordDate": "2013-07-05",
+        "symbol": "CCC.ST"
+    },
+    {
+        "adjustedAmount": 0.0474291,
+        "amount": 0.05,
+        "currency": "CHF",
+        "date": "2014-07-02",
+        "declarationDate": "2014-02-26",
+        "payDate": "2014-07-10",
+        "recordDate": "2014-07-04",
+        "symbol": "CCC.ST"
+    },
+    {
+        "adjustedAmount": 0.0474291,
+        "amount": 0.05,
+        "currency": "CHF",
+        "date": "2015-07-01",
+        "declarationDate": "2015-02-26",
+        "payDate": "2015-07-10",
+        "recordDate": "2015-07-02",
+        "symbol": "CCC.ST"
+    },
+    {
+        "adjustedAmount": 0.02845746,
+        "amount": 0.03,
+        "currency": "CHF",
+        "date": "2016-07-01",
+        "declarationDate": "2016-02-25",
+        "payDate": "2016-07-12",
+        "recordDate": "2016-07-04",
+        "symbol": "CCC.ST"
+    },
+    {
+        "adjustedAmount": 0.0474291,
+        "amount": 0.05,
+        "currency": "CHF",
+        "date": "2017-06-09",
+        "declarationDate": "2017-02-22",
+        "payDate": "2017-06-20",
+        "recordDate": "2017-06-12",
+        "symbol": "CCC.ST"
+    },
+    {
+        "adjustedAmount": 0.01897164,
+        "amount": 0.02,
+        "currency": "CHF",
+        "date": "2018-07-05",
+        "declarationDate": "2018-02-23",
+        "payDate": "2018-07-13",
+        "recordDate": "2018-07-06",
+        "symbol": "CCC.ST"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "adjustedAmount": 0.5,
+        "amount": 0.5,
+        "currency": "SEK",
+        "date": "2018-05-16",
+        "declarationDate": "2018-02-21",
+        "payDate": "2018-05-22",
+        "recordDate": "2018-05-17",
+        "symbol": "ATIC.ST"
+    },
+    {
+        "adjustedAmount": 0.5,
+        "amount": 0.5,
+        "currency": "SEK",
+        "date": "2019-05-17",
+        "declarationDate": "2019-02-14",
+        "payDate": "2019-05-23",
+        "recordDate": "2019-05-20",
+        "symbol": "ATIC.ST"
+    }
+]

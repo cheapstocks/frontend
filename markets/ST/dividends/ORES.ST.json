@@ -1,0 +1,62 @@
+[
+    {
+        "adjustedAmount": 4.5,
+        "amount": 9,
+        "currency": "SEK",
+        "date": "2016-04-19",
+        "declarationDate": "2016-01-28",
+        "payDate": "2016-04-25",
+        "recordDate": "2016-04-20",
+        "symbol": "ORES.ST"
+    },
+    {
+        "adjustedAmount": 4.75,
+        "amount": 4.75,
+        "currency": "SEK",
+        "date": "2017-04-24",
+        "declarationDate": "2017-01-20",
+        "payDate": "2017-04-28",
+        "recordDate": "2017-04-25",
+        "symbol": "ORES.ST"
+    },
+    {
+        "adjustedAmount": 5.5,
+        "amount": 5.5,
+        "currency": "SEK",
+        "date": "2019-04-15",
+        "declarationDate": "2019-01-25",
+        "payDate": "2019-04-23",
+        "recordDate": "2019-04-16",
+        "symbol": "ORES.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2020-04-01",
+        "declarationDate": "2020-01-24",
+        "payDate": "2020-04-07",
+        "recordDate": "2020-04-02",
+        "symbol": "ORES.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2020-10-01",
+        "declarationDate": "2020-01-24",
+        "payDate": "2020-10-07",
+        "recordDate": "2020-10-02",
+        "symbol": "ORES.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2021-05-11",
+        "declarationDate": "2021-01-27",
+        "payDate": "2021-05-18",
+        "recordDate": "2021-05-12",
+        "symbol": "ORES.ST"
+    }
+]

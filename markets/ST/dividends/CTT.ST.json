@@ -1,0 +1,72 @@
+[
+    {
+        "adjustedAmount": 0.4,
+        "amount": 0.4,
+        "currency": "SEK",
+        "date": "2015-05-15",
+        "declarationDate": "2015-02-13",
+        "payDate": "2015-05-21",
+        "recordDate": "2015-05-18",
+        "symbol": "CTT.ST"
+    },
+    {
+        "adjustedAmount": 0.7,
+        "amount": 0.7,
+        "currency": "SEK",
+        "date": "2016-05-13",
+        "declarationDate": "2016-02-12",
+        "payDate": "2016-05-19",
+        "recordDate": "2016-05-16",
+        "symbol": "CTT.ST"
+    },
+    {
+        "adjustedAmount": 2.1,
+        "amount": 2.1,
+        "currency": "SEK",
+        "date": "2017-05-12",
+        "declarationDate": "2017-02-10",
+        "payDate": "2017-05-18",
+        "recordDate": "2017-05-15",
+        "symbol": "CTT.ST"
+    },
+    {
+        "adjustedAmount": 2.75,
+        "amount": 2.75,
+        "currency": "SEK",
+        "date": "2018-05-09",
+        "declarationDate": "2018-02-02",
+        "payDate": "2018-05-16",
+        "recordDate": "2018-05-11",
+        "symbol": "CTT.ST"
+    },
+    {
+        "adjustedAmount": 4.05,
+        "amount": 4.05,
+        "currency": "SEK",
+        "date": "2019-05-08",
+        "declarationDate": "2019-02-06",
+        "payDate": "2019-05-14",
+        "recordDate": "2019-05-09",
+        "symbol": "CTT.ST"
+    },
+    {
+        "adjustedAmount": 4.05,
+        "amount": 4.05,
+        "currency": "SEK",
+        "date": "2020-05-07",
+        "declarationDate": "2020-02-07",
+        "payDate": "2020-05-13",
+        "recordDate": "2020-05-08",
+        "symbol": "CTT.ST"
+    },
+    {
+        "adjustedAmount": 1.74,
+        "amount": 1.74,
+        "currency": "SEK",
+        "date": "2021-05-06",
+        "declarationDate": "2021-02-09",
+        "payDate": "2021-05-12",
+        "recordDate": "2021-05-07",
+        "symbol": "CTT.ST"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "adjustedAmount": 0.4,
+        "amount": 0.4,
+        "currency": "SEK",
+        "date": "2012-05-09",
+        "declarationDate": "2012-01-24",
+        "payDate": "2012-05-16",
+        "recordDate": "2012-05-11",
+        "symbol": "NAXS.ST"
+    },
+    {
+        "adjustedAmount": 0.5,
+        "amount": 0.5,
+        "currency": "SEK",
+        "date": "2013-05-15",
+        "declarationDate": "2013-01-17",
+        "payDate": "2013-05-22",
+        "recordDate": "2013-05-17",
+        "symbol": "NAXS.ST"
+    },
+    {
+        "adjustedAmount": 2,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2014-05-09",
+        "declarationDate": "2014-01-29",
+        "payDate": "2014-05-16",
+        "recordDate": "2014-05-13",
+        "symbol": "NAXS.ST"
+    },
+    {
+        "adjustedAmount": 2.3,
+        "amount": 2.3,
+        "currency": "SEK",
+        "date": "2015-06-02",
+        "declarationDate": "2015-04-29",
+        "payDate": "2015-06-08",
+        "recordDate": "2015-06-03",
+        "symbol": "NAXS.ST"
+    },
+    {
+        "adjustedAmount": 2.5,
+        "amount": 2.5,
+        "currency": "SEK",
+        "date": "2016-06-02",
+        "declarationDate": "2016-01-29",
+        "payDate": "2016-06-09",
+        "recordDate": "2016-06-03",
+        "symbol": "NAXS.ST"
+    },
+    {
+        "adjustedAmount": 2.53,
+        "amount": 2.53,
+        "currency": "SEK",
+        "date": "2018-06-07",
+        "declarationDate": "2018-01-30",
+        "payDate": "2018-06-13",
+        "recordDate": "2018-06-08",
+        "symbol": "NAXS.ST"
+    },
+    {
+        "adjustedAmount": 2.78,
+        "amount": 2.78,
+        "currency": "SEK",
+        "date": "2019-06-05",
+        "declarationDate": "2019-01-29",
+        "payDate": "2019-06-12",
+        "recordDate": "2019-06-07",
+        "symbol": "NAXS.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2020-03-13",
+        "declarationDate": "2020-01-30",
+        "payDate": "2020-03-19",
+        "recordDate": "2020-03-16",
+        "symbol": "NAXS.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2021-03-12",
+        "declarationDate": "2021-01-28",
+        "payDate": "2021-03-18",
+        "recordDate": "2021-03-15",
+        "symbol": "NAXS.ST"
+    }
+]

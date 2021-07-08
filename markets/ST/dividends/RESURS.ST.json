@@ -1,0 +1,72 @@
+[
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2017-05-02",
+        "declarationDate": "2017-02-07",
+        "payDate": "2017-05-08",
+        "recordDate": "2017-05-03",
+        "symbol": "RESURS.ST"
+    },
+    {
+        "adjustedAmount": 1.5,
+        "amount": 1.5,
+        "currency": "SEK",
+        "date": "2017-10-30",
+        "declarationDate": "2017-09-08",
+        "payDate": "2017-11-03",
+        "recordDate": "2017-10-31",
+        "symbol": "RESURS.ST"
+    },
+    {
+        "adjustedAmount": 1.8,
+        "amount": 1.8,
+        "currency": "SEK",
+        "date": "2018-04-30",
+        "declarationDate": "2018-02-06",
+        "payDate": "2018-05-07",
+        "recordDate": "2018-05-02",
+        "symbol": "RESURS.ST"
+    },
+    {
+        "adjustedAmount": 1.65,
+        "amount": 1.65,
+        "currency": "SEK",
+        "date": "2018-10-08",
+        "declarationDate": "2018-07-24",
+        "payDate": "2018-10-12",
+        "recordDate": "2018-10-09",
+        "symbol": "RESURS.ST"
+    },
+    {
+        "adjustedAmount": 1.95,
+        "amount": 1.95,
+        "currency": "SEK",
+        "date": "2019-04-26",
+        "declarationDate": "2019-02-05",
+        "payDate": "2019-05-03",
+        "recordDate": "2019-04-29",
+        "symbol": "RESURS.ST"
+    },
+    {
+        "adjustedAmount": 1.8,
+        "amount": 1.8,
+        "currency": "SEK",
+        "date": "2019-10-03",
+        "declarationDate": "2019-07-23",
+        "payDate": "2019-10-09",
+        "recordDate": "2019-10-04",
+        "symbol": "RESURS.ST"
+    },
+    {
+        "adjustedAmount": 2.68,
+        "amount": 2.68,
+        "currency": "SEK",
+        "date": "2021-04-29",
+        "declarationDate": "2021-02-09",
+        "payDate": "2021-05-05",
+        "recordDate": "2021-04-30",
+        "symbol": "RESURS.ST"
+    }
+]

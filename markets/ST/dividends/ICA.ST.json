@@ -1,0 +1,102 @@
+[
+    {
+        "adjustedAmount": 5.85596875,
+        "amount": 6.25,
+        "currency": "SEK",
+        "date": "2012-04-20",
+        "declarationDate": "2012-02-15",
+        "payDate": "2012-04-27",
+        "recordDate": "2012-04-24",
+        "symbol": "ICA.ST"
+    },
+    {
+        "adjustedAmount": 8,
+        "amount": 8,
+        "currency": "SEK",
+        "date": "2014-04-14",
+        "declarationDate": "2014-02-12",
+        "payDate": "2014-04-23",
+        "recordDate": "2014-04-16",
+        "symbol": "ICA.ST"
+    },
+    {
+        "adjustedAmount": 9.5,
+        "amount": 9.5,
+        "currency": "SEK",
+        "date": "2015-04-23",
+        "declarationDate": "2015-02-11",
+        "payDate": "2015-04-29",
+        "recordDate": "2015-04-24",
+        "symbol": "ICA.ST"
+    },
+    {
+        "adjustedAmount": 10,
+        "amount": 10,
+        "currency": "SEK",
+        "date": "2016-04-21",
+        "declarationDate": "2016-02-10",
+        "payDate": "2016-04-27",
+        "recordDate": "2016-04-22",
+        "symbol": "ICA.ST"
+    },
+    {
+        "adjustedAmount": 10.5,
+        "amount": 10.5,
+        "currency": "SEK",
+        "date": "2017-04-10",
+        "declarationDate": "2017-02-08",
+        "payDate": "2017-04-18",
+        "recordDate": "2017-04-11",
+        "symbol": "ICA.ST"
+    },
+    {
+        "adjustedAmount": 11,
+        "amount": 11,
+        "currency": "SEK",
+        "date": "2018-04-13",
+        "declarationDate": "2018-02-08",
+        "payDate": "2018-04-19",
+        "recordDate": "2018-04-16",
+        "symbol": "ICA.ST"
+    },
+    {
+        "adjustedAmount": 11.5,
+        "amount": 11.5,
+        "currency": "SEK",
+        "date": "2019-04-12",
+        "declarationDate": "2019-02-07",
+        "payDate": "2019-04-18",
+        "recordDate": "2019-04-15",
+        "symbol": "ICA.ST"
+    },
+    {
+        "adjustedAmount": 6,
+        "amount": 6,
+        "currency": "SEK",
+        "date": "2020-04-22",
+        "declarationDate": "2020-02-06",
+        "payDate": "2020-04-28",
+        "recordDate": "2020-04-23",
+        "symbol": "ICA.ST"
+    },
+    {
+        "adjustedAmount": 6,
+        "amount": 6,
+        "currency": "SEK",
+        "date": "2020-09-23",
+        "declarationDate": "2020-04-07",
+        "payDate": "2020-09-29",
+        "recordDate": "2020-09-24",
+        "symbol": "ICA.ST"
+    },
+    {
+        "adjustedAmount": 13,
+        "amount": 13,
+        "currency": "SEK",
+        "date": "2021-04-16",
+        "declarationDate": "2021-02-10",
+        "payDate": "2021-04-22",
+        "recordDate": "2021-04-19",
+        "symbol": "ICA.ST"
+    }
+]

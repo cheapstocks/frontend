@@ -1,0 +1,42 @@
+[
+    {
+        "adjustedAmount": 2.1,
+        "amount": 2.1,
+        "currency": "SEK",
+        "date": "2017-05-12",
+        "declarationDate": "2017-02-27",
+        "payDate": "2017-05-18",
+        "recordDate": "2017-05-15",
+        "symbol": "B3.ST"
+    },
+    {
+        "adjustedAmount": 2.17,
+        "amount": 2.17,
+        "currency": "SEK",
+        "date": "2018-05-16",
+        "declarationDate": "2018-02-22",
+        "payDate": "2018-05-22",
+        "recordDate": "2018-05-17",
+        "symbol": "B3.ST"
+    },
+    {
+        "adjustedAmount": 2.25,
+        "amount": 2.25,
+        "currency": "SEK",
+        "date": "2019-05-17",
+        "declarationDate": "2019-02-21",
+        "payDate": "2019-05-23",
+        "recordDate": "2019-05-20",
+        "symbol": "B3.ST"
+    },
+    {
+        "adjustedAmount": 0.9,
+        "amount": 0.9,
+        "currency": "SEK",
+        "date": "2021-05-14",
+        "declarationDate": "2021-02-18",
+        "payDate": "2021-05-20",
+        "recordDate": "2021-05-17",
+        "symbol": "B3.ST"
+    }
+]

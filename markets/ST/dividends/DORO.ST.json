@@ -1,0 +1,42 @@
+[
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2012-03-22",
+        "declarationDate": "2012-02-15",
+        "payDate": "2012-03-29",
+        "recordDate": "2012-03-26",
+        "symbol": "DORO.ST"
+    },
+    {
+        "adjustedAmount": 1.25,
+        "amount": 1.25,
+        "currency": "SEK",
+        "date": "2013-05-15",
+        "declarationDate": "2013-02-13",
+        "payDate": "2013-05-22",
+        "recordDate": "2013-05-17",
+        "symbol": "DORO.ST"
+    },
+    {
+        "adjustedAmount": 1.5,
+        "amount": 1.5,
+        "currency": "SEK",
+        "date": "2014-05-13",
+        "declarationDate": "2014-02-14",
+        "payDate": "2014-05-20",
+        "recordDate": "2014-05-15",
+        "symbol": "DORO.ST"
+    },
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2017-04-28",
+        "declarationDate": "2017-02-17",
+        "payDate": "2017-05-05",
+        "recordDate": "2017-05-02",
+        "symbol": "DORO.ST"
+    }
+]

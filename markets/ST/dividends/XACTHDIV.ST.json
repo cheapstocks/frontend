@@ -1,0 +1,22 @@
+[
+    {
+        "adjustedAmount": null,
+        "amount": 5,
+        "currency": null,
+        "date": "2018-05-23",
+        "declarationDate": null,
+        "payDate": null,
+        "recordDate": null,
+        "symbol": "XACTHDIV.ST"
+    },
+    {
+        "adjustedAmount": null,
+        "amount": 5.6,
+        "currency": null,
+        "date": "2019-05-23",
+        "declarationDate": null,
+        "payDate": null,
+        "recordDate": null,
+        "symbol": "XACTHDIV.ST"
+    }
+]

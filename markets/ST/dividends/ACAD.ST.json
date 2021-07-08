@@ -1,0 +1,22 @@
+[
+    {
+        "adjustedAmount": 1.25,
+        "amount": 1.25,
+        "currency": "SEK",
+        "date": "2019-11-27",
+        "declarationDate": "2019-08-29",
+        "payDate": "2019-12-03",
+        "recordDate": "2019-11-28",
+        "symbol": "ACAD.ST"
+    },
+    {
+        "adjustedAmount": 1.5,
+        "amount": 1.5,
+        "currency": "SEK",
+        "date": "2020-11-27",
+        "declarationDate": "2020-08-28",
+        "payDate": "2020-12-03",
+        "recordDate": "2020-11-30",
+        "symbol": "ACAD.ST"
+    }
+]

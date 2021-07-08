@@ -1,0 +1,22 @@
+[
+    {
+        "adjustedAmount": 0.3,
+        "amount": 0.3,
+        "currency": "SEK",
+        "date": "2018-05-18",
+        "declarationDate": "2018-02-16",
+        "payDate": "2018-05-24",
+        "recordDate": "2018-05-21",
+        "symbol": "MTRS.ST"
+    },
+    {
+        "adjustedAmount": 0.7,
+        "amount": 0.7,
+        "currency": "SEK",
+        "date": "2021-05-20",
+        "declarationDate": "2021-02-04",
+        "payDate": "2021-05-26",
+        "recordDate": "2021-05-21",
+        "symbol": "MTRS.ST"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2019-04-30",
+        "declarationDate": "2019-02-12",
+        "payDate": "2019-05-07",
+        "recordDate": "2019-05-02",
+        "symbol": "LIME.ST"
+    },
+    {
+        "adjustedAmount": 1.5,
+        "amount": 1.5,
+        "currency": "SEK",
+        "date": "2020-06-30",
+        "declarationDate": "2020-02-13",
+        "payDate": "2020-07-06",
+        "recordDate": "2020-07-01",
+        "symbol": "LIME.ST"
+    },
+    {
+        "adjustedAmount": 2.5,
+        "amount": 2.5,
+        "currency": "SEK",
+        "date": "2021-04-28",
+        "declarationDate": "2021-02-16",
+        "payDate": "2021-05-04",
+        "recordDate": "2021-04-29",
+        "symbol": "LIME.ST"
+    }
+]

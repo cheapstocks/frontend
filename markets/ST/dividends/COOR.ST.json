@@ -1,0 +1,52 @@
+[
+    {
+        "adjustedAmount": 1.4,
+        "amount": 1.4,
+        "currency": "SEK",
+        "date": "2016-04-29",
+        "declarationDate": "2016-02-24",
+        "payDate": "2016-05-06",
+        "recordDate": "2016-05-02",
+        "symbol": "COOR.ST"
+    },
+    {
+        "adjustedAmount": 1.55,
+        "amount": 1.55,
+        "currency": "SEK",
+        "date": "2017-05-05",
+        "declarationDate": "2017-02-22",
+        "payDate": "2017-05-11",
+        "recordDate": "2017-05-08",
+        "symbol": "COOR.ST"
+    },
+    {
+        "adjustedAmount": 2.2,
+        "amount": 2.2,
+        "currency": "SEK",
+        "date": "2018-04-27",
+        "declarationDate": "2018-02-22",
+        "payDate": "2018-05-04",
+        "recordDate": "2018-04-30",
+        "symbol": "COOR.ST"
+    },
+    {
+        "adjustedAmount": 2,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2019-05-03",
+        "declarationDate": "2019-02-21",
+        "payDate": "2019-05-09",
+        "recordDate": "2019-05-06",
+        "symbol": "COOR.ST"
+    },
+    {
+        "adjustedAmount": 2,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2021-04-27",
+        "declarationDate": "2021-02-11",
+        "payDate": "2021-05-03",
+        "recordDate": "2021-04-28",
+        "symbol": "COOR.ST"
+    }
+]

@@ -1,0 +1,392 @@
+[
+    {
+        "adjustedAmount": 0.2,
+        "amount": 0.2,
+        "currency": "USD",
+        "date": "2011-11-08",
+        "declarationDate": "2011-10-27",
+        "payDate": "2011-12-06",
+        "recordDate": "2011-11-11",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.22,
+        "amount": 0.22,
+        "currency": "USD",
+        "date": "2012-02-01",
+        "declarationDate": "2011-12-12",
+        "payDate": "2012-03-06",
+        "recordDate": "2012-02-03",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.22,
+        "amount": 0.22,
+        "currency": "USD",
+        "date": "2012-05-09",
+        "declarationDate": "2012-04-26",
+        "payDate": "2012-06-05",
+        "recordDate": "2012-05-11",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.22,
+        "amount": 0.22,
+        "currency": "USD",
+        "date": "2012-08-01",
+        "declarationDate": "2012-06-28",
+        "payDate": "2012-09-05",
+        "recordDate": "2012-08-03",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.22,
+        "amount": 0.22,
+        "currency": "USD",
+        "date": "2012-11-07",
+        "declarationDate": "2012-10-25",
+        "payDate": "2012-12-04",
+        "recordDate": "2012-11-09",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.24,
+        "amount": 0.24,
+        "currency": "USD",
+        "date": "2013-01-30",
+        "declarationDate": "2012-12-17",
+        "payDate": "2013-03-05",
+        "recordDate": "2013-02-01",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.24,
+        "amount": 0.24,
+        "currency": "USD",
+        "date": "2013-05-08",
+        "declarationDate": "2013-04-25",
+        "payDate": "2013-06-04",
+        "recordDate": "2013-05-10",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.24,
+        "amount": 0.24,
+        "currency": "USD",
+        "date": "2013-07-31",
+        "declarationDate": "2013-06-27",
+        "payDate": "2013-09-04",
+        "recordDate": "2013-08-02",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.24,
+        "amount": 0.24,
+        "currency": "USD",
+        "date": "2013-11-06",
+        "declarationDate": "2013-10-24",
+        "payDate": "2013-12-03",
+        "recordDate": "2013-11-08",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.26,
+        "amount": 0.26,
+        "currency": "USD",
+        "date": "2014-02-05",
+        "declarationDate": "2013-12-16",
+        "payDate": "2014-03-04",
+        "recordDate": "2014-02-07",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.26,
+        "amount": 0.26,
+        "currency": "USD",
+        "date": "2014-05-07",
+        "declarationDate": "2014-04-24",
+        "payDate": "2014-06-03",
+        "recordDate": "2014-05-09",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.26,
+        "amount": 0.26,
+        "currency": "USD",
+        "date": "2014-07-30",
+        "declarationDate": "2014-06-26",
+        "payDate": "2014-09-03",
+        "recordDate": "2014-08-01",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.26,
+        "amount": 0.26,
+        "currency": "USD",
+        "date": "2014-11-05",
+        "declarationDate": "2014-10-23",
+        "payDate": "2014-12-02",
+        "recordDate": "2014-11-07",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.28,
+        "amount": 0.28,
+        "currency": "USD",
+        "date": "2015-02-04",
+        "declarationDate": "2014-12-15",
+        "payDate": "2015-03-03",
+        "recordDate": "2015-02-06",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.28,
+        "amount": 0.28,
+        "currency": "USD",
+        "date": "2015-05-06",
+        "declarationDate": "2015-04-23",
+        "payDate": "2015-06-02",
+        "recordDate": "2015-05-08",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.28,
+        "amount": 0.28,
+        "currency": "USD",
+        "date": "2015-08-05",
+        "declarationDate": "2015-06-25",
+        "payDate": "2015-09-02",
+        "recordDate": "2015-08-07",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.28,
+        "amount": 0.28,
+        "currency": "USD",
+        "date": "2015-11-04",
+        "declarationDate": "2015-09-25",
+        "payDate": "2015-12-01",
+        "recordDate": "2015-11-06",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.3,
+        "amount": 0.3,
+        "currency": "USD",
+        "date": "2016-02-03",
+        "declarationDate": "2015-12-14",
+        "payDate": "2016-03-02",
+        "recordDate": "2016-02-05",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.3,
+        "amount": 0.3,
+        "currency": "USD",
+        "date": "2016-05-11",
+        "declarationDate": "2016-04-28",
+        "payDate": "2016-06-01",
+        "recordDate": "2016-05-13",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.3,
+        "amount": 0.3,
+        "currency": "USD",
+        "date": "2016-08-03",
+        "declarationDate": "2016-06-23",
+        "payDate": "2016-09-01",
+        "recordDate": "2016-08-05",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.3,
+        "amount": 0.3,
+        "currency": "USD",
+        "date": "2016-11-08",
+        "declarationDate": "2016-09-22",
+        "payDate": "2016-12-01",
+        "recordDate": "2016-11-11",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.32,
+        "amount": 0.32,
+        "currency": "USD",
+        "date": "2017-02-01",
+        "declarationDate": "2016-12-12",
+        "payDate": "2017-03-01",
+        "recordDate": "2017-02-03",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.32,
+        "amount": 0.32,
+        "currency": "USD",
+        "date": "2017-05-10",
+        "declarationDate": "2017-04-27",
+        "payDate": "2017-06-01",
+        "recordDate": "2017-05-12",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.32,
+        "amount": 0.32,
+        "currency": "USD",
+        "date": "2017-08-02",
+        "declarationDate": "2017-06-22",
+        "payDate": "2017-09-01",
+        "recordDate": "2017-08-04",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.32,
+        "amount": 0.32,
+        "currency": "USD",
+        "date": "2017-11-09",
+        "declarationDate": "2017-09-27",
+        "payDate": "2017-12-01",
+        "recordDate": "2017-11-10",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.34,
+        "amount": 0.34,
+        "currency": "USD",
+        "date": "2018-02-01",
+        "declarationDate": "2017-12-18",
+        "payDate": "2018-03-01",
+        "recordDate": "2018-02-02",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.34,
+        "amount": 0.34,
+        "currency": "USD",
+        "date": "2018-05-10",
+        "declarationDate": "2018-04-26",
+        "payDate": "2018-06-01",
+        "recordDate": "2018-05-11",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.34,
+        "amount": 0.34,
+        "currency": "USD",
+        "date": "2018-08-02",
+        "declarationDate": "2018-06-28",
+        "payDate": "2018-09-04",
+        "recordDate": "2018-08-03",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.34,
+        "amount": 0.34,
+        "currency": "USD",
+        "date": "2018-11-08",
+        "declarationDate": "2018-09-27",
+        "payDate": "2018-12-03",
+        "recordDate": "2018-11-09",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.36,
+        "amount": 0.36,
+        "currency": "USD",
+        "date": "2019-01-31",
+        "declarationDate": "2018-12-14",
+        "payDate": "2019-03-01",
+        "recordDate": "2019-02-01",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.36,
+        "amount": 0.36,
+        "currency": "USD",
+        "date": "2019-05-09",
+        "declarationDate": "2019-04-25",
+        "payDate": "2019-06-07",
+        "recordDate": "2019-05-10",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.36,
+        "amount": 0.36,
+        "currency": "USD",
+        "date": "2019-08-01",
+        "declarationDate": "2019-06-27",
+        "payDate": "2019-09-03",
+        "recordDate": "2019-08-02",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.36,
+        "amount": 0.36,
+        "currency": "USD",
+        "date": "2019-11-07",
+        "declarationDate": "2019-09-24",
+        "payDate": "2019-12-02",
+        "recordDate": "2019-11-08",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.38,
+        "amount": 0.38,
+        "currency": "USD",
+        "date": "2020-01-30",
+        "declarationDate": "2019-12-16",
+        "payDate": "2020-03-06",
+        "recordDate": "2020-01-31",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.38,
+        "amount": 0.38,
+        "currency": "USD",
+        "date": "2020-05-07",
+        "declarationDate": "2020-04-23",
+        "payDate": "2020-06-05",
+        "recordDate": "2020-05-08",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.38,
+        "amount": 0.38,
+        "currency": "USD",
+        "date": "2020-07-30",
+        "declarationDate": "2020-06-25",
+        "payDate": "2020-09-01",
+        "recordDate": "2020-07-31",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.38,
+        "amount": 0.38,
+        "currency": "USD",
+        "date": "2020-11-05",
+        "declarationDate": "2020-09-24",
+        "payDate": "2020-12-01",
+        "recordDate": "2020-11-06",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.39,
+        "amount": 0.39,
+        "currency": "USD",
+        "date": "2021-01-28",
+        "declarationDate": "2020-12-11",
+        "payDate": "2021-03-05",
+        "recordDate": "2021-01-29",
+        "symbol": "PFE.ST"
+    },
+    {
+        "adjustedAmount": 0.39,
+        "amount": 0.39,
+        "currency": "USD",
+        "date": "2021-05-06",
+        "declarationDate": "2021-04-22",
+        "payDate": "2021-06-04",
+        "recordDate": "2021-05-07",
+        "symbol": "PFE.ST"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "adjustedAmount": 0.903084,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2018-05-24",
+        "declarationDate": "2018-02-21",
+        "payDate": "2018-05-30",
+        "recordDate": "2018-05-25",
+        "symbol": "AMBEA.ST"
+    },
+    {
+        "adjustedAmount": 1.1,
+        "amount": 1.1,
+        "currency": "SEK",
+        "date": "2019-05-17",
+        "declarationDate": "2019-02-13",
+        "payDate": "2019-05-23",
+        "recordDate": "2019-05-20",
+        "symbol": "AMBEA.ST"
+    },
+    {
+        "adjustedAmount": 1.15,
+        "amount": 1.15,
+        "currency": "SEK",
+        "date": "2021-05-14",
+        "declarationDate": "2021-02-16",
+        "payDate": "2021-05-20",
+        "recordDate": "2021-05-17",
+        "symbol": "AMBEA.ST"
+    }
+]

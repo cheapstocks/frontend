@@ -1,0 +1,72 @@
+[
+    {
+        "adjustedAmount": 6.654296,
+        "amount": 8,
+        "currency": "SEK",
+        "date": "2012-05-24",
+        "declarationDate": "2012-02-15",
+        "payDate": "2012-05-31",
+        "recordDate": "2012-05-28",
+        "symbol": "MEKO.ST"
+    },
+    {
+        "adjustedAmount": 5.822509,
+        "amount": 7,
+        "currency": "SEK",
+        "date": "2013-04-17",
+        "declarationDate": "2013-02-14",
+        "payDate": "2013-04-24",
+        "recordDate": "2013-04-19",
+        "symbol": "MEKO.ST"
+    },
+    {
+        "adjustedAmount": 5.822509,
+        "amount": 7,
+        "currency": "SEK",
+        "date": "2014-04-09",
+        "declarationDate": "2014-02-13",
+        "payDate": "2014-04-16",
+        "recordDate": "2014-04-11",
+        "symbol": "MEKO.ST"
+    },
+    {
+        "adjustedAmount": 5.822509,
+        "amount": 7,
+        "currency": "SEK",
+        "date": "2015-04-15",
+        "declarationDate": "2015-02-12",
+        "payDate": "2015-04-21",
+        "recordDate": "2015-04-16",
+        "symbol": "MEKO.ST"
+    },
+    {
+        "adjustedAmount": 5.822509,
+        "amount": 7,
+        "currency": "SEK",
+        "date": "2016-04-13",
+        "declarationDate": "2016-02-17",
+        "payDate": "2016-04-19",
+        "recordDate": "2016-04-14",
+        "symbol": "MEKO.ST"
+    },
+    {
+        "adjustedAmount": 5.822509,
+        "amount": 7,
+        "currency": "SEK",
+        "date": "2017-04-26",
+        "declarationDate": "2017-02-15",
+        "payDate": "2017-05-03",
+        "recordDate": "2017-04-27",
+        "symbol": "MEKO.ST"
+    },
+    {
+        "adjustedAmount": 5.822509,
+        "amount": 7,
+        "currency": "SEK",
+        "date": "2018-05-11",
+        "declarationDate": "2018-02-09",
+        "payDate": "2018-05-17",
+        "recordDate": "2018-05-14",
+        "symbol": "MEKO.ST"
+    }
+]

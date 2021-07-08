@@ -1,0 +1,610 @@
+[
+    {
+        "name": "COOR.ST",
+        "priceEarningsRatio": 29.68832
+    },
+    {
+        "name": "VITR.ST",
+        "priceEarningsRatio": 141.0598
+    },
+    {
+        "name": "AFRY.ST",
+        "priceEarningsRatio": 31.44385
+    },
+    {
+        "name": "BESQ.ST",
+        "priceEarningsRatio": 9.45871
+    },
+    {
+        "name": "SAGAA.ST",
+        "priceEarningsRatio": 14.52016
+    },
+    {
+        "name": "ARJOB.ST",
+        "priceEarningsRatio": 33.76669
+    },
+    {
+        "name": "INFREA.ST",
+        "priceEarningsRatio": 21.60308
+    },
+    {
+        "name": "SOBI.ST",
+        "priceEarningsRatio": 15.95781
+    },
+    {
+        "name": "BOOZT.ST",
+        "priceEarningsRatio": 63.74365
+    },
+    {
+        "name": "MCAP.ST",
+        "priceEarningsRatio": 47.73986
+    },
+    {
+        "name": "SAVE.ST",
+        "priceEarningsRatio": 28.58114
+    },
+    {
+        "name": "ATC.WA",
+        "priceEarningsRatio": 4.10019
+    },
+    {
+        "name": "AMBEA.ST",
+        "priceEarningsRatio": 14.74579
+    },
+    {
+        "name": "PROB.ST",
+        "priceEarningsRatio": 78.42501
+    },
+    {
+        "name": "PACT.ST",
+        "priceEarningsRatio": 17.247
+    },
+    {
+        "name": "BIOT.ST",
+        "priceEarningsRatio": 75.35044
+    },
+    {
+        "name": "GREEN.ST",
+        "priceEarningsRatio": 88.67591
+    },
+    {
+        "name": "ENEA.ST",
+        "priceEarningsRatio": 25.74898
+    },
+    {
+        "name": "EVO.ST",
+        "priceEarningsRatio": 95.03237
+    },
+    {
+        "name": "BULTEN.ST",
+        "priceEarningsRatio": 17.76736
+    },
+    {
+        "name": "SVIK.ST",
+        "priceEarningsRatio": 17.66537
+    },
+    {
+        "name": "EAST.ST",
+        "priceEarningsRatio": 7.74486
+    },
+    {
+        "name": "CIBUS.ST",
+        "priceEarningsRatio": 21.81916
+    },
+    {
+        "name": "STRAX.ST",
+        "priceEarningsRatio": 99.4674
+    },
+    {
+        "name": "BORG.ST",
+        "priceEarningsRatio": 39.79276
+    },
+    {
+        "name": "FEEL.ST",
+        "priceEarningsRatio": 40.00282
+    },
+    {
+        "name": "ATIC.ST",
+        "priceEarningsRatio": 32.16115
+    },
+    {
+        "name": "SINCH.ST",
+        "priceEarningsRatio": 155.7631
+    },
+    {
+        "name": "CTT.ST",
+        "priceEarningsRatio": 86.21558
+    },
+    {
+        "name": "ENRO.ST",
+        "priceEarningsRatio": 0.0853
+    },
+    {
+        "name": "NWG.ST",
+        "priceEarningsRatio": 17.60456
+    },
+    {
+        "name": "BOL.ST",
+        "priceEarningsRatio": 13.10894
+    },
+    {
+        "name": "KAR.ST",
+        "priceEarningsRatio": 57.47064
+    },
+    {
+        "name": "TIETO.HE",
+        "priceEarningsRatio": 13.35293
+    },
+    {
+        "name": "BETSB.ST",
+        "priceEarningsRatio": 10.00879
+    },
+    {
+        "name": "FPIP.ST",
+        "priceEarningsRatio": 35.58028
+    },
+    {
+        "name": "MYCR.ST",
+        "priceEarningsRatio": 32.60437
+    },
+    {
+        "name": "NMAN.ST",
+        "priceEarningsRatio": 39.21644
+    },
+    {
+        "name": "BILL.ST",
+        "priceEarningsRatio": 60.94823
+    },
+    {
+        "name": "LIAB.ST",
+        "priceEarningsRatio": 25.68836
+    },
+    {
+        "name": "SECTB.ST",
+        "priceEarningsRatio": 77.829
+    },
+    {
+        "name": "LOOMIS.ST",
+        "priceEarningsRatio": 22.07511
+    },
+    {
+        "name": "AXFO.ST",
+        "priceEarningsRatio": 26.6834
+    },
+    {
+        "name": "VOLO.ST",
+        "priceEarningsRatio": 52.81454
+    },
+    {
+        "name": "BHG.ST",
+        "priceEarningsRatio": 42.3287
+    },
+    {
+        "name": "KARO.ST",
+        "priceEarningsRatio": 103.399
+    },
+    {
+        "name": "FPARA.ST",
+        "priceEarningsRatio": 6.67956
+    },
+    {
+        "name": "CATE.ST",
+        "priceEarningsRatio": 11.41913
+    },
+    {
+        "name": "BRAV.ST",
+        "priceEarningsRatio": 25.68227
+    },
+    {
+        "name": "FAG.ST",
+        "priceEarningsRatio": 19.00064
+    },
+    {
+        "name": "DOM.ST",
+        "priceEarningsRatio": 97.69948
+    },
+    {
+        "name": "WIHL.ST",
+        "priceEarningsRatio": 12.75143
+    },
+    {
+        "name": "ODD.ST",
+        "priceEarningsRatio": 278.3364
+    },
+    {
+        "name": "BETCO.ST",
+        "priceEarningsRatio": 43.4468
+    },
+    {
+        "name": "DIOS.ST",
+        "priceEarningsRatio": 13.08633
+    },
+    {
+        "name": "NAXS.ST",
+        "priceEarningsRatio": 25.98784
+    },
+    {
+        "name": "GRNG.ST",
+        "priceEarningsRatio": 30.12458
+    },
+    {
+        "name": "MAG.ST",
+        "priceEarningsRatio": 3.20167
+    },
+    {
+        "name": "TETY.ST",
+        "priceEarningsRatio": 69.62613
+    },
+    {
+        "name": "ABBN.SW",
+        "priceEarningsRatio": 91.45502
+    },
+    {
+        "name": "SINT.ST",
+        "priceEarningsRatio": 40.78476
+    },
+    {
+        "name": "MEKO.ST",
+        "priceEarningsRatio": 14.22259
+    },
+    {
+        "name": "AOI.TO",
+        "priceEarningsRatio": 2.53011
+    },
+    {
+        "name": "ADAPT.ST",
+        "priceEarningsRatio": 32.21213
+    },
+    {
+        "name": "SAND.ST",
+        "priceEarningsRatio": 25.0481
+    },
+    {
+        "name": "NCAB.ST",
+        "priceEarningsRatio": 61.29127
+    },
+    {
+        "name": "BEGR.ST",
+        "priceEarningsRatio": 33.25912
+    },
+    {
+        "name": "AZA.ST",
+        "priceEarningsRatio": 30.77288
+    },
+    {
+        "name": "CINT.ST",
+        "priceEarningsRatio": 444.7489
+    },
+    {
+        "name": "SCST.ST",
+        "priceEarningsRatio": 11.55798
+    },
+    {
+        "name": "ITAB.ST",
+        "priceEarningsRatio": 32.74934
+    },
+    {
+        "name": "PIERCE.ST",
+        "priceEarningsRatio": 332.5041
+    },
+    {
+        "name": "ALFA.ST",
+        "priceEarningsRatio": 30.68373
+    },
+    {
+        "name": "ACAD.ST",
+        "priceEarningsRatio": 21.24041
+    },
+    {
+        "name": "AQ.ST",
+        "priceEarningsRatio": 28.35919
+    },
+    {
+        "name": "NENTB.ST",
+        "priceEarningsRatio": 17.85598
+    },
+    {
+        "name": "MTRS.ST",
+        "priceEarningsRatio": 27.99803
+    },
+    {
+        "name": "INDT.ST",
+        "priceEarningsRatio": 45.10228
+    },
+    {
+        "name": "JM.ST",
+        "priceEarningsRatio": 13.8683
+    },
+    {
+        "name": "PFE",
+        "priceEarningsRatio": 22.70286
+    },
+    {
+        "name": "DEDI.ST",
+        "priceEarningsRatio": 15.31344
+    },
+    {
+        "name": "RAIL.ST",
+        "priceEarningsRatio": 11.78452
+    },
+    {
+        "name": "BUFAB.ST",
+        "priceEarningsRatio": 34.13536
+    },
+    {
+        "name": "NP3.ST",
+        "priceEarningsRatio": 14.28592
+    },
+    {
+        "name": "FABG.ST",
+        "priceEarningsRatio": 14.60091
+    },
+    {
+        "name": "NOTE.ST",
+        "priceEarningsRatio": 33.71704
+    },
+    {
+        "name": "JOMA.ST",
+        "priceEarningsRatio": 11.20928
+    },
+    {
+        "name": "KNOW.ST",
+        "priceEarningsRatio": 22.18697
+    },
+    {
+        "name": "IVSO.ST",
+        "priceEarningsRatio": 138.4407
+    },
+    {
+        "name": "FG.ST",
+        "priceEarningsRatio": 43.44727
+    },
+    {
+        "name": "HEBAB.ST",
+        "priceEarningsRatio": 10.07914
+    },
+    {
+        "name": "EWRK.ST",
+        "priceEarningsRatio": 24.4666
+    },
+    {
+        "name": "INTRUM.ST",
+        "priceEarningsRatio": 17.99646
+    },
+    {
+        "name": "LIME.ST",
+        "priceEarningsRatio": 73.79279
+    },
+    {
+        "name": "KINVB.ST",
+        "priceEarningsRatio": 2.94914
+    },
+    {
+        "name": "CEVI.ST",
+        "priceEarningsRatio": 95.45923
+    },
+    {
+        "name": "BMAX.ST",
+        "priceEarningsRatio": 9.72868
+    },
+    {
+        "name": "THULE.ST",
+        "priceEarningsRatio": 33.79164
+    },
+    {
+        "name": "KLED.ST",
+        "priceEarningsRatio": 13.67052
+    },
+    {
+        "name": "RESURS.ST",
+        "priceEarningsRatio": 9.11105
+    },
+    {
+        "name": "LUNE.ST",
+        "priceEarningsRatio": 22.79421
+    },
+    {
+        "name": "COIC.ST",
+        "priceEarningsRatio": 30.67019
+    },
+    {
+        "name": "VNV.ST",
+        "priceEarningsRatio": 4.84495
+    },
+    {
+        "name": "TFBANK.ST",
+        "priceEarningsRatio": 18.81449
+    },
+    {
+        "name": "CLNKB.ST",
+        "priceEarningsRatio": 6296.073
+    },
+    {
+        "name": "HTRO.ST",
+        "priceEarningsRatio": 38.18562
+    },
+    {
+        "name": "G5EN.ST",
+        "priceEarningsRatio": 27.43345
+    },
+    {
+        "name": "B3.ST",
+        "priceEarningsRatio": 20.45153
+    },
+    {
+        "name": "BRINB.ST",
+        "priceEarningsRatio": 21.06424
+    },
+    {
+        "name": "SYSR.ST",
+        "priceEarningsRatio": 36.99873
+    },
+    {
+        "name": "SENS.ST",
+        "priceEarningsRatio": 466.6667
+    },
+    {
+        "name": "SF.ST",
+        "priceEarningsRatio": 17.85805
+    },
+    {
+        "name": "8TRA.DE",
+        "priceEarningsRatio": 18146.67
+    },
+    {
+        "name": "COLL.ST",
+        "priceEarningsRatio": 25.12925
+    },
+    {
+        "name": "AZN.L",
+        "priceEarningsRatio": 63.636
+    },
+    {
+        "name": "NYF.ST",
+        "priceEarningsRatio": 9.7094
+    },
+    {
+        "name": "HMS.ST",
+        "priceEarningsRatio": 78.46259
+    },
+    {
+        "name": "DUST.ST",
+        "priceEarningsRatio": 30.69567
+    },
+    {
+        "name": "EQT.ST",
+        "priceEarningsRatio": 106.34
+    },
+    {
+        "name": "ELEC.ST",
+        "priceEarningsRatio": 14.65235
+    },
+    {
+        "name": "FNM.ST",
+        "priceEarningsRatio": 14.17197
+    },
+    {
+        "name": "ICA.ST",
+        "priceEarningsRatio": 19.60341
+    },
+    {
+        "name": "KFASTB.ST",
+        "priceEarningsRatio": 0.00036
+    },
+    {
+        "name": "AAK.ST",
+        "priceEarningsRatio": 30.16496
+    },
+    {
+        "name": "GHP.ST",
+        "priceEarningsRatio": 36.21093
+    },
+    {
+        "name": "DORO.ST",
+        "priceEarningsRatio": 28.22041
+    },
+    {
+        "name": "MIPS.ST",
+        "priceEarningsRatio": 155.2738
+    },
+    {
+        "name": "HANZA.ST",
+        "priceEarningsRatio": 40.12285
+    },
+    {
+        "name": "CTM.ST",
+        "priceEarningsRatio": 76.40323
+    },
+    {
+        "name": "LEO.ST",
+        "priceEarningsRatio": 17.62214
+    },
+    {
+        "name": "BURE.ST",
+        "priceEarningsRatio": 8.34145
+    },
+    {
+        "name": "TRAD.ST",
+        "priceEarningsRatio": 26.36998
+    },
+    {
+        "name": "ALIG.ST",
+        "priceEarningsRatio": 32.41014
+    },
+    {
+        "name": "NPAPER.ST",
+        "priceEarningsRatio": 9.2525
+    },
+    {
+        "name": "NOBINA.ST",
+        "priceEarningsRatio": 14.63999
+    },
+    {
+        "name": "HOFI.ST",
+        "priceEarningsRatio": 16.94636
+    },
+    {
+        "name": "HUM.ST",
+        "priceEarningsRatio": 13.35055
+    },
+    {
+        "name": "GARO.ST",
+        "priceEarningsRatio": 61.6999
+    },
+    {
+        "name": "INSTAL.ST",
+        "priceEarningsRatio": 43.79198
+    },
+    {
+        "name": "NOBI.ST",
+        "priceEarningsRatio": 23.98208
+    },
+    {
+        "name": "GPG.ST",
+        "priceEarningsRatio": 8.30325
+    },
+    {
+        "name": "BALCO.ST",
+        "priceEarningsRatio": 30.73579
+    },
+    {
+        "name": "ORX.ST",
+        "priceEarningsRatio": 45.86485
+    },
+    {
+        "name": "LUN.TO",
+        "priceEarningsRatio": 38.58485
+    },
+    {
+        "name": "XANOB.ST",
+        "priceEarningsRatio": 18.24561
+    },
+    {
+        "name": "TROAX.ST",
+        "priceEarningsRatio": 76.26133
+    },
+    {
+        "name": "NGS.ST",
+        "priceEarningsRatio": 20.09878
+    },
+    {
+        "name": "SEMC.ST",
+        "priceEarningsRatio": 22.64972
+    },
+    {
+        "name": "SWMA.ST",
+        "priceEarningsRatio": 26.34655
+    },
+    {
+        "name": "ANNEB.ST",
+        "priceEarningsRatio": 17.86432
+    },
+    {
+        "name": "INWI.ST",
+        "priceEarningsRatio": 16.57955
+    },
+    {
+        "name": "CAST.ST",
+        "priceEarningsRatio": 10.47219
+    }
+]

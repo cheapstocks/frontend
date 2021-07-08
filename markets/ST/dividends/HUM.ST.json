@@ -1,0 +1,32 @@
+[
+    {
+        "adjustedAmount": 0.5,
+        "amount": 0.5,
+        "currency": "SEK",
+        "date": "2017-05-19",
+        "declarationDate": "2017-02-23",
+        "payDate": "2017-05-26",
+        "recordDate": "2017-05-22",
+        "symbol": "HUM.ST"
+    },
+    {
+        "adjustedAmount": 0.6,
+        "amount": 0.6,
+        "currency": "SEK",
+        "date": "2018-05-17",
+        "declarationDate": "2018-02-21",
+        "payDate": "2018-05-23",
+        "recordDate": "2018-05-18",
+        "symbol": "HUM.ST"
+    },
+    {
+        "adjustedAmount": 0.7,
+        "amount": 0.7,
+        "currency": "SEK",
+        "date": "2019-05-10",
+        "declarationDate": "2019-02-14",
+        "payDate": "2019-05-16",
+        "recordDate": "2019-05-13",
+        "symbol": "HUM.ST"
+    }
+]

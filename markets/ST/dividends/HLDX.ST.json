@@ -1,0 +1,72 @@
+[
+    {
+        "adjustedAmount": 2,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2012-04-19",
+        "declarationDate": "2012-02-15",
+        "payDate": "2012-04-26",
+        "recordDate": "2012-04-23",
+        "symbol": "HLDX.ST"
+    },
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2013-04-26",
+        "declarationDate": "2013-02-14",
+        "payDate": "2013-05-06",
+        "recordDate": "2013-04-30",
+        "symbol": "HLDX.ST"
+    },
+    {
+        "adjustedAmount": 2,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2014-04-30",
+        "declarationDate": "2014-02-14",
+        "payDate": "2014-05-08",
+        "recordDate": "2014-05-05",
+        "symbol": "HLDX.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2015-04-29",
+        "declarationDate": "2015-02-12",
+        "payDate": "2015-05-06",
+        "recordDate": "2015-04-30",
+        "symbol": "HLDX.ST"
+    },
+    {
+        "adjustedAmount": 2,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2016-05-04",
+        "declarationDate": "2016-02-11",
+        "payDate": "2016-05-11",
+        "recordDate": "2016-05-06",
+        "symbol": "HLDX.ST"
+    },
+    {
+        "adjustedAmount": 0.55,
+        "amount": 0.55,
+        "currency": "SEK",
+        "date": "2018-05-04",
+        "declarationDate": "2018-02-14",
+        "payDate": "2018-05-11",
+        "recordDate": "2018-05-07",
+        "symbol": "HLDX.ST"
+    },
+    {
+        "adjustedAmount": 1.15,
+        "amount": 1.15,
+        "currency": "SEK",
+        "date": "2019-05-10",
+        "declarationDate": "2019-02-14",
+        "payDate": "2019-05-16",
+        "recordDate": "2019-05-13",
+        "symbol": "HLDX.ST"
+    }
+]

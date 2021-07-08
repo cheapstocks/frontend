@@ -1,0 +1,22 @@
+[
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2018-05-18",
+        "declarationDate": "2018-02-23",
+        "payDate": "2018-05-24",
+        "recordDate": "2018-05-21",
+        "symbol": "BALCO.ST"
+    },
+    {
+        "adjustedAmount": 2,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2019-05-22",
+        "declarationDate": "2019-02-22",
+        "payDate": "2019-05-28",
+        "recordDate": "2019-05-23",
+        "symbol": "BALCO.ST"
+    }
+]

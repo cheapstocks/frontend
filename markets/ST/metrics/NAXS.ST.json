@@ -1,0 +1,574 @@
+{
+    "metric": {
+        "_10DayAverageTradingVolume": 0.00294,
+        "_13WeekPriceReturnDaily": 10.19608,
+        "_26WeekPriceReturnDaily": 12.62525,
+        "_3MonthAverageTradingVolume": 0.12119,
+        "_52WeekHigh": 56.4,
+        "_52WeekHighDate": "2021-03-11",
+        "_52WeekLow": 41.6,
+        "_52WeekLowDate": "2020-07-15",
+        "_52WeekPriceReturnDaily": 16.1157,
+        "_5DayPriceReturnDaily": 3.30882,
+        "_assetTurnoverAnnual": 0,
+        "_assetTurnoverTTM": 0,
+        "_beta": 0.18392,
+        "_bookValuePerShareAnnual": 60.87375,
+        "_bookValuePerShareQuarterly": 63.03504,
+        "_bookValueShareGrowth5Y": 2.89572,
+        "_capitalSpendingGrowth5Y": null,
+        "_cashFlowPerShareAnnual": null,
+        "_cashFlowPerShareTTM": null,
+        "_cashPerSharePerShareAnnual": 19.64808,
+        "_cashPerSharePerShareQuarterly": 16.15553,
+        "_currentDividendYieldTTM": 5.33808,
+        "_currentEvfreeCashFlowAnnual": null,
+        "_currentEvfreeCashFlowTTM": null,
+        "_currentRatioAnnual": 264.6357,
+        "_currentRatioQuarterly": 151.4471,
+        "_dividendGrowthRate5Y": 5.84416,
+        "_dividendPerShare5Y": 2.262,
+        "_dividendPerShareAnnual": 3,
+        "_dividendYield5Y": 4.58359,
+        "_dividendYieldIndicatedAnnual": 5.33808,
+        "_dividendsPerShareTTM": 3,
+        "_ebitdPerShareTTM": -1.2537,
+        "_ebitdaCagr5Y": null,
+        "_ebitdaInterimCagr5Y": null,
+        "_epsBasicExclExtraItemsAnnual": 2.16255,
+        "_epsBasicExclExtraItemsTTM": 6.51784,
+        "_epsExclExtraItemsAnnual": 2.16255,
+        "_epsExclExtraItemsTTM": 6.51784,
+        "_epsGrowth3Y": -9.38042,
+        "_epsGrowth5Y": -12.90802,
+        "_epsGrowthQuarterlyYoy": 1229.662,
+        "_epsGrowthTTMYoy": 318.9382,
+        "_epsInclExtraItemsAnnual": 2.16255,
+        "_epsInclExtraItemsTTM": 6.51784,
+        "_epsNormalizedAnnual": 2.16255,
+        "_focfCagr5Y": null,
+        "_freeCashFlowAnnual": -45.793,
+        "_freeCashFlowPerShareTTM": -3.70954,
+        "_freeCashFlowTTM": -41.371,
+        "_freeOperatingCashFlowrevenue5Y": null,
+        "_freeOperatingCashFlowrevenueTTM": null,
+        "_grossMargin5Y": null,
+        "_grossMarginAnnual": null,
+        "_grossMarginTTM": null,
+        "_inventoryTurnoverAnnual": null,
+        "_inventoryTurnoverTTM": null,
+        "_longTermDebtequityAnnual": 0,
+        "_longTermDebtequityQuarterly": 0,
+        "_marketCapitalization": 626.7753,
+        "_monthToDatePriceReturnDaily": 1.81159,
+        "_netDebtAnnual": -219.127,
+        "_netDebtInterim": -180.176,
+        "_netIncomeEmployeeAnnual": 24118000,
+        "_netIncomeEmployeeTTM": 72689000,
+        "_netInterestCoverageAnnual": null,
+        "_netInterestCoverageTTM": null,
+        "_netMarginGrowth5Y": null,
+        "_netProfitMargin5Y": null,
+        "_netProfitMarginAnnual": null,
+        "_netProfitMarginTTM": null,
+        "_operatingMargin5Y": null,
+        "_operatingMarginAnnual": null,
+        "_operatingMarginTTM": null,
+        "_payoutRatioAnnual": 138.7253,
+        "_payoutRatioTTM": 46.02864,
+        "_pbAnnual": 0.92322,
+        "_pbQuarterly": 0.89157,
+        "_pcfShareTTM": null,
+        "_peBasicExclExtraTTM": 7.79399,
+        "_peExclExtraAnnual": 25.98784,
+        "_peExclExtraHighTTM": 107.8648,
+        "_peExclExtraTTM": 8.62249,
+        "_peExclLowTTM": 6.66879,
+        "_peInclExtraTTM": 8.62249,
+        "_peNormalizedAnnual": 25.98784,
+        "_pfcfShareAnnual": null,
+        "_pfcfShareTTM": null,
+        "_pretaxMargin5Y": null,
+        "_pretaxMarginAnnual": null,
+        "_pretaxMarginTTM": null,
+        "_priceRelativeToSP50013Week": null,
+        "_priceRelativeToSP50026Week": null,
+        "_priceRelativeToSP5004Week": null,
+        "_priceRelativeToSP50052Week": null,
+        "_priceRelativeToSP500Ytd": null,
+        "_psAnnual": null,
+        "_psTTM": null,
+        "_ptbvAnnual": 0.92322,
+        "_ptbvQuarterly": 0.89157,
+        "_quickRatioAnnual": null,
+        "_quickRatioQuarterly": null,
+        "_receivablesTurnoverAnnual": null,
+        "_receivablesTurnoverTTM": null,
+        "_revenueEmployeeAnnual": null,
+        "_revenueEmployeeTTM": 0,
+        "_revenueGrowth3Y": null,
+        "_revenueGrowth5Y": null,
+        "_revenueGrowthQuarterlyYoy": null,
+        "_revenueGrowthTTMYoy": null,
+        "_revenuePerShareAnnual": 0,
+        "_revenuePerShareTTM": 0,
+        "_revenueShareGrowth5Y": null,
+        "_roaRfy": 3.46995,
+        "_roaa5Y": 5.57801,
+        "_roae5Y": 5.58412,
+        "_roaeTTM": 10.33237,
+        "_roeRfy": 3.47382,
+        "_roeTTM": 10.31833,
+        "_roi5Y": 5.58412,
+        "_roiAnnual": 3.47382,
+        "_roiTTM": 10.33237,
+        "_tangibleBookValuePerShareAnnual": 60.87375,
+        "_tangibleBookValuePerShareQuarterly": 63.03504,
+        "_tbvCagr5Y": -2.85669,
+        "_totalDebtCagr5Y": null,
+        "_totalDebttotalEquityAnnual": 0,
+        "_totalDebttotalEquityQuarterly": 0,
+        "_yearToDatePriceReturnDaily": 12.62525
+    },
+    "metricType": "all",
+    "series": {
+        "annual": {
+            "cashRatio": [
+                {
+                    "period": "2019-12-31",
+                    "v": 320.4295676429568
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 249.46946564885496
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 461.2010256410256
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 498.45064935064937
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 585
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 49.235294117647065
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 100.76923076923076
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 136.2222222222222
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": 202
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": 386.1428571428572
+                },
+                {
+                    "period": "2009-12-31",
+                    "v": 417
+                },
+                {
+                    "period": "2008-12-31",
+                    "v": 24.01724137931035
+                },
+                {
+                    "period": "2007-12-31",
+                    "v": 286.5833333333333
+                }
+            ],
+            "currentRatio": [
+                {
+                    "period": "2019-12-31",
+                    "v": 320.6611
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 261.2347
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 461.3662
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 498.5519
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 585.1667
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 49.2941
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 100.9231
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 136.4444
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": 202.3
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": 386.4286
+                },
+                {
+                    "period": "2009-12-31",
+                    "v": 419.3333
+                },
+                {
+                    "period": "2008-12-31",
+                    "v": 76.2586
+                },
+                {
+                    "period": "2007-12-31",
+                    "v": 454.25
+                }
+            ],
+            "longtermDebtTotalAsset": [],
+            "longtermDebtTotalCapital": [],
+            "longtermDebtTotalEquity": [],
+            "netDebtToTotalCapital": [
+                {
+                    "period": "2019-12-31",
+                    "v": -0.3237
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": -0.355
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": -0.548
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": -0.4559
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": -0.4472
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": -0.2228
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": -0.2004
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": -0.2012
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": -0.3593
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": -0.4726
+                },
+                {
+                    "period": "2009-12-31",
+                    "v": -0.6599
+                },
+                {
+                    "period": "2008-12-31",
+                    "v": -0.2414
+                },
+                {
+                    "period": "2007-12-31",
+                    "v": -0.5848
+                }
+            ],
+            "netDebtToTotalEquity": [
+                {
+                    "period": "2019-12-31",
+                    "v": -0.3237
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": -0.355
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": -0.548
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": -0.4559
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": -0.4472
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": -0.2228
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": -0.2004
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": -0.2012
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": -0.3593
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": -0.4726
+                },
+                {
+                    "period": "2009-12-31",
+                    "v": -0.6599
+                },
+                {
+                    "period": "2008-12-31",
+                    "v": -0.2414
+                },
+                {
+                    "period": "2007-12-31",
+                    "v": -0.5848
+                }
+            ],
+            "totalDebtToEquity": [
+                {
+                    "period": "2019-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2009-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2008-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2007-12-31",
+                    "v": 0
+                }
+            ],
+            "totalDebtToTotalAsset": [
+                {
+                    "period": "2019-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2009-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2008-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2007-12-31",
+                    "v": 0
+                }
+            ],
+            "totalDebtToTotalCapital": [
+                {
+                    "period": "2019-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2009-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2008-12-31",
+                    "v": 0
+                },
+                {
+                    "period": "2007-12-31",
+                    "v": 0
+                }
+            ],
+            "totalRatio": [
+                {
+                    "period": "2019-12-31",
+                    "v": 990.7615
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 703.6441
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 842.6072
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 1094.2675
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 1308.8333
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 222
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 503.9231
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 678
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": 563.2
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": 818.1429
+                },
+                {
+                    "period": "2009-12-31",
+                    "v": 632.8889
+                },
+                {
+                    "period": "2008-12-31",
+                    "v": 100.4828
+                },
+                {
+                    "period": "2007-12-31",
+                    "v": 491.0833
+                }
+            ]
+        }
+    },
+    "symbol": "NAXS.ST"
+}

@@ -1,0 +1,102 @@
+[
+    {
+        "adjustedAmount": 1.85,
+        "amount": 1.85,
+        "currency": "SEK",
+        "date": "2012-04-25",
+        "declarationDate": "2012-02-13",
+        "payDate": "2012-05-03",
+        "recordDate": "2012-04-27",
+        "symbol": "EWRK.ST"
+    },
+    {
+        "adjustedAmount": 2.5,
+        "amount": 2.5,
+        "currency": "SEK",
+        "date": "2013-04-25",
+        "declarationDate": "2013-02-14",
+        "payDate": "2013-05-03",
+        "recordDate": "2013-04-29",
+        "symbol": "EWRK.ST"
+    },
+    {
+        "adjustedAmount": 2.5,
+        "amount": 2.5,
+        "currency": "SEK",
+        "date": "2014-04-25",
+        "declarationDate": "2014-02-21",
+        "payDate": "2014-05-05",
+        "recordDate": "2014-04-29",
+        "symbol": "EWRK.ST"
+    },
+    {
+        "adjustedAmount": 2.5,
+        "amount": 2.5,
+        "currency": "SEK",
+        "date": "2015-04-23",
+        "declarationDate": "2015-02-11",
+        "payDate": "2015-04-29",
+        "recordDate": "2015-04-24",
+        "symbol": "EWRK.ST"
+    },
+    {
+        "adjustedAmount": 3.25,
+        "amount": 3.25,
+        "currency": "SEK",
+        "date": "2016-04-21",
+        "declarationDate": "2016-02-18",
+        "payDate": "2016-04-27",
+        "recordDate": "2016-04-22",
+        "symbol": "EWRK.ST"
+    },
+    {
+        "adjustedAmount": 4,
+        "amount": 4,
+        "currency": "SEK",
+        "date": "2017-04-25",
+        "declarationDate": "2017-02-17",
+        "payDate": "2017-05-02",
+        "recordDate": "2017-04-26",
+        "symbol": "EWRK.ST"
+    },
+    {
+        "adjustedAmount": 4.5,
+        "amount": 4.5,
+        "currency": "SEK",
+        "date": "2018-04-25",
+        "declarationDate": "2018-02-07",
+        "payDate": "2018-05-02",
+        "recordDate": "2018-04-26",
+        "symbol": "EWRK.ST"
+    },
+    {
+        "adjustedAmount": 4.5,
+        "amount": 4.5,
+        "currency": "SEK",
+        "date": "2019-05-03",
+        "declarationDate": "2019-02-13",
+        "payDate": "2019-05-09",
+        "recordDate": "2019-05-06",
+        "symbol": "EWRK.ST"
+    },
+    {
+        "adjustedAmount": 2,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2021-01-28",
+        "declarationDate": "2020-02-13",
+        "payDate": "2021-02-03",
+        "recordDate": "2021-01-29",
+        "symbol": "EWRK.ST"
+    },
+    {
+        "adjustedAmount": 4.5,
+        "amount": 4.5,
+        "currency": "SEK",
+        "date": "2021-04-29",
+        "declarationDate": "2021-02-10",
+        "payDate": "2021-05-05",
+        "recordDate": "2021-04-30",
+        "symbol": "EWRK.ST"
+    }
+]

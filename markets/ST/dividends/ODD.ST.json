@@ -1,0 +1,52 @@
+[
+    {
+        "adjustedAmount": 2.6116648293,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2012-04-27",
+        "declarationDate": "2012-02-17",
+        "payDate": "2012-05-08",
+        "recordDate": "2012-05-01",
+        "symbol": "ODD.ST"
+    },
+    {
+        "adjustedAmount": 1.3058324147,
+        "amount": 1.5,
+        "currency": "SEK",
+        "date": "2013-04-26",
+        "declarationDate": "2013-02-15",
+        "payDate": "2013-05-06",
+        "recordDate": "2013-04-30",
+        "symbol": "ODD.ST"
+    },
+    {
+        "adjustedAmount": 0.8705549431,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2015-04-30",
+        "declarationDate": "2015-02-18",
+        "payDate": "2015-05-07",
+        "recordDate": "2015-05-04",
+        "symbol": "ODD.ST"
+    },
+    {
+        "adjustedAmount": 1.3058324147,
+        "amount": 1.5,
+        "currency": "SEK",
+        "date": "2016-04-20",
+        "declarationDate": "2016-02-18",
+        "payDate": "2016-04-26",
+        "recordDate": "2016-04-21",
+        "symbol": "ODD.ST"
+    },
+    {
+        "adjustedAmount": 0.8705549431,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2017-05-12",
+        "declarationDate": "2017-02-16",
+        "payDate": "2017-05-18",
+        "recordDate": "2017-05-15",
+        "symbol": "ODD.ST"
+    }
+]
