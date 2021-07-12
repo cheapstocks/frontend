@@ -1,0 +1,32 @@
+[
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2017-04-26",
+        "declarationDate": "2017-02-09",
+        "payDate": "2017-05-03",
+        "recordDate": "2017-04-27",
+        "symbol": "PROF B.ST"
+    },
+    {
+        "adjustedAmount": 4.5,
+        "amount": 4.5,
+        "currency": "SEK",
+        "date": "2018-04-18",
+        "declarationDate": "2018-02-06",
+        "payDate": "2018-04-24",
+        "recordDate": "2018-04-19",
+        "symbol": "PROF B.ST"
+    },
+    {
+        "adjustedAmount": 5,
+        "amount": 5,
+        "currency": "SEK",
+        "date": "2019-04-17",
+        "declarationDate": "2019-02-12",
+        "payDate": "2019-04-25",
+        "recordDate": "2019-04-18",
+        "symbol": "PROF B.ST"
+    }
+]

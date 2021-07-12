@@ -1,0 +1,32 @@
+[
+    {
+        "adjustedAmount": 2,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2012-03-27",
+        "declarationDate": "2012-02-03",
+        "payDate": "2012-04-03",
+        "recordDate": "2012-03-29",
+        "symbol": "PREV B.ST"
+    },
+    {
+        "adjustedAmount": 0.3,
+        "amount": 0.3,
+        "currency": "SEK",
+        "date": "2013-04-09",
+        "declarationDate": "2013-02-08",
+        "payDate": "2013-04-16",
+        "recordDate": "2013-04-11",
+        "symbol": "PREV B.ST"
+    },
+    {
+        "adjustedAmount": 2,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2021-05-12",
+        "declarationDate": "2021-04-08",
+        "payDate": "2021-05-19",
+        "recordDate": "2021-05-14",
+        "symbol": "PREV B.ST"
+    }
+]

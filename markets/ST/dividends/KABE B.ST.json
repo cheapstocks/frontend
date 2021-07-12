@@ -1,0 +1,92 @@
+[
+    {
+        "adjustedAmount": 5,
+        "amount": 5,
+        "currency": "SEK",
+        "date": "2012-05-16",
+        "declarationDate": "2012-02-22",
+        "payDate": "2012-05-24",
+        "recordDate": "2012-05-21",
+        "symbol": "KABE B.ST"
+    },
+    {
+        "adjustedAmount": 4,
+        "amount": 4,
+        "currency": "SEK",
+        "date": "2013-05-17",
+        "declarationDate": "2013-02-26",
+        "payDate": "2013-05-24",
+        "recordDate": "2013-05-21",
+        "symbol": "KABE B.ST"
+    },
+    {
+        "adjustedAmount": 3.5,
+        "amount": 3.5,
+        "currency": "SEK",
+        "date": "2014-05-21",
+        "declarationDate": "2014-02-25",
+        "payDate": "2014-05-28",
+        "recordDate": "2014-05-23",
+        "symbol": "KABE B.ST"
+    },
+    {
+        "adjustedAmount": 3.5,
+        "amount": 3.5,
+        "currency": "SEK",
+        "date": "2015-05-20",
+        "declarationDate": "2015-02-24",
+        "payDate": "2015-05-26",
+        "recordDate": "2015-05-21",
+        "symbol": "KABE B.ST"
+    },
+    {
+        "adjustedAmount": 4,
+        "amount": 4,
+        "currency": "SEK",
+        "date": "2016-05-18",
+        "declarationDate": "2016-02-25",
+        "payDate": "2016-05-24",
+        "recordDate": "2016-05-19",
+        "symbol": "KABE B.ST"
+    },
+    {
+        "adjustedAmount": 5,
+        "amount": 5,
+        "currency": "SEK",
+        "date": "2017-05-17",
+        "declarationDate": "2017-02-28",
+        "payDate": "2017-05-23",
+        "recordDate": "2017-05-18",
+        "symbol": "KABE B.ST"
+    },
+    {
+        "adjustedAmount": 5.5,
+        "amount": 5.5,
+        "currency": "SEK",
+        "date": "2018-05-16",
+        "declarationDate": "2018-03-01",
+        "payDate": "2018-05-22",
+        "recordDate": "2018-05-17",
+        "symbol": "KABE B.ST"
+    },
+    {
+        "adjustedAmount": 5.5,
+        "amount": 5.5,
+        "currency": "SEK",
+        "date": "2019-05-15",
+        "declarationDate": "2019-02-27",
+        "payDate": "2019-05-21",
+        "recordDate": "2019-05-16",
+        "symbol": "KABE B.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2021-05-12",
+        "declarationDate": "2021-02-25",
+        "payDate": "2021-05-19",
+        "recordDate": "2021-05-14",
+        "symbol": "KABE B.ST"
+    }
+]

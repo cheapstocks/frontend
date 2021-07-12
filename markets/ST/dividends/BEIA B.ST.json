@@ -1,0 +1,102 @@
+[
+    {
+        "adjustedAmount": 3,
+        "amount": 6,
+        "currency": "SEK",
+        "date": "2012-03-29",
+        "declarationDate": "2012-02-21",
+        "payDate": "2012-04-05",
+        "recordDate": "2012-04-02",
+        "symbol": "BEIA B.ST"
+    },
+    {
+        "adjustedAmount": 3.5,
+        "amount": 7,
+        "currency": "SEK",
+        "date": "2013-03-20",
+        "declarationDate": "2013-02-08",
+        "payDate": "2013-03-27",
+        "recordDate": "2013-03-22",
+        "symbol": "BEIA B.ST"
+    },
+    {
+        "adjustedAmount": 4,
+        "amount": 8,
+        "currency": "SEK",
+        "date": "2014-03-28",
+        "declarationDate": "2014-02-14",
+        "payDate": "2014-04-04",
+        "recordDate": "2014-04-01",
+        "symbol": "BEIA B.ST"
+    },
+    {
+        "adjustedAmount": 4.25,
+        "amount": 8.5,
+        "currency": "SEK",
+        "date": "2015-03-20",
+        "declarationDate": "2015-02-09",
+        "payDate": "2015-03-26",
+        "recordDate": "2015-03-23",
+        "symbol": "BEIA B.ST"
+    },
+    {
+        "adjustedAmount": 4.75,
+        "amount": 9.5,
+        "currency": "SEK",
+        "date": "2016-04-06",
+        "declarationDate": "2016-02-17",
+        "payDate": "2016-04-12",
+        "recordDate": "2016-04-07",
+        "symbol": "BEIA B.ST"
+    },
+    {
+        "adjustedAmount": 4.75,
+        "amount": 9.5,
+        "currency": "SEK",
+        "date": "2017-03-30",
+        "declarationDate": "2017-02-14",
+        "payDate": "2017-04-05",
+        "recordDate": "2017-03-31",
+        "symbol": "BEIA B.ST"
+    },
+    {
+        "adjustedAmount": 4.75,
+        "amount": 9.5,
+        "currency": "SEK",
+        "date": "2018-03-23",
+        "declarationDate": "2018-02-14",
+        "payDate": "2018-03-29",
+        "recordDate": "2018-03-26",
+        "symbol": "BEIA B.ST"
+    },
+    {
+        "adjustedAmount": 5.1,
+        "amount": 5.1,
+        "currency": "SEK",
+        "date": "2019-03-29",
+        "declarationDate": "2019-02-13",
+        "payDate": "2019-04-04",
+        "recordDate": "2019-04-01",
+        "symbol": "BEIA B.ST"
+    },
+    {
+        "adjustedAmount": 2.5,
+        "amount": 2.5,
+        "currency": "SEK",
+        "date": "2020-03-26",
+        "declarationDate": "2020-02-25",
+        "payDate": "2020-04-01",
+        "recordDate": "2020-03-27",
+        "symbol": "BEIA B.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2021-03-24",
+        "declarationDate": "2021-02-15",
+        "payDate": "2021-03-30",
+        "recordDate": "2021-03-25",
+        "symbol": "BEIA B.ST"
+    }
+]

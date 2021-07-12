@@ -1,0 +1,92 @@
+[
+    {
+        "adjustedAmount": 4.1550975,
+        "amount": 4.5,
+        "currency": "SEK",
+        "date": "2012-04-20",
+        "declarationDate": "2012-02-10",
+        "payDate": "2012-04-27",
+        "recordDate": "2012-04-24",
+        "symbol": "SAAB B.ST"
+    },
+    {
+        "adjustedAmount": 4.1550975,
+        "amount": 4.5,
+        "currency": "SEK",
+        "date": "2013-04-18",
+        "declarationDate": "2013-02-15",
+        "payDate": "2013-04-25",
+        "recordDate": "2013-04-22",
+        "symbol": "SAAB B.ST"
+    },
+    {
+        "adjustedAmount": 4.1550975,
+        "amount": 4.5,
+        "currency": "SEK",
+        "date": "2014-04-09",
+        "declarationDate": "2014-02-13",
+        "payDate": "2014-04-16",
+        "recordDate": "2014-04-11",
+        "symbol": "SAAB B.ST"
+    },
+    {
+        "adjustedAmount": 4.38593625,
+        "amount": 4.75,
+        "currency": "SEK",
+        "date": "2015-04-16",
+        "declarationDate": "2015-02-10",
+        "payDate": "2015-04-22",
+        "recordDate": "2015-04-17",
+        "symbol": "SAAB B.ST"
+    },
+    {
+        "adjustedAmount": 4.616775,
+        "amount": 5,
+        "currency": "SEK",
+        "date": "2016-04-15",
+        "declarationDate": "2016-02-10",
+        "payDate": "2016-04-21",
+        "recordDate": "2016-04-18",
+        "symbol": "SAAB B.ST"
+    },
+    {
+        "adjustedAmount": 4.84761375,
+        "amount": 5.25,
+        "currency": "SEK",
+        "date": "2017-04-06",
+        "declarationDate": "2017-02-13",
+        "payDate": "2017-04-12",
+        "recordDate": "2017-04-07",
+        "symbol": "SAAB B.ST"
+    },
+    {
+        "adjustedAmount": 5.0784525,
+        "amount": 5.5,
+        "currency": "SEK",
+        "date": "2018-04-11",
+        "declarationDate": "2018-02-16",
+        "payDate": "2018-04-17",
+        "recordDate": "2018-04-12",
+        "symbol": "SAAB B.ST"
+    },
+    {
+        "adjustedAmount": 4.5,
+        "amount": 4.5,
+        "currency": "SEK",
+        "date": "2019-04-12",
+        "declarationDate": "2019-02-15",
+        "payDate": "2019-04-18",
+        "recordDate": "2019-04-15",
+        "symbol": "SAAB B.ST"
+    },
+    {
+        "adjustedAmount": 4.7,
+        "amount": 4.7,
+        "currency": "SEK",
+        "date": "2021-04-14",
+        "declarationDate": "2021-02-11",
+        "payDate": "2021-04-20",
+        "recordDate": "2021-04-15",
+        "symbol": "SAAB B.ST"
+    }
+]

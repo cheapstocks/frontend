@@ -1,0 +1,102 @@
+[
+    {
+        "adjustedAmount": 1.125,
+        "amount": 4.5,
+        "currency": "SEK",
+        "date": "2012-05-11",
+        "declarationDate": "2012-02-22",
+        "payDate": "2012-05-21",
+        "recordDate": "2012-05-15",
+        "symbol": "LATO B.ST"
+    },
+    {
+        "adjustedAmount": 1.25,
+        "amount": 5,
+        "currency": "SEK",
+        "date": "2013-05-15",
+        "declarationDate": "2013-02-20",
+        "payDate": "2013-05-22",
+        "recordDate": "2013-05-17",
+        "symbol": "LATO B.ST"
+    },
+    {
+        "adjustedAmount": 1.375,
+        "amount": 5.5,
+        "currency": "SEK",
+        "date": "2014-05-09",
+        "declarationDate": "2014-03-18",
+        "payDate": "2014-05-16",
+        "recordDate": "2014-05-13",
+        "symbol": "LATO B.ST"
+    },
+    {
+        "adjustedAmount": 1.5,
+        "amount": 6,
+        "currency": "SEK",
+        "date": "2015-05-06",
+        "declarationDate": "2015-02-18",
+        "payDate": "2015-05-12",
+        "recordDate": "2015-05-07",
+        "symbol": "LATO B.ST"
+    },
+    {
+        "adjustedAmount": 1.6875,
+        "amount": 6.75,
+        "currency": "SEK",
+        "date": "2016-05-04",
+        "declarationDate": "2016-02-18",
+        "payDate": "2016-05-11",
+        "recordDate": "2016-05-06",
+        "symbol": "LATO B.ST"
+    },
+    {
+        "adjustedAmount": 2,
+        "amount": 8,
+        "currency": "SEK",
+        "date": "2017-05-03",
+        "declarationDate": "2017-02-16",
+        "payDate": "2017-05-09",
+        "recordDate": "2017-05-04",
+        "symbol": "LATO B.ST"
+    },
+    {
+        "adjustedAmount": 2.25,
+        "amount": 2.25,
+        "currency": "SEK",
+        "date": "2018-05-11",
+        "declarationDate": "2018-02-15",
+        "payDate": "2018-05-17",
+        "recordDate": "2018-05-14",
+        "symbol": "LATO B.ST"
+    },
+    {
+        "adjustedAmount": 2.5,
+        "amount": 2.5,
+        "currency": "SEK",
+        "date": "2019-05-08",
+        "declarationDate": "2019-02-14",
+        "payDate": "2019-05-14",
+        "recordDate": "2019-05-09",
+        "symbol": "LATO B.ST"
+    },
+    {
+        "adjustedAmount": 1.25,
+        "amount": 1.25,
+        "currency": "SEK",
+        "date": "2020-05-12",
+        "declarationDate": "2020-02-14",
+        "payDate": "2020-05-18",
+        "recordDate": "2020-05-13",
+        "symbol": "LATO B.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2021-05-11",
+        "declarationDate": "2021-02-12",
+        "payDate": "2021-05-18",
+        "recordDate": "2021-05-12",
+        "symbol": "LATO B.ST"
+    }
+]

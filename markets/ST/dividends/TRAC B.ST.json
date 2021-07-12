@@ -1,0 +1,102 @@
+[
+    {
+        "adjustedAmount": 2.35,
+        "amount": 2.35,
+        "currency": "SEK",
+        "date": "2012-05-10",
+        "declarationDate": "2012-02-16",
+        "payDate": "2012-05-18",
+        "recordDate": "2012-05-14",
+        "symbol": "TRAC B.ST"
+    },
+    {
+        "adjustedAmount": 3.1,
+        "amount": 3.1,
+        "currency": "SEK",
+        "date": "2013-05-08",
+        "declarationDate": "2013-02-20",
+        "payDate": "2013-05-16",
+        "recordDate": "2013-05-13",
+        "symbol": "TRAC B.ST"
+    },
+    {
+        "adjustedAmount": 2.45,
+        "amount": 2.45,
+        "currency": "SEK",
+        "date": "2014-05-06",
+        "declarationDate": "2014-02-12",
+        "payDate": "2014-05-13",
+        "recordDate": "2014-05-08",
+        "symbol": "TRAC B.ST"
+    },
+    {
+        "adjustedAmount": 2,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2015-04-29",
+        "declarationDate": "2015-02-09",
+        "payDate": "2015-05-06",
+        "recordDate": "2015-04-30",
+        "symbol": "TRAC B.ST"
+    },
+    {
+        "adjustedAmount": 2.55,
+        "amount": 2.55,
+        "currency": "SEK",
+        "date": "2016-05-11",
+        "declarationDate": "2016-02-17",
+        "payDate": "2016-05-17",
+        "recordDate": "2016-05-12",
+        "symbol": "TRAC B.ST"
+    },
+    {
+        "adjustedAmount": 2.15,
+        "amount": 2.15,
+        "currency": "SEK",
+        "date": "2017-05-05",
+        "declarationDate": "2017-02-15",
+        "payDate": "2017-05-11",
+        "recordDate": "2017-05-08",
+        "symbol": "TRAC B.ST"
+    },
+    {
+        "adjustedAmount": 2.75,
+        "amount": 2.75,
+        "currency": "SEK",
+        "date": "2018-05-09",
+        "declarationDate": "2018-02-14",
+        "payDate": "2018-05-16",
+        "recordDate": "2018-05-11",
+        "symbol": "TRAC B.ST"
+    },
+    {
+        "adjustedAmount": 3.6,
+        "amount": 3.6,
+        "currency": "SEK",
+        "date": "2019-05-10",
+        "declarationDate": "2019-02-15",
+        "payDate": "2019-05-16",
+        "recordDate": "2019-05-13",
+        "symbol": "TRAC B.ST"
+    },
+    {
+        "adjustedAmount": 4.2,
+        "amount": 4.2,
+        "currency": "SEK",
+        "date": "2020-05-07",
+        "declarationDate": "2020-02-14",
+        "payDate": "2020-05-13",
+        "recordDate": "2020-05-08",
+        "symbol": "TRAC B.ST"
+    },
+    {
+        "adjustedAmount": 2,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2021-04-27",
+        "declarationDate": "2021-02-15",
+        "payDate": "2021-05-03",
+        "recordDate": "2021-04-28",
+        "symbol": "TRAC B.ST"
+    }
+]

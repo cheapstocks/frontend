@@ -1,0 +1,102 @@
+[
+    {
+        "adjustedAmount": 1.65,
+        "amount": 3.3,
+        "currency": "SEK",
+        "date": "2011-11-23",
+        "declarationDate": "2011-09-27",
+        "payDate": "2011-11-30",
+        "recordDate": "2011-11-25",
+        "symbol": "SVOL A.ST"
+    },
+    {
+        "adjustedAmount": 1.65,
+        "amount": 3.3,
+        "currency": "SEK",
+        "date": "2012-11-22",
+        "declarationDate": "2012-09-26",
+        "payDate": "2012-11-29",
+        "recordDate": "2012-11-26",
+        "symbol": "SVOL A.ST"
+    },
+    {
+        "adjustedAmount": 1.05,
+        "amount": 2.1,
+        "currency": "SEK",
+        "date": "2013-11-21",
+        "declarationDate": "2013-09-27",
+        "payDate": "2013-11-28",
+        "recordDate": "2013-11-25",
+        "symbol": "SVOL A.ST"
+    },
+    {
+        "adjustedAmount": 1.125,
+        "amount": 2.25,
+        "currency": "SEK",
+        "date": "2014-11-21",
+        "declarationDate": "2014-09-26",
+        "payDate": "2014-11-27",
+        "recordDate": "2014-11-24",
+        "symbol": "SVOL A.ST"
+    },
+    {
+        "adjustedAmount": 1.25,
+        "amount": 2.5,
+        "currency": "SEK",
+        "date": "2015-11-19",
+        "declarationDate": "2015-09-25",
+        "payDate": "2015-11-25",
+        "recordDate": "2015-11-20",
+        "symbol": "SVOL A.ST"
+    },
+    {
+        "adjustedAmount": 1.375,
+        "amount": 2.75,
+        "currency": "SEK",
+        "date": "2016-11-16",
+        "declarationDate": "2016-09-23",
+        "payDate": "2016-11-22",
+        "recordDate": "2016-11-17",
+        "symbol": "SVOL A.ST"
+    },
+    {
+        "adjustedAmount": 1.625,
+        "amount": 3.25,
+        "currency": "SEK",
+        "date": "2017-11-17",
+        "declarationDate": "2017-09-21",
+        "payDate": "2017-11-23",
+        "recordDate": "2017-11-20",
+        "symbol": "SVOL A.ST"
+    },
+    {
+        "adjustedAmount": 2,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2018-11-16",
+        "declarationDate": "2018-09-27",
+        "payDate": "2018-11-22",
+        "recordDate": "2018-11-19",
+        "symbol": "SVOL A.ST"
+    },
+    {
+        "adjustedAmount": 2.15,
+        "amount": 2.15,
+        "currency": "SEK",
+        "date": "2019-11-20",
+        "declarationDate": "2019-10-16",
+        "payDate": "2019-11-26",
+        "recordDate": "2019-11-21",
+        "symbol": "SVOL A.ST"
+    },
+    {
+        "adjustedAmount": 2.2,
+        "amount": 2.2,
+        "currency": "SEK",
+        "date": "2020-11-17",
+        "declarationDate": "2020-09-18",
+        "payDate": "2020-11-23",
+        "recordDate": "2020-11-18",
+        "symbol": "SVOL A.ST"
+    }
+]

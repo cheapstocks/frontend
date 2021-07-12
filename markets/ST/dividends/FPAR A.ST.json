@@ -1,0 +1,142 @@
+[
+    {
+        "adjustedAmount": 0.8152025181,
+        "amount": 2.5,
+        "currency": "SEK",
+        "date": "2012-04-27",
+        "declarationDate": "2012-02-23",
+        "payDate": "2012-05-07",
+        "recordDate": "2012-05-02",
+        "symbol": "FPAR A.ST"
+    },
+    {
+        "adjustedAmount": 0.8967227699,
+        "amount": 2.75,
+        "currency": "SEK",
+        "date": "2013-04-26",
+        "declarationDate": "2013-02-21",
+        "payDate": "2013-05-06",
+        "recordDate": "2013-04-30",
+        "symbol": "FPAR A.ST"
+    },
+    {
+        "adjustedAmount": 1.0108511225,
+        "amount": 3.1,
+        "currency": "SEK",
+        "date": "2014-04-25",
+        "declarationDate": "2014-02-25",
+        "payDate": "2014-05-05",
+        "recordDate": "2014-04-29",
+        "symbol": "FPAR A.ST"
+    },
+    {
+        "adjustedAmount": 1.1412835254,
+        "amount": 3.5,
+        "currency": "SEK",
+        "date": "2015-04-27",
+        "declarationDate": "2015-02-24",
+        "payDate": "2015-05-04",
+        "recordDate": "2015-04-28",
+        "symbol": "FPAR A.ST"
+    },
+    {
+        "adjustedAmount": 1.2228037772,
+        "amount": 3.75,
+        "currency": "SEK",
+        "date": "2016-04-29",
+        "declarationDate": "2016-02-25",
+        "payDate": "2016-05-06",
+        "recordDate": "2016-05-02",
+        "symbol": "FPAR A.ST"
+    },
+    {
+        "adjustedAmount": 0.666666,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2017-05-05",
+        "declarationDate": "2017-02-23",
+        "payDate": "2017-05-11",
+        "recordDate": "2017-05-08",
+        "symbol": "FPAR A.ST"
+    },
+    {
+        "adjustedAmount": 0.666666,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2017-11-03",
+        "declarationDate": "2017-03-17",
+        "payDate": "2017-11-09",
+        "recordDate": "2017-11-06",
+        "symbol": "FPAR A.ST"
+    },
+    {
+        "adjustedAmount": 0.71999928,
+        "amount": 2.16,
+        "currency": "SEK",
+        "date": "2018-05-04",
+        "declarationDate": "2017-03-17",
+        "payDate": "2018-05-11",
+        "recordDate": "2018-05-07",
+        "symbol": "FPAR A.ST"
+    },
+    {
+        "adjustedAmount": 0.72,
+        "amount": 0.72,
+        "currency": "SEK",
+        "date": "2018-11-02",
+        "declarationDate": "2017-03-17",
+        "payDate": "2018-11-08",
+        "recordDate": "2018-11-05",
+        "symbol": "FPAR A.ST"
+    },
+    {
+        "adjustedAmount": 0.8,
+        "amount": 0.8,
+        "currency": "SEK",
+        "date": "2019-04-26",
+        "declarationDate": "2018-03-20",
+        "payDate": "2019-05-03",
+        "recordDate": "2019-04-29",
+        "symbol": "FPAR A.ST"
+    },
+    {
+        "adjustedAmount": 0.8,
+        "amount": 0.8,
+        "currency": "SEK",
+        "date": "2019-10-25",
+        "declarationDate": "2018-03-20",
+        "payDate": "2019-10-31",
+        "recordDate": "2019-10-28",
+        "symbol": "FPAR A.ST"
+    },
+    {
+        "adjustedAmount": 0.95,
+        "amount": 0.95,
+        "currency": "SEK",
+        "date": "2020-04-29",
+        "declarationDate": "2020-03-26",
+        "payDate": "2020-05-06",
+        "recordDate": "2020-04-30",
+        "symbol": "FPAR A.ST"
+    },
+    {
+        "adjustedAmount": 0.95,
+        "amount": 0.95,
+        "currency": "SEK",
+        "date": "2020-10-29",
+        "declarationDate": "2020-03-26",
+        "payDate": "2020-11-04",
+        "recordDate": "2020-10-30",
+        "symbol": "FPAR A.ST"
+    },
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2021-04-29",
+        "declarationDate": "2021-02-11",
+        "payDate": "2021-05-05",
+        "recordDate": "2021-04-30",
+        "symbol": "FPAR A.ST"
+    }
+]

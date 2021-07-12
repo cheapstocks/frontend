@@ -1,0 +1,152 @@
+[
+    {
+        "adjustedAmount": 5,
+        "amount": 5,
+        "currency": "SEK",
+        "date": "2012-04-30",
+        "declarationDate": "2012-01-31",
+        "payDate": "2012-05-08",
+        "recordDate": "2012-05-03",
+        "symbol": "ATCO A.ST"
+    },
+    {
+        "adjustedAmount": 5.5,
+        "amount": 5.5,
+        "currency": "SEK",
+        "date": "2013-04-30",
+        "declarationDate": "2013-01-31",
+        "payDate": "2013-05-08",
+        "recordDate": "2013-05-03",
+        "symbol": "ATCO A.ST"
+    },
+    {
+        "adjustedAmount": 5.5,
+        "amount": 5.5,
+        "currency": "SEK",
+        "date": "2014-04-30",
+        "declarationDate": "2014-01-30",
+        "payDate": "2014-05-08",
+        "recordDate": "2014-05-05",
+        "symbol": "ATCO A.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2015-04-29",
+        "declarationDate": "2015-01-29",
+        "payDate": "2015-05-06",
+        "recordDate": "2015-04-30",
+        "symbol": "ATCO A.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2015-10-29",
+        "declarationDate": "2015-01-29",
+        "payDate": "2015-11-04",
+        "recordDate": "2015-10-30",
+        "symbol": "ATCO A.ST"
+    },
+    {
+        "adjustedAmount": 3.15,
+        "amount": 3.15,
+        "currency": "SEK",
+        "date": "2016-04-27",
+        "declarationDate": "2016-01-28",
+        "payDate": "2016-05-03",
+        "recordDate": "2016-04-28",
+        "symbol": "ATCO A.ST"
+    },
+    {
+        "adjustedAmount": 3.15,
+        "amount": 3.15,
+        "currency": "SEK",
+        "date": "2016-10-28",
+        "declarationDate": "2016-01-28",
+        "payDate": "2016-11-03",
+        "recordDate": "2016-10-31",
+        "symbol": "ATCO A.ST"
+    },
+    {
+        "adjustedAmount": 3.4,
+        "amount": 3.4,
+        "currency": "SEK",
+        "date": "2017-04-27",
+        "declarationDate": "2017-01-27",
+        "payDate": "2017-05-04",
+        "recordDate": "2017-04-28",
+        "symbol": "ATCO A.ST"
+    },
+    {
+        "adjustedAmount": 3.4,
+        "amount": 3.4,
+        "currency": "SEK",
+        "date": "2017-10-27",
+        "declarationDate": "2017-01-27",
+        "payDate": "2017-11-02",
+        "recordDate": "2017-10-30",
+        "symbol": "ATCO A.ST"
+    },
+    {
+        "adjustedAmount": 7,
+        "amount": 7,
+        "currency": "SEK",
+        "date": "2018-04-25",
+        "declarationDate": "2018-01-26",
+        "payDate": "2018-05-02",
+        "recordDate": "2018-04-26",
+        "symbol": "ATCO A.ST"
+    },
+    {
+        "adjustedAmount": 3.15,
+        "amount": 3.15,
+        "currency": "SEK",
+        "date": "2019-04-26",
+        "declarationDate": "2019-01-28",
+        "payDate": "2019-05-03",
+        "recordDate": "2019-04-29",
+        "symbol": "ATCO A.ST"
+    },
+    {
+        "adjustedAmount": 3.15,
+        "amount": 3.15,
+        "currency": "SEK",
+        "date": "2019-10-25",
+        "declarationDate": "2019-01-28",
+        "payDate": "2019-10-31",
+        "recordDate": "2019-10-28",
+        "symbol": "ATCO A.ST"
+    },
+    {
+        "adjustedAmount": 3.5,
+        "amount": 3.5,
+        "currency": "SEK",
+        "date": "2020-04-24",
+        "declarationDate": "2020-01-28",
+        "payDate": "2020-04-30",
+        "recordDate": "2020-04-27",
+        "symbol": "ATCO A.ST"
+    },
+    {
+        "adjustedAmount": 3.5,
+        "amount": 3.5,
+        "currency": "SEK",
+        "date": "2020-11-27",
+        "declarationDate": "2020-01-28",
+        "payDate": "2020-12-03",
+        "recordDate": "2020-11-30",
+        "symbol": "ATCO A.ST"
+    },
+    {
+        "adjustedAmount": 3.65,
+        "amount": 3.65,
+        "currency": "SEK",
+        "date": "2021-04-28",
+        "declarationDate": "2021-01-29",
+        "payDate": "2021-05-04",
+        "recordDate": "2021-04-29",
+        "symbol": "ATCO A.ST"
+    }
+]

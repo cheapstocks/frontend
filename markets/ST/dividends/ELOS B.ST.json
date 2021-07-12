@@ -1,0 +1,82 @@
+[
+    {
+        "adjustedAmount": 1.363971,
+        "amount": 1.5,
+        "currency": "SEK",
+        "date": "2012-04-24",
+        "declarationDate": "2012-02-24",
+        "payDate": "2012-05-02",
+        "recordDate": "2012-04-26",
+        "symbol": "ELOS B.ST"
+    },
+    {
+        "adjustedAmount": 0.909314,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2013-04-26",
+        "declarationDate": "2013-02-22",
+        "payDate": "2013-05-06",
+        "recordDate": "2013-04-30",
+        "symbol": "ELOS B.ST"
+    },
+    {
+        "adjustedAmount": 1.818628,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2014-04-30",
+        "declarationDate": "2014-02-21",
+        "payDate": "2014-05-08",
+        "recordDate": "2014-05-05",
+        "symbol": "ELOS B.ST"
+    },
+    {
+        "adjustedAmount": 0.909314,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2015-04-28",
+        "declarationDate": "2015-02-19",
+        "payDate": "2015-05-05",
+        "recordDate": "2015-04-29",
+        "symbol": "ELOS B.ST"
+    },
+    {
+        "adjustedAmount": 0.909314,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2016-04-27",
+        "declarationDate": "2016-02-25",
+        "payDate": "2016-05-03",
+        "recordDate": "2016-04-28",
+        "symbol": "ELOS B.ST"
+    },
+    {
+        "adjustedAmount": 1.1821082,
+        "amount": 1.3,
+        "currency": "SEK",
+        "date": "2017-04-27",
+        "declarationDate": "2017-02-24",
+        "payDate": "2017-05-04",
+        "recordDate": "2017-04-28",
+        "symbol": "ELOS B.ST"
+    },
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2019-04-24",
+        "declarationDate": "2019-02-18",
+        "payDate": "2019-04-30",
+        "recordDate": "2019-04-25",
+        "symbol": "ELOS B.ST"
+    },
+    {
+        "adjustedAmount": 1.5,
+        "amount": 1.5,
+        "currency": "SEK",
+        "date": "2021-05-04",
+        "declarationDate": "2021-02-24",
+        "payDate": "2021-05-10",
+        "recordDate": "2021-05-05",
+        "symbol": "ELOS B.ST"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "adjustedAmount": 2.6,
+        "amount": 2.6,
+        "currency": "SEK",
+        "date": "2012-03-30",
+        "declarationDate": "2012-02-20",
+        "payDate": "2012-04-10",
+        "recordDate": "2012-04-03",
+        "symbol": "ATRLJ B.ST"
+    },
+    {
+        "adjustedAmount": 2.85,
+        "amount": 2.85,
+        "currency": "SEK",
+        "date": "2013-04-11",
+        "declarationDate": "2013-02-22",
+        "payDate": "2013-04-18",
+        "recordDate": "2013-04-15",
+        "symbol": "ATRLJ B.ST"
+    },
+    {
+        "adjustedAmount": 3.05,
+        "amount": 3.05,
+        "currency": "SEK",
+        "date": "2014-04-08",
+        "declarationDate": "2014-03-04",
+        "payDate": "2014-04-15",
+        "recordDate": "2014-04-10",
+        "symbol": "ATRLJ B.ST"
+    },
+    {
+        "adjustedAmount": 3.3,
+        "amount": 3.3,
+        "currency": "SEK",
+        "date": "2015-04-22",
+        "declarationDate": "2015-02-20",
+        "payDate": "2015-04-28",
+        "recordDate": "2015-04-23",
+        "symbol": "ATRLJ B.ST"
+    },
+    {
+        "adjustedAmount": 3.55,
+        "amount": 3.55,
+        "currency": "SEK",
+        "date": "2016-04-07",
+        "declarationDate": "2016-02-19",
+        "payDate": "2016-04-13",
+        "recordDate": "2016-04-08",
+        "symbol": "ATRLJ B.ST"
+    },
+    {
+        "adjustedAmount": 3.95,
+        "amount": 3.95,
+        "currency": "SEK",
+        "date": "2017-04-06",
+        "declarationDate": "2017-02-23",
+        "payDate": "2017-04-12",
+        "recordDate": "2017-04-07",
+        "symbol": "ATRLJ B.ST"
+    },
+    {
+        "adjustedAmount": 4.5,
+        "amount": 4.5,
+        "currency": "SEK",
+        "date": "2018-03-29",
+        "declarationDate": "2018-02-16",
+        "payDate": "2018-04-06",
+        "recordDate": "2018-04-03",
+        "symbol": "ATRLJ B.ST"
+    },
+    {
+        "adjustedAmount": 4.85,
+        "amount": 4.85,
+        "currency": "SEK",
+        "date": "2019-03-28",
+        "declarationDate": "2019-02-15",
+        "payDate": "2019-04-03",
+        "recordDate": "2019-03-29",
+        "symbol": "ATRLJ B.ST"
+    },
+    {
+        "adjustedAmount": 5,
+        "amount": 5,
+        "currency": "SEK",
+        "date": "2020-03-26",
+        "declarationDate": "2020-02-07",
+        "payDate": "2020-04-01",
+        "recordDate": "2020-03-27",
+        "symbol": "ATRLJ B.ST"
+    },
+    {
+        "adjustedAmount": 5.05,
+        "amount": 5.05,
+        "currency": "SEK",
+        "date": "2021-03-26",
+        "declarationDate": "2021-02-09",
+        "payDate": "2021-04-01",
+        "recordDate": "2021-03-29",
+        "symbol": "ATRLJ B.ST"
+    }
+]

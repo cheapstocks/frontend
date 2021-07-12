@@ -1,0 +1,102 @@
+[
+    {
+        "adjustedAmount": 4.74,
+        "amount": 4.74,
+        "currency": "SEK",
+        "date": "2012-05-09",
+        "declarationDate": "2012-02-10",
+        "payDate": "2012-05-16",
+        "recordDate": "2012-05-11",
+        "symbol": "BIOG B.ST"
+    },
+    {
+        "adjustedAmount": 4.15,
+        "amount": 4.15,
+        "currency": "SEK",
+        "date": "2013-04-29",
+        "declarationDate": "2013-02-08",
+        "payDate": "2013-05-07",
+        "recordDate": "2013-05-02",
+        "symbol": "BIOG B.ST"
+    },
+    {
+        "adjustedAmount": 3.65,
+        "amount": 3.65,
+        "currency": "SEK",
+        "date": "2014-05-07",
+        "declarationDate": "2014-02-12",
+        "payDate": "2014-05-14",
+        "recordDate": "2014-05-09",
+        "symbol": "BIOG B.ST"
+    },
+    {
+        "adjustedAmount": 1.54,
+        "amount": 1.54,
+        "currency": "SEK",
+        "date": "2015-05-08",
+        "declarationDate": "2015-02-12",
+        "payDate": "2015-05-15",
+        "recordDate": "2015-05-11",
+        "symbol": "BIOG B.ST"
+    },
+    {
+        "adjustedAmount": 1.97,
+        "amount": 1.97,
+        "currency": "SEK",
+        "date": "2016-05-11",
+        "declarationDate": "2016-02-12",
+        "payDate": "2016-05-17",
+        "recordDate": "2016-05-12",
+        "symbol": "BIOG B.ST"
+    },
+    {
+        "adjustedAmount": 4.34,
+        "amount": 4.34,
+        "currency": "SEK",
+        "date": "2017-05-04",
+        "declarationDate": "2017-02-10",
+        "payDate": "2017-05-10",
+        "recordDate": "2017-05-05",
+        "symbol": "BIOG B.ST"
+    },
+    {
+        "adjustedAmount": 4.31,
+        "amount": 4.31,
+        "currency": "SEK",
+        "date": "2018-04-26",
+        "declarationDate": "2018-02-08",
+        "payDate": "2018-05-03",
+        "recordDate": "2018-04-27",
+        "symbol": "BIOG B.ST"
+    },
+    {
+        "adjustedAmount": 4.05,
+        "amount": 4.05,
+        "currency": "SEK",
+        "date": "2019-05-09",
+        "declarationDate": "2019-02-07",
+        "payDate": "2019-05-15",
+        "recordDate": "2019-05-10",
+        "symbol": "BIOG B.ST"
+    },
+    {
+        "adjustedAmount": 3.75,
+        "amount": 3.75,
+        "currency": "SEK",
+        "date": "2020-05-08",
+        "declarationDate": "2020-02-06",
+        "payDate": "2020-05-14",
+        "recordDate": "2020-05-11",
+        "symbol": "BIOG B.ST"
+    },
+    {
+        "adjustedAmount": 3.41,
+        "amount": 3.41,
+        "currency": "SEK",
+        "date": "2021-05-07",
+        "declarationDate": "2021-02-04",
+        "payDate": "2021-05-14",
+        "recordDate": "2021-05-10",
+        "symbol": "BIOG B.ST"
+    }
+]

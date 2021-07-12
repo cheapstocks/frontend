@@ -1,0 +1,92 @@
+[
+    {
+        "adjustedAmount": 0.3055549444,
+        "amount": 2.75,
+        "currency": "SEK",
+        "date": "2012-08-29",
+        "declarationDate": "2012-05-03",
+        "payDate": "2012-09-05",
+        "recordDate": "2012-08-31",
+        "symbol": "LAGR B.ST"
+    },
+    {
+        "adjustedAmount": 0.3611103889,
+        "amount": 3.25,
+        "currency": "SEK",
+        "date": "2013-08-28",
+        "declarationDate": "2013-05-07",
+        "payDate": "2013-09-04",
+        "recordDate": "2013-08-30",
+        "symbol": "LAGR B.ST"
+    },
+    {
+        "adjustedAmount": 0.4444435556,
+        "amount": 4,
+        "currency": "SEK",
+        "date": "2014-08-27",
+        "declarationDate": "2014-05-08",
+        "payDate": "2014-09-03",
+        "recordDate": "2014-08-29",
+        "symbol": "LAGR B.ST"
+    },
+    {
+        "adjustedAmount": 0.499999,
+        "amount": 4.5,
+        "currency": "SEK",
+        "date": "2015-08-26",
+        "declarationDate": "2015-05-07",
+        "payDate": "2015-09-01",
+        "recordDate": "2015-08-27",
+        "symbol": "LAGR B.ST"
+    },
+    {
+        "adjustedAmount": 0.58333275,
+        "amount": 1.75,
+        "currency": "SEK",
+        "date": "2016-08-31",
+        "declarationDate": "2016-05-10",
+        "payDate": "2016-09-06",
+        "recordDate": "2016-09-01",
+        "symbol": "LAGR B.ST"
+    },
+    {
+        "adjustedAmount": 0.666666,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2017-08-30",
+        "declarationDate": "2017-05-10",
+        "payDate": "2017-09-05",
+        "recordDate": "2017-08-31",
+        "symbol": "LAGR B.ST"
+    },
+    {
+        "adjustedAmount": 0.666666,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2018-10-01",
+        "declarationDate": "2018-05-08",
+        "payDate": "2018-10-05",
+        "recordDate": "2018-10-02",
+        "symbol": "LAGR B.ST"
+    },
+    {
+        "adjustedAmount": 0.8333325,
+        "amount": 2.5,
+        "currency": "SEK",
+        "date": "2019-08-28",
+        "declarationDate": "2019-05-09",
+        "payDate": "2019-09-03",
+        "recordDate": "2019-08-29",
+        "symbol": "LAGR B.ST"
+    },
+    {
+        "adjustedAmount": 0.666666,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2020-08-26",
+        "declarationDate": "2020-07-17",
+        "payDate": "2020-09-01",
+        "recordDate": "2020-08-27",
+        "symbol": "LAGR B.ST"
+    }
+]

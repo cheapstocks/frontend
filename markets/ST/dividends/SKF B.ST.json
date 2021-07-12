@@ -1,0 +1,102 @@
+[
+    {
+        "adjustedAmount": 5.5,
+        "amount": 5.5,
+        "currency": "SEK",
+        "date": "2012-04-26",
+        "declarationDate": "2012-01-26",
+        "payDate": "2012-05-04",
+        "recordDate": "2012-04-30",
+        "symbol": "SKF B.ST"
+    },
+    {
+        "adjustedAmount": 5.5,
+        "amount": 5.5,
+        "currency": "SEK",
+        "date": "2013-04-29",
+        "declarationDate": "2013-01-30",
+        "payDate": "2013-05-07",
+        "recordDate": "2013-05-02",
+        "symbol": "SKF B.ST"
+    },
+    {
+        "adjustedAmount": 5.5,
+        "amount": 5.5,
+        "currency": "SEK",
+        "date": "2014-03-31",
+        "declarationDate": "2014-01-28",
+        "payDate": "2014-04-07",
+        "recordDate": "2014-04-02",
+        "symbol": "SKF B.ST"
+    },
+    {
+        "adjustedAmount": 5.5,
+        "amount": 5.5,
+        "currency": "SEK",
+        "date": "2015-03-27",
+        "declarationDate": "2015-01-28",
+        "payDate": "2015-04-02",
+        "recordDate": "2015-03-30",
+        "symbol": "SKF B.ST"
+    },
+    {
+        "adjustedAmount": 5.5,
+        "amount": 5.5,
+        "currency": "SEK",
+        "date": "2016-04-01",
+        "declarationDate": "2016-02-02",
+        "payDate": "2016-04-07",
+        "recordDate": "2016-04-04",
+        "symbol": "SKF B.ST"
+    },
+    {
+        "adjustedAmount": 5.5,
+        "amount": 5.5,
+        "currency": "SEK",
+        "date": "2017-03-30",
+        "declarationDate": "2017-02-02",
+        "payDate": "2017-04-05",
+        "recordDate": "2017-03-31",
+        "symbol": "SKF B.ST"
+    },
+    {
+        "adjustedAmount": 5.5,
+        "amount": 5.5,
+        "currency": "SEK",
+        "date": "2018-03-28",
+        "declarationDate": "2018-02-01",
+        "payDate": "2018-04-05",
+        "recordDate": "2018-03-29",
+        "symbol": "SKF B.ST"
+    },
+    {
+        "adjustedAmount": 6,
+        "amount": 6,
+        "currency": "SEK",
+        "date": "2019-03-29",
+        "declarationDate": "2019-01-29",
+        "payDate": "2019-04-04",
+        "recordDate": "2019-04-01",
+        "symbol": "SKF B.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2020-03-27",
+        "declarationDate": "2020-02-04",
+        "payDate": "2020-04-02",
+        "recordDate": "2020-03-30",
+        "symbol": "SKF B.ST"
+    },
+    {
+        "adjustedAmount": 6.5,
+        "amount": 6.5,
+        "currency": "SEK",
+        "date": "2021-03-26",
+        "declarationDate": "2021-02-02",
+        "payDate": "2021-04-01",
+        "recordDate": "2021-03-29",
+        "symbol": "SKF B.ST"
+    }
+]

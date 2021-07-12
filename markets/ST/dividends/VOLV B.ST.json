@@ -1,0 +1,92 @@
+[
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2012-04-05",
+        "declarationDate": "2012-02-03",
+        "payDate": "2012-04-16",
+        "recordDate": "2012-04-11",
+        "symbol": "VOLV B.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2013-04-05",
+        "declarationDate": "2013-02-06",
+        "payDate": "2013-04-12",
+        "recordDate": "2013-04-09",
+        "symbol": "VOLV B.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2014-04-03",
+        "declarationDate": "2014-02-06",
+        "payDate": "2014-04-10",
+        "recordDate": "2014-04-07",
+        "symbol": "VOLV B.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2015-04-02",
+        "declarationDate": "2015-02-05",
+        "payDate": "2015-04-10",
+        "recordDate": "2015-04-07",
+        "symbol": "VOLV B.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2016-04-07",
+        "declarationDate": "2016-02-05",
+        "payDate": "2016-04-13",
+        "recordDate": "2016-04-08",
+        "symbol": "VOLV B.ST"
+    },
+    {
+        "adjustedAmount": 3.25,
+        "amount": 3.25,
+        "currency": "SEK",
+        "date": "2017-04-05",
+        "declarationDate": "2017-02-01",
+        "payDate": "2017-04-11",
+        "recordDate": "2017-04-06",
+        "symbol": "VOLV B.ST"
+    },
+    {
+        "adjustedAmount": 4.25,
+        "amount": 4.25,
+        "currency": "SEK",
+        "date": "2018-04-06",
+        "declarationDate": "2018-01-31",
+        "payDate": "2018-04-12",
+        "recordDate": "2018-04-09",
+        "symbol": "VOLV B.ST"
+    },
+    {
+        "adjustedAmount": 5,
+        "amount": 5,
+        "currency": "SEK",
+        "date": "2019-04-04",
+        "declarationDate": "2019-01-30",
+        "payDate": "2019-04-10",
+        "recordDate": "2019-04-05",
+        "symbol": "VOLV B.ST"
+    },
+    {
+        "adjustedAmount": 6,
+        "amount": 6,
+        "currency": "SEK",
+        "date": "2021-04-01",
+        "declarationDate": "2021-02-03",
+        "payDate": "2021-04-09",
+        "recordDate": "2021-04-06",
+        "symbol": "VOLV B.ST"
+    }
+]

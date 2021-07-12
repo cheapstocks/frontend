@@ -1,0 +1,72 @@
+[
+    {
+        "adjustedAmount": 1.9,
+        "amount": 1.9,
+        "currency": "SEK",
+        "date": "2017-04-05",
+        "declarationDate": "2017-01-25",
+        "payDate": "2017-04-11",
+        "recordDate": "2017-04-06",
+        "symbol": "BONAV B.ST"
+    },
+    {
+        "adjustedAmount": 1.9,
+        "amount": 1.9,
+        "currency": "SEK",
+        "date": "2017-10-05",
+        "declarationDate": "2017-01-25",
+        "payDate": "2017-10-11",
+        "recordDate": "2017-10-06",
+        "symbol": "BONAV B.ST"
+    },
+    {
+        "adjustedAmount": 2.6,
+        "amount": 2.6,
+        "currency": "SEK",
+        "date": "2018-04-26",
+        "declarationDate": "2018-02-02",
+        "payDate": "2018-05-03",
+        "recordDate": "2018-04-27",
+        "symbol": "BONAV B.ST"
+    },
+    {
+        "adjustedAmount": 2.6,
+        "amount": 2.6,
+        "currency": "SEK",
+        "date": "2018-10-25",
+        "declarationDate": "2018-02-02",
+        "payDate": "2018-10-31",
+        "recordDate": "2018-10-26",
+        "symbol": "BONAV B.ST"
+    },
+    {
+        "adjustedAmount": 2.6,
+        "amount": 2.6,
+        "currency": "SEK",
+        "date": "2019-04-11",
+        "declarationDate": "2019-01-24",
+        "payDate": "2019-04-17",
+        "recordDate": "2019-04-12",
+        "symbol": "BONAV B.ST"
+    },
+    {
+        "adjustedAmount": 2.6,
+        "amount": 2.6,
+        "currency": "SEK",
+        "date": "2019-10-10",
+        "declarationDate": "2019-01-24",
+        "payDate": "2019-10-16",
+        "recordDate": "2019-10-11",
+        "symbol": "BONAV B.ST"
+    },
+    {
+        "adjustedAmount": 1.65,
+        "amount": 1.65,
+        "currency": "SEK",
+        "date": "2021-04-01",
+        "declarationDate": "2021-01-29",
+        "payDate": "2021-04-09",
+        "recordDate": "2021-04-06",
+        "symbol": "BONAV B.ST"
+    }
+]

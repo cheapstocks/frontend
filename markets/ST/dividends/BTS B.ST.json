@@ -1,0 +1,122 @@
+[
+    {
+        "adjustedAmount": 1.6,
+        "amount": 1.6,
+        "currency": "SEK",
+        "date": "2012-04-30",
+        "declarationDate": "2012-02-21",
+        "payDate": "2012-05-08",
+        "recordDate": "2012-05-03",
+        "symbol": "BTS B.ST"
+    },
+    {
+        "adjustedAmount": 1.75,
+        "amount": 1.75,
+        "currency": "SEK",
+        "date": "2013-05-15",
+        "declarationDate": "2013-02-19",
+        "payDate": "2013-05-22",
+        "recordDate": "2013-05-17",
+        "symbol": "BTS B.ST"
+    },
+    {
+        "adjustedAmount": 1.75,
+        "amount": 1.75,
+        "currency": "SEK",
+        "date": "2014-05-14",
+        "declarationDate": "2014-02-13",
+        "payDate": "2014-05-21",
+        "recordDate": "2014-05-16",
+        "symbol": "BTS B.ST"
+    },
+    {
+        "adjustedAmount": 1.75,
+        "amount": 1.75,
+        "currency": "SEK",
+        "date": "2015-05-08",
+        "declarationDate": "2015-02-12",
+        "payDate": "2015-05-15",
+        "recordDate": "2015-05-11",
+        "symbol": "BTS B.ST"
+    },
+    {
+        "adjustedAmount": 2.35,
+        "amount": 2.35,
+        "currency": "SEK",
+        "date": "2016-05-11",
+        "declarationDate": "2016-02-12",
+        "payDate": "2016-05-17",
+        "recordDate": "2016-05-12",
+        "symbol": "BTS B.ST"
+    },
+    {
+        "adjustedAmount": 2.5,
+        "amount": 2.5,
+        "currency": "SEK",
+        "date": "2017-05-15",
+        "declarationDate": "2017-02-21",
+        "payDate": "2017-05-19",
+        "recordDate": "2017-05-16",
+        "symbol": "BTS B.ST"
+    },
+    {
+        "adjustedAmount": 1.4,
+        "amount": 1.4,
+        "currency": "SEK",
+        "date": "2018-05-17",
+        "declarationDate": "2018-02-20",
+        "payDate": "2018-05-23",
+        "recordDate": "2018-05-18",
+        "symbol": "BTS B.ST"
+    },
+    {
+        "adjustedAmount": 1.4,
+        "amount": 1.4,
+        "currency": "SEK",
+        "date": "2018-11-15",
+        "declarationDate": "2018-02-20",
+        "payDate": "2018-11-21",
+        "recordDate": "2018-11-16",
+        "symbol": "BTS B.ST"
+    },
+    {
+        "adjustedAmount": 1.8,
+        "amount": 1.8,
+        "currency": "SEK",
+        "date": "2019-05-16",
+        "declarationDate": "2019-02-21",
+        "payDate": "2019-05-22",
+        "recordDate": "2019-05-17",
+        "symbol": "BTS B.ST"
+    },
+    {
+        "adjustedAmount": 1.8,
+        "amount": 1.8,
+        "currency": "SEK",
+        "date": "2019-11-14",
+        "declarationDate": "2019-02-21",
+        "payDate": "2019-11-20",
+        "recordDate": "2019-11-15",
+        "symbol": "BTS B.ST"
+    },
+    {
+        "adjustedAmount": 3.6,
+        "amount": 3.6,
+        "currency": "SEK",
+        "date": "2020-12-14",
+        "declarationDate": "2020-02-18",
+        "payDate": "2020-12-18",
+        "recordDate": "2020-12-15",
+        "symbol": "BTS B.ST"
+    },
+    {
+        "adjustedAmount": 0.6,
+        "amount": 0.6,
+        "currency": "SEK",
+        "date": "2021-05-20",
+        "declarationDate": "2021-02-24",
+        "payDate": "2021-05-26",
+        "recordDate": "2021-05-21",
+        "symbol": "BTS B.ST"
+    }
+]

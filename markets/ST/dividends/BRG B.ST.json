@@ -1,0 +1,32 @@
+[
+    {
+        "adjustedAmount": 0.05,
+        "amount": 0.05,
+        "currency": "SEK",
+        "date": "2018-01-26",
+        "declarationDate": "2017-10-12",
+        "payDate": "2018-02-01",
+        "recordDate": "2018-01-29",
+        "symbol": "BRG B.ST"
+    },
+    {
+        "adjustedAmount": 0.1,
+        "amount": 0.1,
+        "currency": "SEK",
+        "date": "2019-05-09",
+        "declarationDate": "2019-02-27",
+        "payDate": "2019-05-15",
+        "recordDate": "2019-05-10",
+        "symbol": "BRG B.ST"
+    },
+    {
+        "adjustedAmount": 0.08,
+        "amount": 0.08,
+        "currency": "SEK",
+        "date": "2021-05-06",
+        "declarationDate": "2021-02-03",
+        "payDate": "2021-05-12",
+        "recordDate": "2021-05-07",
+        "symbol": "BRG B.ST"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "adjustedAmount": 2.1,
+        "amount": 2.1,
+        "currency": "SEK",
+        "date": "2012-05-16",
+        "declarationDate": "2012-02-15",
+        "payDate": "2012-05-24",
+        "recordDate": "2012-05-21",
+        "symbol": "PEAB B.ST"
+    },
+    {
+        "adjustedAmount": 1.6,
+        "amount": 1.6,
+        "currency": "SEK",
+        "date": "2013-05-15",
+        "declarationDate": "2013-02-14",
+        "payDate": "2013-05-22",
+        "recordDate": "2013-05-17",
+        "symbol": "PEAB B.ST"
+    },
+    {
+        "adjustedAmount": 1.8,
+        "amount": 1.8,
+        "currency": "SEK",
+        "date": "2014-05-14",
+        "declarationDate": "2014-02-13",
+        "payDate": "2014-05-21",
+        "recordDate": "2014-05-16",
+        "symbol": "PEAB B.ST"
+    },
+    {
+        "adjustedAmount": 2.25,
+        "amount": 2.25,
+        "currency": "SEK",
+        "date": "2015-05-15",
+        "declarationDate": "2015-02-12",
+        "payDate": "2015-05-21",
+        "recordDate": "2015-05-18",
+        "symbol": "PEAB B.ST"
+    },
+    {
+        "adjustedAmount": 2.6,
+        "amount": 2.6,
+        "currency": "SEK",
+        "date": "2016-05-11",
+        "declarationDate": "2016-02-16",
+        "payDate": "2016-05-17",
+        "recordDate": "2016-05-12",
+        "symbol": "PEAB B.ST"
+    },
+    {
+        "adjustedAmount": 3.6,
+        "amount": 3.6,
+        "currency": "SEK",
+        "date": "2017-05-11",
+        "declarationDate": "2017-02-10",
+        "payDate": "2017-05-17",
+        "recordDate": "2017-05-12",
+        "symbol": "PEAB B.ST"
+    },
+    {
+        "adjustedAmount": 4,
+        "amount": 4,
+        "currency": "SEK",
+        "date": "2018-05-08",
+        "declarationDate": "2018-02-13",
+        "payDate": "2018-05-15",
+        "recordDate": "2018-05-09",
+        "symbol": "PEAB B.ST"
+    },
+    {
+        "adjustedAmount": 4.2,
+        "amount": 4.2,
+        "currency": "SEK",
+        "date": "2019-05-10",
+        "declarationDate": "2019-02-08",
+        "payDate": "2019-05-16",
+        "recordDate": "2019-05-13",
+        "symbol": "PEAB B.ST"
+    },
+    {
+        "adjustedAmount": 4.5,
+        "amount": 4.5,
+        "currency": "SEK",
+        "date": "2021-05-07",
+        "declarationDate": "2021-02-04",
+        "payDate": "2021-05-14",
+        "recordDate": "2021-05-10",
+        "symbol": "PEAB B.ST"
+    }
+]

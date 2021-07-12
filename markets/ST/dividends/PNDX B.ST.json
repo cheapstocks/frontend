@@ -1,0 +1,42 @@
+[
+    {
+        "adjustedAmount": 3.8,
+        "amount": 3.8,
+        "currency": "SEK",
+        "date": "2016-05-04",
+        "declarationDate": "2016-02-18",
+        "payDate": "2016-05-11",
+        "recordDate": "2016-05-06",
+        "symbol": "PNDX B.ST"
+    },
+    {
+        "adjustedAmount": 4.1,
+        "amount": 4.1,
+        "currency": "SEK",
+        "date": "2017-03-30",
+        "declarationDate": "2017-02-16",
+        "payDate": "2017-04-05",
+        "recordDate": "2017-03-31",
+        "symbol": "PNDX B.ST"
+    },
+    {
+        "adjustedAmount": 4.4,
+        "amount": 4.4,
+        "currency": "SEK",
+        "date": "2018-04-10",
+        "declarationDate": "2018-02-15",
+        "payDate": "2018-04-16",
+        "recordDate": "2018-04-11",
+        "symbol": "PNDX B.ST"
+    },
+    {
+        "adjustedAmount": 4.7,
+        "amount": 4.7,
+        "currency": "SEK",
+        "date": "2019-04-11",
+        "declarationDate": "2019-02-14",
+        "payDate": "2019-04-17",
+        "recordDate": "2019-04-12",
+        "symbol": "PNDX B.ST"
+    }
+]

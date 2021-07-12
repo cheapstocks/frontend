@@ -1,0 +1,112 @@
+[
+    {
+        "adjustedAmount": 0.3314301028,
+        "amount": 0.5,
+        "currency": "SEK",
+        "date": "2013-04-29",
+        "declarationDate": "2013-02-08",
+        "payDate": "2013-05-07",
+        "recordDate": "2013-05-02",
+        "symbol": "MSON A.ST"
+    },
+    {
+        "adjustedAmount": 0.6628602056,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2014-04-30",
+        "declarationDate": "2014-02-07",
+        "payDate": "2014-05-08",
+        "recordDate": "2014-05-05",
+        "symbol": "MSON A.ST"
+    },
+    {
+        "adjustedAmount": 0.7291462262,
+        "amount": 1.1,
+        "currency": "SEK",
+        "date": "2015-04-29",
+        "declarationDate": "2015-02-06",
+        "payDate": "2015-05-06",
+        "recordDate": "2015-04-30",
+        "symbol": "MSON A.ST"
+    },
+    {
+        "adjustedAmount": 0.7912867673,
+        "amount": 1.1,
+        "currency": "SEK",
+        "date": "2016-04-28",
+        "declarationDate": "2016-02-05",
+        "payDate": "2016-05-04",
+        "recordDate": "2016-04-29",
+        "symbol": "MSON A.ST"
+    },
+    {
+        "adjustedAmount": 0.9543556,
+        "amount": 1.1,
+        "currency": "SEK",
+        "date": "2017-04-27",
+        "declarationDate": "2017-02-08",
+        "payDate": "2017-05-04",
+        "recordDate": "2017-04-28",
+        "symbol": "MSON A.ST"
+    },
+    {
+        "adjustedAmount": 1.084495,
+        "amount": 1.25,
+        "currency": "SEK",
+        "date": "2018-04-26",
+        "declarationDate": "2018-02-09",
+        "payDate": "2018-05-03",
+        "recordDate": "2018-04-27",
+        "symbol": "MSON A.ST"
+    },
+    {
+        "adjustedAmount": 0.5639374,
+        "amount": 0.65,
+        "currency": "SEK",
+        "date": "2019-05-06",
+        "declarationDate": "2019-02-08",
+        "payDate": "2019-05-10",
+        "recordDate": "2019-05-07",
+        "symbol": "MSON A.ST"
+    },
+    {
+        "adjustedAmount": 0.5205576,
+        "amount": 0.6,
+        "currency": "SEK",
+        "date": "2019-10-30",
+        "declarationDate": "2019-02-08",
+        "payDate": "2019-11-05",
+        "recordDate": "2019-10-31",
+        "symbol": "MSON A.ST"
+    },
+    {
+        "adjustedAmount": 0.65,
+        "amount": 0.65,
+        "currency": "SEK",
+        "date": "2020-06-26",
+        "declarationDate": "2020-02-06",
+        "payDate": "2020-07-02",
+        "recordDate": "2020-06-29",
+        "symbol": "MSON A.ST"
+    },
+    {
+        "adjustedAmount": 0.6,
+        "amount": 0.6,
+        "currency": "SEK",
+        "date": "2020-10-29",
+        "declarationDate": "2020-02-06",
+        "payDate": "2020-11-04",
+        "recordDate": "2020-10-30",
+        "symbol": "MSON A.ST"
+    },
+    {
+        "adjustedAmount": 0.65,
+        "amount": 0.65,
+        "currency": "SEK",
+        "date": "2021-05-06",
+        "declarationDate": "2021-02-05",
+        "payDate": "2021-05-12",
+        "recordDate": "2021-05-07",
+        "symbol": "MSON A.ST"
+    }
+]

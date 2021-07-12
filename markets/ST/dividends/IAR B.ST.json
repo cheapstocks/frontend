@@ -1,0 +1,72 @@
+[
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2012-04-25",
+        "declarationDate": "2012-02-06",
+        "payDate": "2012-05-03",
+        "recordDate": "2012-04-27",
+        "symbol": "IAR B.ST"
+    },
+    {
+        "adjustedAmount": 2,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2013-04-23",
+        "declarationDate": "2013-02-04",
+        "payDate": "2013-04-30",
+        "recordDate": "2013-04-25",
+        "symbol": "IAR B.ST"
+    },
+    {
+        "adjustedAmount": 4,
+        "amount": 4,
+        "currency": "SEK",
+        "date": "2015-04-30",
+        "declarationDate": "2015-02-12",
+        "payDate": "2015-05-07",
+        "recordDate": "2015-05-04",
+        "symbol": "IAR B.ST"
+    },
+    {
+        "adjustedAmount": 2,
+        "amount": 2,
+        "currency": "SEK",
+        "date": "2016-04-28",
+        "declarationDate": "2016-02-10",
+        "payDate": "2016-05-04",
+        "recordDate": "2016-04-29",
+        "symbol": "IAR B.ST"
+    },
+    {
+        "adjustedAmount": 5,
+        "amount": 5,
+        "currency": "SEK",
+        "date": "2017-04-27",
+        "declarationDate": "2017-02-14",
+        "payDate": "2017-05-04",
+        "recordDate": "2017-04-28",
+        "symbol": "IAR B.ST"
+    },
+    {
+        "adjustedAmount": 5,
+        "amount": 5,
+        "currency": "SEK",
+        "date": "2018-04-26",
+        "declarationDate": "2018-02-06",
+        "payDate": "2018-05-03",
+        "recordDate": "2018-04-27",
+        "symbol": "IAR B.ST"
+    },
+    {
+        "adjustedAmount": 5,
+        "amount": 5,
+        "currency": "SEK",
+        "date": "2019-04-25",
+        "declarationDate": "2019-02-13",
+        "payDate": "2019-05-02",
+        "recordDate": "2019-04-26",
+        "symbol": "IAR B.ST"
+    }
+]

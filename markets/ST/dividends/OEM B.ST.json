@@ -1,0 +1,92 @@
+[
+    {
+        "adjustedAmount": 1.1666655,
+        "amount": 3.5,
+        "currency": "SEK",
+        "date": "2012-04-27",
+        "declarationDate": "2012-02-21",
+        "payDate": "2012-05-07",
+        "recordDate": "2012-05-02",
+        "symbol": "OEM B.ST"
+    },
+    {
+        "adjustedAmount": 1.24999875,
+        "amount": 3.75,
+        "currency": "SEK",
+        "date": "2013-04-23",
+        "declarationDate": "2013-02-19",
+        "payDate": "2013-04-30",
+        "recordDate": "2013-04-25",
+        "symbol": "OEM B.ST"
+    },
+    {
+        "adjustedAmount": 1.333332,
+        "amount": 4,
+        "currency": "SEK",
+        "date": "2014-04-30",
+        "declarationDate": "2014-02-19",
+        "payDate": "2014-05-08",
+        "recordDate": "2014-05-05",
+        "symbol": "OEM B.ST"
+    },
+    {
+        "adjustedAmount": 1.41666525,
+        "amount": 4.25,
+        "currency": "SEK",
+        "date": "2015-04-24",
+        "declarationDate": "2015-02-17",
+        "payDate": "2015-04-30",
+        "recordDate": "2015-04-27",
+        "symbol": "OEM B.ST"
+    },
+    {
+        "adjustedAmount": 1.666665,
+        "amount": 5,
+        "currency": "SEK",
+        "date": "2016-04-27",
+        "declarationDate": "2016-02-18",
+        "payDate": "2016-05-03",
+        "recordDate": "2016-04-28",
+        "symbol": "OEM B.ST"
+    },
+    {
+        "adjustedAmount": 1.8333315,
+        "amount": 5.5,
+        "currency": "SEK",
+        "date": "2017-04-20",
+        "declarationDate": "2017-02-17",
+        "payDate": "2017-04-26",
+        "recordDate": "2017-04-21",
+        "symbol": "OEM B.ST"
+    },
+    {
+        "adjustedAmount": 1.999998,
+        "amount": 6,
+        "currency": "SEK",
+        "date": "2018-04-19",
+        "declarationDate": "2018-02-15",
+        "payDate": "2018-04-25",
+        "recordDate": "2018-04-20",
+        "symbol": "OEM B.ST"
+    },
+    {
+        "adjustedAmount": 2.24999775,
+        "amount": 6.75,
+        "currency": "SEK",
+        "date": "2019-04-25",
+        "declarationDate": "2019-02-18",
+        "payDate": "2019-05-02",
+        "recordDate": "2019-04-26",
+        "symbol": "OEM B.ST"
+    },
+    {
+        "adjustedAmount": 2.4226450774,
+        "amount": 7.5,
+        "currency": "SEK",
+        "date": "2021-04-23",
+        "declarationDate": "2021-02-18",
+        "payDate": "2021-04-29",
+        "recordDate": "2021-04-26",
+        "symbol": "OEM B.ST"
+    }
+]

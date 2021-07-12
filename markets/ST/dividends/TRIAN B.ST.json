@@ -1,0 +1,32 @@
+[
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2018-05-04",
+        "declarationDate": "2018-02-28",
+        "payDate": "2018-05-11",
+        "recordDate": "2018-05-07",
+        "symbol": "TRIAN B.ST"
+    },
+    {
+        "adjustedAmount": 1.15,
+        "amount": 1.15,
+        "currency": "SEK",
+        "date": "2019-05-08",
+        "declarationDate": "2019-02-28",
+        "payDate": "2019-05-14",
+        "recordDate": "2019-05-09",
+        "symbol": "TRIAN B.ST"
+    },
+    {
+        "adjustedAmount": 1.8,
+        "amount": 1.8,
+        "currency": "SEK",
+        "date": "2021-05-05",
+        "declarationDate": "2021-02-19",
+        "payDate": "2021-05-11",
+        "recordDate": "2021-05-06",
+        "symbol": "TRIAN B.ST"
+    }
+]

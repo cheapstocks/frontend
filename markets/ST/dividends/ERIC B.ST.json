@@ -1,0 +1,112 @@
+[
+    {
+        "adjustedAmount": 2.5,
+        "amount": 2.5,
+        "currency": "SEK",
+        "date": "2012-05-04",
+        "declarationDate": "2012-01-25",
+        "payDate": "2012-05-11",
+        "recordDate": "2012-05-08",
+        "symbol": "ERIC B.ST"
+    },
+    {
+        "adjustedAmount": 2.75,
+        "amount": 2.75,
+        "currency": "SEK",
+        "date": "2013-04-10",
+        "declarationDate": "2013-01-31",
+        "payDate": "2013-04-17",
+        "recordDate": "2013-04-12",
+        "symbol": "ERIC B.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2014-04-14",
+        "declarationDate": "2014-01-30",
+        "payDate": "2014-04-23",
+        "recordDate": "2014-04-16",
+        "symbol": "ERIC B.ST"
+    },
+    {
+        "adjustedAmount": 3.4,
+        "amount": 3.4,
+        "currency": "SEK",
+        "date": "2015-04-15",
+        "declarationDate": "2015-01-27",
+        "payDate": "2015-04-21",
+        "recordDate": "2015-04-16",
+        "symbol": "ERIC B.ST"
+    },
+    {
+        "adjustedAmount": 3.7,
+        "amount": 3.7,
+        "currency": "SEK",
+        "date": "2016-04-14",
+        "declarationDate": "2016-01-27",
+        "payDate": "2016-04-20",
+        "recordDate": "2016-04-15",
+        "symbol": "ERIC B.ST"
+    },
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2017-03-30",
+        "declarationDate": "2017-01-26",
+        "payDate": "2017-04-05",
+        "recordDate": "2017-03-31",
+        "symbol": "ERIC B.ST"
+    },
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2018-03-29",
+        "declarationDate": "2018-01-31",
+        "payDate": "2018-04-06",
+        "recordDate": "2018-04-03",
+        "symbol": "ERIC B.ST"
+    },
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2019-03-28",
+        "declarationDate": "2019-01-25",
+        "payDate": "2019-04-03",
+        "recordDate": "2019-03-29",
+        "symbol": "ERIC B.ST"
+    },
+    {
+        "adjustedAmount": 0.75,
+        "amount": 0.75,
+        "currency": "SEK",
+        "date": "2020-04-01",
+        "declarationDate": "2020-01-24",
+        "payDate": "2020-04-07",
+        "recordDate": "2020-04-02",
+        "symbol": "ERIC B.ST"
+    },
+    {
+        "adjustedAmount": 0.75,
+        "amount": 0.75,
+        "currency": "SEK",
+        "date": "2020-10-01",
+        "declarationDate": "2020-01-24",
+        "payDate": "2020-10-07",
+        "recordDate": "2020-10-02",
+        "symbol": "ERIC B.ST"
+    },
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2021-03-31",
+        "declarationDate": "2021-01-29",
+        "payDate": "2021-04-08",
+        "recordDate": "2021-04-01",
+        "symbol": "ERIC B.ST"
+    }
+]

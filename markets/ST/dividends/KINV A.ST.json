@@ -1,0 +1,92 @@
+[
+    {
+        "adjustedAmount": 5.5,
+        "amount": 5.5,
+        "currency": "SEK",
+        "date": "2012-05-08",
+        "declarationDate": "2012-02-15",
+        "payDate": "2012-05-15",
+        "recordDate": "2012-05-10",
+        "symbol": "KINV A.ST"
+    },
+    {
+        "adjustedAmount": 6.5,
+        "amount": 6.5,
+        "currency": "SEK",
+        "date": "2013-05-14",
+        "declarationDate": "2013-02-15",
+        "payDate": "2013-05-22",
+        "recordDate": "2013-05-16",
+        "symbol": "KINV A.ST"
+    },
+    {
+        "adjustedAmount": 7,
+        "amount": 7,
+        "currency": "SEK",
+        "date": "2014-05-13",
+        "declarationDate": "2014-02-14",
+        "payDate": "2014-05-21",
+        "recordDate": "2014-05-15",
+        "symbol": "KINV A.ST"
+    },
+    {
+        "adjustedAmount": 7.25,
+        "amount": 7.25,
+        "currency": "SEK",
+        "date": "2015-05-19",
+        "declarationDate": "2015-02-06",
+        "payDate": "2015-05-27",
+        "recordDate": "2015-05-20",
+        "symbol": "KINV A.ST"
+    },
+    {
+        "adjustedAmount": 7.75,
+        "amount": 7.75,
+        "currency": "SEK",
+        "date": "2016-05-26",
+        "declarationDate": "2016-02-11",
+        "payDate": "2016-06-01",
+        "recordDate": "2016-05-27",
+        "symbol": "KINV A.ST"
+    },
+    {
+        "adjustedAmount": 8,
+        "amount": 8,
+        "currency": "SEK",
+        "date": "2017-05-11",
+        "declarationDate": "2017-02-10",
+        "payDate": "2017-05-17",
+        "recordDate": "2017-05-12",
+        "symbol": "KINV A.ST"
+    },
+    {
+        "adjustedAmount": 8.25,
+        "amount": 8.25,
+        "currency": "SEK",
+        "date": "2018-05-24",
+        "declarationDate": "2018-02-09",
+        "payDate": "2018-05-30",
+        "recordDate": "2018-05-25",
+        "symbol": "KINV A.ST"
+    },
+    {
+        "adjustedAmount": 4.25,
+        "amount": 4.25,
+        "currency": "SEK",
+        "date": "2019-05-08",
+        "declarationDate": "2019-02-14",
+        "payDate": "2019-05-14",
+        "recordDate": "2019-05-09",
+        "symbol": "KINV A.ST"
+    },
+    {
+        "adjustedAmount": 4,
+        "amount": 4,
+        "currency": "SEK",
+        "date": "2019-11-07",
+        "declarationDate": "2019-02-14",
+        "payDate": "2019-11-13",
+        "recordDate": "2019-11-08",
+        "symbol": "KINV A.ST"
+    }
+]
