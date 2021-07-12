@@ -2,10 +2,10 @@
     {
         "currency": "SEK",
         "description": "SECTRA AB-B SHS",
-        "displaySymbol": "SECTB.ST",
+        "displaySymbol": "SECT B.ST",
         "figi": "BBG000BS1TV6",
         "mic": "XSTO",
-        "symbol": "SECTB.ST",
+        "symbol": "SECT B.ST",
         "type": "Common Stock"
     },
     {
@@ -38,19 +38,19 @@
     {
         "currency": "SEK",
         "description": "KINNEVIK AB - B",
-        "displaySymbol": "KINVB.ST",
+        "displaySymbol": "KINV B.ST",
         "figi": "BBG000BP73C4",
         "mic": "XSTO",
-        "symbol": "KINVB.ST",
+        "symbol": "KINV B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "ORTIVUS AB-B SHS",
-        "displaySymbol": "ORTIB.ST",
+        "displaySymbol": "ORTI B.ST",
         "figi": "BBG000J7SLF0",
         "mic": "XSTO",
-        "symbol": "ORTIB.ST",
+        "symbol": "ORTI B.ST",
         "type": "Common Stock"
     },
     {
@@ -65,10 +65,10 @@
     {
         "currency": "SEK",
         "description": "VBG GROUP AB-B SHS",
-        "displaySymbol": "VBGB.ST",
+        "displaySymbol": "VBG B.ST",
         "figi": "BBG000BHFT09",
         "mic": "XSTO",
-        "symbol": "VBGB.ST",
+        "symbol": "VBG B.ST",
         "type": "Common Stock"
     },
     {
@@ -101,19 +101,19 @@
     {
         "currency": "SEK",
         "description": "FINGERPRINT CARDS AB-B",
-        "displaySymbol": "FINGB.ST",
+        "displaySymbol": "FING B.ST",
         "figi": "BBG000BMHWD5",
         "mic": "XSTO",
-        "symbol": "FINGB.ST",
+        "symbol": "FING B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "RATOS AB-B SHS",
-        "displaySymbol": "RATOB.ST",
+        "displaySymbol": "RATO B.ST",
         "figi": "BBG000BF20X4",
         "mic": "XSTO",
-        "symbol": "RATOB.ST",
+        "symbol": "RATO B.ST",
         "type": "Common Stock"
     },
     {
@@ -146,19 +146,19 @@
     {
         "currency": "SEK",
         "description": "SWECO AB-B SHS",
-        "displaySymbol": "SWECB.ST",
+        "displaySymbol": "SWEC B.ST",
         "figi": "BBG000C313G4",
         "mic": "XSTO",
-        "symbol": "SWECB.ST",
+        "symbol": "SWEC B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "FENIX OUTDOOR INTERNATIONAL",
-        "displaySymbol": "FOIB.ST",
+        "displaySymbol": "FOI B.ST",
         "figi": "BBG006Q4HWN5",
         "mic": "XSTO",
-        "symbol": "FOIB.ST",
+        "symbol": "FOI B.ST",
         "type": "Common Stock"
     },
     {
@@ -209,10 +209,10 @@
     {
         "currency": "SEK",
         "description": "INFANT BACTERIAL THERAPEUTIC",
-        "displaySymbol": "IBTB.ST",
+        "displaySymbol": "IBT B.ST",
         "figi": "BBG00CB3BRH4",
         "mic": "XSTO",
-        "symbol": "IBTB.ST",
+        "symbol": "IBT B.ST",
         "type": "Common Stock"
     },
     {
@@ -245,37 +245,37 @@
     {
         "currency": "SEK",
         "description": "PROFILGRUPPEN AB-B SHS",
-        "displaySymbol": "PROFB.ST",
+        "displaySymbol": "PROF B.ST",
         "figi": "BBG000BWPJH9",
         "mic": "XSTO",
-        "symbol": "PROFB.ST",
+        "symbol": "PROF B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "MIDSONA AB - A SHS",
-        "displaySymbol": "MSONA.ST",
+        "displaySymbol": "MSON A.ST",
         "figi": "BBG000BXHF48",
         "mic": "XSTO",
-        "symbol": "MSONA.ST",
+        "symbol": "MSON A.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "CATELLA AB",
-        "displaySymbol": "CATB.ST",
+        "displaySymbol": "CAT B.ST",
         "figi": "BBG000BHPFZ0",
         "mic": "XSTO",
-        "symbol": "CATB.ST",
+        "symbol": "CAT B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "KLOVERN AB-B SHS",
-        "displaySymbol": "KLOVB.ST",
+        "displaySymbol": "KLOV B.ST",
         "figi": "BBG007GFJ9X7",
         "mic": "XSTO",
-        "symbol": "KLOVB.ST",
+        "symbol": "KLOV B.ST",
         "type": "Common Stock"
     },
     {
@@ -308,19 +308,19 @@
     {
         "currency": "SEK",
         "description": "NOVOTEK AB-B SHS",
-        "displaySymbol": "NTEKB.ST",
+        "displaySymbol": "NTEK B.ST",
         "figi": "BBG000BY26C3",
         "mic": "XSTO",
-        "symbol": "NTEKB.ST",
+        "symbol": "NTEK B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "PLATZER FASTIGHETER HOLD-B",
-        "displaySymbol": "PLAZB.ST",
+        "displaySymbol": "PLAZ B.ST",
         "figi": "BBG005N0JM21",
         "mic": "XSTO",
-        "symbol": "PLAZB.ST",
+        "symbol": "PLAZ B.ST",
         "type": "Common Stock"
     },
     {
@@ -335,10 +335,10 @@
     {
         "currency": "SEK",
         "description": "HOLMEN AB-A SHS",
-        "displaySymbol": "HOLMA.ST",
+        "displaySymbol": "HOLM A.ST",
         "figi": "BBG000BQ6VS4",
         "mic": "XSTO",
-        "symbol": "HOLMA.ST",
+        "symbol": "HOLM A.ST",
         "type": "Common Stock"
     },
     {
@@ -353,10 +353,10 @@
     {
         "currency": "SEK",
         "description": "ELANDERS AB-B SHS",
-        "displaySymbol": "ELANB.ST",
+        "displaySymbol": "ELAN B.ST",
         "figi": "BBG000BDXXY2",
         "mic": "XSTO",
-        "symbol": "ELANB.ST",
+        "symbol": "ELAN B.ST",
         "type": "Common Stock"
     },
     {
@@ -407,28 +407,28 @@
     {
         "currency": "SEK",
         "description": "ERICSSON LM-A SHS",
-        "displaySymbol": "ERICA.ST",
+        "displaySymbol": "ERIC A.ST",
         "figi": "BBG000BX2VW8",
         "mic": "XSTO",
-        "symbol": "ERICA.ST",
+        "symbol": "ERIC A.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "HUSQVARNA AB-A SHS",
-        "displaySymbol": "HUSQA.ST",
+        "displaySymbol": "HUSQ A.ST",
         "figi": "BBG000BB28Z4",
         "mic": "XSTO",
-        "symbol": "HUSQA.ST",
+        "symbol": "HUSQ A.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "NOLATO AB-B SHS",
-        "displaySymbol": "NOLAB.ST",
+        "displaySymbol": "NOLA B.ST",
         "figi": "BBG000BD7KG9",
         "mic": "XSTO",
-        "symbol": "NOLAB.ST",
+        "symbol": "NOLA B.ST",
         "type": "Common Stock"
     },
     {
@@ -461,10 +461,10 @@
     {
         "currency": "SEK",
         "description": "ATVEXA AB - B SHARES",
-        "displaySymbol": "ATVEXAB.ST",
+        "displaySymbol": "ATVEXA B.ST",
         "figi": "BBG00JDRD8D8",
         "mic": "XSTO",
-        "symbol": "ATVEXAB.ST",
+        "symbol": "ATVEXA B.ST",
         "type": "Common Stock"
     },
     {
@@ -488,28 +488,28 @@
     {
         "currency": "SEK",
         "description": "NCC AB-B SHS",
-        "displaySymbol": "NCCB.ST",
+        "displaySymbol": "NCC B.ST",
         "figi": "BBG000BD79W6",
         "mic": "XSTO",
-        "symbol": "NCCB.ST",
+        "symbol": "NCC B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "CREADES AB-A SHARES",
-        "displaySymbol": "CREDA.ST",
+        "displaySymbol": "CRED A.ST",
         "figi": "BBG002NKKHH7",
         "mic": "XSTO",
-        "symbol": "CREDA.ST",
+        "symbol": "CRED A.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "ERICSSON LM-B SHS",
-        "displaySymbol": "ERICB.ST",
+        "displaySymbol": "ERIC B.ST",
         "figi": "BBG000BX2SW5",
         "mic": "XSTO",
-        "symbol": "ERICB.ST",
+        "symbol": "ERIC B.ST",
         "type": "Common Stock"
     },
     {
@@ -533,10 +533,10 @@
     {
         "currency": "SEK",
         "description": "CHRISTIAN BERNER TECH TRADE",
-        "displaySymbol": "CBTTB.ST",
+        "displaySymbol": "CBTT B.ST",
         "figi": "BBG007BNC702",
         "mic": "XSTO",
-        "symbol": "CBTTB.ST",
+        "symbol": "CBTT B.ST",
         "type": "Common Stock"
     },
     {
@@ -596,19 +596,19 @@
     {
         "currency": "SEK",
         "description": "SERNEKE GROUP AB",
-        "displaySymbol": "SRNKEB.ST",
+        "displaySymbol": "SRNKE B.ST",
         "figi": "BBG00F5KWSD5",
         "mic": "XSTO",
-        "symbol": "SRNKEB.ST",
+        "symbol": "SRNKE B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "REJLERS AB",
-        "displaySymbol": "REJLB.ST",
+        "displaySymbol": "REJL B.ST",
         "figi": "BBG000PL0745",
         "mic": "XSTO",
-        "symbol": "REJLB.ST",
+        "symbol": "REJL B.ST",
         "type": "Common Stock"
     },
     {
@@ -623,28 +623,28 @@
     {
         "currency": "SEK",
         "description": "STORA ENSO OYJ-A SHS",
-        "displaySymbol": "STEA.ST",
+        "displaySymbol": "STE A.ST",
         "figi": "BBG000HTGT06",
         "mic": "XSTO",
-        "symbol": "STEA.ST",
+        "symbol": "STE A.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "LIFCO AB-B SHS",
-        "displaySymbol": "LIFCOB.ST",
+        "displaySymbol": "LIFCO B.ST",
         "figi": "BBG002HB9BH0",
         "mic": "XSTO",
-        "symbol": "LIFCOB.ST",
+        "symbol": "LIFCO B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "ELEKTA AB-B SHS",
-        "displaySymbol": "EKTAB.ST",
+        "displaySymbol": "EKTA B.ST",
         "figi": "BBG000BH56D6",
         "mic": "XSTO",
-        "symbol": "EKTAB.ST",
+        "symbol": "EKTA B.ST",
         "type": "Common Stock"
     },
     {
@@ -659,10 +659,10 @@
     {
         "currency": "SEK",
         "description": "CATELLA AB",
-        "displaySymbol": "CATA.ST",
+        "displaySymbol": "CAT A.ST",
         "figi": "BBG000BHPDL0",
         "mic": "XSTO",
-        "symbol": "CATA.ST",
+        "symbol": "CAT A.ST",
         "type": "Common Stock"
     },
     {
@@ -740,10 +740,10 @@
     {
         "currency": "SEK",
         "description": "ORTIVUS AB-A SHS",
-        "displaySymbol": "ORTIA.ST",
+        "displaySymbol": "ORTI A.ST",
         "figi": "BBG000J9SMC7",
         "mic": "XSTO",
-        "symbol": "ORTIA.ST",
+        "symbol": "ORTI A.ST",
         "type": "Common Stock"
     },
     {
@@ -758,19 +758,19 @@
     {
         "currency": "SEK",
         "description": "ADDLIFE AB-B",
-        "displaySymbol": "ALIFB.ST",
+        "displaySymbol": "ALIF B.ST",
         "figi": "BBG00CDXJ7Y3",
         "mic": "XSTO",
-        "symbol": "ALIFB.ST",
+        "symbol": "ALIF B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "SAGAX AB-B",
-        "displaySymbol": "SAGAB.ST",
+        "displaySymbol": "SAGA B.ST",
         "figi": "BBG004CZFY18",
         "mic": "XSTO",
-        "symbol": "SAGAB.ST",
+        "symbol": "SAGA B.ST",
         "type": "Common Stock"
     },
     {
@@ -812,10 +812,10 @@
     {
         "currency": "SEK",
         "description": "MODERN TIMES GROUP-B SHS",
-        "displaySymbol": "MTGB.ST",
+        "displaySymbol": "MTG B.ST",
         "figi": "BBG000BW1RR6",
         "mic": "XSTO",
-        "symbol": "MTGB.ST",
+        "symbol": "MTG B.ST",
         "type": "Common Stock"
     },
     {
@@ -875,10 +875,10 @@
     {
         "currency": "SEK",
         "description": "SWECO AB-A SHS",
-        "displaySymbol": "SWECA.ST",
+        "displaySymbol": "SWEC A.ST",
         "figi": "BBG000BSK0Q4",
         "mic": "XSTO",
-        "symbol": "SWECA.ST",
+        "symbol": "SWEC A.ST",
         "type": "Common Stock"
     },
     {
@@ -893,10 +893,10 @@
     {
         "currency": "SEK",
         "description": "SVOLDER AB-A",
-        "displaySymbol": "SVOLA.ST",
+        "displaySymbol": "SVOL A.ST",
         "figi": "BBG000BXZYF5",
         "mic": "XSTO",
-        "symbol": "SVOLA.ST",
+        "symbol": "SVOL A.ST",
         "type": "Common Stock"
     },
     {
@@ -911,10 +911,10 @@
     {
         "currency": "SEK",
         "description": "STORA ENSO OYJ-R SHS",
-        "displaySymbol": "STER.ST",
+        "displaySymbol": "STE R.ST",
         "figi": "BBG000HST0R8",
         "mic": "XSTO",
-        "symbol": "STER.ST",
+        "symbol": "STE R.ST",
         "type": "Common Stock"
     },
     {
@@ -1037,10 +1037,10 @@
     {
         "currency": "SEK",
         "description": "IAR SYSTEMS GROUP AB",
-        "displaySymbol": "IARB.ST",
+        "displaySymbol": "IAR B.ST",
         "figi": "BBG000BRM039",
         "mic": "XSTO",
-        "symbol": "IARB.ST",
+        "symbol": "IAR B.ST",
         "type": "Common Stock"
     },
     {
@@ -1073,28 +1073,28 @@
     {
         "currency": "SEK",
         "description": "MIDWAY HOLDING AB-B SHS",
-        "displaySymbol": "MIDWB.ST",
+        "displaySymbol": "MIDW B.ST",
         "figi": "BBG000BHGDN8",
         "mic": "XSTO",
-        "symbol": "MIDWB.ST",
+        "symbol": "MIDW B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "K2A KNAUST & ANDERSSON-B SHR",
-        "displaySymbol": "K2AB.ST",
+        "displaySymbol": "K2A B.ST",
         "figi": "BBG00PFB4SX1",
         "mic": "XSTO",
-        "symbol": "K2AB.ST",
+        "symbol": "K2A B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "MODERN TIMES GROUP-A SHS",
-        "displaySymbol": "MTGA.ST",
+        "displaySymbol": "MTG A.ST",
         "figi": "BBG000BZCGD6",
         "mic": "XSTO",
-        "symbol": "MTGA.ST",
+        "symbol": "MTG A.ST",
         "type": "Common Stock"
     },
     {
@@ -1136,10 +1136,10 @@
     {
         "currency": "SEK",
         "description": "NORDIC ENTERTAINMENT GROUP-A",
-        "displaySymbol": "NENTA.ST",
+        "displaySymbol": "NENT A.ST",
         "figi": "BBG00NKG5HL5",
         "mic": "XSTO",
-        "symbol": "NENTA.ST",
+        "symbol": "NENT A.ST",
         "type": "Common Stock"
     },
     {
@@ -1181,19 +1181,19 @@
     {
         "currency": "SEK",
         "description": "FASTPARTNER AB-D SHARES",
-        "displaySymbol": "FPARD.ST",
+        "displaySymbol": "FPAR D.ST",
         "figi": "BBG00R29MYS9",
         "mic": "XSTO",
-        "symbol": "FPARD.ST",
+        "symbol": "FPAR D.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "MAHA ENERGY AB",
-        "displaySymbol": "MAHAA.ST",
+        "displaySymbol": "MAHA A.ST",
         "figi": "BBG00D1P2JY3",
         "mic": "XSTO",
-        "symbol": "MAHAA.ST",
+        "symbol": "MAHA A.ST",
         "type": "Common Stock"
     },
     {
@@ -1217,19 +1217,19 @@
     {
         "currency": "SEK",
         "description": "MICRO SYSTEMATION AB-B",
-        "displaySymbol": "MSABB.ST",
+        "displaySymbol": "MSAB B.ST",
         "figi": "BBG000BFSYR9",
         "mic": "XSTO",
-        "symbol": "MSABB.ST",
+        "symbol": "MSAB B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "SKANDINAVISKA ENSKILDA BAN-A",
-        "displaySymbol": "SEBA.ST",
+        "displaySymbol": "SEB A.ST",
         "figi": "BBG000BGX763",
         "mic": "XSTO",
-        "symbol": "SEBA.ST",
+        "symbol": "SEB A.ST",
         "type": "Common Stock"
     },
     {
@@ -1253,10 +1253,10 @@
     {
         "currency": "SEK",
         "description": "STARBREEZE AB",
-        "displaySymbol": "STARB.ST",
+        "displaySymbol": "STAR B.ST",
         "figi": "BBG000CWVBR7",
         "mic": "XSTO",
-        "symbol": "STARB.ST",
+        "symbol": "STAR B.ST",
         "type": "Common Stock"
     },
     {
@@ -1307,19 +1307,19 @@
     {
         "currency": "SEK",
         "description": "NIBE INDUSTRIER AB-B SHS",
-        "displaySymbol": "NIBEB.ST",
+        "displaySymbol": "NIBE B.ST",
         "figi": "BBG000BWPL11",
         "mic": "XSTO",
-        "symbol": "NIBEB.ST",
+        "symbol": "NIBE B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "CONCEJO AB",
-        "displaySymbol": "CNCJOB.ST",
+        "displaySymbol": "CNCJO B.ST",
         "figi": "BBG000BKP638",
         "mic": "XSTO",
-        "symbol": "CNCJOB.ST",
+        "symbol": "CNCJO B.ST",
         "type": "Common Stock"
     },
     {
@@ -1334,19 +1334,19 @@
     {
         "currency": "SEK",
         "description": "SVENSKA HANDELSBANKEN-A SHS",
-        "displaySymbol": "SHBA.ST",
+        "displaySymbol": "SHB A.ST",
         "figi": "BBG000BGX8Y0",
         "mic": "XSTO",
-        "symbol": "SHBA.ST",
+        "symbol": "SHB A.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "NILORNGRUPPEN AB-B SHS",
-        "displaySymbol": "NILB.ST",
+        "displaySymbol": "NIL B.ST",
         "figi": "BBG002GXFQT0",
         "mic": "XSTO",
-        "symbol": "NILB.ST",
+        "symbol": "NIL B.ST",
         "type": "Common Stock"
     },
     {
@@ -1361,19 +1361,19 @@
     {
         "currency": "SEK",
         "description": "FASTPARTNER AB-A",
-        "displaySymbol": "FPARA.ST",
+        "displaySymbol": "FPAR A.ST",
         "figi": "BBG000BGR3S5",
         "mic": "XSTO",
-        "symbol": "FPARA.ST",
+        "symbol": "FPAR A.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "ATLAS COPCO AB-A SHS",
-        "displaySymbol": "ATCOA.ST",
+        "displaySymbol": "ATCO A.ST",
         "figi": "BBG000BB5SQ7",
         "mic": "XSTO",
-        "symbol": "ATCOA.ST",
+        "symbol": "ATCO A.ST",
         "type": "Common Stock"
     },
     {
@@ -1388,19 +1388,19 @@
     {
         "currency": "SEK",
         "description": "IRLAB THERAPEUTICS AB",
-        "displaySymbol": "IRLABA.ST",
+        "displaySymbol": "IRLAB A.ST",
         "figi": "BBG00G3F2C80",
         "mic": "XSTO",
-        "symbol": "IRLABA.ST",
+        "symbol": "IRLAB A.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "AB TRACTION -B SHS",
-        "displaySymbol": "TRACB.ST",
+        "displaySymbol": "TRAC B.ST",
         "figi": "BBG000CBWT57",
         "mic": "XSTO",
-        "symbol": "TRACB.ST",
+        "symbol": "TRAC B.ST",
         "type": "Common Stock"
     },
     {
@@ -1415,10 +1415,10 @@
     {
         "currency": "SEK",
         "description": "NORDIC ENTERTAINMENT GROUP-B",
-        "displaySymbol": "NENTB.ST",
+        "displaySymbol": "NENT B.ST",
         "figi": "BBG00NKG5QV4",
         "mic": "XSTO",
-        "symbol": "NENTB.ST",
+        "symbol": "NENT B.ST",
         "type": "Common Stock"
     },
     {
@@ -1496,28 +1496,28 @@
     {
         "currency": "SEK",
         "description": "CLOETTA AB-B SHS",
-        "displaySymbol": "CLAB.ST",
+        "displaySymbol": "CLA B.ST",
         "figi": "BBG000BHYWQ3",
         "mic": "XSTO",
-        "symbol": "CLAB.ST",
+        "symbol": "CLA B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "BIOARCTIC AB",
-        "displaySymbol": "BIOAB.ST",
+        "displaySymbol": "BIOA B.ST",
         "figi": "BBG00HVQ6XD7",
         "mic": "XSTO",
-        "symbol": "BIOAB.ST",
+        "symbol": "BIOA B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "LUNDBERGS AB-B SHS",
-        "displaySymbol": "LUNDB.ST",
+        "displaySymbol": "LUND B.ST",
         "figi": "BBG000BCNP81",
         "mic": "XSTO",
-        "symbol": "LUNDB.ST",
+        "symbol": "LUND B.ST",
         "type": "Common Stock"
     },
     {
@@ -1568,10 +1568,10 @@
     {
         "currency": "SEK",
         "description": "SKF AB-A SHS",
-        "displaySymbol": "SKFA.ST",
+        "displaySymbol": "SKF A.ST",
         "figi": "BBG000BCD620",
         "mic": "XSTO",
-        "symbol": "SKFA.ST",
+        "symbol": "SKF A.ST",
         "type": "Common Stock"
     },
     {
@@ -1586,19 +1586,19 @@
     {
         "currency": "SEK",
         "description": "NET INSIGHT AB-B",
-        "displaySymbol": "NETIB.ST",
+        "displaySymbol": "NETI B.ST",
         "figi": "BBG000BX2KB5",
         "mic": "XSTO",
-        "symbol": "NETIB.ST",
+        "symbol": "NETI B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "BONAVA AB-B SHARES",
-        "displaySymbol": "BONAVB.ST",
+        "displaySymbol": "BONAV B.ST",
         "figi": "BBG00CZHNL69",
         "mic": "XSTO",
-        "symbol": "BONAVB.ST",
+        "symbol": "BONAV B.ST",
         "type": "Common Stock"
     },
     {
@@ -1613,28 +1613,28 @@
     {
         "currency": "SEK",
         "description": "COREM PROPERTY GROUP AB-A",
-        "displaySymbol": "COREA.ST",
+        "displaySymbol": "CORE A.ST",
         "figi": "BBG000BX06X4",
         "mic": "XSTO",
-        "symbol": "COREA.ST",
+        "symbol": "CORE A.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "HEXPOL AB",
-        "displaySymbol": "HPOLB.ST",
+        "displaySymbol": "HPOL B.ST",
         "figi": "BBG000CDZP94",
         "mic": "XSTO",
-        "symbol": "HPOLB.ST",
+        "symbol": "HPOL B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "HEBA FASTIGHETS AB-B",
-        "displaySymbol": "HEBAB.ST",
+        "displaySymbol": "HEBA B.ST",
         "figi": "BBG000CKYQW1",
         "mic": "XSTO",
-        "symbol": "HEBAB.ST",
+        "symbol": "HEBA B.ST",
         "type": "Common Stock"
     },
     {
@@ -1658,10 +1658,10 @@
     {
         "currency": "SEK",
         "description": "OEM INTERNATIONAL AB-B SHS",
-        "displaySymbol": "OEMB.ST",
+        "displaySymbol": "OEM B.ST",
         "figi": "BBG000BHFN39",
         "mic": "XSTO",
-        "symbol": "OEMB.ST",
+        "symbol": "OEM B.ST",
         "type": "Common Stock"
     },
     {
@@ -1676,19 +1676,19 @@
     {
         "currency": "SEK",
         "description": "INDUSTRIVARDEN AB-A SHS",
-        "displaySymbol": "INDUA.ST",
+        "displaySymbol": "INDU A.ST",
         "figi": "BBG000BGK0K6",
         "mic": "XSTO",
-        "symbol": "INDUA.ST",
+        "symbol": "INDU A.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "TRELLEBORG AB-B SHS",
-        "displaySymbol": "TRELB.ST",
+        "displaySymbol": "TREL B.ST",
         "figi": "BBG000BCFYM5",
         "mic": "XSTO",
-        "symbol": "TRELB.ST",
+        "symbol": "TREL B.ST",
         "type": "Common Stock"
     },
     {
@@ -1757,10 +1757,10 @@
     {
         "currency": "SEK",
         "description": "TELE2 AB-B SHS",
-        "displaySymbol": "TEL2B.ST",
+        "displaySymbol": "TEL2 B.ST",
         "figi": "BBG000ND1YG2",
         "mic": "XSTO",
-        "symbol": "TEL2B.ST",
+        "symbol": "TEL2 B.ST",
         "type": "Common Stock"
     },
     {
@@ -1802,10 +1802,10 @@
     {
         "currency": "SEK",
         "description": "SKANSKA AB-B SHS",
-        "displaySymbol": "SKAB.ST",
+        "displaySymbol": "SKA B.ST",
         "figi": "BBG000BCD9M2",
         "mic": "XSTO",
-        "symbol": "SKAB.ST",
+        "symbol": "SKA B.ST",
         "type": "Common Stock"
     },
     {
@@ -1847,28 +1847,28 @@
     {
         "currency": "SEK",
         "description": "SKISTAR AB",
-        "displaySymbol": "SKISB.ST",
+        "displaySymbol": "SKIS B.ST",
         "figi": "BBG000NMJ9H7",
         "mic": "XSTO",
-        "symbol": "SKISB.ST",
+        "symbol": "SKIS B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "VOLVO AB-A SHS",
-        "displaySymbol": "VOLVA.ST",
+        "displaySymbol": "VOLV A.ST",
         "figi": "BBG000BCH127",
         "mic": "XSTO",
-        "symbol": "VOLVA.ST",
+        "symbol": "VOLV A.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "BIOGAIA AB-B SHS",
-        "displaySymbol": "BIOGB.ST",
+        "displaySymbol": "BIOG B.ST",
         "figi": "BBG000BGX3S8",
         "mic": "XSTO",
-        "symbol": "BIOGB.ST",
+        "symbol": "BIOG B.ST",
         "type": "Common Stock"
     },
     {
@@ -1892,46 +1892,46 @@
     {
         "currency": "SEK",
         "description": "SDIPTECH AB - B",
-        "displaySymbol": "SDIPB.ST",
+        "displaySymbol": "SDIP B.ST",
         "figi": "BBG00GM3LNL6",
         "mic": "XSTO",
-        "symbol": "SDIPB.ST",
+        "symbol": "SDIP B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "RIZZO GROUP AB",
-        "displaySymbol": "RIZZOB.ST",
+        "displaySymbol": "RIZZO B.ST",
         "figi": "BBG000BWQ4T8",
         "mic": "XSTO",
-        "symbol": "RIZZOB.ST",
+        "symbol": "RIZZO B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "SECURITAS AB-B SHS",
-        "displaySymbol": "SECUB.ST",
+        "displaySymbol": "SECU B.ST",
         "figi": "BBG000BFKC95",
         "mic": "XSTO",
-        "symbol": "SECUB.ST",
+        "symbol": "SECU B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "STENDORREN FASTIGHETER AB",
-        "displaySymbol": "STEFB.ST",
+        "displaySymbol": "STEF B.ST",
         "figi": "BBG00193BR09",
         "mic": "XSTO",
-        "symbol": "STEFB.ST",
+        "symbol": "STEF B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "VITEC SOFTWARE GROUP AB-B SH",
-        "displaySymbol": "VITB.ST",
+        "displaySymbol": "VIT B.ST",
         "figi": "BBG000D38J62",
         "mic": "XSTO",
-        "symbol": "VITB.ST",
+        "symbol": "VIT B.ST",
         "type": "Common Stock"
     },
     {
@@ -1946,10 +1946,10 @@
     {
         "currency": "SEK",
         "description": "FASTIGHETS AB TRIANON",
-        "displaySymbol": "TRIANB.ST",
+        "displaySymbol": "TRIAN B.ST",
         "figi": "BBG00GVM2L02",
         "mic": "XSTO",
-        "symbol": "TRIANB.ST",
+        "symbol": "TRIAN B.ST",
         "type": "Common Stock"
     },
     {
@@ -1964,10 +1964,10 @@
     {
         "currency": "SEK",
         "description": "SOFTRONIC AB-B SHS",
-        "displaySymbol": "SOFB.ST",
+        "displaySymbol": "SOF B.ST",
         "figi": "BBG000BQW3J7",
         "mic": "XSTO",
-        "symbol": "SOFB.ST",
+        "symbol": "SOF B.ST",
         "type": "Common Stock"
     },
     {
@@ -1982,10 +1982,10 @@
     {
         "currency": "SEK",
         "description": "EOLUS VIND AB-B SHS",
-        "displaySymbol": "EOLUB.ST",
+        "displaySymbol": "EOLU B.ST",
         "figi": "BBG000QPJMP9",
         "mic": "XSTO",
-        "symbol": "EOLUB.ST",
+        "symbol": "EOLU B.ST",
         "type": "Common Stock"
     },
     {
@@ -2072,10 +2072,10 @@
     {
         "currency": "SEK",
         "description": "KABE GROUP AB-B",
-        "displaySymbol": "KABEB.ST",
+        "displaySymbol": "KABE B.ST",
         "figi": "BBG000BHF4D0",
         "mic": "XSTO",
-        "symbol": "KABEB.ST",
+        "symbol": "KABE B.ST",
         "type": "Common Stock"
     },
     {
@@ -2099,10 +2099,10 @@
     {
         "currency": "SEK",
         "description": "HENNES & MAURITZ AB-B SHS",
-        "displaySymbol": "HMB.ST",
+        "displaySymbol": "HM B.ST",
         "figi": "BBG000BM9JH9",
         "mic": "XSTO",
-        "symbol": "HMB.ST",
+        "symbol": "HM B.ST",
         "type": "Common Stock"
     },
     {
@@ -2117,10 +2117,10 @@
     {
         "currency": "SEK",
         "description": "ARJO AB - B SHARES",
-        "displaySymbol": "ARJOB.ST",
+        "displaySymbol": "ARJO B.ST",
         "figi": "BBG00J6JF3J7",
         "mic": "XSTO",
-        "symbol": "ARJOB.ST",
+        "symbol": "ARJO B.ST",
         "type": "Common Stock"
     },
     {
@@ -2144,19 +2144,19 @@
     {
         "currency": "SEK",
         "description": "DUROC AB-B SHS",
-        "displaySymbol": "DURCB.ST",
+        "displaySymbol": "DURC B.ST",
         "figi": "BBG000KKVK58",
         "mic": "XSTO",
-        "symbol": "DURCB.ST",
+        "symbol": "DURC B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "MALMBERGS ELEKTRISKA AB-B",
-        "displaySymbol": "MEABB.ST",
+        "displaySymbol": "MEAB B.ST",
         "figi": "BBG000BLNWL1",
         "mic": "XSTO",
-        "symbol": "MEABB.ST",
+        "symbol": "MEAB B.ST",
         "type": "Common Stock"
     },
     {
@@ -2171,10 +2171,10 @@
     {
         "currency": "SEK",
         "description": "HUFVUDSTADEN AB-A SHS",
-        "displaySymbol": "HUFVA.ST",
+        "displaySymbol": "HUFV A.ST",
         "figi": "BBG000BDSFG7",
         "mic": "XSTO",
-        "symbol": "HUFVA.ST",
+        "symbol": "HUFV A.ST",
         "type": "Common Stock"
     },
     {
@@ -2198,19 +2198,19 @@
     {
         "currency": "SEK",
         "description": "BERGS TIMBER AB-B SHARES",
-        "displaySymbol": "BRGB.ST",
+        "displaySymbol": "BRG B.ST",
         "figi": "BBG000BHDNZ6",
         "mic": "XSTO",
-        "symbol": "BRGB.ST",
+        "symbol": "BRG B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "SVENSKA HANDELSBANKEN-B SHS",
-        "displaySymbol": "SHBB.ST",
+        "displaySymbol": "SHB B.ST",
         "figi": "BBG000BF3WD5",
         "mic": "XSTO",
-        "symbol": "SHBB.ST",
+        "symbol": "SHB B.ST",
         "type": "Common Stock"
     },
     {
@@ -2225,10 +2225,10 @@
     {
         "currency": "SEK",
         "description": "SKF AB-B SHARES",
-        "displaySymbol": "SKFB.ST",
+        "displaySymbol": "SKF B.ST",
         "figi": "BBG000BCD7X4",
         "mic": "XSTO",
-        "symbol": "SKFB.ST",
+        "symbol": "SKF B.ST",
         "type": "Common Stock"
     },
     {
@@ -2288,10 +2288,10 @@
     {
         "currency": "SEK",
         "description": "BEIJER REF AB",
-        "displaySymbol": "BEIJB.ST",
+        "displaySymbol": "BEIJ B.ST",
         "figi": "BBG000BJ94K5",
         "mic": "XSTO",
-        "symbol": "BEIJB.ST",
+        "symbol": "BEIJ B.ST",
         "type": "Common Stock"
     },
     {
@@ -2333,28 +2333,28 @@
     {
         "currency": "SEK",
         "description": "INVESTOR AB-A SHS",
-        "displaySymbol": "INVEA.ST",
+        "displaySymbol": "INVE A.ST",
         "figi": "BBG000BG96K6",
         "mic": "XSTO",
-        "symbol": "INVEA.ST",
+        "symbol": "INVE A.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "WALLENSTAM AB-B SHS",
-        "displaySymbol": "WALLB.ST",
+        "displaySymbol": "WALL B.ST",
         "figi": "BBG000BGKX60",
         "mic": "XSTO",
-        "symbol": "WALLB.ST",
+        "symbol": "WALL B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "STARBREEZE AB-A SHARES",
-        "displaySymbol": "STARA.ST",
+        "displaySymbol": "STAR A.ST",
         "figi": "BBG009BVFDK2",
         "mic": "XSTO",
-        "symbol": "STARA.ST",
+        "symbol": "STAR A.ST",
         "type": "Common Stock"
     },
     {
@@ -2378,10 +2378,10 @@
     {
         "currency": "SEK",
         "description": "EPIROC AB-B",
-        "displaySymbol": "EPIB.ST",
+        "displaySymbol": "EPI B.ST",
         "figi": "BBG00KRMTQR9",
         "mic": "XSTO",
-        "symbol": "EPIB.ST",
+        "symbol": "EPI B.ST",
         "type": "Common Stock"
     },
     {
@@ -2405,19 +2405,19 @@
     {
         "currency": "SEK",
         "description": "SAGAX AB-A",
-        "displaySymbol": "SAGAA.ST",
+        "displaySymbol": "SAGA A.ST",
         "figi": "BBG000BSSBR1",
         "mic": "XSTO",
-        "symbol": "SAGAA.ST",
+        "symbol": "SAGA A.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "BTS GROUP AB-B SHARES",
-        "displaySymbol": "BTSB.ST",
+        "displaySymbol": "BTS B.ST",
         "figi": "BBG000J508V5",
         "mic": "XSTO",
-        "symbol": "BTSB.ST",
+        "symbol": "BTS B.ST",
         "type": "Common Stock"
     },
     {
@@ -2459,19 +2459,19 @@
     {
         "currency": "SEK",
         "description": "SWEDBANK AB - A SHARES",
-        "displaySymbol": "SWEDA.ST",
+        "displaySymbol": "SWED A.ST",
         "figi": "BBG000BQXJJ1",
         "mic": "XSTO",
-        "symbol": "SWEDA.ST",
+        "symbol": "SWED A.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "POOLIA AB-B SH",
-        "displaySymbol": "POOLB.ST",
+        "displaySymbol": "POOL B.ST",
         "figi": "BBG000BXTJX5",
         "mic": "XSTO",
-        "symbol": "POOLB.ST",
+        "symbol": "POOL B.ST",
         "type": "Common Stock"
     },
     {
@@ -2495,19 +2495,19 @@
     {
         "currency": "SEK",
         "description": "MOMENTUM GROUP AB-CLASS B",
-        "displaySymbol": "MMGRB.ST",
+        "displaySymbol": "MMGR B.ST",
         "figi": "BBG00GSL4VZ6",
         "mic": "XSTO",
-        "symbol": "MMGRB.ST",
+        "symbol": "MMGR B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "ADDNODE GROUP AB",
-        "displaySymbol": "ANODB.ST",
+        "displaySymbol": "ANOD B.ST",
         "figi": "BBG000BM0LT0",
         "mic": "XSTO",
-        "symbol": "ANODB.ST",
+        "symbol": "ANOD B.ST",
         "type": "Common Stock"
     },
     {
@@ -2531,10 +2531,10 @@
     {
         "currency": "SEK",
         "description": "COREM PROPERTY GROUP-B SHARE",
-        "displaySymbol": "COREB.ST",
+        "displaySymbol": "CORE B.ST",
         "figi": "BBG00JF8NXD2",
         "mic": "XSTO",
-        "symbol": "COREB.ST",
+        "symbol": "CORE B.ST",
         "type": "Common Stock"
     },
     {
@@ -2549,10 +2549,10 @@
     {
         "currency": "SEK",
         "description": "SSAB AB-A SHARES",
-        "displaySymbol": "SSABA.ST",
+        "displaySymbol": "SSAB A.ST",
         "figi": "BBG000BDZQP5",
         "mic": "XSTO",
-        "symbol": "SSABA.ST",
+        "symbol": "SSAB A.ST",
         "type": "Common Stock"
     },
     {
@@ -2576,19 +2576,19 @@
     {
         "currency": "SEK",
         "description": "SVENSKA CELLULOSA AB-A SHS",
-        "displaySymbol": "SCAA.ST",
+        "displaySymbol": "SCA A.ST",
         "figi": "BBG000BFQ1Y5",
         "mic": "XSTO",
-        "symbol": "SCAA.ST",
+        "symbol": "SCA A.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "PANDOX AB",
-        "displaySymbol": "PNDXB.ST",
+        "displaySymbol": "PNDX B.ST",
         "figi": "BBG0099X0KH5",
         "mic": "XSTO",
-        "symbol": "PNDXB.ST",
+        "symbol": "PNDX B.ST",
         "type": "Common Stock"
     },
     {
@@ -2612,19 +2612,19 @@
     {
         "currency": "SEK",
         "description": "WASTBYGG AB",
-        "displaySymbol": "WBGRB.ST",
+        "displaySymbol": "WBGR B.ST",
         "figi": "BBG00XS051W3",
         "mic": "XSTO",
-        "symbol": "WBGRB.ST",
+        "symbol": "WBGR B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "BACTIGUARD HOLDING AB",
-        "displaySymbol": "BACTIB.ST",
+        "displaySymbol": "BACTI B.ST",
         "figi": "BBG006N7S1W7",
         "mic": "XSTO",
-        "symbol": "BACTIB.ST",
+        "symbol": "BACTI B.ST",
         "type": "Common Stock"
     },
     {
@@ -2639,28 +2639,28 @@
     {
         "currency": "SEK",
         "description": "PEAB AB-CLASS B",
-        "displaySymbol": "PEABB.ST",
+        "displaySymbol": "PEAB B.ST",
         "figi": "BBG000BMT5Z7",
         "mic": "XSTO",
-        "symbol": "PEABB.ST",
+        "symbol": "PEAB B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "MIDWAY HOLDING AB-A SHS",
-        "displaySymbol": "MIDWA.ST",
+        "displaySymbol": "MIDW A.ST",
         "figi": "BBG000BHRWB7",
         "mic": "XSTO",
-        "symbol": "MIDWA.ST",
+        "symbol": "MIDW A.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "INDUSTRIVARDEN AB-C SHS",
-        "displaySymbol": "INDUC.ST",
+        "displaySymbol": "INDU C.ST",
         "figi": "BBG000BBMX96",
         "mic": "XSTO",
-        "symbol": "INDUC.ST",
+        "symbol": "INDU C.ST",
         "type": "Common Stock"
     },
     {
@@ -2693,10 +2693,10 @@
     {
         "currency": "SEK",
         "description": "NCC AB-A SHS",
-        "displaySymbol": "NCCA.ST",
+        "displaySymbol": "NCC A.ST",
         "figi": "BBG000BCP2G1",
         "mic": "XSTO",
-        "symbol": "NCCA.ST",
+        "symbol": "NCC A.ST",
         "type": "Common Stock"
     },
     {
@@ -2738,10 +2738,10 @@
     {
         "currency": "SEK",
         "description": "ELECTROLUX AB-SER B",
-        "displaySymbol": "ELUXB.ST",
+        "displaySymbol": "ELUX B.ST",
         "figi": "BBG000BC1188",
         "mic": "XSTO",
-        "symbol": "ELUXB.ST",
+        "symbol": "ELUX B.ST",
         "type": "Common Stock"
     },
     {
@@ -2756,19 +2756,19 @@
     {
         "currency": "SEK",
         "description": "BRINOVA FASTIGHETER AB",
-        "displaySymbol": "BRINB.ST",
+        "displaySymbol": "BRIN B.ST",
         "figi": "BBG000C2GNL0",
         "mic": "XSTO",
-        "symbol": "BRINB.ST",
+        "symbol": "BRIN B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "PROJEKTENGAGEMANG SWEDEN AB",
-        "displaySymbol": "PENGB.ST",
+        "displaySymbol": "PENG B.ST",
         "figi": "BBG00L49X5B9",
         "mic": "XSTO",
-        "symbol": "PENGB.ST",
+        "symbol": "PENG B.ST",
         "type": "Common Stock"
     },
     {
@@ -2792,10 +2792,10 @@
     {
         "currency": "SEK",
         "description": "FASTIGHETS AB BALDER-B SHRS",
-        "displaySymbol": "BALDB.ST",
+        "displaySymbol": "BALD B.ST",
         "figi": "BBG000DMFMW6",
         "mic": "XSTO",
-        "symbol": "BALDB.ST",
+        "symbol": "BALD B.ST",
         "type": "Common Stock"
     },
     {
@@ -2819,28 +2819,28 @@
     {
         "currency": "SEK",
         "description": "SSAB AB - B SHARES",
-        "displaySymbol": "SSABB.ST",
+        "displaySymbol": "SSAB B.ST",
         "figi": "BBG000BGD8Q1",
         "mic": "XSTO",
-        "symbol": "SSABB.ST",
+        "symbol": "SSAB B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "BERGMAN & BEVING AKTIEBOLAG",
-        "displaySymbol": "BERGB.ST",
+        "displaySymbol": "BERG B.ST",
         "figi": "BBG000BCN004",
         "mic": "XSTO",
-        "symbol": "BERGB.ST",
+        "symbol": "BERG B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "ADDTECH AB-B SHARES",
-        "displaySymbol": "ADDTB.ST",
+        "displaySymbol": "ADDT B.ST",
         "figi": "BBG000D22MJ9",
         "mic": "XSTO",
-        "symbol": "ADDTB.ST",
+        "symbol": "ADDT B.ST",
         "type": "Common Stock"
     },
     {
@@ -2855,10 +2855,10 @@
     {
         "currency": "SEK",
         "description": "HUSQVARNA AB-B SHS",
-        "displaySymbol": "HUSQB.ST",
+        "displaySymbol": "HUSQ B.ST",
         "figi": "BBG000BB48H2",
         "mic": "XSTO",
-        "symbol": "HUSQB.ST",
+        "symbol": "HUSQ B.ST",
         "type": "Common Stock"
     },
     {
@@ -2882,19 +2882,19 @@
     {
         "currency": "SEK",
         "description": "EPIROC AB-A",
-        "displaySymbol": "EPIA.ST",
+        "displaySymbol": "EPI A.ST",
         "figi": "BBG00JWT5W30",
         "mic": "XSTO",
-        "symbol": "EPIA.ST",
+        "symbol": "EPI A.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "BILIA AB-A SHS",
-        "displaySymbol": "BILIA.ST",
+        "displaySymbol": "BILI A.ST",
         "figi": "BBG000BQS099",
         "mic": "XSTO",
-        "symbol": "BILIA.ST",
+        "symbol": "BILI A.ST",
         "type": "Common Stock"
     },
     {
@@ -2909,10 +2909,10 @@
     {
         "currency": "SEK",
         "description": "LAMMHULTS DESIGN GROUP AB",
-        "displaySymbol": "LAMMB.ST",
+        "displaySymbol": "LAMM B.ST",
         "figi": "BBG000C32HG2",
         "mic": "XSTO",
-        "symbol": "LAMMB.ST",
+        "symbol": "LAMM B.ST",
         "type": "Common Stock"
     },
     {
@@ -2963,10 +2963,10 @@
     {
         "currency": "SEK",
         "description": "VOLVO AB-B SHS",
-        "displaySymbol": "VOLVB.ST",
+        "displaySymbol": "VOLV B.ST",
         "figi": "BBG000BCH2F1",
         "mic": "XSTO",
-        "symbol": "VOLVB.ST",
+        "symbol": "VOLV B.ST",
         "type": "Common Stock"
     },
     {
@@ -2990,10 +2990,10 @@
     {
         "currency": "SEK",
         "description": "RAYSEARCH LABORATORIES AB",
-        "displaySymbol": "RAYB.ST",
+        "displaySymbol": "RAY B.ST",
         "figi": "BBG000BHGH86",
         "mic": "XSTO",
-        "symbol": "RAYB.ST",
+        "symbol": "RAY B.ST",
         "type": "Common Stock"
     },
     {
@@ -3044,10 +3044,10 @@
     {
         "currency": "SEK",
         "description": "HAVSFRUN INVESTMENT AB-B",
-        "displaySymbol": "HAVB.ST",
+        "displaySymbol": "HAV B.ST",
         "figi": "BBG000BLQ7P9",
         "mic": "XSTO",
-        "symbol": "HAVB.ST",
+        "symbol": "HAV B.ST",
         "type": "Common Stock"
     },
     {
@@ -3071,10 +3071,10 @@
     {
         "currency": "SEK",
         "description": "CELLINK AB - B",
-        "displaySymbol": "CLNKB.ST",
+        "displaySymbol": "CLNK B.ST",
         "figi": "BBG00F0SJZP9",
         "mic": "XSTO",
-        "symbol": "CLNKB.ST",
+        "symbol": "CLNK B.ST",
         "type": "Common Stock"
     },
     {
@@ -3107,28 +3107,28 @@
     {
         "currency": "SEK",
         "description": "CLAS OHLSON AB-B SHS",
-        "displaySymbol": "CLASB.ST",
+        "displaySymbol": "CLAS B.ST",
         "figi": "BBG000C2P138",
         "mic": "XSTO",
-        "symbol": "CLASB.ST",
+        "symbol": "CLAS B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "ATLAS COPCO AB-B SHS",
-        "displaySymbol": "ATCOB.ST",
+        "displaySymbol": "ATCO B.ST",
         "figi": "BBG000BBM5J6",
         "mic": "XSTO",
-        "symbol": "ATCOB.ST",
+        "symbol": "ATCO B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "TELE2 AB -A SHS",
-        "displaySymbol": "TEL2A.ST",
+        "displaySymbol": "TEL2 A.ST",
         "figi": "BBG000ND1W67",
         "mic": "XSTO",
-        "symbol": "TEL2A.ST",
+        "symbol": "TEL2 A.ST",
         "type": "Common Stock"
     },
     {
@@ -3143,10 +3143,10 @@
     {
         "currency": "SEK",
         "description": "LAGERCRANTZ GROUP AB-B SHS",
-        "displaySymbol": "LAGRB.ST",
+        "displaySymbol": "LAGR B.ST",
         "figi": "BBG000D22JB4",
         "mic": "XSTO",
-        "symbol": "LAGRB.ST",
+        "symbol": "LAGR B.ST",
         "type": "Common Stock"
     },
     {
@@ -3161,10 +3161,10 @@
     {
         "currency": "SEK",
         "description": "MIDSONA AB-B SHS",
-        "displaySymbol": "MSONB.ST",
+        "displaySymbol": "MSON B.ST",
         "figi": "BBG000BXCF52",
         "mic": "XSTO",
-        "symbol": "MSONB.ST",
+        "symbol": "MSON B.ST",
         "type": "Common Stock"
     },
     {
@@ -3188,10 +3188,10 @@
     {
         "currency": "SEK",
         "description": "COREM PROPERTY GROUP AB-D",
-        "displaySymbol": "CORED.ST",
+        "displaySymbol": "CORE D.ST",
         "figi": "BBG011FD1YM1",
         "mic": "XSTO",
-        "symbol": "CORED.ST",
+        "symbol": "CORE D.ST",
         "type": "Common Stock"
     },
     {
@@ -3215,19 +3215,19 @@
     {
         "currency": "SEK",
         "description": "NEW WAVE GROUP AB -B SHS",
-        "displaySymbol": "NEWAB.ST",
+        "displaySymbol": "NEWA B.ST",
         "figi": "BBG000BBZWR4",
         "mic": "XSTO",
-        "symbol": "NEWAB.ST",
+        "symbol": "NEWA B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "KINNEVIK AB - A",
-        "displaySymbol": "KINVA.ST",
+        "displaySymbol": "KINV A.ST",
         "figi": "BBG000BP71K9",
         "mic": "XSTO",
-        "symbol": "KINVA.ST",
+        "symbol": "KINV A.ST",
         "type": "Common Stock"
     },
     {
@@ -3242,10 +3242,10 @@
     {
         "currency": "SEK",
         "description": "BEIJER ALMA AB",
-        "displaySymbol": "BEIAB.ST",
+        "displaySymbol": "BEIA B.ST",
         "figi": "BBG000BK7GN4",
         "mic": "XSTO",
-        "symbol": "BEIAB.ST",
+        "symbol": "BEIA B.ST",
         "type": "Common Stock"
     },
     {
@@ -3260,37 +3260,37 @@
     {
         "currency": "SEK",
         "description": "ESSITY AKTIEBOLAG-B",
-        "displaySymbol": "ESSITYB.ST",
+        "displaySymbol": "ESSITY B.ST",
         "figi": "BBG00GV10DH0",
         "mic": "XSTO",
-        "symbol": "ESSITYB.ST",
+        "symbol": "ESSITY B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "GETINGE AB-B SHS",
-        "displaySymbol": "GETIB.ST",
+        "displaySymbol": "GETI B.ST",
         "figi": "BBG000LCKCM6",
         "mic": "XSTO",
-        "symbol": "GETIB.ST",
+        "symbol": "GETI B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "ELECTROLUX AB-SER A",
-        "displaySymbol": "ELUXA.ST",
+        "displaySymbol": "ELUX A.ST",
         "figi": "BBG000BC0YZ7",
         "mic": "XSTO",
-        "symbol": "ELUXA.ST",
+        "symbol": "ELUX A.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "ESSITY AKTIEBOLAG-A",
-        "displaySymbol": "ESSITYA.ST",
+        "displaySymbol": "ESSITY A.ST",
         "figi": "BBG00GV10D71",
         "mic": "XSTO",
-        "symbol": "ESSITYA.ST",
+        "symbol": "ESSITY A.ST",
         "type": "Common Stock"
     },
     {
@@ -3305,10 +3305,10 @@
     {
         "currency": "SEK",
         "description": "XANO INDUSTRI AB -CLASS B",
-        "displaySymbol": "XANOB.ST",
+        "displaySymbol": "XANO B.ST",
         "figi": "BBG000BHF2K6",
         "mic": "XSTO",
-        "symbol": "XANOB.ST",
+        "symbol": "XANO B.ST",
         "type": "Common Stock"
     },
     {
@@ -3359,10 +3359,10 @@
     {
         "currency": "SEK",
         "description": "HEXAGON AB-B SHS",
-        "displaySymbol": "HEXAB.ST",
+        "displaySymbol": "HEXA B.ST",
         "figi": "BBG000BF1LW0",
         "mic": "XSTO",
-        "symbol": "HEXAB.ST",
+        "symbol": "HEXA B.ST",
         "type": "Common Stock"
     },
     {
@@ -3395,28 +3395,28 @@
     {
         "currency": "SEK",
         "description": "SVEDBERGS I DALSTORP AB-B SH",
-        "displaySymbol": "SVEDB.ST",
+        "displaySymbol": "SVED B.ST",
         "figi": "BBG000BJZZY2",
         "mic": "XSTO",
-        "symbol": "SVEDB.ST",
+        "symbol": "SVED B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "HOLMEN AB-B SHARES",
-        "displaySymbol": "HOLMB.ST",
+        "displaySymbol": "HOLM B.ST",
         "figi": "BBG000BPMSL2",
         "mic": "XSTO",
-        "symbol": "HOLMB.ST",
+        "symbol": "HOLM B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "ATRIUM LJUNGBERG AB-B SHS",
-        "displaySymbol": "ATRLJB.ST",
+        "displaySymbol": "ATRLJ B.ST",
         "figi": "BBG000DCK6L9",
         "mic": "XSTO",
-        "symbol": "ATRLJB.ST",
+        "symbol": "ATRLJ B.ST",
         "type": "Common Stock"
     },
     {
@@ -3449,10 +3449,10 @@
     {
         "currency": "SEK",
         "description": "K-FAST HOLDING AB",
-        "displaySymbol": "KFASTB.ST",
+        "displaySymbol": "KFAST B.ST",
         "figi": "BBG00QYZ93S1",
         "mic": "XSTO",
-        "symbol": "KFASTB.ST",
+        "symbol": "KFAST B.ST",
         "type": "Common Stock"
     },
     {
@@ -3476,10 +3476,10 @@
     {
         "currency": "SEK",
         "description": "SAGAX AB-D",
-        "displaySymbol": "SAGAD.ST",
+        "displaySymbol": "SAGA D.ST",
         "figi": "BBG00F6NXGJ7",
         "mic": "XSTO",
-        "symbol": "SAGAD.ST",
+        "symbol": "SAGA D.ST",
         "type": "Common Stock"
     },
     {
@@ -3494,10 +3494,10 @@
     {
         "currency": "SEK",
         "description": "BETSSON AB-B",
-        "displaySymbol": "BETSB.ST",
+        "displaySymbol": "BETS B.ST",
         "figi": "BBG000GY6VC9",
         "mic": "XSTO",
-        "symbol": "BETSB.ST",
+        "symbol": "BETS B.ST",
         "type": "Common Stock"
     },
     {
@@ -3512,10 +3512,10 @@
     {
         "currency": "SEK",
         "description": "BONAVA AB",
-        "displaySymbol": "BONAVA.ST",
+        "displaySymbol": "BONAV A.ST",
         "figi": "BBG00CZHNK25",
         "mic": "XSTO",
-        "symbol": "BONAVA.ST",
+        "symbol": "BONAV A.ST",
         "type": "Common Stock"
     },
     {
@@ -3566,10 +3566,10 @@
     {
         "currency": "SEK",
         "description": "ASSA ABLOY AB-B",
-        "displaySymbol": "ASSAB.ST",
+        "displaySymbol": "ASSA B.ST",
         "figi": "BBG000BGRY70",
         "mic": "XSTO",
-        "symbol": "ASSAB.ST",
+        "symbol": "ASSA B.ST",
         "type": "Common Stock"
     },
     {
@@ -3611,10 +3611,10 @@
     {
         "currency": "SEK",
         "description": "SVENSKA CELLULOSA AB SCA-B",
-        "displaySymbol": "SCAB.ST",
+        "displaySymbol": "SCA B.ST",
         "figi": "BBG000BCCG29",
         "mic": "XSTO",
-        "symbol": "SCAB.ST",
+        "symbol": "SCA B.ST",
         "type": "Common Stock"
     },
     {
@@ -3629,19 +3629,19 @@
     {
         "currency": "SEK",
         "description": "RATOS AB-A SHS",
-        "displaySymbol": "RATOA.ST",
+        "displaySymbol": "RATO A.ST",
         "figi": "BBG000BHRPV0",
         "mic": "XSTO",
-        "symbol": "RATOA.ST",
+        "symbol": "RATO A.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "CONCORDIA MARITIME AB-B SHS",
-        "displaySymbol": "CCORB.ST",
+        "displaySymbol": "CCOR B.ST",
         "figi": "BBG000BHG5C7",
         "mic": "XSTO",
-        "symbol": "CCORB.ST",
+        "symbol": "CCOR B.ST",
         "type": "Common Stock"
     },
     {
@@ -3656,10 +3656,10 @@
     {
         "currency": "SEK",
         "description": "ANNEHEM FASTIGHETER AB-B",
-        "displaySymbol": "ANNEB.ST",
+        "displaySymbol": "ANNE B.ST",
         "figi": "BBG00YCNW1R4",
         "mic": "XSTO",
-        "symbol": "ANNEB.ST",
+        "symbol": "ANNE B.ST",
         "type": "Common Stock"
     },
     {
@@ -3692,10 +3692,10 @@
     {
         "currency": "SEK",
         "description": "EMPIR GROUP AB - B",
-        "displaySymbol": "EMPIRB.ST",
+        "displaySymbol": "EMPIR B.ST",
         "figi": "BBG000BG5826",
         "mic": "XSTO",
-        "symbol": "EMPIRB.ST",
+        "symbol": "EMPIR B.ST",
         "type": "Common Stock"
     },
     {
@@ -3710,10 +3710,10 @@
     {
         "currency": "SEK",
         "description": "EPISURF MEDICAL AB-B SHS",
-        "displaySymbol": "EPISB.ST",
+        "displaySymbol": "EPIS B.ST",
         "figi": "BBG00163NSF1",
         "mic": "XSTO",
-        "symbol": "EPISB.ST",
+        "symbol": "EPIS B.ST",
         "type": "Common Stock"
     },
     {
@@ -3764,10 +3764,10 @@
     {
         "currency": "SEK",
         "description": "MEDICOVER AB - B SHARE",
-        "displaySymbol": "MCOVB.ST",
+        "displaySymbol": "MCOV B.ST",
         "figi": "BBG00GM3FQV5",
         "mic": "XSTO",
-        "symbol": "MCOVB.ST",
+        "symbol": "MCOV B.ST",
         "type": "Common Stock"
     },
     {
@@ -3782,10 +3782,10 @@
     {
         "currency": "SEK",
         "description": "KLOVERN AB-A SHS",
-        "displaySymbol": "KLOVA.ST",
+        "displaySymbol": "KLOV A.ST",
         "figi": "BBG000CB8K08",
         "mic": "XSTO",
-        "symbol": "KLOVA.ST",
+        "symbol": "KLOV A.ST",
         "type": "Common Stock"
     },
     {
@@ -3800,10 +3800,10 @@
     {
         "currency": "SEK",
         "description": "ELOS MEDTECH AB",
-        "displaySymbol": "ELOSB.ST",
+        "displaySymbol": "ELOS B.ST",
         "figi": "BBG000BHFVM0",
         "mic": "XSTO",
-        "symbol": "ELOSB.ST",
+        "symbol": "ELOS B.ST",
         "type": "Common Stock"
     },
     {
@@ -3818,10 +3818,10 @@
     {
         "currency": "SEK",
         "description": "ELECTROLUX PROFESSIONAL AB-B",
-        "displaySymbol": "EPROB.ST",
+        "displaySymbol": "EPRO B.ST",
         "figi": "BBG00S8Y04V2",
         "mic": "XSTO",
-        "symbol": "EPROB.ST",
+        "symbol": "EPRO B.ST",
         "type": "Common Stock"
     },
     {
@@ -3836,19 +3836,19 @@
     {
         "currency": "SEK",
         "description": "SAMHALLSBYGGNADSBOLAGET I-D",
-        "displaySymbol": "SBBD.ST",
+        "displaySymbol": "SBB D.ST",
         "figi": "BBG00MT65C77",
         "mic": "XSTO",
-        "symbol": "SBBD.ST",
+        "symbol": "SBB D.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "SAMHALLSBYGGNADSBOLAGET I NO",
-        "displaySymbol": "SBBB.ST",
+        "displaySymbol": "SBB B.ST",
         "figi": "BBG007DM2053",
         "mic": "XSTO",
-        "symbol": "SBBB.ST",
+        "symbol": "SBB B.ST",
         "type": "Common Stock"
     },
     {
@@ -3872,19 +3872,19 @@
     {
         "currency": "SEK",
         "description": "PREVAS AB-B SHS",
-        "displaySymbol": "PREVB.ST",
+        "displaySymbol": "PREV B.ST",
         "figi": "BBG000BPRC05",
         "mic": "XSTO",
-        "symbol": "PREVB.ST",
+        "symbol": "PREV B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "SVOLDER AB-B",
-        "displaySymbol": "SVOLB.ST",
+        "displaySymbol": "SVOL B.ST",
         "figi": "BBG000BXZZF2",
         "mic": "XSTO",
-        "symbol": "SVOLB.ST",
+        "symbol": "SVOL B.ST",
         "type": "Common Stock"
     },
     {
@@ -3908,10 +3908,10 @@
     {
         "currency": "SEK",
         "description": "VIKING SUPPLY SHIPS AB",
-        "displaySymbol": "VSSABB.ST",
+        "displaySymbol": "VSSAB B.ST",
         "figi": "BBG000BQ29F1",
         "mic": "XSTO",
-        "symbol": "VSSABB.ST",
+        "symbol": "VSSAB B.ST",
         "type": "Common Stock"
     },
     {
@@ -3935,19 +3935,19 @@
     {
         "currency": "SEK",
         "description": "SAAB AB-B",
-        "displaySymbol": "SAABB.ST",
+        "displaySymbol": "SAAB B.ST",
         "figi": "BBG000BP5H35",
         "mic": "XSTO",
-        "symbol": "SAABB.ST",
+        "symbol": "SAAB B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "SKANDINAVISKA ENSKILDA BAN-C",
-        "displaySymbol": "SEBC.ST",
+        "displaySymbol": "SEB C.ST",
         "figi": "BBG000BDD1J1",
         "mic": "XSTO",
-        "symbol": "SEBC.ST",
+        "symbol": "SEB C.ST",
         "type": "Common Stock"
     },
     {
@@ -3989,10 +3989,10 @@
     {
         "currency": "SEK",
         "description": "INVESTMENT AB LATOUR-B SHS",
-        "displaySymbol": "LATOB.ST",
+        "displaySymbol": "LATO B.ST",
         "figi": "BBG000BF1VD9",
         "mic": "XSTO",
-        "symbol": "LATOB.ST",
+        "symbol": "LATO B.ST",
         "type": "Common Stock"
     },
     {
@@ -4007,28 +4007,28 @@
     {
         "currency": "SEK",
         "description": "MEDIVIR AB-B SHS",
-        "displaySymbol": "MVIRB.ST",
+        "displaySymbol": "MVIR B.ST",
         "figi": "BBG000HPVJQ1",
         "mic": "XSTO",
-        "symbol": "MVIRB.ST",
+        "symbol": "MVIR B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "PRICER AB-B SHS",
-        "displaySymbol": "PRICB.ST",
+        "displaySymbol": "PRIC B.ST",
         "figi": "BBG000BCCT12",
         "mic": "XSTO",
-        "symbol": "PRICB.ST",
+        "symbol": "PRIC B.ST",
         "type": "Common Stock"
     },
     {
         "currency": "SEK",
         "description": "C-RAD AB-B SHS",
-        "displaySymbol": "CRADB.ST",
+        "displaySymbol": "CRAD B.ST",
         "figi": "BBG000Q6P3R4",
         "mic": "XSTO",
-        "symbol": "CRADB.ST",
+        "symbol": "CRAD B.ST",
         "type": "Common Stock"
     }
 ]
