@@ -1,10 +1,18 @@
 [
     {
+        "dividendsRatio": 5.11073,
+        "name": "TEL2 B.ST"
+    },
+    {
         "dividendsRatio": 6.28571,
         "name": "COOR.ST"
     },
     {
-        "dividendsRatio": 0.21459,
+        "dividendsRatio": 1.38249,
+        "name": "KABE B.ST"
+    },
+    {
+        "dividendsRatio": 0.19802,
         "name": "VITR.ST"
     },
     {
@@ -16,87 +24,231 @@
         "name": "BESQ.ST"
     },
     {
-        "dividendsRatio": 0.77844,
-        "name": "SAGAA.ST"
+        "dividendsRatio": 3.21543,
+        "name": "NCC B.ST"
     },
     {
-        "dividendsRatio": 1.17329,
-        "name": "ARJOB.ST"
+        "dividendsRatio": 2.37258,
+        "name": "ESSITY B.ST"
+    },
+    {
+        "dividendsRatio": 3.18021,
+        "name": "CAT B.ST"
+    },
+    {
+        "dividendsRatio": 3.35711,
+        "name": "ELUX B.ST"
+    },
+    {
+        "dividendsRatio": 0.96921,
+        "name": "ARJO B.ST"
+    },
+    {
+        "dividendsRatio": 1.40306,
+        "name": "SWEC B.ST"
+    },
+    {
+        "dividendsRatio": 2.06718,
+        "name": "HUSQ B.ST"
+    },
+    {
+        "dividendsRatio": 2.90958,
+        "name": "SKF B.ST"
     },
     {
         "dividendsRatio": 1.05594,
         "name": "SAVE.ST"
     },
     {
-        "dividendsRatio": 4.94234,
+        "dividendsRatio": 0.36923,
+        "name": "BTS B.ST"
+    },
+    {
+        "dividendsRatio": 3.14886,
+        "name": "WBGR B.ST"
+    },
+    {
+        "dividendsRatio": 0.81967,
+        "name": "SVOL B.ST"
+    },
+    {
+        "dividendsRatio": 3.08261,
+        "name": "PRIC B.ST"
+    },
+    {
+        "dividendsRatio": 5,
         "name": "ATC.WA"
     },
     {
-        "dividendsRatio": 1.81818,
+        "dividendsRatio": 1.38696,
+        "name": "SCA B.ST"
+    },
+    {
+        "dividendsRatio": 1.8011,
         "name": "AMBEA.ST"
+    },
+    {
+        "dividendsRatio": 4.21984,
+        "name": "SHB A.ST"
     },
     {
         "dividendsRatio": 0.17241,
         "name": "PROB.ST"
     },
     {
-        "dividendsRatio": 1.78359,
+        "dividendsRatio": 2.89129,
+        "name": "CLA B.ST"
+    },
+    {
+        "dividendsRatio": 1.73611,
         "name": "PACT.ST"
     },
     {
-        "dividendsRatio": 0.74038,
+        "dividendsRatio": 1.4954,
+        "name": "ASSA B.ST"
+    },
+    {
+        "dividendsRatio": 4.52716,
+        "name": "NTEK B.ST"
+    },
+    {
+        "dividendsRatio": 0.67265,
         "name": "BIOT.ST"
+    },
+    {
+        "dividendsRatio": 2.75006,
+        "name": "HOLM B.ST"
     },
     {
         "dividendsRatio": 0.4739,
         "name": "EVO.ST"
     },
     {
-        "dividendsRatio": 1.94553,
+        "dividendsRatio": 1.92678,
         "name": "BULTEN.ST"
     },
     {
-        "dividendsRatio": 1.18483,
+        "dividendsRatio": 1.14943,
         "name": "SVIK.ST"
     },
     {
-        "dividendsRatio": 2.13643,
+        "dividendsRatio": 2.09559,
         "name": "EAST.ST"
+    },
+    {
+        "dividendsRatio": 2.27273,
+        "name": "MEAB B.ST"
+    },
+    {
+        "dividendsRatio": 3.36788,
+        "name": "CORE A.ST"
     },
     {
         "dividendsRatio": 4.3258,
         "name": "CIBUS.ST"
     },
     {
-        "dividendsRatio": 0.81308,
+        "dividendsRatio": 1.83453,
+        "name": "ERIC B.ST"
+    },
+    {
+        "dividendsRatio": 3.54711,
+        "name": "CLAS B.ST"
+    },
+    {
+        "dividendsRatio": 0.63544,
+        "name": "LUND B.ST"
+    },
+    {
+        "dividendsRatio": 0.56701,
+        "name": "SAGA A.ST"
+    },
+    {
+        "dividendsRatio": 3.67878,
+        "name": "SEB A.ST"
+    },
+    {
+        "dividendsRatio": 0.84058,
         "name": "CTT.ST"
     },
     {
-        "dividendsRatio": 0.96322,
+        "dividendsRatio": 1.2,
+        "name": "FOI B.ST"
+    },
+    {
+        "dividendsRatio": 4.12505,
+        "name": "SKA B.ST"
+    },
+    {
+        "dividendsRatio": 0.95156,
         "name": "BOUL.ST"
+    },
+    {
+        "dividendsRatio": 1.72884,
+        "name": "RATO B.ST"
+    },
+    {
+        "dividendsRatio": 0.8867,
+        "name": "TRIAN B.ST"
+    },
+    {
+        "dividendsRatio": 2.52753,
+        "name": "ATRLJ B.ST"
     },
     {
         "dividendsRatio": 5.39957,
         "name": "NWG.ST"
     },
     {
-        "dividendsRatio": 2.53846,
+        "dividendsRatio": 3.47222,
+        "name": "MSAB B.ST"
+    },
+    {
+        "dividendsRatio": 0.80537,
+        "name": "ADDT B.ST"
+    },
+    {
+        "dividendsRatio": 4.21984,
+        "name": "SHB A.ST"
+    },
+    {
+        "dividendsRatio": 2.4812,
         "name": "BOL.ST"
+    },
+    {
+        "dividendsRatio": 1.38696,
+        "name": "SCA B.ST"
     },
     {
         "dividendsRatio": 1.90114,
         "name": "KAR.ST"
     },
     {
+        "dividendsRatio": 0.41015,
+        "name": "VIT B.ST"
+    },
+    {
+        "dividendsRatio": 0.94384,
+        "name": "EOLU B.ST"
+    },
+    {
         "dividendsRatio": 4.84226,
         "name": "TIETO.HE"
+    },
+    {
+        "dividendsRatio": 0.81967,
+        "name": "SVOL B.ST"
     },
     {
         "dividendsRatio": 2.4,
         "name": "FPIP.ST"
     },
     {
-        "dividendsRatio": 1.14155,
+        "dividendsRatio": 2.01884,
+        "name": "BERG B.ST"
+    },
+    {
+        "dividendsRatio": 1.09329,
         "name": "MYCR.ST"
     },
     {
@@ -104,7 +256,7 @@
         "name": "BILL.ST"
     },
     {
-        "dividendsRatio": 1.69323,
+        "dividendsRatio": 1.61597,
         "name": "LIAB.ST"
     },
     {
@@ -112,63 +264,155 @@
         "name": "LOOMIS.ST"
     },
     {
-        "dividendsRatio": 3.11591,
+        "dividendsRatio": 0.42856,
+        "name": "NIBE B.ST"
+    },
+    {
+        "dividendsRatio": 3.14465,
         "name": "AXFO.ST"
     },
     {
-        "dividendsRatio": 1.61568,
+        "dividendsRatio": 1.94175,
+        "name": "FPAR A.ST"
+    },
+    {
+        "dividendsRatio": 3.18021,
+        "name": "CAT B.ST"
+    },
+    {
+        "dividendsRatio": 1.06838,
+        "name": "LATO B.ST"
+    },
+    {
+        "dividendsRatio": 2.37258,
+        "name": "ESSITY B.ST"
+    },
+    {
+        "dividendsRatio": 3.21543,
+        "name": "NCC B.ST"
+    },
+    {
+        "dividendsRatio": 1.60514,
+        "name": "EKTA B.ST"
+    },
+    {
+        "dividendsRatio": 1.74419,
+        "name": "BEIA B.ST"
+    },
+    {
+        "dividendsRatio": 3.67878,
+        "name": "SEB A.ST"
+    },
+    {
+        "dividendsRatio": 1.52006,
         "name": "CATE.ST"
     },
     {
-        "dividendsRatio": 1.96232,
+        "dividendsRatio": 1.91571,
         "name": "BRAV.ST"
     },
     {
-        "dividendsRatio": 0.72359,
+        "dividendsRatio": 0.67935,
         "name": "FAG.ST"
     },
     {
-        "dividendsRatio": 1.55091,
+        "dividendsRatio": 5.11073,
+        "name": "TEL2 B.ST"
+    },
+    {
+        "dividendsRatio": 2.06718,
+        "name": "HUSQ B.ST"
+    },
+    {
+        "dividendsRatio": 2.90958,
+        "name": "SKF B.ST"
+    },
+    {
+        "dividendsRatio": 1.50376,
         "name": "DOM.ST"
     },
     {
-        "dividendsRatio": 2.82714,
+        "dividendsRatio": 1.40306,
+        "name": "SWEC B.ST"
+    },
+    {
+        "dividendsRatio": 6.19835,
+        "name": "HAV B.ST"
+    },
+    {
+        "dividendsRatio": 2.56098,
         "name": "WIHL.ST"
     },
     {
-        "dividendsRatio": 3.70163,
+        "dividendsRatio": 1.89461,
+        "name": "NOLA B.ST"
+    },
+    {
+        "dividendsRatio": 3.35711,
+        "name": "ELUX B.ST"
+    },
+    {
+        "dividendsRatio": 1.81363,
+        "name": "SWED A.ST"
+    },
+    {
+        "dividendsRatio": 2.15517,
+        "name": "CBTT B.ST"
+    },
+    {
+        "dividendsRatio": 3.38635,
         "name": "DIOS.ST"
     },
     {
-        "dividendsRatio": 5.33808,
+        "dividendsRatio": 5.41516,
         "name": "NAXS.ST"
     },
     {
-        "dividendsRatio": 0.91896,
+        "dividendsRatio": 0.90684,
         "name": "GRNG.ST"
+    },
+    {
+        "dividendsRatio": 1.94112,
+        "name": "STERV.HE"
     },
     {
         "dividendsRatio": 4.00534,
         "name": "ORES.ST"
     },
     {
-        "dividendsRatio": 3.38409,
+        "dividendsRatio": 1.72884,
+        "name": "RATO B.ST"
+    },
+    {
+        "dividendsRatio": 3.36134,
         "name": "TETY.ST"
+    },
+    {
+        "dividendsRatio": 0.63654,
+        "name": "BEIJ B.ST"
     },
     {
         "dividendsRatio": 2.52127,
         "name": "ABBN.SW"
     },
     {
-        "dividendsRatio": 2.72851,
+        "dividendsRatio": 2.60756,
         "name": "SINT.ST"
+    },
+    {
+        "dividendsRatio": 0.73638,
+        "name": "ANOD B.ST"
+    },
+    {
+        "dividendsRatio": 2.75006,
+        "name": "HOLM B.ST"
     },
     {
         "dividendsRatio": 0.74336,
         "name": "ADAPT.ST"
     },
     {
-        "dividendsRatio": 2.97347,
+        "dividendsRatio": 2.90828,
         "name": "SAND.ST"
     },
     {
@@ -176,43 +420,99 @@
         "name": "NCAB.ST"
     },
     {
-        "dividendsRatio": 0.31847,
+        "dividendsRatio": 2.13847,
+        "name": "SBB B.ST"
+    },
+    {
+        "dividendsRatio": 0.30741,
         "name": "AZA.ST"
     },
     {
-        "dividendsRatio": 2.16638,
+        "dividendsRatio": 0.74226,
+        "name": "HEXA B.ST"
+    },
+    {
+        "dividendsRatio": 1.83453,
+        "name": "ERIC B.ST"
+    },
+    {
+        "dividendsRatio": 2.09186,
+        "name": "HPOL B.ST"
+    },
+    {
+        "dividendsRatio": 0.56701,
+        "name": "SAGA A.ST"
+    },
+    {
+        "dividendsRatio": 0.69521,
+        "name": "BIOG B.ST"
+    },
+    {
+        "dividendsRatio": 2.14408,
         "name": "SCST.ST"
     },
     {
-        "dividendsRatio": 1.80328,
+        "dividendsRatio": 3.80228,
+        "name": "BRG B.ST"
+    },
+    {
+        "dividendsRatio": 1.76395,
         "name": "ALFA.ST"
     },
     {
-        "dividendsRatio": 1.84502,
+        "dividendsRatio": 1.05485,
+        "name": "XANO B.ST"
+    },
+    {
+        "dividendsRatio": 1.8226,
         "name": "ACAD.ST"
     },
     {
-        "dividendsRatio": 4.42478,
+        "dividendsRatio": 3.36788,
+        "name": "CORE A.ST"
+    },
+    {
+        "dividendsRatio": 1.75088,
+        "name": "INVE B.ST"
+    },
+    {
+        "dividendsRatio": 4.24448,
         "name": "MULQ.ST"
     },
     {
-        "dividendsRatio": 2.05542,
-        "name": "NENTB.ST"
+        "dividendsRatio": 2.65393,
+        "name": "SVED B.ST"
     },
     {
-        "dividendsRatio": 0.90439,
+        "dividendsRatio": 0.80321,
+        "name": "WALL B.ST"
+    },
+    {
+        "dividendsRatio": 1.70532,
+        "name": "MSON B.ST"
+    },
+    {
+        "dividendsRatio": 1.3831,
+        "name": "ATCO A.ST"
+    },
+    {
+        "dividendsRatio": 2.04972,
+        "name": "SAAB B.ST"
+    },
+    {
+        "dividendsRatio": 0.87995,
         "name": "MTRS.ST"
     },
     {
-        "dividendsRatio": 0.82192,
+        "dividendsRatio": 0.77121,
         "name": "INDT.ST"
     },
     {
-        "dividendsRatio": 4.23166,
+        "dividendsRatio": 4.04762,
         "name": "JM.ST"
     },
     {
-        "dividendsRatio": 3.9265,
+        "dividendsRatio": 3.96442,
         "name": "PFE"
     },
     {
@@ -224,7 +524,7 @@
         "name": "RAIL.ST"
     },
     {
-        "dividendsRatio": 1.13402,
+        "dividendsRatio": 0.95486,
         "name": "BUFAB.ST"
     },
     {
@@ -236,8 +536,16 @@
         "name": "FABG.ST"
     },
     {
-        "dividendsRatio": 9.94318,
+        "dividendsRatio": 8.64625,
         "name": "RROS.ST"
+    },
+    {
+        "dividendsRatio": 5.66038,
+        "name": "POOL B.ST"
+    },
+    {
+        "dividendsRatio": 7.21501,
+        "name": "VOLV B.ST"
     },
     {
         "dividendsRatio": 2.48227,
@@ -248,15 +556,15 @@
         "name": "IVSO.ST"
     },
     {
+        "dividendsRatio": 2.43605,
+        "name": "NIL B.ST"
+    },
+    {
         "dividendsRatio": 0.46656,
         "name": "FG.ST"
     },
     {
-        "dividendsRatio": 1.24434,
-        "name": "HEBAB.ST"
-    },
-    {
-        "dividendsRatio": 4.57317,
+        "dividendsRatio": 4.42913,
         "name": "EWRK.ST"
     },
     {
@@ -268,59 +576,111 @@
         "name": "LIME.ST"
     },
     {
-        "dividendsRatio": 0.20292,
+        "dividendsRatio": 0.93487,
+        "name": "GETI B.ST"
+    },
+    {
+        "dividendsRatio": 1.94175,
+        "name": "FPAR A.ST"
+    },
+    {
+        "dividendsRatio": 0.19726,
         "name": "CEVI.ST"
     },
     {
-        "dividendsRatio": 3.54381,
+        "dividendsRatio": 1.53302,
+        "name": "KLOV A.ST"
+    },
+    {
+        "dividendsRatio": 3.34347,
         "name": "BMAX.ST"
     },
     {
-        "dividendsRatio": 4.0854,
+        "dividendsRatio": 3.94001,
         "name": "THULE.ST"
     },
     {
-        "dividendsRatio": 2.65444,
+        "dividendsRatio": 2.42718,
+        "name": "PREV B.ST"
+    },
+    {
+        "dividendsRatio": 2.43578,
         "name": "KLED.ST"
     },
     {
-        "dividendsRatio": 6.23111,
+        "dividendsRatio": 6.14538,
         "name": "RESURS.ST"
+    },
+    {
+        "dividendsRatio": 2.54958,
+        "name": "VBG B.ST"
     },
     {
         "dividendsRatio": 4.35441,
         "name": "LUNE.ST"
     },
     {
-        "dividendsRatio": 1.9909,
+        "dividendsRatio": 1.76411,
         "name": "COIC.ST"
     },
     {
-        "dividendsRatio": 0.58343,
+        "dividendsRatio": 0.55006,
         "name": "TFBANK.ST"
     },
     {
-        "dividendsRatio": 0.39124,
+        "dividendsRatio": 0.36873,
         "name": "HTRO.ST"
     },
     {
-        "dividendsRatio": 1.18934,
+        "dividendsRatio": 1.34409,
         "name": "G5EN.ST"
+    },
+    {
+        "dividendsRatio": 1.28932,
+        "name": "EPI A.ST"
     },
     {
         "dividendsRatio": 1.52542,
         "name": "B3.ST"
     },
     {
-        "dividendsRatio": 0.95847,
+        "dividendsRatio": 5.76369,
+        "name": "K2A PREF.ST"
+    },
+    {
+        "dividendsRatio": 1.02197,
+        "name": "LAGR B.ST"
+    },
+    {
+        "dividendsRatio": 0.81081,
+        "name": "MMGR B.ST"
+    },
+    {
+        "dividendsRatio": 0.91324,
         "name": "SYSR.ST"
     },
     {
-        "dividendsRatio": 0.93353,
+        "dividendsRatio": 2.46269,
+        "name": "INDU A.ST"
+    },
+    {
+        "dividendsRatio": 1.94112,
+        "name": "STERV.HE"
+    },
+    {
+        "dividendsRatio": 1.3831,
+        "name": "ATCO A.ST"
+    },
+    {
+        "dividendsRatio": 0.91642,
         "name": "8TRA.DE"
     },
     {
-        "dividendsRatio": 2.48905,
+        "dividendsRatio": 1.70532,
+        "name": "MSON B.ST"
+    },
+    {
+        "dividendsRatio": 2.51484,
         "name": "AZN.L"
     },
     {
@@ -328,35 +688,63 @@
         "name": "NYF.ST"
     },
     {
-        "dividendsRatio": 0.5298,
+        "dividendsRatio": 0.51813,
         "name": "HMS.ST"
     },
     {
-        "dividendsRatio": 2.09724,
+        "dividendsRatio": 2.27861,
         "name": "DUST.ST"
+    },
+    {
+        "dividendsRatio": 11.95219,
+        "name": "SOF B.ST"
+    },
+    {
+        "dividendsRatio": 7.21501,
+        "name": "VOLV B.ST"
     },
     {
         "dividendsRatio": 0.72904,
         "name": "EQT.ST"
     },
     {
-        "dividendsRatio": 6.70347,
+        "dividendsRatio": 6.66144,
         "name": "ELEC.ST"
     },
     {
-        "dividendsRatio": 3.24756,
+        "dividendsRatio": 3.24028,
         "name": "ICA.ST"
+    },
+    {
+        "dividendsRatio": 2.13847,
+        "name": "SBB B.ST"
+    },
+    {
+        "dividendsRatio": 2.88704,
+        "name": "SECU B.ST"
     },
     {
         "dividendsRatio": 1.22243,
         "name": "AAK.ST"
     },
     {
-        "dividendsRatio": 1.66389,
+        "dividendsRatio": 1.67785,
         "name": "GHP.ST"
     },
     {
-        "dividendsRatio": 0.45722,
+        "dividendsRatio": 4.19776,
+        "name": "PEAB B.ST"
+    },
+    {
+        "dividendsRatio": 0.56701,
+        "name": "SAGA A.ST"
+    },
+    {
+        "dividendsRatio": 0.28664,
+        "name": "MCOV B.ST"
+    },
+    {
+        "dividendsRatio": 0.43915,
         "name": "MIPS.ST"
     },
     {
@@ -364,27 +752,67 @@
         "name": "HANZA.ST"
     },
     {
+        "dividendsRatio": 3.36788,
+        "name": "CORE A.ST"
+    },
+    {
+        "dividendsRatio": 1.35922,
+        "name": "CRED A.ST"
+    },
+    {
+        "dividendsRatio": 1.61787,
+        "name": "PLAZ B.ST"
+    },
+    {
         "dividendsRatio": 3.92054,
         "name": "LEO.ST"
     },
     {
-        "dividendsRatio": 0.53248,
+        "dividendsRatio": 2.46269,
+        "name": "INDU A.ST"
+    },
+    {
+        "dividendsRatio": 0.50125,
         "name": "BURE.ST"
+    },
+    {
+        "dividendsRatio": 0.94203,
+        "name": "HEBA B.ST"
     },
     {
         "dividendsRatio": 2.19619,
         "name": "ALIG.ST"
     },
     {
+        "dividendsRatio": 5.59211,
+        "name": "EMPIR B.ST"
+    },
+    {
         "dividendsRatio": 4.60299,
         "name": "NPAPER.ST"
     },
     {
-        "dividendsRatio": 4.66584,
+        "dividendsRatio": 1.28932,
+        "name": "EPI A.ST"
+    },
+    {
+        "dividendsRatio": 4.92167,
         "name": "NOBINA.ST"
     },
     {
-        "dividendsRatio": 0.80782,
+        "dividendsRatio": 3.31126,
+        "name": "BILI A.ST"
+    },
+    {
+        "dividendsRatio": 6.34921,
+        "name": "SDIP PREF.ST"
+    },
+    {
+        "dividendsRatio": 0.51903,
+        "name": "ALIF B.ST"
+    },
+    {
+        "dividendsRatio": 0.75517,
         "name": "GARO.ST"
     },
     {
@@ -392,39 +820,67 @@
         "name": "INSTAL.ST"
     },
     {
-        "dividendsRatio": 2.73973,
+        "dividendsRatio": 0.59435,
+        "name": "LIFCO B.ST"
+    },
+    {
+        "dividendsRatio": 1.84653,
+        "name": "OEM B.ST"
+    },
+    {
+        "dividendsRatio": 2.64375,
         "name": "NOBI.ST"
     },
     {
-        "dividendsRatio": 2.16802,
+        "dividendsRatio": 2.1164,
         "name": "LUN.TO"
     },
     {
-        "dividendsRatio": 1.92308,
-        "name": "XANOB.ST"
-    },
-    {
-        "dividendsRatio": 0.71049,
+        "dividendsRatio": 0.70187,
         "name": "TROAX.ST"
     },
     {
-        "dividendsRatio": 2.43902,
+        "dividendsRatio": 1.69033,
+        "name": "HUFV A.ST"
+    },
+    {
+        "dividendsRatio": 2.50836,
         "name": "SEMC.ST"
     },
     {
-        "dividendsRatio": 1.9984,
+        "dividendsRatio": 2.44978,
+        "name": "TREL B.ST"
+    },
+    {
+        "dividendsRatio": 1.98781,
         "name": "SWMA.ST"
     },
     {
-        "dividendsRatio": 3.04054,
+        "dividendsRatio": 0.69767,
+        "name": "ELOS B.ST"
+    },
+    {
+        "dividendsRatio": 3.06122,
         "name": "INWI.ST"
     },
     {
-        "dividendsRatio": 3.16804,
+        "dividendsRatio": 2.881,
         "name": "CAST.ST"
     },
     {
-        "dividendsRatio": 5.27704,
+        "dividendsRatio": 5.2063,
         "name": "TELIA.ST"
+    },
+    {
+        "dividendsRatio": 1.53302,
+        "name": "KLOV A.ST"
+    },
+    {
+        "dividendsRatio": 0.8658,
+        "name": "TRAC B.ST"
+    },
+    {
+        "dividendsRatio": 1.78984,
+        "name": "ELAN B.ST"
     }
 ]

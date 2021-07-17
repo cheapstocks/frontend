@@ -1,0 +1,1682 @@
+[
+    {
+        "BGnumber": 106.57601913000411,
+        "currency": "SEK",
+        "price": 120.35948574879527,
+        "symbol": "TEL2 A.ST.json"
+    },
+    {
+        "BGnumber": 33.98886460757038,
+        "currency": "SEK",
+        "price": 73.25997557692871,
+        "symbol": "COOR.ST.json"
+    },
+    {
+        "BGnumber": 142.85252815403723,
+        "currency": "SEK",
+        "price": 204.39999999999998,
+        "symbol": "KABE B.ST.json"
+    },
+    {
+        "BGnumber": 33.20373576133791,
+        "currency": "SEK",
+        "price": 403.9999788117198,
+        "symbol": "VITR.ST.json"
+    },
+    {
+        "BGnumber": 136.09443532152224,
+        "currency": "SEK",
+        "price": 281.7119449356793,
+        "symbol": "AFRY.ST.json"
+    },
+    {
+        "BGnumber": 196.29986889450538,
+        "currency": "SEK",
+        "price": 174.86945156567498,
+        "symbol": "BESQ.ST.json"
+    },
+    {
+        "BGnumber": 99.1468185050534,
+        "currency": "SEK",
+        "price": 156.66375395061397,
+        "symbol": "NCC A.ST.json"
+    },
+    {
+        "BGnumber": 162.2638263100405,
+        "currency": "SEK",
+        "price": 286.6790820055313,
+        "symbol": "ESSITY A.ST.json"
+    },
+    {
+        "BGnumber": 24.45711859366818,
+        "currency": "SEK",
+        "price": 29.765631073244737,
+        "symbol": "CAT B.ST.json"
+    },
+    {
+        "BGnumber": 145.76410630097692,
+        "currency": "SEK",
+        "price": 257.62114451607,
+        "symbol": "ELUX A.ST.json"
+    },
+    {
+        "BGnumber": 31.65441774547433,
+        "currency": "SEK",
+        "price": 82.20749385982259,
+        "symbol": "ARJO B.ST.json"
+    },
+    {
+        "BGnumber": 77.60532786282782,
+        "currency": "SEK",
+        "price": 81.1198612048802,
+        "symbol": "NEWA B.ST.json"
+    },
+    {
+        "BGnumber": 508.2846141558192,
+        "currency": "SEK",
+        "price": 552.0316353887399,
+        "symbol": "BALD B.ST.json"
+    },
+    {
+        "BGnumber": 0.34217497497625393,
+        "currency": "USD",
+        "price": 0.21799997962895654,
+        "symbol": "ENQ.ST.json"
+    },
+    {
+        "BGnumber": 41.07224576522448,
+        "currency": "SEK",
+        "price": 170.25743848189464,
+        "symbol": "SWEC A.ST.json"
+    },
+    {
+        "BGnumber": 33.974685691426934,
+        "currency": "SEK",
+        "price": 44.799998326820884,
+        "symbol": "INFREA.ST.json"
+    },
+    {
+        "BGnumber": 123.39222824713069,
+        "currency": "SEK",
+        "price": 167.0524489704251,
+        "symbol": "SOBI.ST.json"
+    },
+    {
+        "BGnumber": 45.23893555644297,
+        "currency": "SEK",
+        "price": 192.59496765855516,
+        "symbol": "BOOZT.ST.json"
+    },
+    {
+        "BGnumber": 62.898751628367,
+        "currency": "SEK",
+        "price": 206.49998050178866,
+        "symbol": "MCAP.ST.json"
+    },
+    {
+        "BGnumber": 106.61125538734642,
+        "currency": "SEK",
+        "price": 95.45457060094719,
+        "symbol": "BONAV B.ST.json"
+    },
+    {
+        "BGnumber": 62.940383567491864,
+        "currency": "SEK",
+        "price": 116.75958281088334,
+        "symbol": "HUSQ B.ST.json"
+    },
+    {
+        "BGnumber": 145.26952465822797,
+        "currency": "SEK",
+        "price": 220.66095165060642,
+        "symbol": "SKF A.ST.json"
+    },
+    {
+        "BGnumber": 43.5491605408187,
+        "currency": "SEK",
+        "price": 141.1,
+        "symbol": "SAVE.ST.json"
+    },
+    {
+        "BGnumber": 38.82745894801771,
+        "currency": "SEK",
+        "price": 296.7770132059294,
+        "symbol": "BTS B.ST.json"
+    },
+    {
+        "BGnumber": 101.93273026683578,
+        "currency": "SEK",
+        "price": 102.20235425514991,
+        "symbol": "WBGR B.ST.json"
+    },
+    {
+        "BGnumber": 295.7621705019085,
+        "currency": "SEK",
+        "price": 272.467890625,
+        "symbol": "SVOL B.ST.json"
+    },
+    {
+        "BGnumber": 13.969997926699918,
+        "currency": "SEK",
+        "price": 31.5857486716018,
+        "symbol": "PRIC B.ST.json"
+    },
+    {
+        "BGnumber": 18.98800897015008,
+        "currency": "PLN",
+        "price": 6.000000028865117,
+        "symbol": "ARP.ST.json"
+    },
+    {
+        "BGnumber": 59.88111004118911,
+        "currency": "SEK",
+        "price": 149.93739044598794,
+        "symbol": "SCA B.ST.json"
+    },
+    {
+        "BGnumber": 66.49059380362007,
+        "currency": "SEK",
+        "price": 63.97253772702085,
+        "symbol": "AMBEA.ST.json"
+    },
+    {
+        "BGnumber": 129.25373915569037,
+        "currency": "SEK",
+        "price": 98.71039764945928,
+        "symbol": "SHB B.ST.json"
+    },
+    {
+        "BGnumber": 7.598930037824403,
+        "currency": "SEK",
+        "price": 59.99559943340478,
+        "symbol": "CRAD B.ST.json"
+    },
+    {
+        "BGnumber": 133.84762953277132,
+        "currency": "SEK",
+        "price": 646.0000219411319,
+        "symbol": "PROB.ST.json"
+    },
+    {
+        "BGnumber": 19.275460890676516,
+        "currency": "SEK",
+        "price": 24.929161277983717,
+        "symbol": "CLA B.ST.json"
+    },
+    {
+        "BGnumber": 49.04561453925061,
+        "currency": "SEK",
+        "price": 88.11990299316983,
+        "symbol": "PACT.ST.json"
+    },
+    {
+        "BGnumber": 98.88419183268502,
+        "currency": "SEK",
+        "price": 254.83978307373627,
+        "symbol": "ASSA B.ST.json"
+    },
+    {
+        "BGnumber": 28.328011970591938,
+        "currency": "SEK",
+        "price": 42.323584905660375,
+        "symbol": "NTEK B.ST.json"
+    },
+    {
+        "BGnumber": 30.30849208079313,
+        "currency": "SEK",
+        "price": 223.00003325062391,
+        "symbol": "BIOT.ST.json"
+    },
+    {
+        "BGnumber": 14.043565197181946,
+        "currency": "SEK",
+        "price": 83.79998930165024,
+        "symbol": "GREEN.ST.json"
+    },
+    {
+        "BGnumber": 230.86731327347968,
+        "currency": "SEK",
+        "price": 420.47764071524546,
+        "symbol": "HOLM B.ST.json"
+    },
+    {
+        "BGnumber": 111.25164605622696,
+        "currency": "SEK",
+        "price": 207.83352593809997,
+        "symbol": "ENEA.ST.json"
+    },
+    {
+        "BGnumber": 50.69256945312597,
+        "currency": "SEK",
+        "price": 143.05069167071017,
+        "symbol": "REJL B.ST.json"
+    },
+    {
+        "BGnumber": 211.34029826384273,
+        "currency": "EUR",
+        "price": 1422.8001555035335,
+        "symbol": "EVO.ST.json"
+    },
+    {
+        "BGnumber": 96.55402865577128,
+        "currency": "SEK",
+        "price": 104.05817610062893,
+        "symbol": "BULTEN.ST.json"
+    },
+    {
+        "BGnumber": 63.99135241445324,
+        "currency": "SEK",
+        "price": 87.00000523202765,
+        "symbol": "SVIK.ST.json"
+    },
+    {
+        "BGnumber": 235.20267641932244,
+        "currency": "EUR",
+        "price": 137.35819319834823,
+        "symbol": "EAST.ST.json"
+    },
+    {
+        "BGnumber": 56.1567714045911,
+        "currency": "SEK",
+        "price": 59.76,
+        "symbol": "MEAB B.ST.json"
+    },
+    {
+        "BGnumber": 158.4381985518328,
+        "currency": "EUR",
+        "price": 217.2,
+        "symbol": "CIBUS.ST.json"
+    },
+    {
+        "BGnumber": 3.3975889173794998,
+        "currency": "SEK",
+        "price": 12.578674525269346,
+        "symbol": "MOMENT.ST.json"
+    },
+    {
+        "BGnumber": 131.73897862200087,
+        "currency": "SEK",
+        "price": 417.91063387951533,
+        "symbol": "NENT A.ST.json"
+    },
+    {
+        "BGnumber": 1.1719412357281402,
+        "currency": "EUR",
+        "price": 4.1800004331950396,
+        "symbol": "STRAX.ST.json"
+    },
+    {
+        "BGnumber": 14.090099893968103,
+        "currency": "SEK",
+        "price": 30.200000127244753,
+        "symbol": "BORG.ST.json"
+    },
+    {
+        "BGnumber": 57.61925447205127,
+        "currency": "SEK",
+        "price": 112.33775191333356,
+        "symbol": "ERIC A.ST.json"
+    },
+    {
+        "BGnumber": 2.495427736230805,
+        "currency": "SEK",
+        "price": 5.679999931508378,
+        "symbol": "FEEL.ST.json"
+    },
+    {
+        "BGnumber": 70.78231827647355,
+        "currency": "SEK",
+        "price": 83.50810919754463,
+        "symbol": "CLAS B.ST.json"
+    },
+    {
+        "BGnumber": 306.1272719407485,
+        "currency": "SEK",
+        "price": 349.96774193548384,
+        "symbol": "LUND B.ST.json"
+    },
+    {
+        "BGnumber": 56.36417681793109,
+        "currency": "SEK",
+        "price": 99.25446949190264,
+        "symbol": "PROF B.ST.json"
+    },
+    {
+        "BGnumber": 98.0521551967778,
+        "currency": "SEK",
+        "price": 213.37355528727062,
+        "symbol": "SAGA D.ST.json"
+    },
+    {
+        "BGnumber": 14.294931368775437,
+        "currency": "SEK",
+        "price": 16.349999773541263,
+        "symbol": "ATIC.ST.json"
+    },
+    {
+        "BGnumber": 15.476674441259982,
+        "currency": "SEK",
+        "price": 156.98539275845218,
+        "symbol": "SINCH.ST.json"
+    },
+    {
+        "BGnumber": 117.18941004918277,
+        "currency": "SEK",
+        "price": 113.31960414703738,
+        "symbol": "SEB C.ST.json"
+    },
+    {
+        "BGnumber": 31.35044528960075,
+        "currency": "SEK",
+        "price": 207.00734296432276,
+        "symbol": "CTT.ST.json"
+    },
+    {
+        "BGnumber": 392.83206531369734,
+        "currency": "EUR",
+        "price": 1036.325591987408,
+        "symbol": "FOI B.ST.json"
+    },
+    {
+        "BGnumber": 23.931296668290877,
+        "currency": "SEK",
+        "price": 7.021278601855155,
+        "symbol": "ENRO.ST.json"
+    },
+    {
+        "BGnumber": 224.1516819912216,
+        "currency": "SEK",
+        "price": 227.99706659857839,
+        "symbol": "SKA B.ST.json"
+    },
+    {
+        "BGnumber": 1146.1147159076181,
+        "currency": "SEK",
+        "price": 347.9854815031489,
+        "symbol": "KINV B.ST.json"
+    },
+    {
+        "BGnumber": 30.692371652496977,
+        "currency": "SEK",
+        "price": 65.07514661511726,
+        "symbol": "RATO A.ST.json"
+    },
+    {
+        "BGnumber": 173.51961906031187,
+        "currency": "SEK",
+        "price": 199.5551107018457,
+        "symbol": "TRIAN B.ST.json"
+    },
+    {
+        "BGnumber": 166.0773646345507,
+        "currency": "SEK",
+        "price": 214.12035865838178,
+        "symbol": "ATRLJ B.ST.json"
+    },
+    {
+        "BGnumber": 118.01626946315496,
+        "currency": "SEK",
+        "price": 191.3966079752226,
+        "symbol": "NWG.ST.json"
+    },
+    {
+        "BGnumber": 9.732490939374156,
+        "currency": "SEK",
+        "price": 60.24722006297892,
+        "symbol": "MSAB B.ST.json"
+    },
+    {
+        "BGnumber": 27.684767398580394,
+        "currency": "SEK",
+        "price": 150.57366396886164,
+        "symbol": "ADDT B.ST.json"
+    },
+    {
+        "BGnumber": 129.25373915569037,
+        "currency": "SEK",
+        "price": 98.71039764945928,
+        "symbol": "SHB A.ST.json"
+    },
+    {
+        "BGnumber": 302.371143188334,
+        "currency": "SEK",
+        "price": 326.6978042364002,
+        "symbol": "BOL.ST.json"
+    },
+    {
+        "BGnumber": 59.88111004118911,
+        "currency": "SEK",
+        "price": 149.93739044598794,
+        "symbol": "SCA A.ST.json"
+    },
+    {
+        "BGnumber": 18.00128921320637,
+        "currency": "SEK",
+        "price": 50.48056726037287,
+        "symbol": "KAR.ST.json"
+    },
+    {
+        "BGnumber": 53.4468315684335,
+        "currency": "SEK",
+        "price": 334.9304602284042,
+        "symbol": "VIT B.ST.json"
+    },
+    {
+        "BGnumber": 66.36576232514398,
+        "currency": "SEK",
+        "price": 140.612100906902,
+        "symbol": "IAR B.ST.json"
+    },
+    {
+        "BGnumber": 25.11596829608606,
+        "currency": "EUR",
+        "price": 26.721715306831594,
+        "symbol": "TIETOS.ST.json"
+    },
+    {
+        "BGnumber": 295.7621705019085,
+        "currency": "SEK",
+        "price": 272.467890625,
+        "symbol": "SVOL A.ST.json"
+    },
+    {
+        "BGnumber": 11.390306870866123,
+        "currency": "SEK",
+        "price": 27.886065266423568,
+        "symbol": "FPIP.ST.json"
+    },
+    {
+        "BGnumber": 94.31374888612476,
+        "currency": "SEK",
+        "price": 147.85572076595312,
+        "symbol": "BERG B.ST.json"
+    },
+    {
+        "BGnumber": 78.9343590680573,
+        "currency": "SEK",
+        "price": 275.0869235809649,
+        "symbol": "MYCR.ST.json"
+    },
+    {
+        "BGnumber": 58.87696217948069,
+        "currency": "SEK",
+        "price": 168.75410479599748,
+        "symbol": "NMAN.ST.json"
+    },
+    {
+        "BGnumber": 76.74933205822705,
+        "currency": "SEK",
+        "price": 174.66424620200775,
+        "symbol": "BILL.ST.json"
+    },
+    {
+        "BGnumber": 109.20978817895057,
+        "currency": "SEK",
+        "price": 216.94650005941827,
+        "symbol": "LIAB.ST.json"
+    },
+    {
+        "BGnumber": 182.32716102799932,
+        "currency": "SEK",
+        "price": 263.7751976516248,
+        "symbol": "LOOMIS.ST.json"
+    },
+    {
+        "BGnumber": 16.668919902328703,
+        "currency": "SEK",
+        "price": 87.48037287767785,
+        "symbol": "NIBE B.ST.json"
+    },
+    {
+        "BGnumber": 64.82215785466803,
+        "currency": "SEK",
+        "price": 239.26622378417022,
+        "symbol": "AXFO.ST.json"
+    },
+    {
+        "BGnumber": 124.31222121107201,
+        "currency": "SEK",
+        "price": 117.13570256971022,
+        "symbol": "FPAR D.ST.json"
+    },
+    {
+        "BGnumber": 24.45711859366818,
+        "currency": "SEK",
+        "price": 29.765631073244737,
+        "symbol": "CAT A.ST.json"
+    },
+    {
+        "BGnumber": 10.147528424572164,
+        "currency": "SEK",
+        "price": 2.9949999866321364,
+        "symbol": "RNBS.ST.json"
+    },
+    {
+        "BGnumber": 93.41930954491957,
+        "currency": "SEK",
+        "price": 271.1040938910303,
+        "symbol": "LATO B.ST.json"
+    },
+    {
+        "BGnumber": 44.44877402168422,
+        "currency": "SEK",
+        "price": 136.17235782665895,
+        "symbol": "VOLO.ST.json"
+    },
+    {
+        "BGnumber": 162.2638263100405,
+        "currency": "SEK",
+        "price": 286.6790820055313,
+        "symbol": "ESSITY B.ST.json"
+    },
+    {
+        "BGnumber": 47.51287013458038,
+        "currency": "SEK",
+        "price": 154.89995955211097,
+        "symbol": "BHG.ST.json"
+    },
+    {
+        "BGnumber": 99.1468185050534,
+        "currency": "SEK",
+        "price": 156.66375395061397,
+        "symbol": "NCC B.ST.json"
+    },
+    {
+        "BGnumber": 17.498650301066082,
+        "currency": "SEK",
+        "price": 60.246730204020814,
+        "symbol": "KARO.ST.json"
+    },
+    {
+        "BGnumber": 39.802447692023286,
+        "currency": "SEK",
+        "price": 119.08963683085501,
+        "symbol": "EKTA B.ST.json"
+    },
+    {
+        "BGnumber": 78.66435093231401,
+        "currency": "SEK",
+        "price": 164.29605955308637,
+        "symbol": "BEIA B.ST.json"
+    },
+    {
+        "BGnumber": 117.18941004918277,
+        "currency": "SEK",
+        "price": 113.31960414703738,
+        "symbol": "SEB A.ST.json"
+    },
+    {
+        "BGnumber": 429.13656183984716,
+        "currency": "SEK",
+        "price": 487.08188690240155,
+        "symbol": "CATE.ST.json"
+    },
+    {
+        "BGnumber": 56.6938898332748,
+        "currency": "SEK",
+        "price": 130.18444160273935,
+        "symbol": "BRAV.ST.json"
+    },
+    {
+        "BGnumber": 51.747084540831864,
+        "currency": "SEK",
+        "price": 74.03696912238074,
+        "symbol": "FAG.ST.json"
+    },
+    {
+        "BGnumber": 106.57601913000411,
+        "currency": "SEK",
+        "price": 120.35948574879527,
+        "symbol": "TEL2 B.ST.json"
+    },
+    {
+        "BGnumber": 106.61125538734642,
+        "currency": "SEK",
+        "price": 95.45457060094719,
+        "symbol": "BONAV A.ST.json"
+    },
+    {
+        "BGnumber": 62.940383567491864,
+        "currency": "SEK",
+        "price": 116.75958281088334,
+        "symbol": "HUSQ A.ST.json"
+    },
+    {
+        "BGnumber": 145.26952465822797,
+        "currency": "SEK",
+        "price": 220.66095165060642,
+        "symbol": "SKF B.ST.json"
+    },
+    {
+        "BGnumber": 28.93240762803884,
+        "currency": "SEK",
+        "price": 175.0788485334777,
+        "symbol": "HM B.ST.json"
+    },
+    {
+        "BGnumber": 43.24770277839044,
+        "currency": "SEK",
+        "price": 165.1859832847166,
+        "symbol": "DOM.ST.json"
+    },
+    {
+        "BGnumber": 41.07224576522448,
+        "currency": "SEK",
+        "price": 170.25743848189464,
+        "symbol": "SWEC B.ST.json"
+    },
+    {
+        "BGnumber": 203.33765356399192,
+        "currency": "SEK",
+        "price": 205.00061803490922,
+        "symbol": "WIHL.ST.json"
+    },
+    {
+        "BGnumber": 32.366461222286105,
+        "currency": "SEK",
+        "price": 88.87603135731841,
+        "symbol": "NOLA B.ST.json"
+    },
+    {
+        "BGnumber": 53.31553565724535,
+        "currency": "SEK",
+        "price": 43.769221508028544,
+        "symbol": "ATVEXA B.ST.json"
+    },
+    {
+        "BGnumber": 145.76410630097692,
+        "currency": "SEK",
+        "price": 257.62114451607,
+        "symbol": "ELUX B.ST.json"
+    },
+    {
+        "BGnumber": 33.12924395020206,
+        "currency": "SEK",
+        "price": 1.7939952664954941,
+        "symbol": "RIZZO B.ST.json"
+    },
+    {
+        "BGnumber": 3.10809986133007,
+        "currency": "SEK",
+        "price": 20.133745316279978,
+        "symbol": "ODD.ST.json"
+    },
+    {
+        "BGnumber": 211.08023639131875,
+        "currency": "SEK",
+        "price": 165.36796343061744,
+        "symbol": "SWED A.ST.json"
+    },
+    {
+        "BGnumber": 18.727655766272512,
+        "currency": "SEK",
+        "price": 32.48115957665593,
+        "symbol": "CBTT B.ST.json"
+    },
+    {
+        "BGnumber": 61.20582578234689,
+        "currency": "EUR",
+        "price": 241.08875590913473,
+        "symbol": "BETCO.ST.json"
+    },
+    {
+        "BGnumber": 101.94861001464781,
+        "currency": "SEK",
+        "price": 97.7708680071204,
+        "symbol": "DIOS.ST.json"
+    },
+    {
+        "BGnumber": 54.42386316135827,
+        "currency": "SEK",
+        "price": 55.399999193012206,
+        "symbol": "NAXS.ST.json"
+    },
+    {
+        "BGnumber": 70.84480965568332,
+        "currency": "SEK",
+        "price": 121.30004361452616,
+        "symbol": "GRNG.ST.json"
+    },
+    {
+        "BGnumber": 10.296740988961021,
+        "currency": "EUR",
+        "price": 16.308906966619908,
+        "symbol": "STE A.ST.json"
+    },
+    {
+        "BGnumber": 30.78151474580564,
+        "currency": "SEK",
+        "price": 19.290492450837956,
+        "symbol": "PENG B.ST.json"
+    },
+    {
+        "BGnumber": 129.6431124209603,
+        "currency": "SEK",
+        "price": 75.70000467713702,
+        "symbol": "MAG.ST.json"
+    },
+    {
+        "BGnumber": 30.692371652496977,
+        "currency": "SEK",
+        "price": 65.07514661511726,
+        "symbol": "RATO B.ST.json"
+    },
+    {
+        "BGnumber": 32.727670179910454,
+        "currency": "SEK",
+        "price": 32.95904339788106,
+        "symbol": "BRIN B.ST.json"
+    },
+    {
+        "BGnumber": 1146.1147159076181,
+        "currency": "SEK",
+        "price": 347.9854815031489,
+        "symbol": "KINV A.ST.json"
+    },
+    {
+        "BGnumber": 35.821409440957936,
+        "currency": "USD",
+        "price": 59.49999467579977,
+        "symbol": "TETY.ST.json"
+    },
+    {
+        "BGnumber": 0.3265319471353454,
+        "currency": "CAD",
+        "price": 0.8800000128686741,
+        "symbol": "JOSE.ST.json"
+    },
+    {
+        "BGnumber": 22.740151968489567,
+        "currency": "SEK",
+        "price": 161.85342959008648,
+        "symbol": "BEIJ B.ST.json"
+    },
+    {
+        "BGnumber": 7.450154995787,
+        "currency": "USD",
+        "price": 33.32308300395257,
+        "symbol": "ABB.ST.json"
+    },
+    {
+        "BGnumber": 51.73551738927281,
+        "currency": "SEK",
+        "price": 144.44845247124962,
+        "symbol": "SKIS B.ST.json"
+    },
+    {
+        "BGnumber": 131.73897862200087,
+        "currency": "SEK",
+        "price": 417.91063387951533,
+        "symbol": "NENT B.ST.json"
+    },
+    {
+        "BGnumber": 35.22870699052124,
+        "currency": "SEK",
+        "price": 153.40065725448162,
+        "symbol": "SINT.ST.json"
+    },
+    {
+        "BGnumber": 69.94402907896786,
+        "currency": "SEK",
+        "price": 329.53499307119415,
+        "symbol": "ANOD B.ST.json"
+    },
+    {
+        "BGnumber": 134.0872657090262,
+        "currency": "SEK",
+        "price": 143.33692592126764,
+        "symbol": "MEKO.ST.json"
+    },
+    {
+        "BGnumber": 4.868243246644522,
+        "currency": "USD",
+        "price": 1.2811473593471532,
+        "symbol": "AOI.ST.json"
+    },
+    {
+        "BGnumber": 230.86731327347968,
+        "currency": "SEK",
+        "price": 420.47764071524546,
+        "symbol": "HOLM A.ST.json"
+    },
+    {
+        "BGnumber": 78.08128681593305,
+        "currency": "EUR",
+        "price": 164.36841745444187,
+        "symbol": "ADAPT.ST.json"
+    },
+    {
+        "BGnumber": 100.93470261877725,
+        "currency": "SEK",
+        "price": 223.50002311888048,
+        "symbol": "SAND.ST.json"
+    },
+    {
+        "BGnumber": 80.39749273539256,
+        "currency": "SEK",
+        "price": 456.83453776099475,
+        "symbol": "NCAB.ST.json"
+    },
+    {
+        "BGnumber": 73.6628938910901,
+        "currency": "SEK",
+        "price": 33.85933627356968,
+        "symbol": "SBB B.ST.json"
+    },
+    {
+        "BGnumber": 53.2804121318731,
+        "currency": "SEK",
+        "price": 62.93120234152353,
+        "symbol": "BEGR.ST.json"
+    },
+    {
+        "BGnumber": 63.2042992089581,
+        "currency": "SEK",
+        "price": 276.5000580817533,
+        "symbol": "AZA.ST.json"
+    },
+    {
+        "BGnumber": 43.75535593657078,
+        "currency": "EUR",
+        "price": 130.36619852892505,
+        "symbol": "HEXA B.ST.json"
+    },
+    {
+        "BGnumber": 57.61925447205127,
+        "currency": "SEK",
+        "price": 112.33775191333356,
+        "symbol": "ERIC B.ST.json"
+    },
+    {
+        "BGnumber": 50.4382753685755,
+        "currency": "SEK",
+        "price": 106.24156626959707,
+        "symbol": "HPOL B.ST.json"
+    },
+    {
+        "BGnumber": 98.0521551967778,
+        "currency": "SEK",
+        "price": 213.37355528727062,
+        "symbol": "SAGA B.ST.json"
+    },
+    {
+        "BGnumber": 139.96540896682293,
+        "currency": "SEK",
+        "price": 482.6267590828532,
+        "symbol": "BIOG B.ST.json"
+    },
+    {
+        "BGnumber": 7.049481721853742,
+        "currency": "SEK",
+        "price": 100.22896917528524,
+        "symbol": "CINT.ST.json"
+    },
+    {
+        "BGnumber": 56.46334161741137,
+        "currency": "SEK",
+        "price": 59.17694182949718,
+        "symbol": "SCST.ST.json"
+    },
+    {
+        "BGnumber": 11.07649825897156,
+        "currency": "SEK",
+        "price": 15.849182228380714,
+        "symbol": "ITAB.ST.json"
+    },
+    {
+        "BGnumber": 5.153849980354493,
+        "currency": "SEK",
+        "price": 5.252728950593612,
+        "symbol": "BRG B.ST.json"
+    },
+    {
+        "BGnumber": 2.8606343251104294,
+        "currency": "SEK",
+        "price": 91.22887584301876,
+        "symbol": "PIERCE.ST.json"
+    },
+    {
+        "BGnumber": 124.15171192942125,
+        "currency": "SEK",
+        "price": 311.80005002427964,
+        "symbol": "ALFA.ST.json"
+    },
+    {
+        "BGnumber": 74.27281027563181,
+        "currency": "SEK",
+        "price": 214.3379222952552,
+        "symbol": "XANO B.ST.json"
+    },
+    {
+        "BGnumber": 62.70147733058608,
+        "currency": "SEK",
+        "price": 82.521058882535,
+        "symbol": "ACAD.ST.json"
+    },
+    {
+        "BGnumber": 241.8390070961258,
+        "currency": "SEK",
+        "price": 205.09630818132317,
+        "symbol": "INVE A.ST.json"
+    },
+    {
+        "BGnumber": 25.288320663593893,
+        "currency": "SEK",
+        "price": 49.83375766952321,
+        "symbol": "SVED B.ST.json"
+    },
+    {
+        "BGnumber": 102.55133393421073,
+        "currency": "SEK",
+        "price": 133.7809090909091,
+        "symbol": "WALL B.ST.json"
+    },
+    {
+        "BGnumber": 51.29540100685684,
+        "currency": "SEK",
+        "price": 72.7382075577295,
+        "symbol": "MSON B.ST.json"
+    },
+    {
+        "BGnumber": 172.48085560061443,
+        "currency": "SEK",
+        "price": 313.9999884115378,
+        "symbol": "AQ.ST.json"
+    },
+    {
+        "BGnumber": 112.34313203727676,
+        "currency": "SEK",
+        "price": 521.6617406332766,
+        "symbol": "ATCO A.ST.json"
+    },
+    {
+        "BGnumber": 30.90779086140742,
+        "currency": "SEK",
+        "price": 30.309082428512834,
+        "symbol": "ANNE B.ST.json"
+    },
+    {
+        "BGnumber": 266.5245905759823,
+        "currency": "SEK",
+        "price": 234.06850360288874,
+        "symbol": "SAAB B.ST.json"
+    },
+    {
+        "BGnumber": 35.78827055201187,
+        "currency": "SEK",
+        "price": 81.04249974547224,
+        "symbol": "MTRS.ST.json"
+    },
+    {
+        "BGnumber": 50.90348302550868,
+        "currency": "SEK",
+        "price": 233.71233309956958,
+        "symbol": "INDT.ST.json"
+    },
+    {
+        "BGnumber": 61.27115609480533,
+        "currency": "SEK",
+        "price": 625.8211770107347,
+        "symbol": "SECT B.ST.json"
+    },
+    {
+        "BGnumber": 231.03429284816679,
+        "currency": "SEK",
+        "price": 315.00003549704235,
+        "symbol": "JM.ST.json"
+    },
+    {
+        "BGnumber": 21.148946782286817,
+        "currency": "USD",
+        "price": 39.61000820483061,
+        "symbol": "PFE.ST.json"
+    },
+    {
+        "BGnumber": 36.11884605100224,
+        "currency": "SEK",
+        "price": 50.60954848422051,
+        "symbol": "DEDI.ST.json"
+    },
+    {
+        "BGnumber": 17.93187587006725,
+        "currency": "SEK",
+        "price": 22.249999347127716,
+        "symbol": "RAIL.ST.json"
+    },
+    {
+        "BGnumber": 90.9891375308531,
+        "currency": "SEK",
+        "price": 294.40448729171385,
+        "symbol": "BUFAB.ST.json"
+    },
+    {
+        "BGnumber": 151.5082431452246,
+        "currency": "SEK",
+        "price": 218.08574932631154,
+        "symbol": "NP3.ST.json"
+    },
+    {
+        "BGnumber": 166.2561368871387,
+        "currency": "SEK",
+        "price": 156.2204312387585,
+        "symbol": "FABG.ST.json"
+    },
+    {
+        "BGnumber": 1.5986659913815644,
+        "currency": "SEK",
+        "price": 5.233510158013544,
+        "symbol": "ORTI B.ST.json"
+    },
+    {
+        "BGnumber": 39.21727003796605,
+        "currency": "SEK",
+        "price": 119.27882141472526,
+        "symbol": "NOTE.ST.json"
+    },
+    {
+        "BGnumber": 3.425582596289279,
+        "currency": "SEK",
+        "price": 7.977265969061215,
+        "symbol": "POOL B.ST.json"
+    },
+    {
+        "BGnumber": 22.14850510011906,
+        "currency": "SEK",
+        "price": 27.84797966963151,
+        "symbol": "DURC B.ST.json"
+    },
+    {
+        "BGnumber": 135.50837079401404,
+        "currency": "SEK",
+        "price": 213.23015349694367,
+        "symbol": "VOLV A.ST.json"
+    },
+    {
+        "BGnumber": 180.1098550576564,
+        "currency": "SEK",
+        "price": 160.3999960558398,
+        "symbol": "JOMA.ST.json"
+    },
+    {
+        "BGnumber": 25.91625730049094,
+        "currency": "SEK",
+        "price": 73.95288493061759,
+        "symbol": "KFAST B.ST.json"
+    },
+    {
+        "BGnumber": 149.25230842721328,
+        "currency": "SEK",
+        "price": 322.91987534502283,
+        "symbol": "KNOW.ST.json"
+    },
+    {
+        "BGnumber": 16.254377116679986,
+        "currency": "SEK",
+        "price": 195.64365730872152,
+        "symbol": "IVSO.ST.json"
+    },
+    {
+        "BGnumber": 29.837088075158242,
+        "currency": "SEK",
+        "price": 78.3012576403343,
+        "symbol": "NIL B.ST.json"
+    },
+    {
+        "BGnumber": 39.92621255760431,
+        "currency": "SEK",
+        "price": 131.6105164174448,
+        "symbol": "FG.ST.json"
+    },
+    {
+        "BGnumber": 33.364227154056785,
+        "currency": "SEK",
+        "price": 101.60000116011469,
+        "symbol": "EWRK.ST.json"
+    },
+    {
+        "BGnumber": 236.774291951903,
+        "currency": "SEK",
+        "price": 282.97609189995563,
+        "symbol": "INTRUM.ST.json"
+    },
+    {
+        "BGnumber": 29.515050989114012,
+        "currency": "SEK",
+        "price": 361.99999081566045,
+        "symbol": "LIME.ST.json"
+    },
+    {
+        "BGnumber": 154.3115192280764,
+        "currency": "SEK",
+        "price": 307.74160665883187,
+        "symbol": "GETI B.ST.json"
+    },
+    {
+        "BGnumber": 124.31222121107201,
+        "currency": "SEK",
+        "price": 117.13570256971022,
+        "symbol": "FPAR A.ST.json"
+    },
+    {
+        "BGnumber": 39.61235782665556,
+        "currency": "SEK",
+        "price": 380.19999289773534,
+        "symbol": "CEVI.ST.json"
+    },
+    {
+        "BGnumber": 29.72518056932119,
+        "currency": "SEK",
+        "price": 24.339620909512483,
+        "symbol": "KLOV B.ST.json"
+    },
+    {
+        "BGnumber": 76.09327809642583,
+        "currency": "SEK",
+        "price": 82.25005327956197,
+        "symbol": "BMAX.ST.json"
+    },
+    {
+        "BGnumber": 112.6551707597836,
+        "currency": "SEK",
+        "price": 393.39997778934685,
+        "symbol": "THULE.ST.json"
+    },
+    {
+        "BGnumber": 48.2385899620418,
+        "currency": "SEK",
+        "price": 85.26573933976293,
+        "symbol": "PREV B.ST.json"
+    },
+    {
+        "BGnumber": 120.35685667806281,
+        "currency": "SEK",
+        "price": 112.89998719891149,
+        "symbol": "KLED.ST.json"
+    },
+    {
+        "BGnumber": 65.09277019688132,
+        "currency": "SEK",
+        "price": 43.61,
+        "symbol": "RESURS.ST.json"
+    },
+    {
+        "BGnumber": 129.46297003483275,
+        "currency": "SEK",
+        "price": 172.91584146694964,
+        "symbol": "VBG B.ST.json"
+    },
+    {
+        "BGnumber": 60.280901135009174,
+        "currency": "SEK",
+        "price": 200.64266438141712,
+        "symbol": "COIC.ST.json"
+    },
+    {
+        "BGnumber": 207.26486149880483,
+        "currency": "USD",
+        "price": 96.09995908975601,
+        "symbol": "VNV.ST.json"
+    },
+    {
+        "BGnumber": 101.6451684931458,
+        "currency": "SEK",
+        "price": 181.79999999999998,
+        "symbol": "TFBANK.ST.json"
+    },
+    {
+        "BGnumber": 35.866897843732595,
+        "currency": "SEK",
+        "price": 134.36407482021244,
+        "symbol": "HTRO.ST.json"
+    },
+    {
+        "BGnumber": 145.04824681887746,
+        "currency": "SEK",
+        "price": 464.9999717381597,
+        "symbol": "G5EN.ST.json"
+    },
+    {
+        "BGnumber": 45.36809509864283,
+        "currency": "SEK",
+        "price": 195.15344107378053,
+        "symbol": "EPI A.ST.json"
+    },
+    {
+        "BGnumber": 5.809088451534372,
+        "currency": "USD",
+        "price": 12.411761721640127,
+        "symbol": "MAHA A.ST.json"
+    },
+    {
+        "BGnumber": 31.183130450994653,
+        "currency": "SEK",
+        "price": 57.73322597398644,
+        "symbol": "B3.ST.json"
+    },
+    {
+        "BGnumber": 158.08613729052905,
+        "currency": "SEK",
+        "price": 263.43181380806897,
+        "symbol": "K2A B.ST.json"
+    },
+    {
+        "BGnumber": 19.77034332420027,
+        "currency": "SEK",
+        "price": 96.34493075608749,
+        "symbol": "LAGR B.ST.json"
+    },
+    {
+        "BGnumber": 109.99022129032085,
+        "currency": "SEK",
+        "price": 316.3333333333333,
+        "symbol": "SYSR.ST.json"
+    },
+    {
+        "BGnumber": 0.17364203048225393,
+        "currency": "SEK",
+        "price": 1.1021317040546292,
+        "symbol": "SENS.ST.json"
+    },
+    {
+        "BGnumber": 348.2677814718726,
+        "currency": "SEK",
+        "price": 323.49311778142385,
+        "symbol": "INDU C.ST.json"
+    },
+    {
+        "BGnumber": 38.668328260441385,
+        "currency": "SEK",
+        "price": 67.3767069363476,
+        "symbol": "SF.ST.json"
+    },
+    {
+        "BGnumber": 170.486051231721,
+        "currency": "SEK",
+        "price": 197.87866961004906,
+        "symbol": "STEF B.ST.json"
+    },
+    {
+        "BGnumber": 10.296740988961021,
+        "currency": "EUR",
+        "price": 16.308906966619908,
+        "symbol": "STE R.ST.json"
+    },
+    {
+        "BGnumber": 112.34313203727676,
+        "currency": "SEK",
+        "price": 521.6617406332766,
+        "symbol": "ATCO B.ST.json"
+    },
+    {
+        "BGnumber": 0.9345493566420128,
+        "currency": "EUR",
+        "price": 27.28,
+        "symbol": "8TRA.ST.json"
+    },
+    {
+        "BGnumber": 27.71590111740912,
+        "currency": "SEK",
+        "price": 38.66000187631764,
+        "symbol": "COLL.ST.json"
+    },
+    {
+        "BGnumber": 51.29540100685684,
+        "currency": "SEK",
+        "price": 72.7382075577295,
+        "symbol": "MSON A.ST.json"
+    },
+    {
+        "BGnumber": 16.311086498759057,
+        "currency": "USD",
+        "price": 86.4800038105166,
+        "symbol": "AZN.ST.json"
+    },
+    {
+        "BGnumber": 140.98891652660856,
+        "currency": "SEK",
+        "price": 134.1811166594137,
+        "symbol": "NYF.ST.json"
+    },
+    {
+        "BGnumber": 52.844195866831015,
+        "currency": "SEK",
+        "price": 387.30342193445676,
+        "symbol": "HMS.ST.json"
+    },
+    {
+        "BGnumber": 46.15155708967466,
+        "currency": "SEK",
+        "price": 105.53557029206996,
+        "symbol": "DUST.ST.json"
+    },
+    {
+        "BGnumber": 13.606831364750207,
+        "currency": "SEK",
+        "price": 23.680080272373104,
+        "symbol": "SOF B.ST.json"
+    },
+    {
+        "BGnumber": 135.50837079401404,
+        "currency": "SEK",
+        "price": 213.23015349694367,
+        "symbol": "VOLV B.ST.json"
+    },
+    {
+        "BGnumber": 30.58202033739759,
+        "currency": "EUR",
+        "price": 342.3000115741725,
+        "symbol": "EQT.ST.json"
+    },
+    {
+        "BGnumber": 62.97548898334375,
+        "currency": "SEK",
+        "price": 63.800008459716366,
+        "symbol": "ELEC.ST.json"
+    },
+    {
+        "BGnumber": 1.5986659913815644,
+        "currency": "SEK",
+        "price": 5.233510158013544,
+        "symbol": "ORTI A.ST.json"
+    },
+    {
+        "BGnumber": 141.103170076409,
+        "currency": "SEK",
+        "price": 228.94875746977806,
+        "symbol": "FNM.ST.json"
+    },
+    {
+        "BGnumber": 78.62011622952646,
+        "currency": "SEK",
+        "price": 65.91400966233067,
+        "symbol": "BETS B.ST.json"
+    },
+    {
+        "BGnumber": 282.7980266631647,
+        "currency": "SEK",
+        "price": 401.19997934841564,
+        "symbol": "ICA.ST.json"
+    },
+    {
+        "BGnumber": 73.6628938910901,
+        "currency": "SEK",
+        "price": 33.85933627356968,
+        "symbol": "SBB D.ST.json"
+    },
+    {
+        "BGnumber": 94.4379387488127,
+        "currency": "SEK",
+        "price": 133.66217937272074,
+        "symbol": "SECU B.ST.json"
+    },
+    {
+        "BGnumber": 73.00173538527183,
+        "currency": "SEK",
+        "price": 193.73077742892445,
+        "symbol": "AAK.ST.json"
+    },
+    {
+        "BGnumber": 16.30274880583793,
+        "currency": "SEK",
+        "price": 60.06904375804309,
+        "symbol": "EPRO B.ST.json"
+    },
+    {
+        "BGnumber": 11.32855270076456,
+        "currency": "SEK",
+        "price": 29.799998858475906,
+        "symbol": "GHP.ST.json"
+    },
+    {
+        "BGnumber": 89.34630572105374,
+        "currency": "SEK",
+        "price": 98.75999730487999,
+        "symbol": "PEAB B.ST.json"
+    },
+    {
+        "BGnumber": 98.0521551967778,
+        "currency": "SEK",
+        "price": 213.37355528727062,
+        "symbol": "SAGA A.ST.json"
+    },
+    {
+        "BGnumber": 39.37282537137766,
+        "currency": "SEK",
+        "price": 57.7925536502988,
+        "symbol": "DORO.ST.json"
+    },
+    {
+        "BGnumber": 42.01721071276924,
+        "currency": "EUR",
+        "price": 115.07014005587745,
+        "symbol": "MCOV B.ST.json"
+    },
+    {
+        "BGnumber": 42.486641350546876,
+        "currency": "SEK",
+        "price": 797.1752171901221,
+        "symbol": "MIPS.ST.json"
+    },
+    {
+        "BGnumber": 13.308817259339765,
+        "currency": "SEK",
+        "price": 21.93789490017979,
+        "symbol": "HANZA.ST.json"
+    },
+    {
+        "BGnumber": 246.3320439759188,
+        "currency": "SEK",
+        "price": 105.70064447632669,
+        "symbol": "CRED A.ST.json"
+    },
+    {
+        "BGnumber": 27.609223594240206,
+        "currency": "EUR",
+        "price": 69.0812031524427,
+        "symbol": "CTM.ST.json"
+    },
+    {
+        "BGnumber": 143.4077184519151,
+        "currency": "SEK",
+        "price": 127.77882341005215,
+        "symbol": "PLAZ B.ST.json"
+    },
+    {
+        "BGnumber": 21.28582219136132,
+        "currency": "EUR",
+        "price": 38.260003618192364,
+        "symbol": "LEO.ST.json"
+    },
+    {
+        "BGnumber": 348.2677814718726,
+        "currency": "SEK",
+        "price": 323.49311778142385,
+        "symbol": "INDU A.ST.json"
+    },
+    {
+        "BGnumber": 491.5312571210147,
+        "currency": "SEK",
+        "price": 398.99998005311636,
+        "symbol": "BURE.ST.json"
+    },
+    {
+        "BGnumber": 120.49885559900143,
+        "currency": "SEK",
+        "price": 126.08926841085271,
+        "symbol": "HEBA B.ST.json"
+    },
+    {
+        "BGnumber": 4.4424782904365445,
+        "currency": "SEK",
+        "price": 4.792515906516758,
+        "symbol": "TRAD.ST.json"
+    },
+    {
+        "BGnumber": 78.81304030270466,
+        "currency": "SEK",
+        "price": 137.35317291179504,
+        "symbol": "ALIG.ST.json"
+    },
+    {
+        "BGnumber": 30.62727728819524,
+        "currency": "SEK",
+        "price": 45.0,
+        "symbol": "NPAPER.ST.json"
+    },
+    {
+        "BGnumber": 45.36809509864283,
+        "currency": "SEK",
+        "price": 195.15344107378053,
+        "symbol": "EPI B.ST.json"
+    },
+    {
+        "BGnumber": 50.86719734431758,
+        "currency": "SEK",
+        "price": 78.51521340474086,
+        "symbol": "NOBINA.ST.json"
+    },
+    {
+        "BGnumber": 99.5291383506157,
+        "currency": "SEK",
+        "price": 199.24390532259537,
+        "symbol": "BILI A.ST.json"
+    },
+    {
+        "BGnumber": 52.51345320254135,
+        "currency": "SEK",
+        "price": 35.31974574296206,
+        "symbol": "HOFI.ST.json"
+    },
+    {
+        "BGnumber": 83.81440009827368,
+        "currency": "SEK",
+        "price": 398.12440312843984,
+        "symbol": "SDIP B.ST.json"
+    },
+    {
+        "BGnumber": 42.417797374427636,
+        "currency": "SEK",
+        "price": 302.7291668642748,
+        "symbol": "ALIF B.ST.json"
+    },
+    {
+        "BGnumber": 72.34706660000805,
+        "currency": "SEK",
+        "price": 63.799998434326305,
+        "symbol": "HUM.ST.json"
+    },
+    {
+        "BGnumber": 19.211150668296785,
+        "currency": "SEK",
+        "price": 125.8,
+        "symbol": "GARO.ST.json"
+    },
+    {
+        "BGnumber": 85.54633310987825,
+        "currency": "SEK",
+        "price": 395.68391593273464,
+        "symbol": "INSTAL.ST.json"
+    },
+    {
+        "BGnumber": 40.84894553987899,
+        "currency": "SEK",
+        "price": 213.6373729328406,
+        "symbol": "LIFCO B.ST.json"
+    },
+    {
+        "BGnumber": 0.23392990296240454,
+        "currency": "SEK",
+        "price": 31.443926910322972,
+        "symbol": "FING B.ST.json"
+    },
+    {
+        "BGnumber": 76.87313835453187,
+        "currency": "SEK",
+        "price": 328.26536838688736,
+        "symbol": "OEM B.ST.json"
+    },
+    {
+        "BGnumber": 40.450426405039295,
+        "currency": "SEK",
+        "price": 75.40232537336917,
+        "symbol": "NOBI.ST.json"
+    },
+    {
+        "BGnumber": 135.262789917951,
+        "currency": "SEK",
+        "price": 109.99989893119742,
+        "symbol": "GPG.ST.json"
+    },
+    {
+        "BGnumber": 46.90632125396853,
+        "currency": "SEK",
+        "price": 106.99998922834217,
+        "symbol": "BALCO.ST.json"
+    },
+    {
+        "BGnumber": 17.45801115115923,
+        "currency": "SEK",
+        "price": 37.62519941642506,
+        "symbol": "ORX.ST.json"
+    },
+    {
+        "BGnumber": 6.630709296278189,
+        "currency": "USD",
+        "price": 11.46080804167278,
+        "symbol": "LUMI.ST.json"
+    },
+    {
+        "BGnumber": 40.46718855275222,
+        "currency": "EUR",
+        "price": 289.14092905941504,
+        "symbol": "TROAX.ST.json"
+    },
+    {
+        "BGnumber": 22.762963826707626,
+        "currency": "SEK",
+        "price": 17.700004034194006,
+        "symbol": "NGS.ST.json"
+    },
+    {
+        "BGnumber": 70.0373089921097,
+        "currency": "SEK",
+        "price": 124.39925387747921,
+        "symbol": "SEMC.ST.json"
+    },
+    {
+        "BGnumber": 164.46985091762258,
+        "currency": "SEK",
+        "price": 185.4153886610913,
+        "symbol": "TREL B.ST.json"
+    },
+    {
+        "BGnumber": 36.087328456544135,
+        "currency": "SEK",
+        "price": 185.6936043629152,
+        "symbol": "ELOS B.ST.json"
+    },
+    {
+        "BGnumber": 119.98697038025837,
+        "currency": "SEK",
+        "price": 147.00000662439842,
+        "symbol": "INWI.ST.json"
+    },
+    {
+        "BGnumber": 285.440125309337,
+        "currency": "SEK",
+        "price": 243.14050686681796,
+        "symbol": "CAST.ST.json"
+    },
+    {
+        "BGnumber": 29.72518056932119,
+        "currency": "SEK",
+        "price": 24.339620909512483,
+        "symbol": "KLOV A.ST.json"
+    },
+    {
+        "BGnumber": 112.81337599196073,
+        "currency": "SEK",
+        "price": 170.38165125378026,
+        "symbol": "ELAN B.ST.json"
+    }
+]
