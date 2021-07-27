@@ -1,0 +1,82 @@
+[
+    {
+        "adjustedAmount": 0.01,
+        "amount": 0.01,
+        "currency": "SEK",
+        "date": "2014-03-05",
+        "declarationDate": "2014-02-03",
+        "payDate": "2014-03-12",
+        "recordDate": "2014-03-07",
+        "symbol": "BRE2.ST"
+    },
+    {
+        "adjustedAmount": 0.01,
+        "amount": 0.01,
+        "currency": "SEK",
+        "date": "2015-03-05",
+        "declarationDate": "2015-02-03",
+        "payDate": "2015-03-11",
+        "recordDate": "2015-03-06",
+        "symbol": "BRE2.ST"
+    },
+    {
+        "adjustedAmount": 0.02,
+        "amount": 0.02,
+        "currency": "SEK",
+        "date": "2016-03-16",
+        "declarationDate": "2016-02-10",
+        "payDate": "2016-03-22",
+        "recordDate": "2016-03-17",
+        "symbol": "BRE2.ST"
+    },
+    {
+        "adjustedAmount": 0.03,
+        "amount": 0.03,
+        "currency": "SEK",
+        "date": "2017-03-15",
+        "declarationDate": "2017-02-07",
+        "payDate": "2017-03-21",
+        "recordDate": "2017-03-16",
+        "symbol": "BRE2.ST"
+    },
+    {
+        "adjustedAmount": 0.05,
+        "amount": 0.05,
+        "currency": "SEK",
+        "date": "2018-03-14",
+        "declarationDate": "2018-02-07",
+        "payDate": "2018-03-20",
+        "recordDate": "2018-03-15",
+        "symbol": "BRE2.ST"
+    },
+    {
+        "adjustedAmount": 0.05,
+        "amount": 0.05,
+        "currency": "SEK",
+        "date": "2019-03-20",
+        "declarationDate": "2019-02-07",
+        "payDate": "2019-03-26",
+        "recordDate": "2019-03-21",
+        "symbol": "BRE2.ST"
+    },
+    {
+        "adjustedAmount": 0.05,
+        "amount": 0.05,
+        "currency": "SEK",
+        "date": "2020-03-19",
+        "declarationDate": "2020-02-06",
+        "payDate": "2020-03-25",
+        "recordDate": "2020-03-20",
+        "symbol": "BRE2.ST"
+    },
+    {
+        "adjustedAmount": 0.05,
+        "amount": 0.05,
+        "currency": "SEK",
+        "date": "2021-03-25",
+        "declarationDate": "2021-02-10",
+        "payDate": "2021-03-31",
+        "recordDate": "2021-03-26",
+        "symbol": "BRE2.ST"
+    }
+]

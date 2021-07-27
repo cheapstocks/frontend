@@ -78,5 +78,15 @@
         "payDate": "2021-04-21",
         "recordDate": "2021-04-16",
         "symbol": "CRED A.ST"
+    },
+    {
+        "adjustedAmount": null,
+        "amount": 0.35,
+        "currency": null,
+        "date": "2021-07-14",
+        "declarationDate": null,
+        "payDate": null,
+        "recordDate": null,
+        "symbol": "CRED A.ST"
     }
 ]

@@ -1,0 +1,62 @@
+[
+    {
+        "adjustedAmount": 0.6,
+        "amount": 0.6,
+        "currency": "SEK",
+        "date": "2015-05-27",
+        "declarationDate": "2015-02-25",
+        "payDate": "2015-06-02",
+        "recordDate": "2015-05-28",
+        "symbol": "ABSO.ST"
+    },
+    {
+        "adjustedAmount": 0.8,
+        "amount": 0.8,
+        "currency": "SEK",
+        "date": "2016-05-26",
+        "declarationDate": "2016-02-26",
+        "payDate": "2016-06-01",
+        "recordDate": "2016-05-27",
+        "symbol": "ABSO.ST"
+    },
+    {
+        "adjustedAmount": 0.9,
+        "amount": 0.9,
+        "currency": "SEK",
+        "date": "2017-05-23",
+        "declarationDate": "2017-02-22",
+        "payDate": "2017-05-30",
+        "recordDate": "2017-05-24",
+        "symbol": "ABSO.ST"
+    },
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2018-05-23",
+        "declarationDate": "2018-02-22",
+        "payDate": "2018-05-29",
+        "recordDate": "2018-05-24",
+        "symbol": "ABSO.ST"
+    },
+    {
+        "adjustedAmount": 1.5,
+        "amount": 1.5,
+        "currency": "SEK",
+        "date": "2019-05-06",
+        "declarationDate": "2019-02-28",
+        "payDate": "2019-05-10",
+        "recordDate": "2019-05-07",
+        "symbol": "ABSO.ST"
+    },
+    {
+        "adjustedAmount": 1.8,
+        "amount": 1.8,
+        "currency": "SEK",
+        "date": "2021-05-05",
+        "declarationDate": "2021-02-26",
+        "payDate": "2021-05-11",
+        "recordDate": "2021-05-06",
+        "symbol": "ABSO.ST"
+    }
+]

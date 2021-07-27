@@ -1,0 +1,82 @@
+[
+    {
+        "adjustedAmount": 0.5,
+        "amount": 0.5,
+        "currency": "SEK",
+        "date": "2012-05-09",
+        "declarationDate": "2012-02-16",
+        "payDate": "2012-05-16",
+        "recordDate": "2012-05-11",
+        "symbol": "FIRE.ST"
+    },
+    {
+        "adjustedAmount": 0.5,
+        "amount": 0.5,
+        "currency": "SEK",
+        "date": "2014-04-24",
+        "declarationDate": "2014-02-07",
+        "payDate": "2014-05-02",
+        "recordDate": "2014-04-28",
+        "symbol": "FIRE.ST"
+    },
+    {
+        "adjustedAmount": 0.6,
+        "amount": 0.6,
+        "currency": "SEK",
+        "date": "2015-04-28",
+        "declarationDate": "2015-02-16",
+        "payDate": "2015-05-05",
+        "recordDate": "2015-04-29",
+        "symbol": "FIRE.ST"
+    },
+    {
+        "adjustedAmount": 1.2,
+        "amount": 1.2,
+        "currency": "SEK",
+        "date": "2016-04-19",
+        "declarationDate": "2016-02-12",
+        "payDate": "2016-04-25",
+        "recordDate": "2016-04-20",
+        "symbol": "FIRE.ST"
+    },
+    {
+        "adjustedAmount": 1.2,
+        "amount": 1.2,
+        "currency": "SEK",
+        "date": "2017-05-11",
+        "declarationDate": "2017-02-15",
+        "payDate": "2017-05-17",
+        "recordDate": "2017-05-12",
+        "symbol": "FIRE.ST"
+    },
+    {
+        "adjustedAmount": 1.4,
+        "amount": 1.4,
+        "currency": "SEK",
+        "date": "2018-05-03",
+        "declarationDate": "2018-02-15",
+        "payDate": "2018-05-09",
+        "recordDate": "2018-05-04",
+        "symbol": "FIRE.ST"
+    },
+    {
+        "adjustedAmount": 1.9,
+        "amount": 1.9,
+        "currency": "SEK",
+        "date": "2019-05-10",
+        "declarationDate": "2019-02-20",
+        "payDate": "2019-05-16",
+        "recordDate": "2019-05-13",
+        "symbol": "FIRE.ST"
+    },
+    {
+        "adjustedAmount": 2.1,
+        "amount": 2.1,
+        "currency": "SEK",
+        "date": "2021-04-28",
+        "declarationDate": "2021-02-18",
+        "payDate": "2021-05-04",
+        "recordDate": "2021-04-29",
+        "symbol": "FIRE.ST"
+    }
+]

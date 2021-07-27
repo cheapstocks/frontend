@@ -1,0 +1,1185 @@
+{
+    "metric": {
+        "_10DayAverageTradingVolume": 0.00966,
+        "_13WeekPriceReturnDaily": 0.43478,
+        "_26WeekPriceReturnDaily": 78.37838,
+        "_3MonthAverageTradingVolume": 0.25857,
+        "_52WeekHigh": 104.5,
+        "_52WeekHighDate": "2021-03-29",
+        "_52WeekLow": 34,
+        "_52WeekLowDate": "2020-10-29",
+        "_52WeekPriceReturnDaily": 143.15789,
+        "_5DayPriceReturnDaily": -0.85837,
+        "_assetTurnoverAnnual": 2.11569,
+        "_assetTurnoverTTM": 2.20491,
+        "_beta": 1.03634,
+        "_bookValuePerShareAnnual": 36.00199,
+        "_bookValuePerShareQuarterly": 36.35413,
+        "_bookValueShareGrowth5Y": 16.32867,
+        "_capitalSpendingGrowth5Y": -9.02951,
+        "_cashFlowPerShareAnnual": 6.87626,
+        "_cashFlowPerShareTTM": 7.2174,
+        "_cashPerSharePerShareAnnual": 4.37617,
+        "_cashPerSharePerShareQuarterly": 2.71129,
+        "_currentDividendYieldTTM": 2.1645,
+        "_currentEvfreeCashFlowAnnual": 20.48919,
+        "_currentEvfreeCashFlowTTM": 18.22733,
+        "_currentRatioAnnual": 1.96933,
+        "_currentRatioQuarterly": 2.17428,
+        "_dividendGrowthRate5Y": 25.99208,
+        "_dividendPerShare5Y": 1.55,
+        "_dividendPerShareAnnual": 2,
+        "_dividendYield5Y": 3.60298,
+        "_dividendYieldIndicatedAnnual": 2.1645,
+        "_dividendsPerShareTTM": 2,
+        "_ebitdPerShareTTM": 8.6229,
+        "_ebitdaCagr5Y": 16.69395,
+        "_ebitdaInterimCagr5Y": 15.80487,
+        "_epsBasicExclExtraItemsAnnual": 4.56947,
+        "_epsBasicExclExtraItemsTTM": 5.26153,
+        "_epsExclExtraItemsAnnual": 4.56947,
+        "_epsExclExtraItemsTTM": 5.21858,
+        "_epsGrowth3Y": 15.43981,
+        "_epsGrowth5Y": 25.97973,
+        "_epsGrowthQuarterlyYoy": 221.4595,
+        "_epsGrowthTTMYoy": 2224.31,
+        "_epsInclExtraItemsAnnual": 4.56947,
+        "_epsInclExtraItemsTTM": 5.21858,
+        "_epsNormalizedAnnual": 3.95952,
+        "_focfCagr5Y": null,
+        "_freeCashFlowAnnual": 69.945,
+        "_freeCashFlowPerShareTTM": 1.09846,
+        "_freeCashFlowTTM": 13.645,
+        "_freeOperatingCashFlowrevenue5Y": 0.5178,
+        "_freeOperatingCashFlowrevenueTTM": 0.58239,
+        "_grossMargin5Y": 99.65779,
+        "_grossMarginAnnual": 100.1441,
+        "_grossMarginTTM": 100.8067,
+        "_inventoryTurnoverAnnual": -0.00832,
+        "_inventoryTurnoverTTM": -0.04058,
+        "_longTermDebtequityAnnual": 41.39311,
+        "_longTermDebtequityQuarterly": 40.58231,
+        "_marketCapitalization": 1134.853,
+        "_monthToDatePriceReturnDaily": -3.75,
+        "_netDebtAnnual": 159.461,
+        "_netDebtInterim": 183.1,
+        "_netIncomeEmployeeAnnual": 223880.3,
+        "_netIncomeEmployeeTTM": 251293.4,
+        "_netInterestCoverageAnnual": 4.23304,
+        "_netInterestCoverageTTM": 5.44665,
+        "_netMarginGrowth5Y": 5.44014,
+        "_netProfitMargin5Y": 1.71879,
+        "_netProfitMarginAnnual": 2.45883,
+        "_netProfitMarginTTM": 2.77792,
+        "_operatingMargin5Y": 2.8017,
+        "_operatingMarginAnnual": 3.70802,
+        "_operatingMarginTTM": 3.90296,
+        "_payoutRatioAnnual": 43.76523,
+        "_payoutRatioTTM": 38.0086,
+        "_pbAnnual": 2.56652,
+        "_pbQuarterly": 2.54166,
+        "_pcfShareTTM": 12.65814,
+        "_peBasicExclExtraTTM": 19.00588,
+        "_peExclExtraAnnual": 20.22116,
+        "_peExclExtraHighTTM": 54.60169,
+        "_peExclExtraTTM": 17.70597,
+        "_peExclLowTTM": 10.37322,
+        "_peInclExtraTTM": 17.70597,
+        "_peNormalizedAnnual": 23.33616,
+        "_pfcfShareAnnual": 16.22494,
+        "_pfcfShareTTM": 83.16989,
+        "_pretaxMargin5Y": 2.23906,
+        "_pretaxMarginAnnual": 2.92121,
+        "_pretaxMarginTTM": 3.25613,
+        "_priceRelativeToSP50013Week": null,
+        "_priceRelativeToSP50026Week": null,
+        "_priceRelativeToSP5004Week": null,
+        "_priceRelativeToSP50052Week": null,
+        "_priceRelativeToSP500Ytd": null,
+        "_psAnnual": 0.48123,
+        "_psTTM": 0.48437,
+        "_ptbvAnnual": 3.399,
+        "_ptbvQuarterly": 3.38056,
+        "_quickRatioAnnual": 1.16983,
+        "_quickRatioQuarterly": 0.98798,
+        "_receivablesTurnoverAnnual": 5.41597,
+        "_receivablesTurnoverTTM": 7.03585,
+        "_revenueEmployeeAnnual": 9105162,
+        "_revenueEmployeeTTM": 9046089,
+        "_revenueGrowth3Y": 9.90313,
+        "_revenueGrowth5Y": 12.74594,
+        "_revenueGrowthQuarterlyYoy": -2.70844,
+        "_revenueGrowthTTMYoy": 0.24431,
+        "_revenuePerShareAnnual": 192.0082,
+        "_revenuePerShareTTM": 188.613,
+        "_revenueShareGrowth5Y": 12.74594,
+        "_roaRfy": 5.20211,
+        "_roaa5Y": 3.2596,
+        "_roae5Y": 8.88151,
+        "_roaeTTM": 15.19088,
+        "_roeRfy": 13.40152,
+        "_roeTTM": 6.12507,
+        "_roi5Y": 6.89323,
+        "_roiAnnual": 9.31288,
+        "_roiTTM": 10.37211,
+        "_tangibleBookValuePerShareAnnual": 27.1845,
+        "_tangibleBookValuePerShareQuarterly": 27.33277,
+        "_tbvCagr5Y": 24.17817,
+        "_totalDebtCagr5Y": -4.36222,
+        "_totalDebttotalEquityAnnual": 48.21824,
+        "_totalDebttotalEquityQuarterly": 48.46585,
+        "_yearToDatePriceReturnDaily": 94.93671
+    },
+    "metricType": "all",
+    "series": {
+        "annual": {
+            "cashRatio": [
+                {
+                    "period": "2019-12-31",
+                    "v": 0.02361573082011315
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 0.0719154429021659
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 0.11704718417047184
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 0.1679281816581588
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 0.12526667836184505
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 0.14351403678606003
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 0.1152276295133438
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 0.625974025974026
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": 0.829136690647482
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": 0.5384615384615384
+                },
+                {
+                    "period": "2003-12-31",
+                    "v": 0.5065104166666666
+                },
+                {
+                    "period": "2002-12-31",
+                    "v": 0.42643764002987306
+                },
+                {
+                    "period": "2001-12-31",
+                    "v": 0.18277127380744365
+                },
+                {
+                    "period": "2000-12-31",
+                    "v": 0.26374429223744295
+                }
+            ],
+            "currentRatio": [
+                {
+                    "period": "2019-12-31",
+                    "v": 2.0044
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 1.703
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 1.4099
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 1.4656
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 1.3165
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 1.5021
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 1.5042
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 3.0351
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": 3.6169
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": 2.4386
+                },
+                {
+                    "period": "2003-12-31",
+                    "v": 1.5931
+                },
+                {
+                    "period": "2002-12-31",
+                    "v": 1.2558
+                },
+                {
+                    "period": "2001-12-31",
+                    "v": 1.0559
+                },
+                {
+                    "period": "2000-12-31",
+                    "v": 1.36
+                }
+            ],
+            "ebitPerShare": [
+                {
+                    "period": "2019-12-31",
+                    "v": 1.3137
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 5.8737
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 4.8134
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 4.2829
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 3.2702
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 5.2679
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 2.045
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 1.7117
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": 1.9009
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": 2.7477
+                },
+                {
+                    "period": "2003-12-31",
+                    "v": -2.1783
+                },
+                {
+                    "period": "2002-12-31",
+                    "v": -4.9021
+                },
+                {
+                    "period": "2001-12-31",
+                    "v": -47.7653
+                },
+                {
+                    "period": "2000-12-31",
+                    "v": 5.491
+                }
+            ],
+            "eps": [
+                {
+                    "period": "2019-12-31",
+                    "v": 3.1177
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 3.2715
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 2.9703
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 34.4762
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 3.425
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 3.3219
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 1.1802
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 0.3964
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": 1.1532
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": 1.8018
+                },
+                {
+                    "period": "2003-12-31",
+                    "v": -2.3376
+                },
+                {
+                    "period": "2002-12-31",
+                    "v": -4.7762
+                },
+                {
+                    "period": "2001-12-31",
+                    "v": -50.949
+                },
+                {
+                    "period": "2000-12-31",
+                    "v": 3.1497
+                }
+            ],
+            "grossMargin": [
+                {
+                    "period": "2019-12-31",
+                    "v": 0.9929
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 0.9936
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 0.9968
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 0.9988
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 0.9994
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 0.7318
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 0.997
+                }
+            ],
+            "longtermDebtTotalAsset": [
+                {
+                    "period": "2019-12-31",
+                    "v": 0.1706
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 0.1904
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 0.0816
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 0.089
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 0.117
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 0.1334
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 0.1527
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 0.2089
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": 0.1481
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": 0.0641
+                },
+                {
+                    "period": "2003-12-31",
+                    "v": 0.3522
+                },
+                {
+                    "period": "2002-12-31",
+                    "v": 0.2063
+                },
+                {
+                    "period": "2001-12-31",
+                    "v": 0.1348
+                },
+                {
+                    "period": "2000-12-31",
+                    "v": 0.1655
+                }
+            ],
+            "longtermDebtTotalCapital": [
+                {
+                    "period": "2019-12-31",
+                    "v": 0.2865
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 0.3593
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 0.1407
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 0.1519
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 0.211
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 0.2344
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 0.2622
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 0.2677
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": 0.1821
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": 0.0886
+                },
+                {
+                    "period": "2003-12-31",
+                    "v": 0.7253
+                },
+                {
+                    "period": "2002-12-31",
+                    "v": 0.3963
+                },
+                {
+                    "period": "2001-12-31",
+                    "v": 0.2955
+                },
+                {
+                    "period": "2000-12-31",
+                    "v": 0.2145
+                }
+            ],
+            "longtermDebtTotalEquity": [
+                {
+                    "period": "2019-12-31",
+                    "v": 0.4644
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 0.6312
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 0.2675
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 0.2646
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 0.4818
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 0.4624
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 0.5393
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 0.3869
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": 0.228
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": 0.0991
+                },
+                {
+                    "period": "2003-12-31",
+                    "v": 2.6397
+                },
+                {
+                    "period": "2002-12-31",
+                    "v": 0.8225
+                },
+                {
+                    "period": "2001-12-31",
+                    "v": 0.6215
+                },
+                {
+                    "period": "2000-12-31",
+                    "v": 0.2932
+                }
+            ],
+            "netDebtToTotalCapital": [
+                {
+                    "period": "2019-12-31",
+                    "v": 0.3664
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 0.3639
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 0.3544
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 0.265
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 0.422
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 0.3554
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 0.4084
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 0.1139
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": -0.0049
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": -0.1013
+                },
+                {
+                    "period": "2003-12-31",
+                    "v": 0.4324
+                },
+                {
+                    "period": "2002-12-31",
+                    "v": 0.2382
+                },
+                {
+                    "period": "2001-12-31",
+                    "v": 0.327
+                },
+                {
+                    "period": "2000-12-31",
+                    "v": 0.1883
+                }
+            ],
+            "netDebtToTotalEquity": [
+                {
+                    "period": "2019-12-31",
+                    "v": 0.5939
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 0.6393
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 0.6737
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 0.4619
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 0.9639
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 0.701
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 0.8399
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 0.1646
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": -0.0062
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": -0.1133
+                },
+                {
+                    "period": "2003-12-31",
+                    "v": 1.574
+                },
+                {
+                    "period": "2002-12-31",
+                    "v": 0.4944
+                },
+                {
+                    "period": "2001-12-31",
+                    "v": 0.6878
+                },
+                {
+                    "period": "2000-12-31",
+                    "v": 0.2574
+                }
+            ],
+            "netMargin": [
+                {
+                    "period": "2019-12-31",
+                    "v": 0.0165
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 0.0178
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 0.0205
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 0.2746
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 0.0325
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 0.0293
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 0.0128
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 0.0089
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": 0.0311
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": 0.0343
+                },
+                {
+                    "period": "2003-12-31",
+                    "v": -0.1495
+                },
+                {
+                    "period": "2002-12-31",
+                    "v": -0.122
+                },
+                {
+                    "period": "2001-12-31",
+                    "v": -0.571
+                },
+                {
+                    "period": "2000-12-31",
+                    "v": 0.0339
+                }
+            ],
+            "operatingMargin": [
+                {
+                    "period": "2019-12-31",
+                    "v": 0.007
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 0.0319
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 0.0333
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 0.0341
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 0.031
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 0.0465
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 0.0222
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 0.0384
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": 0.0513
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": 0.0523
+                },
+                {
+                    "period": "2003-12-31",
+                    "v": -0.1393
+                },
+                {
+                    "period": "2002-12-31",
+                    "v": -0.1252
+                },
+                {
+                    "period": "2001-12-31",
+                    "v": -0.5353
+                },
+                {
+                    "period": "2000-12-31",
+                    "v": 0.0592
+                }
+            ],
+            "pretaxMargin": [
+                {
+                    "period": "2019-12-31",
+                    "v": 0.0017
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 0.0247
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 0.0302
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 0.0306
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 0.0235
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 0.0423
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 0.0193
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 0.0235
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": 0.0453
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": 0.0483
+                },
+                {
+                    "period": "2003-12-31",
+                    "v": -0.1555
+                },
+                {
+                    "period": "2002-12-31",
+                    "v": -0.1439
+                },
+                {
+                    "period": "2001-12-31",
+                    "v": -0.6012
+                },
+                {
+                    "period": "2000-12-31",
+                    "v": 0.0434
+                }
+            ],
+            "salesPerShare": [
+                {
+                    "period": "2019-12-31",
+                    "v": 188.946
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 184.169
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 144.6404
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 125.5704
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 105.3938
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 113.2474
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 91.982
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 44.5405
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": 37.027
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": 52.5495
+                },
+                {
+                    "period": "2003-12-31",
+                    "v": 15.6369
+                },
+                {
+                    "period": "2002-12-31",
+                    "v": 39.1573
+                },
+                {
+                    "period": "2001-12-31",
+                    "v": 89.2347
+                },
+                {
+                    "period": "2000-12-31",
+                    "v": 92.8204
+                }
+            ],
+            "sgaToSale": [
+                {
+                    "period": "2019-12-31",
+                    "v": 0.0071
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 0.0064
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 0.0032
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 0.0012
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 0.0006
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 0.0023
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 0.0031
+                }
+            ],
+            "totalDebtToEquity": [
+                {
+                    "period": "2019-12-31",
+                    "v": 0.6208
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 0.7568
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 0.901
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 0.7427
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 1.2838
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 0.9725
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 1.0567
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 0.445
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": 0.2521
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": 0.1189
+                },
+                {
+                    "period": "2003-12-31",
+                    "v": 2.6397
+                },
+                {
+                    "period": "2002-12-31",
+                    "v": 1.0753
+                },
+                {
+                    "period": "2001-12-31",
+                    "v": 1.1033
+                },
+                {
+                    "period": "2000-12-31",
+                    "v": 0.3669
+                }
+            ],
+            "totalDebtToTotalAsset": [
+                {
+                    "period": "2019-12-31",
+                    "v": 0.228
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 0.2282
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 0.2747
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 0.2498
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 0.3118
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 0.2806
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 0.2993
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 0.2403
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": 0.1638
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": 0.077
+                },
+                {
+                    "period": "2003-12-31",
+                    "v": 0.3522
+                },
+                {
+                    "period": "2002-12-31",
+                    "v": 0.2697
+                },
+                {
+                    "period": "2001-12-31",
+                    "v": 0.2394
+                },
+                {
+                    "period": "2000-12-31",
+                    "v": 0.2072
+                }
+            ],
+            "totalDebtToTotalCapital": [
+                {
+                    "period": "2019-12-31",
+                    "v": 0.383
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 0.4308
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 0.474
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 0.4262
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 0.5621
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 0.493
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 0.5138
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 0.308
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": 0.2013
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": 0.1063
+                },
+                {
+                    "period": "2003-12-31",
+                    "v": 0.7253
+                },
+                {
+                    "period": "2002-12-31",
+                    "v": 0.5181
+                },
+                {
+                    "period": "2001-12-31",
+                    "v": 0.5245
+                },
+                {
+                    "period": "2000-12-31",
+                    "v": 0.2684
+                }
+            ],
+            "totalRatio": [
+                {
+                    "period": "2019-12-31",
+                    "v": 1.5804
+                },
+                {
+                    "period": "2018-12-31",
+                    "v": 1.4318
+                },
+                {
+                    "period": "2017-12-31",
+                    "v": 1.4387
+                },
+                {
+                    "period": "2016-12-31",
+                    "v": 1.5067
+                },
+                {
+                    "period": "2015-12-31",
+                    "v": 1.3208
+                },
+                {
+                    "period": "2014-12-31",
+                    "v": 1.4056
+                },
+                {
+                    "period": "2013-12-31",
+                    "v": 1.3951
+                },
+                {
+                    "period": "2012-12-31",
+                    "v": 2.1742
+                },
+                {
+                    "period": "2011-12-31",
+                    "v": 2.8536
+                },
+                {
+                    "period": "2010-12-31",
+                    "v": 2.8348
+                },
+                {
+                    "period": "2003-12-31",
+                    "v": 1.1539
+                },
+                {
+                    "period": "2002-12-31",
+                    "v": 1.3348
+                },
+                {
+                    "period": "2001-12-31",
+                    "v": 1.2771
+                },
+                {
+                    "period": "2000-12-31",
+                    "v": 2.2968
+                }
+            ]
+        }
+    },
+    "symbol": "DIST.ST"
+}

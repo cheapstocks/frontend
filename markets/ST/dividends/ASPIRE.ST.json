@@ -1,0 +1,22 @@
+[
+    {
+        "adjustedAmount": 0.85,
+        "amount": 0.85,
+        "currency": "SEK",
+        "date": "2018-05-09",
+        "declarationDate": "2018-02-15",
+        "payDate": "2018-05-16",
+        "recordDate": "2018-05-11",
+        "symbol": "ASPIRE.ST"
+    },
+    {
+        "adjustedAmount": 1.27,
+        "amount": 1.27,
+        "currency": "SEK",
+        "date": "2019-05-15",
+        "declarationDate": "2019-02-14",
+        "payDate": "2019-06-01",
+        "recordDate": "2019-05-16",
+        "symbol": "ASPIRE.ST"
+    }
+]

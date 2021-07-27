@@ -1,0 +1,42 @@
+[
+    {
+        "adjustedAmount": 1.6912258752,
+        "amount": 2,
+        "currency": "NOK",
+        "date": "2015-05-28",
+        "declarationDate": "2015-02-25",
+        "payDate": "2015-07-03",
+        "recordDate": "2015-05-29",
+        "symbol": "XXLO.ST"
+    },
+    {
+        "adjustedAmount": 1.6912258752,
+        "amount": 2,
+        "currency": "NOK",
+        "date": "2016-06-06",
+        "declarationDate": "2016-02-19",
+        "payDate": "2016-07-05",
+        "recordDate": "2016-06-07",
+        "symbol": "XXLO.ST"
+    },
+    {
+        "adjustedAmount": 1.6912258752,
+        "amount": 2,
+        "currency": "NOK",
+        "date": "2017-06-08",
+        "declarationDate": "2017-02-15",
+        "payDate": "2017-07-04",
+        "recordDate": "2017-06-09",
+        "symbol": "XXLO.ST"
+    },
+    {
+        "adjustedAmount": 1.6912258752,
+        "amount": 2,
+        "currency": "NOK",
+        "date": "2018-06-07",
+        "declarationDate": "2018-02-14",
+        "payDate": "2018-07-03",
+        "recordDate": "2018-06-08",
+        "symbol": "XXLO.ST"
+    }
+]

@@ -1,0 +1,693 @@
+{
+    "metric": {
+        "_10DayAverageTradingVolume": 0.01294,
+        "_13WeekPriceReturnDaily": -22.37762,
+        "_26WeekPriceReturnDaily": 4.71698,
+        "_3MonthAverageTradingVolume": 0.1569,
+        "_52WeekHigh": 11.6,
+        "_52WeekHighDate": "2021-03-17",
+        "_52WeekLow": 4.26,
+        "_52WeekLowDate": "2021-01-08",
+        "_52WeekPriceReturnDaily": 1.83486,
+        "_5DayPriceReturnDaily": -1.76991,
+        "_assetTurnoverAnnual": 0.56706,
+        "_assetTurnoverTTM": 0.50909,
+        "_beta": 0.69574,
+        "_bookValuePerShareAnnual": 6.90075,
+        "_bookValuePerShareQuarterly": 6.92075,
+        "_bookValueShareGrowth5Y": 55.62313,
+        "_capitalSpendingGrowth5Y": null,
+        "_cashFlowPerShareAnnual": 0.87084,
+        "_cashFlowPerShareTTM": 1.41189,
+        "_cashPerSharePerShareAnnual": 0.06638,
+        "_cashPerSharePerShareQuarterly": 0.06402,
+        "_currentDividendYieldTTM": 0,
+        "_currentEvfreeCashFlowAnnual": null,
+        "_currentEvfreeCashFlowTTM": 47.20443,
+        "_currentRatioAnnual": 0.17553,
+        "_currentRatioQuarterly": 0.12654,
+        "_dividendGrowthRate5Y": null,
+        "_dividendPerShare5Y": null,
+        "_dividendPerShareAnnual": null,
+        "_dividendYield5Y": null,
+        "_dividendYieldIndicatedAnnual": null,
+        "_dividendsPerShareTTM": 0,
+        "_ebitdPerShareTTM": 1.80431,
+        "_ebitdaCagr5Y": null,
+        "_ebitdaInterimCagr5Y": null,
+        "_epsBasicExclExtraItemsAnnual": -0.43,
+        "_epsBasicExclExtraItemsTTM": -0.04557,
+        "_epsExclExtraItemsAnnual": -0.43,
+        "_epsExclExtraItemsTTM": -0.04557,
+        "_epsGrowth3Y": null,
+        "_epsGrowth5Y": null,
+        "_epsGrowthQuarterlyYoy": null,
+        "_epsGrowthTTMYoy": null,
+        "_epsInclExtraItemsAnnual": -0.43,
+        "_epsInclExtraItemsTTM": -0.04557,
+        "_epsNormalizedAnnual": -0.43,
+        "_focfCagr5Y": null,
+        "_freeCashFlowAnnual": -6.00614,
+        "_freeCashFlowPerShareTTM": -0.11949,
+        "_freeCashFlowTTM": -0.53336,
+        "_freeOperatingCashFlowrevenue5Y": -33.37073,
+        "_freeOperatingCashFlowrevenueTTM": -2.04221,
+        "_grossMargin5Y": 71.60481,
+        "_grossMarginAnnual": 74.83831,
+        "_grossMarginTTM": 75.34376,
+        "_inventoryTurnoverAnnual": null,
+        "_inventoryTurnoverTTM": null,
+        "_longTermDebtequityAnnual": 12.1144,
+        "_longTermDebtequityQuarterly": 10.91708,
+        "_marketCapitalization": 24.55743,
+        "_monthToDatePriceReturnDaily": -1.76991,
+        "_netDebtAnnual": 6.67961,
+        "_netDebtInterim": 8.08124,
+        "_netIncomeEmployeeAnnual": null,
+        "_netIncomeEmployeeTTM": null,
+        "_netInterestCoverageAnnual": -1.31033,
+        "_netInterestCoverageTTM": 1.23242,
+        "_netMarginGrowth5Y": null,
+        "_netProfitMargin5Y": -9.8361,
+        "_netProfitMarginAnnual": -6.47443,
+        "_netProfitMarginTTM": -0.75932,
+        "_operatingMargin5Y": -8.671,
+        "_operatingMarginAnnual": -4.54303,
+        "_operatingMarginTTM": 5.94756,
+        "_payoutRatioAnnual": null,
+        "_payoutRatioTTM": null,
+        "_pbAnnual": 0.80426,
+        "_pbQuarterly": 0.80194,
+        "_pcfShareTTM": 3.89666,
+        "_peBasicExclExtraTTM": null,
+        "_peExclExtraAnnual": null,
+        "_peExclExtraHighTTM": null,
+        "_peExclExtraTTM": null,
+        "_peExclLowTTM": null,
+        "_peInclExtraTTM": null,
+        "_peNormalizedAnnual": null,
+        "_pfcfShareAnnual": null,
+        "_pfcfShareTTM": null,
+        "_pretaxMargin5Y": -11.49505,
+        "_pretaxMarginAnnual": -8.01016,
+        "_pretaxMarginTTM": 1.12166,
+        "_priceRelativeToSP50013Week": null,
+        "_priceRelativeToSP50026Week": null,
+        "_priceRelativeToSP5004Week": null,
+        "_priceRelativeToSP50052Week": null,
+        "_priceRelativeToSP500Ytd": null,
+        "_psAnnual": 0.86392,
+        "_psTTM": 0.94029,
+        "_ptbvAnnual": null,
+        "_ptbvQuarterly": null,
+        "_quickRatioAnnual": null,
+        "_quickRatioQuarterly": null,
+        "_receivablesTurnoverAnnual": 32.5432,
+        "_receivablesTurnoverTTM": 34.17686,
+        "_revenueEmployeeAnnual": null,
+        "_revenueEmployeeTTM": null,
+        "_revenueGrowth3Y": 3.26882,
+        "_revenueGrowth5Y": 11.85465,
+        "_revenueGrowthQuarterlyYoy": null,
+        "_revenueGrowthTTMYoy": null,
+        "_revenuePerShareAnnual": 6.63685,
+        "_revenuePerShareTTM": 5.85098,
+        "_revenueShareGrowth5Y": 6.63059,
+        "_roaRfy": -3.67141,
+        "_roaa5Y": -6.88441,
+        "_roae5Y": -11.07383,
+        "_roaeTTM": -0.63267,
+        "_roeRfy": -6.11882,
+        "_roeTTM": -0.38656,
+        "_roi5Y": -8.32701,
+        "_roiAnnual": -4.64688,
+        "_roiTTM": -0.48322,
+        "_tangibleBookValuePerShareAnnual": -2.66113,
+        "_tangibleBookValuePerShareQuarterly": -2.28685,
+        "_tbvCagr5Y": null,
+        "_totalDebtCagr5Y": -7.67855,
+        "_totalDebttotalEquityAnnual": 22.83776,
+        "_totalDebttotalEquityQuarterly": 27.31476,
+        "_yearToDatePriceReturnDaily": 21.71053
+    },
+    "metricType": "all",
+    "series": {
+        "annual": {
+            "cashRatio": [
+                {
+                    "period": "2020-06-30",
+                    "v": 0.025056817406259813
+                },
+                {
+                    "period": "2019-06-30",
+                    "v": 0.08003343321039395
+                },
+                {
+                    "period": "2018-06-30",
+                    "v": 0.35690569870174144
+                },
+                {
+                    "period": "2017-06-30",
+                    "v": 4.5599007268214855
+                },
+                {
+                    "period": "2016-06-30",
+                    "v": 0.07308654189683128
+                },
+                {
+                    "period": "2015-06-30",
+                    "v": 0.12478676552152132
+                },
+                {
+                    "period": "2014-06-30",
+                    "v": 0.4047619047619048
+                }
+            ],
+            "currentRatio": [
+                {
+                    "period": "2020-06-30",
+                    "v": 0.1755
+                },
+                {
+                    "period": "2019-06-30",
+                    "v": 0.3156
+                },
+                {
+                    "period": "2018-06-30",
+                    "v": 0.7197
+                },
+                {
+                    "period": "2017-06-30",
+                    "v": 4.7899
+                },
+                {
+                    "period": "2016-06-30",
+                    "v": 0.2263
+                },
+                {
+                    "period": "2015-06-30",
+                    "v": 0.4283
+                },
+                {
+                    "period": "2014-06-30",
+                    "v": 0.8651
+                }
+            ],
+            "ebitPerShare": [
+                {
+                    "period": "2020-06-30",
+                    "v": -0.3015
+                },
+                {
+                    "period": "2019-06-30",
+                    "v": -0.4242
+                },
+                {
+                    "period": "2018-06-30",
+                    "v": -1.3497
+                },
+                {
+                    "period": "2017-06-30",
+                    "v": -1.0104
+                },
+                {
+                    "period": "2016-06-30",
+                    "v": -0.1472
+                },
+                {
+                    "period": "2015-06-30",
+                    "v": -0.5425
+                },
+                {
+                    "period": "2014-06-30",
+                    "v": -0.4629
+                }
+            ],
+            "eps": [
+                {
+                    "period": "2020-06-30",
+                    "v": -0.43
+                },
+                {
+                    "period": "2019-06-30",
+                    "v": -0.51
+                },
+                {
+                    "period": "2018-06-30",
+                    "v": -1.22
+                },
+                {
+                    "period": "2017-06-30",
+                    "v": -1.27
+                },
+                {
+                    "period": "2016-06-30",
+                    "v": -0.35
+                },
+                {
+                    "period": "2015-06-30",
+                    "v": -0.551
+                },
+                {
+                    "period": "2014-06-30",
+                    "v": -0.4421
+                }
+            ],
+            "grossMargin": [
+                {
+                    "period": "2020-06-30",
+                    "v": 0.7484
+                },
+                {
+                    "period": "2019-06-30",
+                    "v": 0.7627
+                },
+                {
+                    "period": "2018-06-30",
+                    "v": 0.7436
+                },
+                {
+                    "period": "2017-06-30",
+                    "v": 0.6538
+                },
+                {
+                    "period": "2016-06-30",
+                    "v": 0.6445
+                }
+            ],
+            "longtermDebtTotalAsset": [
+                {
+                    "period": "2020-06-30",
+                    "v": 0.0704
+                },
+                {
+                    "period": "2019-06-30",
+                    "v": 0.1093
+                },
+                {
+                    "period": "2018-06-30",
+                    "v": 0.0726
+                },
+                {
+                    "period": "2017-06-30",
+                    "v": 0.0856
+                },
+                {
+                    "period": "2016-06-30",
+                    "v": 0.4824
+                },
+                {
+                    "period": "2015-06-30",
+                    "v": 0.6142
+                },
+                {
+                    "period": "2014-06-30",
+                    "v": 0.5765
+                }
+            ],
+            "longtermDebtTotalCapital": [
+                {
+                    "period": "2020-06-30",
+                    "v": 0.0986
+                },
+                {
+                    "period": "2019-06-30",
+                    "v": 0.1366
+                },
+                {
+                    "period": "2018-06-30",
+                    "v": 0.0836
+                },
+                {
+                    "period": "2017-06-30",
+                    "v": 0.0947
+                },
+                {
+                    "period": "2016-06-30",
+                    "v": 0.6725
+                },
+                {
+                    "period": "2015-06-30",
+                    "v": 0.8031
+                },
+                {
+                    "period": "2014-06-30",
+                    "v": 0.6905
+                }
+            ],
+            "longtermDebtTotalEquity": [
+                {
+                    "period": "2020-06-30",
+                    "v": 0.1211
+                },
+                {
+                    "period": "2019-06-30",
+                    "v": 0.1758
+                },
+                {
+                    "period": "2018-06-30",
+                    "v": 0.0953
+                },
+                {
+                    "period": "2017-06-30",
+                    "v": 0.1093
+                },
+                {
+                    "period": "2016-06-30",
+                    "v": 2.1934
+                },
+                {
+                    "period": "2015-06-30",
+                    "v": 4.0786
+                },
+                {
+                    "period": "2014-06-30",
+                    "v": 2.2308
+                }
+            ],
+            "netDebtToTotalCapital": [
+                {
+                    "period": "2020-06-30",
+                    "v": 0.1781
+                },
+                {
+                    "period": "2019-06-30",
+                    "v": 0.2036
+                },
+                {
+                    "period": "2018-06-30",
+                    "v": 0.0667
+                },
+                {
+                    "period": "2017-06-30",
+                    "v": -0.418
+                },
+                {
+                    "period": "2016-06-30",
+                    "v": 0.6663
+                },
+                {
+                    "period": "2015-06-30",
+                    "v": 0.7709
+                },
+                {
+                    "period": "2014-06-30",
+                    "v": 0.6377
+                }
+            ],
+            "netDebtToTotalEquity": [
+                {
+                    "period": "2020-06-30",
+                    "v": 0.2188
+                },
+                {
+                    "period": "2019-06-30",
+                    "v": 0.262
+                },
+                {
+                    "period": "2018-06-30",
+                    "v": 0.076
+                },
+                {
+                    "period": "2017-06-30",
+                    "v": -0.4826
+                },
+                {
+                    "period": "2016-06-30",
+                    "v": 2.1731
+                },
+                {
+                    "period": "2015-06-30",
+                    "v": 3.9154
+                },
+                {
+                    "period": "2014-06-30",
+                    "v": 2.0602
+                }
+            ],
+            "netMargin": [
+                {
+                    "period": "2020-06-30",
+                    "v": -0.0648
+                },
+                {
+                    "period": "2019-06-30",
+                    "v": -0.0669
+                },
+                {
+                    "period": "2018-06-30",
+                    "v": -0.1764
+                },
+                {
+                    "period": "2017-06-30",
+                    "v": -0.1372
+                },
+                {
+                    "period": "2016-06-30",
+                    "v": -0.0381
+                },
+                {
+                    "period": "2015-06-30",
+                    "v": -0.1144
+                },
+                {
+                    "period": "2014-06-30",
+                    "v": -0.1517
+                }
+            ],
+            "operatingMargin": [
+                {
+                    "period": "2020-06-30",
+                    "v": -0.0454
+                },
+                {
+                    "period": "2019-06-30",
+                    "v": -0.0557
+                },
+                {
+                    "period": "2018-06-30",
+                    "v": -0.1951
+                },
+                {
+                    "period": "2017-06-30",
+                    "v": -0.1091
+                },
+                {
+                    "period": "2016-06-30",
+                    "v": -0.016
+                },
+                {
+                    "period": "2015-06-30",
+                    "v": -0.1127
+                },
+                {
+                    "period": "2014-06-30",
+                    "v": -0.1589
+                }
+            ],
+            "pretaxMargin": [
+                {
+                    "period": "2020-06-30",
+                    "v": -0.0801
+                },
+                {
+                    "period": "2019-06-30",
+                    "v": -0.068
+                },
+                {
+                    "period": "2018-06-30",
+                    "v": -0.2106
+                },
+                {
+                    "period": "2017-06-30",
+                    "v": -0.1591
+                },
+                {
+                    "period": "2016-06-30",
+                    "v": -0.0488
+                },
+                {
+                    "period": "2015-06-30",
+                    "v": -0.1464
+                },
+                {
+                    "period": "2014-06-30",
+                    "v": -0.1945
+                }
+            ],
+            "salesPerShare": [
+                {
+                    "period": "2020-06-30",
+                    "v": 6.6369
+                },
+                {
+                    "period": "2019-06-30",
+                    "v": 7.6179
+                },
+                {
+                    "period": "2018-06-30",
+                    "v": 6.9171
+                },
+                {
+                    "period": "2017-06-30",
+                    "v": 9.2577
+                },
+                {
+                    "period": "2016-06-30",
+                    "v": 9.1856
+                },
+                {
+                    "period": "2015-06-30",
+                    "v": 4.8145
+                },
+                {
+                    "period": "2014-06-30",
+                    "v": 2.9139
+                }
+            ],
+            "sgaToSale": [
+                {
+                    "period": "2020-06-30",
+                    "v": 0.2516
+                },
+                {
+                    "period": "2019-06-30",
+                    "v": 0.2373
+                },
+                {
+                    "period": "2018-06-30",
+                    "v": 0.2564
+                },
+                {
+                    "period": "2017-06-30",
+                    "v": 0.3462
+                },
+                {
+                    "period": "2016-06-30",
+                    "v": 0.3555
+                }
+            ],
+            "totalDebtToEquity": [
+                {
+                    "period": "2020-06-30",
+                    "v": 0.2284
+                },
+                {
+                    "period": "2019-06-30",
+                    "v": 0.2871
+                },
+                {
+                    "period": "2018-06-30",
+                    "v": 0.1399
+                },
+                {
+                    "period": "2017-06-30",
+                    "v": 0.1544
+                },
+                {
+                    "period": "2016-06-30",
+                    "v": 2.2615
+                },
+                {
+                    "period": "2015-06-30",
+                    "v": 4.0786
+                },
+                {
+                    "period": "2014-06-30",
+                    "v": 2.2308
+                }
+            ],
+            "totalDebtToTotalAsset": [
+                {
+                    "period": "2020-06-30",
+                    "v": 0.1327
+                },
+                {
+                    "period": "2019-06-30",
+                    "v": 0.1786
+                },
+                {
+                    "period": "2018-06-30",
+                    "v": 0.1067
+                },
+                {
+                    "period": "2017-06-30",
+                    "v": 0.121
+                },
+                {
+                    "period": "2016-06-30",
+                    "v": 0.4974
+                },
+                {
+                    "period": "2015-06-30",
+                    "v": 0.6142
+                },
+                {
+                    "period": "2014-06-30",
+                    "v": 0.5765
+                }
+            ],
+            "totalDebtToTotalCapital": [
+                {
+                    "period": "2020-06-30",
+                    "v": 0.1859
+                },
+                {
+                    "period": "2019-06-30",
+                    "v": 0.2231
+                },
+                {
+                    "period": "2018-06-30",
+                    "v": 0.1227
+                },
+                {
+                    "period": "2017-06-30",
+                    "v": 0.1338
+                },
+                {
+                    "period": "2016-06-30",
+                    "v": 0.6934
+                },
+                {
+                    "period": "2015-06-30",
+                    "v": 0.8031
+                },
+                {
+                    "period": "2014-06-30",
+                    "v": 0.6905
+                }
+            ],
+            "totalRatio": [
+                {
+                    "period": "2020-06-30",
+                    "v": 2.3858
+                },
+                {
+                    "period": "2019-06-30",
+                    "v": 2.6457
+                },
+                {
+                    "period": "2018-06-30",
+                    "v": 4.21
+                },
+                {
+                    "period": "2017-06-30",
+                    "v": 4.614
+                },
+                {
+                    "period": "2016-06-30",
+                    "v": 1.282
+                },
+                {
+                    "period": "2015-06-30",
+                    "v": 1.1773
+                },
+                {
+                    "period": "2014-06-30",
+                    "v": 1.3485
+                }
+            ]
+        }
+    },
+    "symbol": "SONE.ST"
+}

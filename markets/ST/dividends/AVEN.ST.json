@@ -1,0 +1,102 @@
+[
+    {
+        "adjustedAmount": 0.03,
+        "amount": 0.03,
+        "currency": "SEK",
+        "date": "2012-05-10",
+        "declarationDate": "2012-04-03",
+        "payDate": "2012-05-18",
+        "recordDate": "2012-05-14",
+        "symbol": "AVEN.ST"
+    },
+    {
+        "adjustedAmount": 0.01,
+        "amount": 0.01,
+        "currency": "SEK",
+        "date": "2013-05-15",
+        "declarationDate": "2013-02-15",
+        "payDate": "2013-05-22",
+        "recordDate": "2013-05-17",
+        "symbol": "AVEN.ST"
+    },
+    {
+        "adjustedAmount": 0.07,
+        "amount": 0.07,
+        "currency": "SEK",
+        "date": "2014-05-16",
+        "declarationDate": "2014-02-14",
+        "payDate": "2014-05-23",
+        "recordDate": "2014-05-20",
+        "symbol": "AVEN.ST"
+    },
+    {
+        "adjustedAmount": 0.1,
+        "amount": 0.1,
+        "currency": "SEK",
+        "date": "2015-05-20",
+        "declarationDate": "2015-02-13",
+        "payDate": "2015-05-26",
+        "recordDate": "2015-05-21",
+        "symbol": "AVEN.ST"
+    },
+    {
+        "adjustedAmount": 0.1,
+        "amount": 0.1,
+        "currency": "SEK",
+        "date": "2016-05-20",
+        "declarationDate": "2016-02-18",
+        "payDate": "2016-05-26",
+        "recordDate": "2016-05-23",
+        "symbol": "AVEN.ST"
+    },
+    {
+        "adjustedAmount": 0.15,
+        "amount": 0.15,
+        "currency": "SEK",
+        "date": "2017-05-19",
+        "declarationDate": "2017-02-17",
+        "payDate": "2017-05-26",
+        "recordDate": "2017-05-22",
+        "symbol": "AVEN.ST"
+    },
+    {
+        "adjustedAmount": 0.18,
+        "amount": 0.18,
+        "currency": "SEK",
+        "date": "2018-05-18",
+        "declarationDate": "2018-02-16",
+        "payDate": "2018-05-24",
+        "recordDate": "2018-05-21",
+        "symbol": "AVEN.ST"
+    },
+    {
+        "adjustedAmount": 0.23,
+        "amount": 0.23,
+        "currency": "SEK",
+        "date": "2019-05-17",
+        "declarationDate": "2019-02-14",
+        "payDate": "2019-05-23",
+        "recordDate": "2019-05-20",
+        "symbol": "AVEN.ST"
+    },
+    {
+        "adjustedAmount": 0.28,
+        "amount": 0.28,
+        "currency": "SEK",
+        "date": "2020-12-11",
+        "declarationDate": "2020-02-21",
+        "payDate": "2020-12-17",
+        "recordDate": "2020-12-14",
+        "symbol": "AVEN.ST"
+    },
+    {
+        "adjustedAmount": 0.3,
+        "amount": 0.3,
+        "currency": "SEK",
+        "date": "2021-05-06",
+        "declarationDate": "2021-02-16",
+        "payDate": "2021-05-13",
+        "recordDate": "2021-05-07",
+        "symbol": "AVEN.ST"
+    }
+]

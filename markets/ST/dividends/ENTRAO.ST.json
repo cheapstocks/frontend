@@ -1,0 +1,122 @@
+[
+    {
+        "adjustedAmount": 2.5,
+        "amount": 2.5,
+        "currency": "NOK",
+        "date": "2015-04-30",
+        "declarationDate": "2015-02-24",
+        "payDate": "2015-05-12",
+        "recordDate": "2015-05-04",
+        "symbol": "ENTRAO.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "NOK",
+        "date": "2016-04-29",
+        "declarationDate": "2016-02-16",
+        "payDate": "2016-05-10",
+        "recordDate": "2016-05-02",
+        "symbol": "ENTRAO.ST"
+    },
+    {
+        "adjustedAmount": 1.7,
+        "amount": 1.7,
+        "currency": "NOK",
+        "date": "2016-10-06",
+        "declarationDate": "2016-04-06",
+        "payDate": "2016-10-13",
+        "recordDate": "2016-10-07",
+        "symbol": "ENTRAO.ST"
+    },
+    {
+        "adjustedAmount": 1.75,
+        "amount": 1.75,
+        "currency": "NOK",
+        "date": "2017-04-28",
+        "declarationDate": "2017-02-14",
+        "payDate": "2017-05-09",
+        "recordDate": "2017-05-02",
+        "symbol": "ENTRAO.ST"
+    },
+    {
+        "adjustedAmount": 2,
+        "amount": 2,
+        "currency": "NOK",
+        "date": "2017-10-04",
+        "declarationDate": "2017-07-12",
+        "payDate": "2017-10-12",
+        "recordDate": "2017-10-05",
+        "symbol": "ENTRAO.ST"
+    },
+    {
+        "adjustedAmount": 2.1,
+        "amount": 2.1,
+        "currency": "NOK",
+        "date": "2018-04-23",
+        "declarationDate": "2018-02-09",
+        "payDate": "2018-05-02",
+        "recordDate": "2018-04-24",
+        "symbol": "ENTRAO.ST"
+    },
+    {
+        "adjustedAmount": 2.2,
+        "amount": 2.2,
+        "currency": "NOK",
+        "date": "2018-10-02",
+        "declarationDate": "2018-07-11",
+        "payDate": "2018-10-10",
+        "recordDate": "2018-10-03",
+        "symbol": "ENTRAO.ST"
+    },
+    {
+        "adjustedAmount": 2.3,
+        "amount": 2.3,
+        "currency": "NOK",
+        "date": "2019-04-29",
+        "declarationDate": "2019-02-08",
+        "payDate": "2019-05-08",
+        "recordDate": "2019-04-30",
+        "symbol": "ENTRAO.ST"
+    },
+    {
+        "adjustedAmount": 2.3,
+        "amount": 2.3,
+        "currency": "NOK",
+        "date": "2019-10-02",
+        "declarationDate": "2019-07-11",
+        "payDate": "2019-10-10",
+        "recordDate": "2019-10-03",
+        "symbol": "ENTRAO.ST"
+    },
+    {
+        "adjustedAmount": 2.4,
+        "amount": 2.4,
+        "currency": "NOK",
+        "date": "2020-05-04",
+        "declarationDate": "2020-02-07",
+        "payDate": "2020-05-12",
+        "recordDate": "2020-05-05",
+        "symbol": "ENTRAO.ST"
+    },
+    {
+        "adjustedAmount": 2.4,
+        "amount": 2.4,
+        "currency": "NOK",
+        "date": "2020-10-02",
+        "declarationDate": "2020-07-10",
+        "payDate": "2020-10-12",
+        "recordDate": "2020-10-05",
+        "symbol": "ENTRAO.ST"
+    },
+    {
+        "adjustedAmount": 2.5,
+        "amount": 2.5,
+        "currency": "NOK",
+        "date": "2021-04-26",
+        "declarationDate": "2021-02-12",
+        "payDate": "2021-05-04",
+        "recordDate": "2021-04-27",
+        "symbol": "ENTRAO.ST"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "adjustedAmount": 1.5,
+        "amount": 1.5,
+        "currency": "NOK",
+        "date": "2017-05-02",
+        "declarationDate": "2017-02-09",
+        "payDate": "2017-05-09",
+        "recordDate": "2017-05-03",
+        "symbol": "SBANKO.ST"
+    },
+    {
+        "adjustedAmount": 0.75,
+        "amount": 0.75,
+        "currency": "NOK",
+        "date": "2018-04-30",
+        "declarationDate": "2018-02-14",
+        "payDate": "2018-05-11",
+        "recordDate": "2018-05-02",
+        "symbol": "SBANKO.ST"
+    },
+    {
+        "adjustedAmount": 1.75,
+        "amount": 1.75,
+        "currency": "NOK",
+        "date": "2019-04-26",
+        "declarationDate": "2019-02-13",
+        "payDate": "2019-05-07",
+        "recordDate": "2019-04-29",
+        "symbol": "SBANKO.ST"
+    },
+    {
+        "adjustedAmount": 3.15,
+        "amount": 3.15,
+        "currency": "NOK",
+        "date": "2021-03-01",
+        "declarationDate": "2020-02-14",
+        "payDate": "2021-03-09",
+        "recordDate": "2021-03-02",
+        "symbol": "SBANKO.ST"
+    }
+]

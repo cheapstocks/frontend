@@ -1,0 +1,92 @@
+[
+    {
+        "adjustedAmount": 0.5026905,
+        "amount": 0.5,
+        "currency": "SEK",
+        "date": "2012-05-11",
+        "declarationDate": "2012-02-23",
+        "payDate": "2012-05-21",
+        "recordDate": "2012-05-15",
+        "symbol": "RO.ST"
+    },
+    {
+        "adjustedAmount": 0.5026905,
+        "amount": 0.5,
+        "currency": "SEK",
+        "date": "2013-05-17",
+        "declarationDate": "2013-02-21",
+        "payDate": "2013-05-24",
+        "recordDate": "2013-05-21",
+        "symbol": "RO.ST"
+    },
+    {
+        "adjustedAmount": 0.65349765,
+        "amount": 0.65,
+        "currency": "SEK",
+        "date": "2014-05-09",
+        "declarationDate": "2014-02-20",
+        "payDate": "2014-05-16",
+        "recordDate": "2014-05-13",
+        "symbol": "RO.ST"
+    },
+    {
+        "adjustedAmount": 0.75403575,
+        "amount": 0.75,
+        "currency": "SEK",
+        "date": "2015-05-08",
+        "declarationDate": "2015-02-20",
+        "payDate": "2015-05-15",
+        "recordDate": "2015-05-11",
+        "symbol": "RO.ST"
+    },
+    {
+        "adjustedAmount": 0.9048429,
+        "amount": 0.9,
+        "currency": "SEK",
+        "date": "2016-05-13",
+        "declarationDate": "2016-02-19",
+        "payDate": "2016-05-19",
+        "recordDate": "2016-05-16",
+        "symbol": "RO.ST"
+    },
+    {
+        "adjustedAmount": 0.5026905,
+        "amount": 0.5,
+        "currency": "SEK",
+        "date": "2017-05-12",
+        "declarationDate": "2017-02-17",
+        "payDate": "2017-05-18",
+        "recordDate": "2017-05-15",
+        "symbol": "RO.ST"
+    },
+    {
+        "adjustedAmount": 7.8,
+        "amount": 7.8,
+        "currency": "SEK",
+        "date": "2019-11-15",
+        "declarationDate": "2019-10-22",
+        "payDate": "2019-11-21",
+        "recordDate": "2019-11-18",
+        "symbol": "RO.ST"
+    },
+    {
+        "adjustedAmount": 3.8,
+        "amount": 3.8,
+        "currency": "SEK",
+        "date": "2020-04-17",
+        "declarationDate": "2020-03-18",
+        "payDate": "2020-04-23",
+        "recordDate": "2020-04-20",
+        "symbol": "RO.ST"
+    },
+    {
+        "adjustedAmount": 1.65,
+        "amount": 1.65,
+        "currency": "SEK",
+        "date": "2020-05-27",
+        "declarationDate": "2020-04-03",
+        "payDate": "2020-06-02",
+        "recordDate": "2020-05-28",
+        "symbol": "RO.ST"
+    }
+]

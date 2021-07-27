@@ -1,0 +1,52 @@
+[
+    {
+        "adjustedAmount": 5,
+        "amount": 5,
+        "currency": "SEK",
+        "date": "2016-04-29",
+        "declarationDate": "2016-03-11",
+        "payDate": "2016-05-06",
+        "recordDate": "2016-05-02",
+        "symbol": "CAPAC.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2017-04-03",
+        "declarationDate": "2017-02-23",
+        "payDate": "2017-04-07",
+        "recordDate": "2017-04-04",
+        "symbol": "CAPAC.ST"
+    },
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2018-04-13",
+        "declarationDate": "2018-02-20",
+        "payDate": "2018-04-19",
+        "recordDate": "2018-04-16",
+        "symbol": "CAPAC.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2019-05-08",
+        "declarationDate": "2019-02-15",
+        "payDate": "2019-05-14",
+        "recordDate": "2019-05-09",
+        "symbol": "CAPAC.ST"
+    },
+    {
+        "adjustedAmount": 3.5,
+        "amount": 3.5,
+        "currency": "SEK",
+        "date": "2021-05-07",
+        "declarationDate": "2021-03-31",
+        "payDate": "2021-05-14",
+        "recordDate": "2021-05-10",
+        "symbol": "CAPAC.ST"
+    }
+]

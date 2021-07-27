@@ -1,0 +1,42 @@
+[
+    {
+        "adjustedAmount": 1.5,
+        "amount": 1.5,
+        "currency": "NOK",
+        "date": "2018-04-25",
+        "declarationDate": "2018-02-15",
+        "payDate": "2018-05-04",
+        "recordDate": "2018-04-26",
+        "symbol": "WSTEPO.ST"
+    },
+    {
+        "adjustedAmount": 1.6,
+        "amount": 1.6,
+        "currency": "NOK",
+        "date": "2019-05-09",
+        "declarationDate": "2019-02-14",
+        "payDate": "2019-05-16",
+        "recordDate": "2019-05-10",
+        "symbol": "WSTEPO.ST"
+    },
+    {
+        "adjustedAmount": 1.6,
+        "amount": 1.6,
+        "currency": "NOK",
+        "date": "2020-10-15",
+        "declarationDate": "2020-02-11",
+        "payDate": "2020-10-26",
+        "recordDate": "2020-10-16",
+        "symbol": "WSTEPO.ST"
+    },
+    {
+        "adjustedAmount": 1.6,
+        "amount": 1.6,
+        "currency": "NOK",
+        "date": "2021-04-29",
+        "declarationDate": "2021-02-16",
+        "payDate": "2021-05-06",
+        "recordDate": "2021-04-30",
+        "symbol": "WSTEPO.ST"
+    }
+]

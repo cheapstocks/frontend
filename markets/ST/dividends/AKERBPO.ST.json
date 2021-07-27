@@ -1,0 +1,172 @@
+[
+    {
+        "adjustedAmount": 0.185,
+        "amount": 0.185,
+        "currency": "USD",
+        "date": "2016-11-29",
+        "declarationDate": "2016-11-24",
+        "payDate": "2016-12-07",
+        "recordDate": "2016-11-30",
+        "symbol": "AKERBPO.ST"
+    },
+    {
+        "adjustedAmount": 0.185,
+        "amount": 0.185,
+        "currency": "USD",
+        "date": "2017-02-09",
+        "declarationDate": "2017-02-06",
+        "payDate": "2017-02-17",
+        "recordDate": "2017-02-10",
+        "symbol": "AKERBPO.ST"
+    },
+    {
+        "adjustedAmount": 0.185,
+        "amount": 0.185,
+        "currency": "USD",
+        "date": "2017-05-10",
+        "declarationDate": "2017-04-28",
+        "payDate": "2017-05-19",
+        "recordDate": "2017-05-11",
+        "symbol": "AKERBPO.ST"
+    },
+    {
+        "adjustedAmount": 0.185,
+        "amount": 0.185,
+        "currency": "USD",
+        "date": "2017-08-01",
+        "declarationDate": "2017-07-14",
+        "payDate": "2017-08-09",
+        "recordDate": "2017-08-02",
+        "symbol": "AKERBPO.ST"
+    },
+    {
+        "adjustedAmount": 0.185,
+        "amount": 0.185,
+        "currency": "USD",
+        "date": "2017-11-01",
+        "declarationDate": "2017-10-30",
+        "payDate": "2017-11-09",
+        "recordDate": "2017-11-02",
+        "symbol": "AKERBPO.ST"
+    },
+    {
+        "adjustedAmount": 0.3124,
+        "amount": 0.3124,
+        "currency": "USD",
+        "date": "2018-02-06",
+        "declarationDate": "2018-02-02",
+        "payDate": "2018-02-14",
+        "recordDate": "2018-02-07",
+        "symbol": "AKERBPO.ST"
+    },
+    {
+        "adjustedAmount": 0.3124,
+        "amount": 0.3124,
+        "currency": "USD",
+        "date": "2018-05-09",
+        "declarationDate": "2018-05-07",
+        "payDate": "2018-05-22",
+        "recordDate": "2018-05-11",
+        "symbol": "AKERBPO.ST"
+    },
+    {
+        "adjustedAmount": 0.3124,
+        "amount": 0.3124,
+        "currency": "USD",
+        "date": "2018-08-01",
+        "declarationDate": "2018-07-13",
+        "payDate": "2018-08-09",
+        "recordDate": "2018-08-02",
+        "symbol": "AKERBPO.ST"
+    },
+    {
+        "adjustedAmount": 0.3124,
+        "amount": 0.3124,
+        "currency": "USD",
+        "date": "2018-11-01",
+        "declarationDate": "2018-10-19",
+        "payDate": "2018-11-09",
+        "recordDate": "2018-11-02",
+        "symbol": "AKERBPO.ST"
+    },
+    {
+        "adjustedAmount": 0.5207,
+        "amount": 0.5207,
+        "currency": "USD",
+        "date": "2019-02-11",
+        "declarationDate": "2019-02-06",
+        "payDate": "2019-02-19",
+        "recordDate": "2019-02-12",
+        "symbol": "AKERBPO.ST"
+    },
+    {
+        "adjustedAmount": 0.5207,
+        "amount": 0.5207,
+        "currency": "USD",
+        "date": "2019-05-08",
+        "declarationDate": "2019-04-26",
+        "payDate": "2019-05-16",
+        "recordDate": "2019-05-09",
+        "symbol": "AKERBPO.ST"
+    },
+    {
+        "adjustedAmount": 0.5207,
+        "amount": 0.5207,
+        "currency": "USD",
+        "date": "2019-08-01",
+        "declarationDate": "2019-07-12",
+        "payDate": "2019-08-09",
+        "recordDate": "2019-08-02",
+        "symbol": "AKERBPO.ST"
+    },
+    {
+        "adjustedAmount": 0.5207,
+        "amount": 0.5207,
+        "currency": "USD",
+        "date": "2019-10-31",
+        "declarationDate": "2019-10-22",
+        "payDate": "2019-11-08",
+        "recordDate": "2019-11-01",
+        "symbol": "AKERBPO.ST"
+    },
+    {
+        "adjustedAmount": 0.5901,
+        "amount": 0.5901,
+        "currency": "USD",
+        "date": "2020-02-13",
+        "declarationDate": "2020-02-11",
+        "payDate": "2020-02-24",
+        "recordDate": "2020-02-14",
+        "symbol": "AKERBPO.ST"
+    },
+    {
+        "adjustedAmount": 0.1967,
+        "amount": 0.1967,
+        "currency": "USD",
+        "date": "2020-05-08",
+        "declarationDate": "2020-05-06",
+        "payDate": "2020-05-22",
+        "recordDate": "2020-05-11",
+        "symbol": "AKERBPO.ST"
+    },
+    {
+        "adjustedAmount": 0.1967,
+        "amount": 0.1967,
+        "currency": "USD",
+        "date": "2020-07-31",
+        "declarationDate": "2020-07-14",
+        "payDate": "2020-08-10",
+        "recordDate": "2020-08-03",
+        "symbol": "AKERBPO.ST"
+    },
+    {
+        "adjustedAmount": 0.1967,
+        "amount": 0.1967,
+        "currency": "USD",
+        "date": "2020-11-02",
+        "declarationDate": "2020-10-29",
+        "payDate": "2020-11-12",
+        "recordDate": "2020-11-03",
+        "symbol": "AKERBPO.ST"
+    }
+]

@@ -1,15 +1,5 @@
 [
     {
-        "adjustedAmount": 1,
-        "amount": 4,
-        "currency": "SEK",
-        "date": "2011-09-14",
-        "declarationDate": "2011-06-09",
-        "payDate": "2011-09-21",
-        "recordDate": "2011-09-16",
-        "symbol": "EKTA B.ST"
-    },
-    {
         "adjustedAmount": 1.25,
         "amount": 5,
         "currency": "SEK",

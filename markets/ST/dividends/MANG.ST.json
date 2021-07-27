@@ -1,0 +1,72 @@
+[
+    {
+        "adjustedAmount": 8,
+        "amount": 8,
+        "currency": "SEK",
+        "date": "2013-04-03",
+        "declarationDate": "2013-01-31",
+        "payDate": "2013-04-10",
+        "recordDate": "2013-04-05",
+        "symbol": "MANG.ST"
+    },
+    {
+        "adjustedAmount": 9,
+        "amount": 9,
+        "currency": "SEK",
+        "date": "2015-04-14",
+        "declarationDate": "2015-03-23",
+        "payDate": "2015-04-20",
+        "recordDate": "2015-04-15",
+        "symbol": "MANG.ST"
+    },
+    {
+        "adjustedAmount": 2.4,
+        "amount": 2.4,
+        "currency": "SEK",
+        "date": "2017-04-19",
+        "declarationDate": "2017-02-02",
+        "payDate": "2017-04-25",
+        "recordDate": "2017-04-20",
+        "symbol": "MANG.ST"
+    },
+    {
+        "adjustedAmount": 5.24,
+        "amount": 5.24,
+        "currency": "SEK",
+        "date": "2018-04-11",
+        "declarationDate": "2018-01-31",
+        "payDate": "2018-04-17",
+        "recordDate": "2018-04-12",
+        "symbol": "MANG.ST"
+    },
+    {
+        "adjustedAmount": 4.63,
+        "amount": 4.63,
+        "currency": "SEK",
+        "date": "2019-04-11",
+        "declarationDate": "2019-01-30",
+        "payDate": "2019-04-17",
+        "recordDate": "2019-04-12",
+        "symbol": "MANG.ST"
+    },
+    {
+        "adjustedAmount": 7.3,
+        "amount": 7.3,
+        "currency": "SEK",
+        "date": "2020-07-01",
+        "declarationDate": "2020-03-05",
+        "payDate": "2020-07-07",
+        "recordDate": "2020-07-02",
+        "symbol": "MANG.ST"
+    },
+    {
+        "adjustedAmount": 17.3,
+        "amount": 17.3,
+        "currency": "SEK",
+        "date": "2021-04-15",
+        "declarationDate": "2021-01-27",
+        "payDate": "2021-04-21",
+        "recordDate": "2021-04-16",
+        "symbol": "MANG.ST"
+    }
+]

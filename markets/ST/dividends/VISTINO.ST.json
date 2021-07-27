@@ -1,0 +1,42 @@
+[
+    {
+        "adjustedAmount": 0.5946804,
+        "amount": 0.6,
+        "currency": "NOK",
+        "date": "2016-05-25",
+        "declarationDate": "2016-02-23",
+        "payDate": "2016-06-03",
+        "recordDate": "2016-05-26",
+        "symbol": "VISTINO.ST"
+    },
+    {
+        "adjustedAmount": 0.991134,
+        "amount": 1,
+        "currency": "NOK",
+        "date": "2017-05-26",
+        "declarationDate": "2017-02-28",
+        "payDate": "2017-06-07",
+        "recordDate": "2017-05-29",
+        "symbol": "VISTINO.ST"
+    },
+    {
+        "adjustedAmount": 6.937938,
+        "amount": 7,
+        "currency": "NOK",
+        "date": "2017-11-03",
+        "declarationDate": "2017-10-09",
+        "payDate": "2017-11-10",
+        "recordDate": "2017-11-06",
+        "symbol": "VISTINO.ST"
+    },
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "NOK",
+        "date": "2020-05-20",
+        "declarationDate": "2020-04-23",
+        "payDate": "2020-06-05",
+        "recordDate": "2020-05-22",
+        "symbol": "VISTINO.ST"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "adjustedAmount": 0.44,
+        "amount": 0.5,
+        "currency": "SEK",
+        "date": "2012-04-27",
+        "declarationDate": "2012-02-17",
+        "payDate": "2012-05-07",
+        "recordDate": "2012-05-02",
+        "symbol": "QUIA.ST"
+    },
+    {
+        "adjustedAmount": 0.44,
+        "amount": 0.5,
+        "currency": "SEK",
+        "date": "2013-04-26",
+        "declarationDate": "2013-02-26",
+        "payDate": "2013-05-06",
+        "recordDate": "2013-04-30",
+        "symbol": "QUIA.ST"
+    },
+    {
+        "adjustedAmount": 0.22,
+        "amount": 0.25,
+        "currency": "SEK",
+        "date": "2014-05-07",
+        "declarationDate": "2014-04-04",
+        "payDate": "2014-05-14",
+        "recordDate": "2014-05-09",
+        "symbol": "QUIA.ST"
+    },
+    {
+        "adjustedAmount": 0.528,
+        "amount": 0.6,
+        "currency": "SEK",
+        "date": "2016-06-09",
+        "declarationDate": "2016-05-10",
+        "payDate": "2016-06-15",
+        "recordDate": "2016-06-10",
+        "symbol": "QUIA.ST"
+    },
+    {
+        "adjustedAmount": 0.264,
+        "amount": 0.3,
+        "currency": "SEK",
+        "date": "2017-03-06",
+        "declarationDate": "2016-11-01",
+        "payDate": "2017-03-10",
+        "recordDate": "2017-03-07",
+        "symbol": "QUIA.ST"
+    },
+    {
+        "adjustedAmount": 4.884,
+        "amount": 5.55,
+        "currency": "SEK",
+        "date": "2017-03-30",
+        "declarationDate": "2017-02-27",
+        "payDate": "2017-04-05",
+        "recordDate": "2017-03-31",
+        "symbol": "QUIA.ST"
+    }
+]

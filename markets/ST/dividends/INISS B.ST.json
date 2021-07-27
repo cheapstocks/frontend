@@ -1,0 +1,22 @@
+[
+    {
+        "adjustedAmount": 0.75,
+        "amount": 3,
+        "currency": "SEK",
+        "date": "2016-04-28",
+        "declarationDate": "2016-02-18",
+        "payDate": "2016-05-04",
+        "recordDate": "2016-04-29",
+        "symbol": "INISS B.ST"
+    },
+    {
+        "adjustedAmount": 1.5,
+        "amount": 1.5,
+        "currency": "SEK",
+        "date": "2019-05-09",
+        "declarationDate": "2019-03-06",
+        "payDate": "2019-05-15",
+        "recordDate": "2019-05-10",
+        "symbol": "INISS B.ST"
+    }
+]

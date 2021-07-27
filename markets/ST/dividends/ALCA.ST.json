@@ -1,0 +1,22 @@
+[
+    {
+        "adjustedAmount": 0.5,
+        "amount": 0.5,
+        "currency": "SEK",
+        "date": "2018-04-26",
+        "declarationDate": "2018-02-23",
+        "payDate": "2018-05-03",
+        "recordDate": "2018-04-27",
+        "symbol": "ALCA.ST"
+    },
+    {
+        "adjustedAmount": 0.5,
+        "amount": 0.5,
+        "currency": "SEK",
+        "date": "2019-04-25",
+        "declarationDate": "2019-02-21",
+        "payDate": "2019-05-02",
+        "recordDate": "2019-04-26",
+        "symbol": "ALCA.ST"
+    }
+]

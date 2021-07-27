@@ -1,0 +1,92 @@
+[
+    {
+        "adjustedAmount": 0.85,
+        "amount": 0.85,
+        "currency": "SEK",
+        "date": "2012-03-23",
+        "declarationDate": "2012-02-17",
+        "payDate": "2012-03-30",
+        "recordDate": "2012-03-27",
+        "symbol": "DIAH.ST"
+    },
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2013-03-22",
+        "declarationDate": "2013-02-15",
+        "payDate": "2013-04-02",
+        "recordDate": "2013-03-26",
+        "symbol": "DIAH.ST"
+    },
+    {
+        "adjustedAmount": 0.8,
+        "amount": 0.8,
+        "currency": "SEK",
+        "date": "2014-03-21",
+        "declarationDate": "2014-02-14",
+        "payDate": "2014-03-28",
+        "recordDate": "2014-03-25",
+        "symbol": "DIAH.ST"
+    },
+    {
+        "adjustedAmount": 1,
+        "amount": 1,
+        "currency": "SEK",
+        "date": "2015-03-20",
+        "declarationDate": "2015-02-13",
+        "payDate": "2015-03-26",
+        "recordDate": "2015-03-23",
+        "symbol": "DIAH.ST"
+    },
+    {
+        "adjustedAmount": 0.25,
+        "amount": 0.25,
+        "currency": "SEK",
+        "date": "2016-03-17",
+        "declarationDate": "2016-02-12",
+        "payDate": "2016-03-23",
+        "recordDate": "2016-03-18",
+        "symbol": "DIAH.ST"
+    },
+    {
+        "adjustedAmount": 0.6,
+        "amount": 0.6,
+        "currency": "SEK",
+        "date": "2017-03-17",
+        "declarationDate": "2017-02-17",
+        "payDate": "2017-03-23",
+        "recordDate": "2017-03-20",
+        "symbol": "DIAH.ST"
+    },
+    {
+        "adjustedAmount": 0.8,
+        "amount": 0.8,
+        "currency": "SEK",
+        "date": "2018-03-16",
+        "declarationDate": "2018-02-15",
+        "payDate": "2018-03-22",
+        "recordDate": "2018-03-19",
+        "symbol": "DIAH.ST"
+    },
+    {
+        "adjustedAmount": 0.6,
+        "amount": 0.6,
+        "currency": "SEK",
+        "date": "2019-03-15",
+        "declarationDate": "2019-02-14",
+        "payDate": "2019-03-21",
+        "recordDate": "2019-03-18",
+        "symbol": "DIAH.ST"
+    },
+    {
+        "adjustedAmount": null,
+        "amount": 0.9,
+        "currency": null,
+        "date": "2021-07-01",
+        "declarationDate": null,
+        "payDate": null,
+        "recordDate": null,
+        "symbol": "DIAH.ST"
+    }
+]

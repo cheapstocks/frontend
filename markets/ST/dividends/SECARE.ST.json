@@ -1,0 +1,22 @@
+[
+    {
+        "adjustedAmount": 0.14,
+        "amount": 0.7,
+        "currency": "SEK",
+        "date": "2020-04-22",
+        "declarationDate": "2020-02-13",
+        "payDate": "2020-04-28",
+        "recordDate": "2020-04-23",
+        "symbol": "SECARE.ST"
+    },
+    {
+        "adjustedAmount": 0.16,
+        "amount": 0.8,
+        "currency": "SEK",
+        "date": "2021-04-30",
+        "declarationDate": "2021-02-18",
+        "payDate": "2021-05-06",
+        "recordDate": "2021-05-03",
+        "symbol": "SECARE.ST"
+    }
+]

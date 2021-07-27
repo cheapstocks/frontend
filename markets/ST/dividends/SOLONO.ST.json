@@ -1,0 +1,32 @@
+[
+    {
+        "adjustedAmount": 1.0274500438,
+        "amount": 1.03,
+        "currency": "NOK",
+        "date": "2017-05-24",
+        "declarationDate": "2017-04-26",
+        "payDate": "2017-06-02",
+        "recordDate": "2017-05-26",
+        "symbol": "SOLONO.ST"
+    },
+    {
+        "adjustedAmount": 1.1491145,
+        "amount": 1.15,
+        "currency": "NOK",
+        "date": "2018-05-24",
+        "declarationDate": "2018-02-28",
+        "payDate": "2018-05-29",
+        "recordDate": "2018-05-25",
+        "symbol": "SOLONO.ST"
+    },
+    {
+        "adjustedAmount": 2,
+        "amount": 2,
+        "currency": "NOK",
+        "date": "2019-05-08",
+        "declarationDate": "2019-02-27",
+        "payDate": "2019-05-16",
+        "recordDate": "2019-05-09",
+        "symbol": "SOLONO.ST"
+    }
+]

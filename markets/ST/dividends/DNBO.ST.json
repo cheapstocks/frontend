@@ -1,0 +1,92 @@
+[
+    {
+        "adjustedAmount": 2,
+        "amount": 2,
+        "currency": "NOK",
+        "date": "2012-04-26",
+        "declarationDate": "2012-02-09",
+        "payDate": "2012-05-07",
+        "recordDate": "2012-04-30",
+        "symbol": "DNBO.ST"
+    },
+    {
+        "adjustedAmount": 2.1,
+        "amount": 2.1,
+        "currency": "NOK",
+        "date": "2013-05-02",
+        "declarationDate": "2013-02-07",
+        "payDate": "2013-05-14",
+        "recordDate": "2013-05-06",
+        "symbol": "DNBO.ST"
+    },
+    {
+        "adjustedAmount": 2.7,
+        "amount": 2.7,
+        "currency": "NOK",
+        "date": "2014-04-25",
+        "declarationDate": "2014-02-06",
+        "payDate": "2014-05-08",
+        "recordDate": "2014-04-24",
+        "symbol": "DNBO.ST"
+    },
+    {
+        "adjustedAmount": 3.8,
+        "amount": 3.8,
+        "currency": "NOK",
+        "date": "2015-04-24",
+        "declarationDate": "2015-02-05",
+        "payDate": "2015-05-07",
+        "recordDate": "2015-04-27",
+        "symbol": "DNBO.ST"
+    },
+    {
+        "adjustedAmount": 4.5,
+        "amount": 4.5,
+        "currency": "NOK",
+        "date": "2016-04-27",
+        "declarationDate": "2016-02-04",
+        "payDate": "2016-05-04",
+        "recordDate": "2016-04-28",
+        "symbol": "DNBO.ST"
+    },
+    {
+        "adjustedAmount": 5.7,
+        "amount": 5.7,
+        "currency": "NOK",
+        "date": "2017-04-26",
+        "declarationDate": "2017-02-02",
+        "payDate": "2017-05-05",
+        "recordDate": "2017-04-27",
+        "symbol": "DNBO.ST"
+    },
+    {
+        "adjustedAmount": 7.1,
+        "amount": 7.1,
+        "currency": "NOK",
+        "date": "2018-04-25",
+        "declarationDate": "2018-02-01",
+        "payDate": "2018-05-04",
+        "recordDate": "2018-04-26",
+        "symbol": "DNBO.ST"
+    },
+    {
+        "adjustedAmount": 8.25,
+        "amount": 8.25,
+        "currency": "NOK",
+        "date": "2019-05-02",
+        "declarationDate": "2019-02-07",
+        "payDate": "2019-05-10",
+        "recordDate": "2019-05-03",
+        "symbol": "DNBO.ST"
+    },
+    {
+        "adjustedAmount": 8.4,
+        "amount": 8.4,
+        "currency": "NOK",
+        "date": "2021-02-24",
+        "declarationDate": "2020-02-06",
+        "payDate": "2021-03-04",
+        "recordDate": "2021-02-25",
+        "symbol": "DNBO.ST"
+    }
+]

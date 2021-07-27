@@ -1,0 +1,32 @@
+[
+    {
+        "adjustedAmount": 0.64,
+        "amount": 0.64,
+        "currency": "SEK",
+        "date": "2017-05-12",
+        "declarationDate": "2017-01-31",
+        "payDate": "2017-05-18",
+        "recordDate": "2017-05-15",
+        "symbol": "MAXF.ST"
+    },
+    {
+        "adjustedAmount": 1.16,
+        "amount": 1.16,
+        "currency": "SEK",
+        "date": "2018-05-09",
+        "declarationDate": "2018-02-15",
+        "payDate": "2018-05-16",
+        "recordDate": "2018-05-11",
+        "symbol": "MAXF.ST"
+    },
+    {
+        "adjustedAmount": 1.3,
+        "amount": 1.3,
+        "currency": "SEK",
+        "date": "2019-05-08",
+        "declarationDate": "2019-02-15",
+        "payDate": "2019-05-14",
+        "recordDate": "2019-05-09",
+        "symbol": "MAXF.ST"
+    }
+]

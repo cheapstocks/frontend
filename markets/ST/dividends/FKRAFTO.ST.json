@@ -1,0 +1,22 @@
+[
+    {
+        "adjustedAmount": 2.2,
+        "amount": 2.2,
+        "currency": "NOK",
+        "date": "2019-05-15",
+        "declarationDate": "2019-02-14",
+        "payDate": "2019-05-24",
+        "recordDate": "2019-05-16",
+        "symbol": "FKRAFTO.ST"
+    },
+    {
+        "adjustedAmount": 3,
+        "amount": 3,
+        "currency": "NOK",
+        "date": "2020-04-23",
+        "declarationDate": "2020-02-13",
+        "payDate": "2020-05-04",
+        "recordDate": "2020-04-24",
+        "symbol": "FKRAFTO.ST"
+    }
+]
