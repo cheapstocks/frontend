@@ -15,7 +15,7 @@
     "ipo": "2008-01-01",
     "isin": "SE0000108656",
     "logo": "https://finnhub.io/api/logo?symbol=ERIC B.ST",
-    "marketCapitalization": 382330.5,
+    "marketCapitalization": 340327,
     "naics": "Communications Equipment Manufacturing",
     "naicsNationalIndustry": "Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing",
     "naicsSector": "Manufacturing",
@@ -23,7 +23,7 @@
     "name": "Telefonaktiebolaget LM Ericsson",
     "phone": "46107190000.0",
     "sedol": "5959378",
-    "shareOutstanding": 3327.95604,
+    "shareOutstanding": 3329.585934,
     "state": "STOCKHOLM",
     "ticker": "ERIC B.ST",
     "weburl": "https://www.ericsson.com/"
