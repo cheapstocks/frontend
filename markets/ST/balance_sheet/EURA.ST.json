@@ -1,0 +1,35 @@
+{
+    "financials": [
+        {
+            "accountsPayable": 0.674,
+            "accountsReceivables": 0.07,
+            "accruedLiability": 0.377,
+            "cashEquivalents": 0.837,
+            "cashShortTermInvestments": 0.837,
+            "commonStock": 5.601,
+            "currentAssets": 1.146,
+            "currentLiabilities": 1.123,
+            "intangiblesAssets": 1.024,
+            "liabilitiesShareholdersEquity": 2.414,
+            "longTermDebt": 0,
+            "longTermInvestments": 0.238,
+            "otherCurrentAssets": 0,
+            "otherCurrentliabilities": 0.072,
+            "otherEquity": 3.1,
+            "otherReceivables": 0.239,
+            "period": "2020-12-31",
+            "propertyPlantEquipment": 0.006,
+            "retainedEarnings": -7.41,
+            "sharesOutstanding": 60.87776,
+            "shortTermDebt": 0,
+            "tangibleBookValueperShare": 0.00439,
+            "totalAssets": 2.414,
+            "totalDebt": 0,
+            "totalEquity": 1.291,
+            "totalLiabilities": 1.123,
+            "totalReceivables": 0.309,
+            "year": 2020
+        }
+    ],
+    "symbol": "EURA.ST"
+}

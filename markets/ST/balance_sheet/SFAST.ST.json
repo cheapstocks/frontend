@@ -1,0 +1,37 @@
+{
+    "financials": [
+        {
+            "accountsPayable": 3.761,
+            "accountsReceivables": 0.25,
+            "accruedLiability": 21.181,
+            "additionalPaidInCapital": 1158.161,
+            "cashEquivalents": 451.582,
+            "cashShortTermInvestments": 451.582,
+            "commonStock": 130.253,
+            "currentAssets": 461.728,
+            "currentLiabilities": 117.707,
+            "currentPortionLongTermDebt": 88.006,
+            "deferredIncomeTax": 19.253,
+            "liabilitiesShareholdersEquity": 2115.385,
+            "longTermDebt": 617.968,
+            "longTermInvestments": 1634,
+            "otherCurrentAssets": 1.781,
+            "otherCurrentliabilities": 3.722,
+            "otherLongTermAssets": 8.048,
+            "otherReceivables": 8.115,
+            "period": "2020-12-31",
+            "propertyPlantEquipment": 11.609,
+            "retainedEarnings": 72.043,
+            "sharesOutstanding": 130.2531,
+            "shortTermDebt": 1.037,
+            "tangibleBookValueperShare": 10.44472,
+            "totalAssets": 2115.385,
+            "totalDebt": 707.011,
+            "totalEquity": 1360.457,
+            "totalLiabilities": 754.928,
+            "totalReceivables": 8.365,
+            "year": 2020
+        }
+    ],
+    "symbol": "SFAST.ST"
+}

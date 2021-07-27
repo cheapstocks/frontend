@@ -1,0 +1,39 @@
+{
+    "financials": [
+        {
+            "accountsPayable": 5.38917,
+            "accountsReceivables": 0.81675,
+            "accruedLiability": 1.98899,
+            "cash": 5.88654,
+            "cashShortTermInvestments": 5.88654,
+            "commonStock": 1.71343,
+            "currentAssets": 21.77879,
+            "currentLiabilities": 8.18394,
+            "currentPortionLongTermDebt": 0.12913,
+            "deferredIncomeTax": 0.08358,
+            "intangiblesAssets": 11.58904,
+            "inventory": 8.90138,
+            "liabilitiesShareholdersEquity": 34.83788,
+            "longTermDebt": 0.4818,
+            "longTermInvestments": 0.02493,
+            "otherAssets": 0.04417,
+            "otherCurrentAssets": 4.55366,
+            "otherCurrentliabilities": 0.67664,
+            "otherEquity": 24.33713,
+            "otherLiabilities": 0.038,
+            "otherReceivables": 1.62047,
+            "period": "2020-12-31",
+            "propertyPlantEquipment": 1.40095,
+            "sharesOutstanding": 43.29668,
+            "shortTermDebt": 0,
+            "tangibleBookValueperShare": 0.33299,
+            "totalAssets": 34.83788,
+            "totalDebt": 0.61093,
+            "totalEquity": 26.05056,
+            "totalLiabilities": 8.78732,
+            "totalReceivables": 2.43722,
+            "year": 2020
+        }
+    ],
+    "symbol": "ELLWEE.ST"
+}
