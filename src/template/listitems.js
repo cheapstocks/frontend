@@ -14,6 +14,18 @@ export const mainListItems = (
       </ListItemIcon>
       <ListItemText primary="Sweden" />
     </ListItem>
+    <ListItem button component={Link} href="/#/market/CO">
+      <ListItemIcon>
+        <Flag code="dnk" height="16" />
+      </ListItemIcon>
+      <ListItemText primary="Denmark" />
+    </ListItem>
+    <ListItem button component={Link} href="/#/market/HE">
+      <ListItemIcon>
+        <Flag code="fin" height="16" />
+      </ListItemIcon>
+      <ListItemText primary="Finland" />
+    </ListItem>
   </div>
 );
 
