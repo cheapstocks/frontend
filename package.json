@@ -1,0 +1,55 @@
+{
+  "name": "visualise_fundamentals",
+  "description": "Visualise stock fundamentals and backtest",
+  "homepage": "https://cheapstocks.app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "material-ui": "file:../../../../../../core/Toolbar",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "latest",
+    "react-scripts-ts": "3.1.0",
+    "react-spring": "^8.0.27",
+    "react-world-flags": "^1.4.0",
+    "recharts": "^2.0.9",
+    "typescript": "^3",
+    "web-vitals": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react-router-dom": "^5.1.7",
+    "@types/styled-jsx": "^2.2.8",
+    "gh-pages": "^3.2.2"
+  }
+}
