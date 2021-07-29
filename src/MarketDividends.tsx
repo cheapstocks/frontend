@@ -115,7 +115,7 @@ function CustomTooltip(props: any, aaa: {}) {
   return (
     <div className="custom-tooltip">
       <p className="label">Name: {`${a.payload[0].payload.name}`}</p>
-      <p className="intro">P/E Ratio: {`${a.payload[0].payload.dividendsRatio}`}</p>
+      <p className="intro">Dividend/Price ratio: {`${a.payload[0].payload.dividendsRatio}`}</p>
       <p className="intro">Category: {`${a.payload[0].payload.category}`}</p>
 
     </div>
