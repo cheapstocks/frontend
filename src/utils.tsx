@@ -134,11 +134,16 @@ export function get_all_symbols(markets: string[]): {symbol: string, market: str
       let resp = response as MarketSymbols[]
       resp.forEach(ticker  => {
         tickers.push({
-          "symbol": ticker.symbol,
-          "description": ticker.description,
-          "market": market,
+          symbol: ticker.symbol,
+          description: ticker.description,
+          market: market,
         })
       });
+      tickers.push({
+        symbol: market,
+        market: market,
+        description: `${market} Exchange`
+      })
     })
     .catch((error) => {
       console.error('Error:', error);

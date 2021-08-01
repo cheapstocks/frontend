@@ -1,4 +1,4 @@
-import {React, useState, useEffect, useMemo} from 'react';
+import { React, useState, useEffect, useMemo } from 'react';
 import clsx from 'clsx';
 import { makeStyles } from '@material-ui/core/styles';
 import CssBaseline from '@material-ui/core/CssBaseline';
@@ -63,10 +63,14 @@ const useStyles = makeStyles((theme) => ({
 const URL = window.location.origin
 
 function redirect(event) {
-  if ( (event?.market === undefined) || (event?.symbol === undefined)) {
+  if ((event?.market === undefined) || (event?.symbol === undefined)) {
     return
   }
-  window.location.href = `/#/market/${event.market}/${event.symbol}` 
+  if (event.market === event.symbol) {
+    window.location.href = `/#/market/${event.market}`
+    return
+  } 
+  window.location.href = `/#/market/${event.market}/${event.symbol}`
 }
 
 export default function Dashboard(props) {
@@ -80,10 +84,10 @@ export default function Dashboard(props) {
     get_markets().then(resp => {
       setMarkets(resp)
     })
-  },[])
+  }, [])
 
   useMemo(() => {
-    setItems(get_all_symbols(markets))  
+    setItems(get_all_symbols(markets))
   }, [markets]);
 
 
@@ -96,28 +100,28 @@ export default function Dashboard(props) {
             Visualizing Stocks
           </Typography>
           <Autocomplete
-          autoHighlight
-          id="stocks_search"
-          style={{ width: '30%', backgroundColor:'#FFFFFF' }}
-          open={open}
-          onOpen={() => { setOpen(true)  }}
-          onClose={() => { setOpen(false) }}
-          getOptionSelected={(option, value) => option.symbol === value.symbol}
-          getOptionLabel={option => `${option.symbol} - ${option.description}`}
-          options={items}
-          onChange={(event, newValue) => {
-            redirect(newValue);
-          }}          
-          renderInput={params => (
-            <TextField
-              {...params}
-              label="Search for stock, market"
-              variant="outlined"
-              InputProps={{
-                ...params.InputProps,
-              }}
-            />
-          )}/>
+            autoHighlight
+            id="stocks_search"
+            style={{ width: '30%', backgroundColor: '#FFFFFF', height: '30%' }}
+            open={open}
+            onOpen={() => { setOpen(true) }}
+            onClose={() => { setOpen(false) }}
+            getOptionSelected={(option, value) => option.symbol === value.symbol}
+            getOptionLabel={option => `${option.symbol} - ${option.description}`}
+            options={items}
+            onChange={(event, newValue) => {
+              redirect(newValue);
+            }}
+            renderInput={params => (
+              <TextField
+                {...params}
+                label="Search for stock, market"
+                variant="outlined"
+                InputProps={{
+                  ...params.InputProps,
+                }}
+              />
+            )} />
         </Toolbar>
       </AppBar>
       <Drawer
@@ -133,7 +137,7 @@ export default function Dashboard(props) {
       <main className={classes.content}>
         <div className={classes.appBarSpacer} />
         <Container className={classes.container}>
-            {props.children}          
+          {props.children}
         </Container>
       </main>
     </div>
