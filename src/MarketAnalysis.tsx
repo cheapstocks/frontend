@@ -5,7 +5,7 @@ import { useParams } from 'react-router-dom';
 import Title from './template/Title';
 import CustomGrid from './template/CustomGrid';
 import { CompanyPeers, GeneralMetrics } from './models';
-import { createStyles, makeStyles, Slider, Theme, Typography } from '@material-ui/core';
+import { createStyles, makeStyles, Paper, Slider, Theme, Typography } from '@material-ui/core';
 
 
 export interface Metrics extends GeneralMetrics {
@@ -86,7 +86,7 @@ export default function MarketAnalysis() {
             left: 20,
           }}
         >
-          <XAxis type="category" dataKey="category" />
+          <XAxis type="category" dataKey="category" allowDuplicatedCategory={false} />
           <YAxis type="number" dataKey="_peNormalizedAnnual" name="ratio" domain={[0, limit]} allowDataOverflow={true} />
           <Tooltip content={<CustomTooltip />} />
           <Scatter name="A school" data={peRatio} fill="#8884d8" />
@@ -110,18 +110,20 @@ export default function MarketAnalysis() {
 }
 
 function CustomTooltip(props: any, aaa: {}) {
-  let a = props as { payload: { payload: { name: string, _peNormalizedAnnual: number, category: string } }[] }
+  let a = props as { payload: { payload: Metrics }[] }
 
   if ((a == null) || (a.payload == null) || (a.payload[0] == null)) {
     return null
   }
   return (
-    <div className="custom-tooltip">
+    <Paper elevation={3} >
       <p className="label">Name: {`${a.payload[0].payload.name}`}</p>
       <p className="intro">P/E Ratio: {`${a.payload[0].payload._peNormalizedAnnual.toFixed(1)}`}</p>
+      <p className="intro">Capex Ratio: {`${a.payload[0].payload.capexNetIncomeRatio.toFixed(3)}`}</p>
+      <p className="intro">ROE: {`${a.payload[0].payload._roeTTM.toFixed(1)}%`}</p>
+      <p className="intro">Debt Ratio: {`${a.payload[0].payload.debtNetIncomeRatio.toFixed(1)}`}</p>
       <p className="intro">Category: {`${a.payload[0].payload.category}`}</p>
-
-    </div>
+    </Paper>
   );
 };
 

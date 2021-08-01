@@ -5,7 +5,7 @@ import { useParams } from 'react-router-dom';
 import Title from './template/Title';
 import { CompanyPeers, DividendsRatio } from './models';
 import CustomGrid from './template/CustomGrid';
-import { makeStyles, Slider, Typography } from '@material-ui/core';
+import { makeStyles, Paper, Slider, Typography } from '@material-ui/core';
 
 export interface DR extends DividendsRatio{
   category: string
@@ -80,7 +80,7 @@ export default function MarketDividends() {
             left: 20,
           }}
         >
-          <XAxis type="category" dataKey="category" />
+          <XAxis type="category" dataKey="category" allowDuplicatedCategory={false} />
           <YAxis type="number" dataKey="dividendsRatio" name="ratio" unit="%" domain={dividendsInterval} allowDataOverflow={true}  />
           <Tooltip content={<CustomTooltip />} />
           <Scatter name="A school" data={dividendRate} fill="#8884d8">
@@ -111,12 +111,11 @@ function CustomTooltip(props: any, aaa: {}) {
     return null
   }
   return (
-    <div className="custom-tooltip">
+    <Paper elevation={3} >
       <p className="label">Name: {`${a.payload[0].payload.name}`}</p>
       <p className="intro">Dividend/Price ratio: {`${a.payload[0].payload.dividendsRatio.toFixed(1)}%`}</p>
       <p className="intro">Category: {`${a.payload[0].payload.category}`}</p>
-
-    </div>
+    </Paper>
   );
 };
 
