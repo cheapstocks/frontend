@@ -111,3 +111,40 @@ export function get_peers(market: string): Promise<void | CompanyPeers[] | null 
       console.error('Error:', error);
     });
 }
+
+export function get_markets(): Promise<void | string[] | null | undefined> {
+
+  return fetch(`${URL}/markets.json`, {
+    method: 'GET',
+  })
+    .then(response => response.json())
+    .then(data => {
+      return data
+    })
+    .catch((error) => {
+      console.error('Error:', error);
+    });
+}
+
+export function get_all_symbols(markets: string[]): {symbol: string, market: string, description: string}[] {
+
+  let tickers = [] as {symbol: string, market: string, description: string}[]
+  markets.forEach(market => {
+    get_tickers(market).then(response => {
+      let resp = response as MarketSymbols[]
+      resp.forEach(ticker  => {
+        tickers.push({
+          "symbol": ticker.symbol,
+          "description": ticker.description,
+          "market": market,
+        })
+      });
+    })
+    .catch((error) => {
+      console.error('Error:', error);
+      return tickers
+    });;
+  })
+
+  return tickers
+}

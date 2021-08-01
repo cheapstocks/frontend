@@ -1,12 +1,13 @@
 {
   "name": "visualise_fundamentals",
-  "description": "Visualise stock fundamentals and backtest",
+  "description": "Visualise stock fundamentals",
   "homepage": "https://cheapstocks.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "material-ui": "file:../../../../../../core/Toolbar",

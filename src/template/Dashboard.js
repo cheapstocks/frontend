@@ -1,4 +1,4 @@
-import React from 'react';
+import {React, useState, useEffect, useMemo} from 'react';
 import clsx from 'clsx';
 import { makeStyles } from '@material-ui/core/styles';
 import CssBaseline from '@material-ui/core/CssBaseline';
@@ -10,7 +10,9 @@ import Typography from '@material-ui/core/Typography';
 import Divider from '@material-ui/core/Divider';
 import Container from '@material-ui/core/Container';
 import { mainListItems } from './listitems.js';
-
+import Autocomplete from '@material-ui/lab/Autocomplete';
+import TextField from '@material-ui/core/TextField';
+import { get_all_symbols, get_markets } from '../utils.tsx';
 
 const drawerWidth = 180;
 
@@ -60,8 +62,27 @@ const useStyles = makeStyles((theme) => ({
 
 const URL = window.location.origin
 
+function redirect(event) {
+  window.location.href = `/#/market/${event.market}/${event.symbol}` 
+}
+
 export default function Dashboard(props) {
+  const [open, setOpen] = useState(false);
+  const [items, setItems] = useState([]);
+  const [markets, setMarkets] = useState([]);
   const classes = useStyles();
+
+  useEffect(() => {
+    // download markets
+    get_markets().then(resp => {
+      setMarkets(resp)
+    })
+  },[])
+
+  useMemo(() => {
+    setItems(get_all_symbols(markets))  
+  }, [markets]);
+
 
   return (
     <div className={classes.root}>
@@ -71,6 +92,29 @@ export default function Dashboard(props) {
           <Typography component="h1" href={URL} variant="h6" color="inherit" noWrap className={classes.title}>
             Visualizing Stocks
           </Typography>
+          <Autocomplete
+          autoHighlight
+          id="stocks_search"
+          style={{ width: '30%' }}
+          open={open}
+          onOpen={() => { setOpen(true)  }}
+          onClose={() => { setOpen(false) }}
+          getOptionSelected={(option, value) => option.symbol === value.symbol}
+          getOptionLabel={option => option.symbol}
+          options={items}
+          onChange={(event, newValue) => {
+            redirect(newValue);
+          }}          
+          renderInput={params => (
+            <TextField
+              {...params}
+              label="Search for stock, market"
+              variant="outlined"
+              InputProps={{
+                ...params.InputProps,
+              }}
+            />
+          )}/>
         </Toolbar>
       </AppBar>
       <Drawer
