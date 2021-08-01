@@ -63,6 +63,9 @@ const useStyles = makeStyles((theme) => ({
 const URL = window.location.origin
 
 function redirect(event) {
+  if ( (event?.market === undefined) || (event?.symbol === undefined)) {
+    return
+  }
   window.location.href = `/#/market/${event.market}/${event.symbol}` 
 }
 
@@ -95,12 +98,12 @@ export default function Dashboard(props) {
           <Autocomplete
           autoHighlight
           id="stocks_search"
-          style={{ width: '30%' }}
+          style={{ width: '30%', backgroundColor:'#FFFFFF' }}
           open={open}
           onOpen={() => { setOpen(true)  }}
           onClose={() => { setOpen(false) }}
           getOptionSelected={(option, value) => option.symbol === value.symbol}
-          getOptionLabel={option => option.symbol}
+          getOptionLabel={option => `${option.symbol} - ${option.description}`}
           options={items}
           onChange={(event, newValue) => {
             redirect(newValue);
