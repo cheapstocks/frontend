@@ -219,9 +219,14 @@ export interface MarketSymbols {
   type: string;
 }
 
-export interface PriceEarningsRatio {
+export interface GeneralMetrics {
   name: string,
-  priceEarningsRatio: number
+  _grossMarginTTM: number,
+  _netProfitMarginTTM: number,
+  _peNormalizedAnnual: number,
+  _roeTTM: number,
+  capexNetIncomeRatio: number,
+  debtNetIncomeRatio: number
 }
 export interface DividendsRatio {
   name: string,

@@ -9,7 +9,6 @@ import List from '@material-ui/core/List';
 import Typography from '@material-ui/core/Typography';
 import Divider from '@material-ui/core/Divider';
 import Container from '@material-ui/core/Container';
-import Grid from '@material-ui/core/Grid';
 import { mainListItems } from './listitems.js';
 
 
@@ -18,9 +17,6 @@ const drawerWidth = 180;
 const useStyles = makeStyles((theme) => ({
   root: {
     display: 'flex',
-  },
-  toolbar: {
-    paddingRight: 24, // keep right padding when drawer closed
   },
   toolbarIcon: {
     display: 'flex',
@@ -71,7 +67,7 @@ export default function Dashboard(props) {
     <div className={classes.root}>
       <CssBaseline />
       <AppBar position="absolute" className={clsx(classes.appBar)}>
-        <Toolbar className={classes.toolbar}>
+        <Toolbar>
           <Typography component="h1" href={URL} variant="h6" color="inherit" noWrap className={classes.title}>
             Visualizing Stocks
           </Typography>
@@ -90,9 +86,7 @@ export default function Dashboard(props) {
       <main className={classes.content}>
         <div className={classes.appBarSpacer} />
         <Container className={classes.container}>
-          <Grid container spacing={3}>
-            {props.children}
-          </Grid>
+            {props.children}          
         </Container>
       </main>
     </div>

@@ -1,16 +1,14 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { ResponsiveContainer, Scatter, ScatterChart, Tooltip, XAxis, YAxis } from 'recharts';
-import { get_peers, get_pe_rate } from './utils';
+import { get_peers, get_metrics } from './utils';
 import { useParams } from 'react-router-dom';
 import Title from './template/Title';
 import CustomGrid from './template/CustomGrid';
-import { CompanyPeers } from './models';
+import { CompanyPeers, GeneralMetrics } from './models';
 import { createStyles, makeStyles, Slider, Theme, Typography } from '@material-ui/core';
 
 
-export interface PER {
-  name: string,
-  priceEarningsRatio: number
+export interface Metrics extends GeneralMetrics {
   category: string
 }
 
@@ -29,7 +27,7 @@ const useStyles = makeStyles((theme: Theme) =>
 const THRESHOLD = 20
 
 export default function MarketAnalysis() {
-  const [peRatio, setPeRate] = useState<PER[]>([]);
+  const [peRatio, setPeRate] = useState<Metrics[]>([]);
   const [peers, setPeers] = useState<CompanyPeers[]>([]);
   const params: { market: string } = useParams()
   const [limit, setLimit] = useState<number>(THRESHOLD);
@@ -41,8 +39,8 @@ export default function MarketAnalysis() {
   };
 
   useEffect(() => {
-    get_pe_rate(params.market).then(response => {
-      let info = response as PER[]
+    get_metrics(params.market).then(response => {
+      let info = response as Metrics[]
       setPeRate(info)
     })
 
@@ -89,7 +87,7 @@ export default function MarketAnalysis() {
           }}
         >
           <XAxis type="category" dataKey="category" />
-          <YAxis type="number" dataKey="priceEarningsRatio" name="ratio" unit="%" domain={[0, limit]} allowDataOverflow={true} />
+          <YAxis type="number" dataKey="_peNormalizedAnnual" name="ratio" domain={[0, limit]} allowDataOverflow={true} />
           <Tooltip content={<CustomTooltip />} />
           <Scatter name="A school" data={peRatio} fill="#8884d8" />
         </ScatterChart>
@@ -112,7 +110,7 @@ export default function MarketAnalysis() {
 }
 
 function CustomTooltip(props: any, aaa: {}) {
-  let a = props as { payload: { payload: { name: string, priceEarningsRatio: number, category: string } }[] }
+  let a = props as { payload: { payload: { name: string, _peNormalizedAnnual: number, category: string } }[] }
 
   if ((a == null) || (a.payload == null) || (a.payload[0] == null)) {
     return null
@@ -120,7 +118,7 @@ function CustomTooltip(props: any, aaa: {}) {
   return (
     <div className="custom-tooltip">
       <p className="label">Name: {`${a.payload[0].payload.name}`}</p>
-      <p className="intro">P/E Ratio: {`${a.payload[0].payload.priceEarningsRatio}%`}</p>
+      <p className="intro">P/E Ratio: {`${a.payload[0].payload._peNormalizedAnnual.toFixed(1)}`}</p>
       <p className="intro">Category: {`${a.payload[0].payload.category}`}</p>
 
     </div>

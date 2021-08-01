@@ -1,4 +1,4 @@
-import { Dividend, CompanyProfile, StockMetric, MarketSymbols, PriceEarningsRatio, DividendsRatio, CompanyPeers} from "./models";
+import { Dividend, CompanyProfile, StockMetric, MarketSymbols, GeneralMetrics, DividendsRatio, CompanyPeers} from "./models";
 
 const URL = "https://api.cheapstocks.app"
 const DIVIDENDS = "dividends"
@@ -84,9 +84,9 @@ export function get_stock_metrics(market: string, ticker: string): Promise<void 
     })
 }
 
-export function get_pe_rate(market: string): Promise<void | PriceEarningsRatio[] | null | undefined> {
+export function get_metrics(market: string): Promise<void | GeneralMetrics[] | null | undefined> {
 
-  return fetch(`${URL}/markets/${market}/priceEarningComparison.json`, {
+  return fetch(`${URL}/markets/${market}/general_metrics.json`, {
     method: 'GET',
   })
     .then(response => response.json())

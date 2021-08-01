@@ -7,6 +7,7 @@ import Market from './Market';
 import DividensChart from './Dividends';
 import MarketDividends from './MarketDividends';
 import MarketAnalysis from './MarketAnalysis';
+import Stock from './Stock';
 
 render(
   <React.Fragment>
@@ -17,6 +18,7 @@ render(
           <Route exact path="/market/:market" component={Market} />
           <Route exact path="/market/:market/dividends" component={MarketDividends} />
           <Route exact path="/market/:market/analysis" component={MarketAnalysis} />
+          <Route exact path="/market/:market/:stock" component={Stock} />
         </Switch>
       </Router>
     </Dashboard>

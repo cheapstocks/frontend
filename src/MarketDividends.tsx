@@ -3,13 +3,11 @@ import { ResponsiveContainer, Scatter, ScatterChart, Tooltip, XAxis, YAxis } fro
 import { get_dividends_rate, get_peers } from './utils';
 import { useParams } from 'react-router-dom';
 import Title from './template/Title';
-import { CompanyPeers } from './models';
+import { CompanyPeers, DividendsRatio } from './models';
 import CustomGrid from './template/CustomGrid';
 import { makeStyles, Slider, Typography } from '@material-ui/core';
 
-export interface DR {
-  name: string,
-  dividendsRatio: number
+export interface DR extends DividendsRatio{
   category: string
 }
 
@@ -115,7 +113,7 @@ function CustomTooltip(props: any, aaa: {}) {
   return (
     <div className="custom-tooltip">
       <p className="label">Name: {`${a.payload[0].payload.name}`}</p>
-      <p className="intro">Dividend/Price ratio: {`${a.payload[0].payload.dividendsRatio}%`}</p>
+      <p className="intro">Dividend/Price ratio: {`${a.payload[0].payload.dividendsRatio.toFixed(1)}%`}</p>
       <p className="intro">Category: {`${a.payload[0].payload.category}`}</p>
 
     </div>
