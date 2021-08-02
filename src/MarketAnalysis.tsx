@@ -50,6 +50,12 @@ export default function MarketAnalysis() {
     })
   }, [params.market])
 
+  function redirectStock(ev: any) {
+    if (ev?.name !== undefined) {
+      window.location.href = `/#/market/${params.market}/${ev.name}`
+    }
+  }
+
   useMemo(() => {
     // add category for companies
     for (let index = 0; index < peRatio.length; index++) {
@@ -86,10 +92,10 @@ export default function MarketAnalysis() {
             left: 20,
           }}
         >
-          <XAxis type="category" dataKey="category" allowDuplicatedCategory={false} />
+          <XAxis type="category" dataKey="category" allowDuplicatedCategory={false} minTickGap={1}  />
           <YAxis type="number" dataKey="_peNormalizedAnnual" name="ratio" domain={[0, limit]} allowDataOverflow={true} />
           <Tooltip content={<CustomTooltip />} />
-          <Scatter name="A school" data={peRatio} fill="#8884d8" />
+          <Scatter name="A school" data={peRatio} fill="#8884d8" onClick={ev => redirectStock(ev)}/>
         </ScatterChart>
       </ResponsiveContainer>
       <div className={classes.root}>

@@ -45,6 +45,11 @@ export default function MarketDividends() {
     })
   }, [params.market])
 
+  function redirectStock(ev: any) {
+    if (ev?.name !== undefined) {
+      window.location.href = `/#/market/${params.market}/${ev.name}`
+    }
+  }
 
   useMemo(() => {
     // add category for companies
@@ -83,7 +88,7 @@ export default function MarketDividends() {
           <XAxis type="category" dataKey="category" allowDuplicatedCategory={false} />
           <YAxis type="number" dataKey="dividendsRatio" name="ratio" unit="%" domain={dividendsInterval} allowDataOverflow={true}  />
           <Tooltip content={<CustomTooltip />} />
-          <Scatter name="A school" data={dividendRate} fill="#8884d8">
+          <Scatter name="A school" data={dividendRate} fill="#8884d8" onClick={ev => redirectStock(ev)}>
           </Scatter>
         </ScatterChart>
       </ResponsiveContainer>
