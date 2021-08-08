@@ -239,14 +239,18 @@ export interface CompanyInformation {
   gind: string;
   gsector: string;
   gsubind: string;
-}
-
-export interface Company {
-  info: CompanyInformation;
   symbol: string;
 }
 
 export interface CompanyPeers {
   group: string;
-  peers: Company[];
+  peers: CompanyInformation[];
+  average: AveragePeers;
+}
+
+export interface AveragePeers {
+  _grossMarginTTM: number;
+  _netProfitMarginTTM: number;
+  _peNormalizedAnnual: number;
+  _roeTTM: number;
 }

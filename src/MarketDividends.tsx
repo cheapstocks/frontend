@@ -66,7 +66,7 @@ export default function MarketDividends() {
       if (companyAsPeer === undefined ){
         continue
       }
-      dividendRate[index].category = companyAsPeer?.info.finnhubIndustry
+      dividendRate[index].category = companyAsPeer?.finnhubIndustry
     }
 
   }, [dividendRate, peers]);

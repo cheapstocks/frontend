@@ -71,7 +71,7 @@ export default function MarketAnalysis() {
       if (companyAsPeer === undefined) {
         continue
       }
-      peRatio[index].category = companyAsPeer?.info.finnhubIndustry
+      peRatio[index].category = companyAsPeer?.finnhubIndustry
     }
 
   }, [peRatio, peers]);
@@ -125,7 +125,8 @@ function CustomTooltip(props: any, aaa: {}) {
     <Paper elevation={3} >
       <p className="label">Name: {`${a.payload[0].payload.name}`}</p>
       <p className="intro">P/E Ratio: {`${a.payload[0].payload._peNormalizedAnnual.toFixed(1)}`}</p>
-      <p className="intro">Capex Ratio: {`${a.payload[0].payload.capexNetIncomeRatio.toFixed(3)}`}</p>
+      <p className="intro">Gross Margin: {`${a.payload[0].payload._grossMarginTTM.toFixed(2)}%`}</p>
+      <p className="intro">Net Margin: {`${a.payload[0].payload._netProfitMarginTTM.toFixed(2)}%`}</p>
       <p className="intro">ROE: {`${a.payload[0].payload._roeTTM.toFixed(1)}%`}</p>
       <p className="intro">Debt Ratio: {`${a.payload[0].payload.debtNetIncomeRatio.toFixed(1)}`}</p>
       <p className="intro">Category: {`${a.payload[0].payload.category}`}</p>
