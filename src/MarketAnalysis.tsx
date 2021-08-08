@@ -6,8 +6,8 @@ import Title from './template/Title';
 import CustomGrid from './template/CustomGrid';
 import { CompanyPeers, GeneralMetrics } from './models';
 import { createStyles, makeStyles, Paper, Slider, Theme, Typography } from '@material-ui/core';
-
-
+import TrendingUpIcon from '@material-ui/icons/TrendingUp';
+import TrendingDownIcon from '@material-ui/icons/TrendingDown';
 export interface Metrics extends GeneralMetrics {
   category: string
 }
@@ -60,14 +60,12 @@ export default function MarketAnalysis() {
     // add category for companies
     for (let index = 0; index < peRatio.length; index++) {
       // find companies and add finnhub industry
-      var peerGroup = peers.find(group => group.group.includes(peRatio[index].name))
-
+      let peerGroup = peers.find(group => group.group.includes(peRatio[index].name))
       if (peerGroup === undefined) {
         continue
       }
 
-      var companyAsPeer = peerGroup.peers.find(companyPeer => companyPeer.symbol === peRatio[index].name)
-
+      let companyAsPeer = peerGroup.peers.find(companyPeer => companyPeer.symbol === peRatio[index].name)
       if (companyAsPeer === undefined) {
         continue
       }
@@ -77,6 +75,41 @@ export default function MarketAnalysis() {
   }, [peRatio, peers]);
 
   const classes = useStyles();
+
+  function CustomTooltip(props: any, aaa: {}) {
+    let a = props as { payload: { payload: Metrics }[] }
+  
+    if ((a == null) || (a.payload == null) || (a.payload[0] == null)) {
+      return null
+    }
+    let payload = a.payload[0].payload
+
+
+    // get peers
+    let companyAsPeer = peers.find(companyPeer => companyPeer.group.includes(payload.name)) as CompanyPeers
+    
+    return (
+      <Paper elevation={3} >
+        <p className="label">Name: {`${payload.name}`}</p>
+        <GetComparison title="P/E Ratio" data={payload._peNormalizedAnnual} averageData={companyAsPeer.average._peNormalizedAnnual}/>
+        <GetComparison title="Gross Margin" data={payload._grossMarginTTM} averageData={companyAsPeer.average._grossMarginTTM}/>
+        <GetComparison title="Net Margin" data={payload._netProfitMarginTTM} averageData={companyAsPeer.average._netProfitMarginTTM}/>
+        <GetComparison title="ROE" data={payload._roeTTM} averageData={companyAsPeer.average._roeTTM}/>
+        <p className="intro">Debt Ratio: {`${payload.debtNetIncomeRatio.toFixed(1)}`}</p>
+        <p className="intro">Category: {`${payload.category}`}</p>
+      </Paper>
+    );
+  };
+  
+  const GetComparison = (props: {title: string, data: number, averageData: number}) => {
+    let icon = <TrendingDownIcon/>
+    if (props.data > props.averageData) {
+      icon = <TrendingUpIcon/>
+    } 
+    return <p className="intro">{props.title}: {`${props.data.toFixed(2)}`}{icon}</p>
+  }
+
+  const valuetext = (value: number) => {return `${value}%`} 
 
   return (
     <CustomGrid>
@@ -113,27 +146,4 @@ export default function MarketAnalysis() {
       </div>
     </CustomGrid>
   )
-}
-
-function CustomTooltip(props: any, aaa: {}) {
-  let a = props as { payload: { payload: Metrics }[] }
-
-  if ((a == null) || (a.payload == null) || (a.payload[0] == null)) {
-    return null
-  }
-  return (
-    <Paper elevation={3} >
-      <p className="label">Name: {`${a.payload[0].payload.name}`}</p>
-      <p className="intro">P/E Ratio: {`${a.payload[0].payload._peNormalizedAnnual.toFixed(1)}`}</p>
-      <p className="intro">Gross Margin: {`${a.payload[0].payload._grossMarginTTM.toFixed(2)}%`}</p>
-      <p className="intro">Net Margin: {`${a.payload[0].payload._netProfitMarginTTM.toFixed(2)}%`}</p>
-      <p className="intro">ROE: {`${a.payload[0].payload._roeTTM.toFixed(1)}%`}</p>
-      <p className="intro">Debt Ratio: {`${a.payload[0].payload.debtNetIncomeRatio.toFixed(1)}`}</p>
-      <p className="intro">Category: {`${a.payload[0].payload.category}`}</p>
-    </Paper>
-  );
-};
-
-function valuetext(value: number) {
-  return `${value}%`;
 }
