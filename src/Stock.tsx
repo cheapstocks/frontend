@@ -1,47 +1,17 @@
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
-import { createStyles, Grid, makeStyles, Paper, Theme, Typography } from '@material-ui/core';
-import { get_info } from './utils';
-import { CompanyProfile } from './models';
+import { Typography } from '@material-ui/core';
+import { get_info, get_stock_metrics } from './utils';
+import { CompanyProfile, PeriodData, StockMetric } from './models';
 import Title from './template/Title';
+import { Line, LineChart, ResponsiveContainer } from 'recharts';
+import CustomGrid from './template/CustomGrid';
 
-
-
-const useStyles = makeStyles((theme: Theme) =>
-    createStyles({
-        paper: {
-            padding: theme.spacing(1),
-            textAlign: 'center',
-            color: theme.palette.text.secondary,
-        },
-        main: {
-            height: 870,
-            padding: theme.spacing(1),
-            textAlign: 'center',
-            color: theme.palette.text.primary,
-            display: 'flex',
-            overflow: 'auto',
-            flexDirection: 'column',
-        },
-        insights: {
-            height: 274,
-            padding: theme.spacing(1),
-            textAlign: 'center',
-            color: theme.palette.text.primary,
-            display: 'flex',
-            overflow: 'auto',
-            flexDirection: 'column',
-        },
-        container: {
-            paddingBottom: theme.spacing(3),
-            paddingRight: theme.spacing(3)
-        },
-    }),
-);
 
 export default function Stock() {
     const params: { market: string, stock: string } = useParams()
     const [companyProfile, setcompanyProfile] = useState<CompanyProfile>();
+    const [metrics, setMetrics] = useState<StockMetric>();
 
     useEffect(() => {
         get_info(params.market, params.stock).then(response => {
@@ -50,51 +20,40 @@ export default function Stock() {
                 setcompanyProfile(resp)
             }
         })
+        get_stock_metrics(params.market, params.stock).then(response => {
+            let resp = response as StockMetric;
+            if (resp !== undefined) {
+                setMetrics(resp)
+            }
+        })
     }, [params.market, params.stock])
 
-    const classes = useStyles();
+    function MetricsGraph(props: {title: string, data: PeriodData[]| undefined}): JSX.Element {
+        return (
+            <React.Fragment>
+                <Typography variant="h6" color="inherit">{props.title}</Typography>
+                <LineChart width={300} height={100} data={props.data}>
+                    <Line type="monotone" dataKey="v" stroke="#8884d8" strokeWidth={2} />
+                </LineChart>
+            </React.Fragment>
+        )
+    }
+
     return (
-        <React.Fragment>
-            <Grid container direction="row">
-                <Grid item xs={8} className={classes.container}>
-                    <Grid container direction="column">
-                        <Grid item >
-                            <Paper className={classes.main}>
-                                <Title>{params.stock}</Title>
-                                <Typography variant="body2" color="inherit">
-                                    {companyProfile?.description}
-                                </Typography>
-                            </Paper>
-                        </Grid>
-                    </Grid>
-                </Grid>
+        <ResponsiveContainer width="100%" height="100%">
+            <CustomGrid>
+                <Title>{params.stock} details</Title>
+                <Typography variant="body2" color="inherit">
+                    {companyProfile?.description}
+                </Typography>
 
-                <Grid item xs={4}>
-                    <Grid container direction="column" className={classes.container}>
-                        <Grid item >
-                            <Paper className={classes.insights}>
-                                <Title>Balance Sheet insights</Title>
-                            </Paper>
-                        </Grid>
-                    </Grid>
+            <MetricsGraph title="Net Margin" data={metrics?.series.annual.netMargin} />
+            <MetricsGraph title="Gross Margin" data={metrics?.series.annual.grossMargin} />
+            <MetricsGraph title="Debt to Equity" data={metrics?.series.annual.totalDebtToEquity} />
 
-                    <Grid container direction="column" className={classes.container}>
-                        <Grid item >
-                            <Paper className={classes.insights}>
-                                <Title>Income Statement insights</Title>
-                            </Paper>
-                        </Grid>
-                    </Grid>
-
-                    <Grid container direction="column" className={classes.container}>
-                        <Grid item>
-                            <Paper className={classes.insights}>
-                                <Title>Cash Flow insights</Title>
-                            </Paper>
-                        </Grid>
-                    </Grid>
-                </Grid>
-            </Grid>
-        </React.Fragment>
+            </CustomGrid>
+        </ResponsiveContainer>
     )
 }
+
+

@@ -71,7 +71,7 @@ export function get_dividends_rate(market: string): Promise<void | DividendsRati
     });
 }
 
-export function get_stock_metrics(market: string, ticker: string): Promise<void | StockMetric[] | null | undefined> {
+export function get_stock_metrics(market: string, ticker: string): Promise<void | StockMetric | null | undefined> {
 
   return download_data(market, ticker, METRICS)
     .then(response => {
