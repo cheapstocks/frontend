@@ -91,21 +91,24 @@ export default function MarketAnalysis() {
     return (
       <Paper elevation={3} >
         <p className="label">Name: {`${payload.name}`}</p>
-        <GetComparison title="P/E Ratio" data={payload._peNormalizedAnnual} averageData={companyAsPeer.average._peNormalizedAnnual}/>
+        <GetComparison title="P/E Ratio" data={payload._peNormalizedAnnual} averageData={0}/>
         <GetComparison title="Gross Margin" data={payload._grossMarginTTM} averageData={companyAsPeer.average._grossMarginTTM}/>
         <GetComparison title="Net Margin" data={payload._netProfitMarginTTM} averageData={companyAsPeer.average._netProfitMarginTTM}/>
         <GetComparison title="ROE" data={payload._roeTTM} averageData={companyAsPeer.average._roeTTM}/>
-        <p className="intro">Debt Ratio: {`${payload.debtNetIncomeRatio.toFixed(1)}`}</p>
+        <GetComparison title="Debt Ratio:" data={payload.debtNetIncomeRatio} averageData={0}/>
         <p className="intro">Category: {`${payload.category}`}</p>
       </Paper>
     );
   };
   
   const GetComparison = (props: {title: string, data: number, averageData: number}) => {
-    let icon = <TrendingDownIcon/>
-    if (props.data > props.averageData) {
-      icon = <TrendingUpIcon/>
-    } 
+    let icon = <p></p>
+    if ((props.data > props.averageData)&&(props.averageData !== 0) ){
+      icon = <TrendingUpIcon titleAccess="above average" fontSize='small'/>
+    } else if ((props.data < props.averageData)&&(props.averageData !== 0) ){
+      icon = <TrendingDownIcon titleAccess="below average" fontSize='small'/>
+    }
+
     return <p className="intro">{props.title}: {`${props.data.toFixed(2)}`}{icon}</p>
   }
 
