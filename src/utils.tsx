@@ -1,4 +1,4 @@
-import { Dividend, CompanyProfile, StockMetric, MarketSymbols, GeneralMetrics, DividendsRatio, CompanyPeers} from "./models";
+import { Dividend, CompanyProfile, StockMetric, MarketSymbols, GeneralMetrics, DividendsRatio, CompanyPeers, Symbols} from "./models";
 
 const URL = "https://api.cheapstocks.app"
 const DIVIDENDS = "dividends"
@@ -126,9 +126,9 @@ export function get_markets(): Promise<void | string[] | null | undefined> {
     });
 }
 
-export function get_all_symbols(markets: string[]): {symbol: string, market: string, description: string}[] {
+export function get_all_symbols(markets: string[]): Symbols[] {
 
-  let tickers = [] as {symbol: string, market: string, description: string}[]
+  let tickers = [] as Symbols[]
   markets.forEach(market => {
     get_tickers(market).then(response => {
       let resp = response as MarketSymbols[]

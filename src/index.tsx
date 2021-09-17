@@ -8,16 +8,18 @@ import DividensChart from './Dividends';
 import MarketDividends from './MarketDividends';
 import MarketAnalysis from './MarketAnalysis';
 import Stock from './Stock';
+import Compare from './Compare';
 
 render(
   <React.Fragment>
     <Dashboard>
-      <Router >
+      <Router>
         <Switch>
           <Route exact path="/market/:market/dividends/:id" component={DividensChart} />
           <Route exact path="/market/:market" component={Market} />
           <Route exact path="/market/:market/dividends" component={MarketDividends} />
           <Route exact path="/market/:market/analysis" component={MarketAnalysis} />
+          <Route exact path="/market/:market/compare" component={Compare} />
           <Route exact path="/market/:market/:stock" component={Stock} />
         </Switch>
       </Router>

@@ -254,3 +254,9 @@ export interface AveragePeers {
   _peNormalizedAnnual: number;
   _roeTTM: number;
 }
+
+export interface Symbols {
+  symbol: string;
+  market: string;
+  description: string;
+}
