@@ -12,7 +12,7 @@ function download_data(market: string, ticker: string, path: string) {
   })
     .then(response => response.json())
     .then(data => {
-      return data
+      debugger;return data
     })
     .catch((error) => {
       console.error('Error:', error);
@@ -23,7 +23,7 @@ export function get_dividends(market: string, ticker: string): Promise<void | Di
   return download_data(market, ticker, DIVIDENDS)
     .then(response => {
       if (response != null) {
-        return response
+        debugger;return response
       }
     })
     .catch(error => {
@@ -35,7 +35,7 @@ export function get_info(market: string, ticker: string): Promise<void | Company
   return download_data(market, ticker, INFO)
     .then(response => {
       if (response != null) {
-        return response
+        debugger;return response
       }
     })
     .catch(error => {
@@ -50,7 +50,7 @@ export function get_tickers(market: string): Promise<void | MarketSymbols[] | nu
   })
     .then(response => response.json())
     .then(data => {
-      return data
+      debugger;return data
     })
     .catch((error) => {
       console.error('Error:', error);
@@ -64,7 +64,7 @@ export function get_dividends_rate(market: string): Promise<void | DividendsRati
   })
     .then(response => response.json())
     .then(data => {
-      return data
+      debugger;return data
     })
     .catch((error) => {
       console.error('Error:', error);
@@ -76,7 +76,7 @@ export function get_stock_metrics(market: string, ticker: string): Promise<void 
   return download_data(market, ticker, METRICS)
     .then(response => {
       if (response != null) {
-        return response
+        debugger;return response
       }
     })
     .catch(error => {
@@ -85,13 +85,13 @@ export function get_stock_metrics(market: string, ticker: string): Promise<void 
 }
 
 export function get_metrics(market: string): Promise<void | GeneralMetrics[] | null | undefined> {
-
+  debugger
   return fetch(`${URL}/markets/${market}/general_metrics.json`, {
     method: 'GET',
   })
     .then(response => response.json())
     .then(data => {
-      return data
+      debugger;return data
     })
     .catch((error) => {
       console.error('Error:', error);
@@ -105,7 +105,7 @@ export function get_peers(market: string): Promise<void | CompanyPeers[] | null 
   })
     .then(response => response.json())
     .then(data => {
-      return data
+      debugger;return data
     })
     .catch((error) => {
       console.error('Error:', error);
@@ -119,37 +119,22 @@ export function get_markets(): Promise<void | string[] | null | undefined> {
   })
     .then(response => response.json())
     .then(data => {
-      return data
+      debugger;return data
     })
     .catch((error) => {
       console.error('Error:', error);
     });
 }
 
-export function get_all_symbols(markets: string[]): {symbol: string, market: string, description: string}[] {
-
-  let tickers = [] as {symbol: string, market: string, description: string}[]
-  markets.forEach(market => {
-    get_tickers(market).then(response => {
-      let resp = response as MarketSymbols[]
-      resp.forEach(ticker  => {
-        tickers.push({
-          symbol: ticker.symbol,
-          description: ticker.description,
-          market: market,
-        })
-      });
-      tickers.push({
-        symbol: market,
-        market: market,
-        description: `${market} Exchange`
-      })
+export function get_all_symbols(): Promise<string[]> {
+  return fetch(`${URL}/markets/symbols.json`, {
+    method: 'GET',
+  })
+    .then(response => response.json())
+    .then(data => {
+      debugger;return data
     })
     .catch((error) => {
       console.error('Error:', error);
-      return tickers
-    });;
-  })
-
-  return tickers
+    });
 }

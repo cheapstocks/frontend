@@ -106,8 +106,8 @@ export default function Dashboard(props) {
             open={open}
             onOpen={() => { setOpen(true) }}
             onClose={() => { setOpen(false) }}
-            getOptionSelected={(option, value) => option.symbol === value.symbol}
-            getOptionLabel={option => `${option.symbol} - ${option.description}`}
+            getOptionSelected={(option, value) => option === value}
+            getOptionLabel={option => `${option}`}
             options={items}
             onChange={(event, newValue) => {
               redirect(newValue);

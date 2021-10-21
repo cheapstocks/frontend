@@ -69,7 +69,7 @@ export default function MarketAnalysis() {
       if (companyAsPeer === undefined) {
         continue
       }
-      peRatio[index].category = companyAsPeer?.finnhubIndustry
+      peRatio[index].category = companyAsPeer?.industry
     }
 
   }, [peRatio, peers]);

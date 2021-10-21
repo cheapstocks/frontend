@@ -234,11 +234,8 @@ export interface DividendsRatio {
 }
 
 export interface CompanyInformation {
-  finnhubIndustry: string;
-  ggroup: string;
-  gind: string;
-  gsector: string;
-  gsubind: string;
+  industry: string;
+  sector: string;
   symbol: string;
 }
 
