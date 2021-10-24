@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import { Typography, Grid } from '@material-ui/core';
-import { get_info, get_stock_metrics, get_dividends } from './utils';
-import { CompanyProfile, PeriodData, StockMetric, Dividend } from './models';
+import { get_info, get_key_metrics } from './utils';
+import { CompanyProfile, KeyMetrics } from './models';
 import Title from './template/Title';
 import { Line, LineChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
 import CustomGrid from './template/CustomGrid';
@@ -11,8 +11,8 @@ import CustomGrid from './template/CustomGrid';
 export default function Stock() {
     const params: { market: string, stock: string } = useParams()
     const [companyProfile, setcompanyProfile] = useState<CompanyProfile>()
-    const [metrics, setMetrics] = useState<StockMetric>()
-    const [dividends, setDividends] = useState<PeriodData[]>()
+    const [keyMetrics, setKeyMetrics] = useState<KeyMetrics[]>()
+
 
     useEffect(() => {
         get_info(params.market, params.stock).then(response => {
@@ -21,60 +21,32 @@ export default function Stock() {
                 setcompanyProfile(resp)
             }
         })
-        get_stock_metrics(params.market, params.stock).then(response => {
-            let resp = response as StockMetric;
+        get_key_metrics(params.market, params.stock, "quarter").then(response => {
+            let resp = response as KeyMetrics[];
             if (resp !== undefined) {
-                setMetrics(resp)
+                setKeyMetrics(resp)
             }
         })
-        get_dividends(params.market, params.stock).then(response => {
-            let resp = response as Dividend[];
-            let newFormat = [] as PeriodData[]
-            if (resp !== undefined) {
 
-                resp.forEach(dividend => {
-                    newFormat.push({ v: dividend.amount, period: dividend.date })
-                });
-                setDividends(newFormat)
-            }
-        }).catch()
     }, [params.market, params.stock])
 
 
     function showDividends() {
-        if (dividends === undefined) {
-            return ('')
-        }
-    
-        // get price
-        const marketCap = companyProfile?.marketCapitalization as number
-        const shares = companyProfile?.shareOutstanding as number
-        let price =  marketCap / shares
-
-        // calculate ratio
-        for (let i=0; i< dividends.length; i++ ){
-            dividends[i].v =  Number((dividends[i].v / price).toFixed(2))
-        }
-
         return (<Grid item>
             <Typography variant="h4" color="inherit">Dividends</Typography>
-            <MetricsGraph title="Dividends" data={dividends} label="Dividend Ratio" />
+            <MetricsGraph title="Dividends" dataKey="dividendYield" label="Dividend Ratio" />
         </Grid>
         )
     }
 
-    function MetricsGraph(props: { title: string, data: PeriodData[] | undefined, label: string  }): JSX.Element {
-        if (props.data !== undefined) {
-            props.data.sort((a: PeriodData, b: PeriodData) => new Date(a.period).getTime() - new Date(b.period).getTime())
-        }
-
+    function MetricsGraph(props: { title: string, label: string, dataKey: string }): JSX.Element {
         return (
             <React.Fragment>
                 <Typography variant="h6" color="inherit">{props.title}</Typography>
-                <LineChart width={300} height={100} data={props.data}>
-                    <XAxis dataKey="period" />
+                <LineChart width={300} height={100} data={keyMetrics}>
+                    <XAxis dataKey="date" />
                     <YAxis hide />
-                    <Line type="monotone" dataKey="v" stroke="#8884d8" name={props.label} strokeWidth={2} />
+                    <Line type="monotone" dataKey={props.dataKey} stroke="#8884d8" name={props.label} strokeWidth={2} />
                     <Tooltip />
                 </LineChart>
             </React.Fragment>
@@ -92,14 +64,13 @@ export default function Stock() {
                 <Grid container spacing={4} >
                     <Grid item spacing={5}>
                         <Typography variant="h4" color="inherit">Income and Revenue</Typography>
-                        <MetricsGraph title="Net Margin" data={metrics?.series.annual.netMargin} label="Ratio"/>
-                        <MetricsGraph title="Gross Margin" data={metrics?.series.annual.grossMargin} label="Ratio"/>
-                        <MetricsGraph title="EPS" data={metrics?.series.annual.eps} label="Ratio"/>
+                        <MetricsGraph title="Net Margin" dataKey="netProfitMarginTTM" label="Ratio" />
+                        <MetricsGraph title="EPS" dataKey="earningsYield" label="Ratio" />
                     </Grid>
                     <Grid item>
                         <Typography variant="h4" color="inherit">Debt and liabilites</Typography>
-                        <MetricsGraph title="Debt to Equity" data={metrics?.series.annual.totalDebtToEquity} label="Ratio"/>
-                        <MetricsGraph title="Current Ratio" data={metrics?.series.annual.currentRatio} label="Ratio"/>
+                        <MetricsGraph title="Debt to Equity" dataKey="debtToEquity" label="Ratio" />
+                        <MetricsGraph title="Current Ratio" dataKey="currentRatio" label="Ratio" />
                     </Grid>
                     {showDividends()}
                 </Grid>

@@ -1,4 +1,4 @@
-import { React, useState, useEffect, useMemo } from 'react';
+import { React, useState, useMemo } from 'react';
 import clsx from 'clsx';
 import { makeStyles } from '@material-ui/core/styles';
 import CssBaseline from '@material-ui/core/CssBaseline';
@@ -12,7 +12,7 @@ import Container from '@material-ui/core/Container';
 import { mainListItems } from './listitems.js';
 import Autocomplete from '@material-ui/lab/Autocomplete';
 import TextField from '@material-ui/core/TextField';
-import { get_all_symbols, get_markets } from '../utils.tsx';
+import { get_all_symbols } from '../utils.tsx';
 
 const drawerWidth = 180;
 
@@ -63,33 +63,26 @@ const useStyles = makeStyles((theme) => ({
 const URL = window.location.origin
 
 function redirect(event) {
-  if ((event?.market === undefined) || (event?.symbol === undefined)) {
+  if ( event === undefined) {
     return
   }
-  if (event.market === event.symbol) {
-    window.location.href = `/#/market/${event.market}`
-    return
-  } 
+  debugger
+
   window.location.href = `/#/market/${event.market}/${event.symbol}`
 }
 
 export default function Dashboard(props) {
   const [open, setOpen] = useState(false);
-  const [items, setItems] = useState([]);
-  const [markets, setMarkets] = useState([]);
+  const [symbols, setSymbols] = useState([]);
   const classes = useStyles();
 
-  useEffect(() => {
+  useMemo(() => {
     // download markets
-    get_markets().then(resp => {
-      setMarkets(resp)
+    get_all_symbols(resp => {
+      debugger
+      setSymbols(resp)
     })
   }, [])
-
-  useMemo(() => {
-    setItems(get_all_symbols(markets))
-  }, [markets]);
-
 
   return (
     <div className={classes.root}>
@@ -108,7 +101,7 @@ export default function Dashboard(props) {
             onClose={() => { setOpen(false) }}
             getOptionSelected={(option, value) => option === value}
             getOptionLabel={option => `${option}`}
-            options={items}
+            options={symbols}
             onChange={(event, newValue) => {
               redirect(newValue);
             }}
