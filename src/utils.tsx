@@ -1,4 +1,4 @@
-import { CompanyProfile, StockMetric, MarketSymbols, GeneralMetrics, DividendsRatio, CompanyPeers, KeyMetrics} from "./models";
+import { CompanyProfile, StockMetric, MarketSymbols, GeneralMetrics, DividendsRatio, CompanyPeers, KeyMetrics } from "./models";
 
 const URL = "https://api.cheapstocks.app"
 const INFO = "info"
@@ -64,6 +64,15 @@ export function get_key_metrics(market: string, ticker: string, period: string):
   return download_data(market, ticker, `${KEY_METRICS}/${period}`)
     .then(response => {
       if (response != null) {
+        response.sort((a: KeyMetrics, b: KeyMetrics) => {
+          if (a.date < b.date) {
+            return -1;
+          }
+          if (a.date > b.date) {
+            return 1;
+          }
+          return 0;
+        });
         return response
       }
     })
