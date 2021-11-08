@@ -66,9 +66,14 @@ function redirect(event) {
   if ( event === undefined) {
     return
   }
-  debugger
 
-  window.location.href = `/#/market/${event.market}/${event.symbol}`
+  let str = event.split(".")
+  let market = "US"
+  if (str.length > 1){
+    market = str[1]
+  }
+  debugger
+  window.location.href = `/#/market/${market}/${str[0]}`
 }
 
 export default function Dashboard(props) {
@@ -78,8 +83,7 @@ export default function Dashboard(props) {
 
   useMemo(() => {
     // download markets
-    get_all_symbols(resp => {
-      debugger
+    get_all_symbols().then(resp => {
       setSymbols(resp)
     })
   }, [])
