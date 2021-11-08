@@ -72,7 +72,7 @@ function redirect(event) {
   if (str.length > 1){
     market = str[1]
   }
-  debugger
+
   window.location.href = `/#/market/${market}/${str[0]}`
 }
 
