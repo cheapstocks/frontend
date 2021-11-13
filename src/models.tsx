@@ -267,7 +267,8 @@ export interface GeneralMetrics {
   _peNormalizedAnnual: number,
   _roeTTM: number,
   capexNetIncomeRatio: number,
-  debtNetIncomeRatio: number
+  debtNetIncomeRatio: number,
+  category: string
 }
 export interface DividendsRatio {
   name: string,

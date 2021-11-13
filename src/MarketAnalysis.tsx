@@ -8,9 +8,6 @@ import { CompanyPeers, GeneralMetrics } from './models';
 import { createStyles, makeStyles, Paper, Slider, Theme, Typography } from '@material-ui/core';
 import TrendingUpIcon from '@material-ui/icons/TrendingUp';
 import TrendingDownIcon from '@material-ui/icons/TrendingDown';
-export interface Metrics extends GeneralMetrics {
-  category: string
-}
 
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
@@ -27,7 +24,7 @@ const useStyles = makeStyles((theme: Theme) =>
 const THRESHOLD = 20
 
 export default function MarketAnalysis() {
-  const [peRatio, setPeRate] = useState<Metrics[]>([]);
+  const [peRatio, setPeRate] = useState<GeneralMetrics[]>([]);
   const [peers, setPeers] = useState<CompanyPeers[]>([]);
   const params: { market: string } = useParams()
   const [limit, setLimit] = useState<number>(THRESHOLD);
@@ -40,7 +37,7 @@ export default function MarketAnalysis() {
 
   useEffect(() => {
     get_metrics(params.market).then(response => {
-      let info = response as Metrics[]
+      let info = response as GeneralMetrics[]
       setPeRate(info)
     })
 
@@ -57,27 +54,13 @@ export default function MarketAnalysis() {
   }
 
   useMemo(() => {
-    // add category for companies
-    for (let index = 0; index < peRatio.length; index++) {
-      // find companies and add finnhub industry
-      let peerGroup = peers.find(group => group.group.includes(peRatio[index].name))
-      if (peerGroup === undefined) {
-        continue
-      }
-
-      let companyAsPeer = peerGroup.peers.find(companyPeer => companyPeer.symbol === peRatio[index].name)
-      if (companyAsPeer === undefined) {
-        continue
-      }
-      peRatio[index].category = companyAsPeer?.industry
-    }
-
-  }, [peRatio, peers]);
+    console.log("foi")
+  }, []);
 
   const classes = useStyles();
 
   function CustomTooltip(props: any, aaa: {}) {
-    let a = props as { payload: { payload: Metrics }[] }
+    let a = props as { payload: { payload: GeneralMetrics }[] }
   
     if ((a == null) || (a.payload == null) || (a.payload[0] == null)) {
       return null
