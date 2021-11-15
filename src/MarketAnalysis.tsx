@@ -1,13 +1,11 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { ResponsiveContainer, Scatter, ScatterChart, Tooltip, XAxis, YAxis } from 'recharts';
-import { get_peers, get_metrics } from './utils';
+import { get_metrics } from './utils';
 import { useParams } from 'react-router-dom';
 import Title from './template/Title';
 import CustomGrid from './template/CustomGrid';
-import { CompanyPeers, GeneralMetrics } from './models';
+import { GeneralMetrics } from './models';
 import { createStyles, makeStyles, Paper, Slider, Theme, Typography } from '@material-ui/core';
-import TrendingUpIcon from '@material-ui/icons/TrendingUp';
-import TrendingDownIcon from '@material-ui/icons/TrendingDown';
 
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
@@ -25,7 +23,7 @@ const THRESHOLD = 20
 
 export default function MarketAnalysis() {
   const [peRatio, setPeRate] = useState<GeneralMetrics[]>([]);
-  const [peers, setPeers] = useState<CompanyPeers[]>([]);
+  const [peRatioIndex, setPeRatioIndex] = useState<number>(0);
   const params: { market: string } = useParams()
   const [limit, setLimit] = useState<number>(THRESHOLD);
 
@@ -38,13 +36,18 @@ export default function MarketAnalysis() {
   useEffect(() => {
     get_metrics(params.market).then(response => {
       let info = response as GeneralMetrics[]
+
+      // sort list
+      function compare(a: GeneralMetrics, b: GeneralMetrics) {
+        if (a._peNormalizedAnnual < b._peNormalizedAnnual) {
+          return -1;
+        }
+        return 0;
+      }
+      info.sort(compare);
       setPeRate(info)
     })
 
-    get_peers(params.market).then(response => {
-      let info = response as CompanyPeers[]
-      setPeers(info)
-    })
   }, [params.market])
 
   function redirectStock(ev: any) {
@@ -54,48 +57,48 @@ export default function MarketAnalysis() {
   }
 
   useMemo(() => {
-    console.log("foi")
-  }, []);
+    // TODO: use binary search to find peRatio to cut
+    for (let i = 0; i < peRatio.length; i++) {
+      if ((peRatio[i]._peNormalizedAnnual >= limit) && (peRatio[i]._peNormalizedAnnual < (limit + 0.2 ))) {
+        setPeRatioIndex(i)
+        break
+      }
+    }
+
+  }, [limit, peRatio]);
 
   const classes = useStyles();
 
   function CustomTooltip(props: any, aaa: {}) {
     let a = props as { payload: { payload: GeneralMetrics }[] }
-  
+
     if ((a == null) || (a.payload == null) || (a.payload[0] == null)) {
       return null
     }
     let payload = a.payload[0].payload
 
-
-    // get peers
-    let companyAsPeer = peers.find(companyPeer => companyPeer.group.includes(payload.name)) as CompanyPeers
-    
     return (
       <Paper elevation={3} >
         <p className="label">Name: {`${payload.name}`}</p>
-        <GetComparison title="P/E Ratio" data={payload._peNormalizedAnnual} averageData={0}/>
-        <GetComparison title="Gross Margin" data={payload._grossMarginTTM} averageData={companyAsPeer.average._grossMarginTTM}/>
-        <GetComparison title="Net Margin" data={payload._netProfitMarginTTM} averageData={companyAsPeer.average._netProfitMarginTTM}/>
-        <GetComparison title="ROE" data={payload._roeTTM} averageData={companyAsPeer.average._roeTTM}/>
-        <GetComparison title="Debt Ratio:" data={payload.debtNetIncomeRatio} averageData={0}/>
+        <GetComparison title="P/E Ratio" data={payload._peNormalizedAnnual} averageData={0} />
+        <GetComparison title="Gross Margin" data={payload._grossMarginTTM} averageData={0} />
+        <GetComparison title="Net Margin" data={payload._netProfitMarginTTM} averageData={0} />
+        <GetComparison title="ROE" data={payload._roeTTM} averageData={0} />
+        <GetComparison title="Debt Ratio:" data={payload.debtNetIncomeRatio} averageData={0} />
         <p className="intro">Category: {`${payload.category}`}</p>
       </Paper>
     );
   };
-  
-  const GetComparison = (props: {title: string, data: number, averageData: number}) => {
-    let icon = <p></p>
-    if ((props.data > props.averageData)&&(props.averageData !== 0) ){
-      icon = <TrendingUpIcon titleAccess="above average" fontSize='small'/>
-    } else if ((props.data < props.averageData)&&(props.averageData !== 0) ){
-      icon = <TrendingDownIcon titleAccess="below average" fontSize='small'/>
-    }
 
-    return <p className="intro">{props.title}: {`${props.data.toFixed(2)}`}{icon}</p>
+  const GetComparison = (props: { title: string, data: number, averageData: number }) => {
+    let data = 0.0
+    if (props.data !== null) {
+      data = props.data
+    }
+    return <p className="intro">{props.title}: {`${data.toFixed(2)}`}</p>
   }
 
-  const valuetext = (value: number) => {return `${value}%`} 
+  const valuetext = (value: number) => { return `${value}%` }
 
   return (
     <CustomGrid>
@@ -111,10 +114,10 @@ export default function MarketAnalysis() {
             left: 20,
           }}
         >
-          <XAxis type="category" dataKey="category" allowDuplicatedCategory={false} minTickGap={1}  />
-          <YAxis type="number" dataKey="_peNormalizedAnnual" name="ratio" domain={[0, limit]} allowDataOverflow={true} />
+          <XAxis type="category" dataKey="category" allowDuplicatedCategory={false} minTickGap={1} />
+          <YAxis type="number" dataKey="_peNormalizedAnnual" name="ratio" allowDataOverflow={true} />
           <Tooltip content={<CustomTooltip />} />
-          <Scatter name="A school" data={peRatio} fill="#8884d8" onClick={ev => redirectStock(ev)}/>
+          <Scatter name="A school" data={peRatio.slice(0, peRatioIndex)} fill="#8884d8" onClick={ev => redirectStock(ev)} />
         </ScatterChart>
       </ResponsiveContainer>
       <div className={classes.root}>
