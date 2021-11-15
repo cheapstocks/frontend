@@ -1,34 +1,43 @@
 
 export interface CompanyProfile {
   address: string;
+  beta: number;
+  ceo: string;
+  changes: number;
+  cik: string;
   city: string;
+  companyName: string;
   country: string;
   currency: string;
   cusip: string;
+  dcf: number;
+  dcfDiff: number;
+  defaultImage: boolean;
   description: string;
-  employeeTotal: string;
   exchange: string;
-  finnhubIndustry: string;
-  ggroup: string;
-  gind: string;
-  gsector: string;
-  gsubind: string;
-  ipo: string;
+  exchangeShortName: string;
+  fullTimeEmployees: string;
+  image: string;
+  industry: string;
+  ipoDate: string;
+  isActivelyTrading: boolean;
+  isAdr: boolean;
+  isEtf: boolean;
+  isFund: boolean;
   isin: string;
-  logo: string;
-  marketCapitalization: number;
-  naics: string;
-  naicsNationalIndustry: string;
-  naicsSector: string;
-  naicsSubsector: string;
-  name: string;
+  lastDiv: number;
+  mktCap: number;
   phone: string;
-  sedol: string;
-  shareOutstanding: number;
+  price: number;
+  range: string;
+  sector: string;
   state: string;
-  ticker: string;
-  weburl: string;
+  symbol: string;
+  volAvg: number;
+  website: string;
+  zip: string;
 }
+
 
 export interface Metric {
   _10DayAverageTradingVolume: number;

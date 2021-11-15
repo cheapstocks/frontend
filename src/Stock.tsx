@@ -16,8 +16,8 @@ export default function Stock() {
 
     useEffect(() => {
         get_info(params.market, params.stock).then(response => {
-            let resp = response as CompanyProfile;
-            if (resp !== undefined) {
+            if (response !== undefined) {
+                let resp = response as CompanyProfile
                 setcompanyProfile(resp)
             }
         })
@@ -56,15 +56,14 @@ export default function Stock() {
     return (
         <ResponsiveContainer width="100%" height="100%">
             <CustomGrid>
-                <Title>{params.stock} details</Title>
-                <Typography variant="body2" color="inherit">
-                    {companyProfile?.description}
-                </Typography>
-
+                <Title>{params.stock} - {companyProfile?.companyName}</Title>
+                <Typography variant="h5" color="inherit">Industry: {companyProfile?.industry}</Typography>
+                <br/>
+                <br/>
                 <Grid container spacing={4} >
                     <Grid item spacing={5}>
                         <Typography variant="h4" color="inherit">Income and Revenue</Typography>
-                        <MetricsGraph title="Net Margin" dataKey="netProfitMarginTTM" label="Ratio" />
+                        <MetricsGraph title="ROE" dataKey="roe" label="Ratio" />
                         <MetricsGraph title="EPS" dataKey="earningsYield" label="Ratio" />
                     </Grid>
                     <Grid item>

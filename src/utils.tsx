@@ -23,7 +23,8 @@ export function get_info(market: string, ticker: string): Promise<void | Company
   return download_data(market, ticker, INFO)
     .then(response => {
       if (response != null) {
-        return response
+        let resp = response as CompanyProfile[]
+        return resp[0]
       }
     })
     .catch(error => {
