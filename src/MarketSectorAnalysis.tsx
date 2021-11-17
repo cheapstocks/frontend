@@ -18,7 +18,7 @@ export default function MarketSectorAnalysis() {
   const params: { market: string } = useParams()
 
   function redirect(event: string[]) {
-    if ( event.length === 0){
+    if (event.length === 0) {
       return
     }
     setIndustry(event[0])
@@ -30,7 +30,7 @@ export default function MarketSectorAnalysis() {
       setPeRate(info)
       let lotOfIndustries = [] as string[]
       for (let i = 0; i < info.length; i++) {
-        if (!lotOfIndustries.includes(info[i].category)){
+        if (!lotOfIndustries.includes(info[i].category)) {
           lotOfIndustries.push(info[i].category)
         }
       }
@@ -92,23 +92,6 @@ export default function MarketSectorAnalysis() {
   return (
     <CustomGrid>
       <Title>{params.market} - {industry} P/E vs Net Margin</Title>
-      <ResponsiveContainer width="100%" height="100%">
-        <ScatterChart
-          width={400}
-          height={400}
-          margin={{
-            top: 20,
-            right: 20,
-            bottom: 20,
-            left: 20,
-          }}
-        >
-          <XAxis type="number" label={{ value: "Net Margin" }} dataKey="_netProfitMarginTTM" domain={[-1, 3]} allowDataOverflow={true}/>
-          <YAxis type="number" label="P/E" dataKey="_peNormalizedAnnual" domain={[-100, 150]} allowDataOverflow={true}/>
-          <Tooltip content={<CustomTooltip />} />
-          <Scatter name="A school" data={selectedPeRatio} fill="#8884d8" onClick={ev => redirectStock(ev)} />
-        </ScatterChart>
-      </ResponsiveContainer>
       <Autocomplete
         multiple
         id="tags-standard"
@@ -126,6 +109,23 @@ export default function MarketSectorAnalysis() {
           />
         )}
       />
+      <ResponsiveContainer width="100%" height="85%">
+        <ScatterChart
+          width={400}
+          height={400}
+          margin={{
+            top: 20,
+            right: 20,
+            bottom: 20,
+            left: 20,
+          }}
+        >
+          <XAxis type="number" label={{ value: "Net Margin" }} dataKey="_netProfitMarginTTM" domain={[-1, 1]} allowDataOverflow={true} />
+          <YAxis type="number" label="P/E" dataKey="_peNormalizedAnnual" domain={[-50, 150]} allowDataOverflow={true} />
+          <Tooltip content={<CustomTooltip />} />
+          <Scatter name="A school" data={selectedPeRatio} fill="#8884d8" onClick={ev => redirectStock(ev)} />
+        </ScatterChart>
+      </ResponsiveContainer>
     </CustomGrid>
   )
 }
