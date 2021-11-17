@@ -12,16 +12,13 @@ import { Autocomplete } from '@material-ui/lab';
 export default function MarketSectorAnalysis() {
   const [peRatio, setPeRate] = useState<GeneralMetrics[]>([]);
   const [selectedPeRatio, setSelectedPeRatio] = useState<GeneralMetrics[]>([]);
-  const [industry, setIndustry] = useState<string>('');
+  const [industry, setIndustry] = useState<string[]>([]);
   const [industries, setIndustries] = useState<string[]>([]);
 
   const params: { market: string } = useParams()
 
   function redirect(event: string[]) {
-    if (event.length === 0) {
-      return
-    }
-    setIndustry(event[0])
+    setIndustry(event)
   }
 
   useEffect(() => {
@@ -47,14 +44,14 @@ export default function MarketSectorAnalysis() {
   }
 
   useMemo(() => {
-    if (industry === '') {
+    if (industry === []) {
       return
     }
 
     let select = [] as GeneralMetrics[]
     let length = peRatio.length
     for (let i = 0; i < length; i++) {
-      if (peRatio[i].category === industry) {
+      if (industry.includes(peRatio[i].category)) {
         select.push(peRatio[i])
       }
     }
