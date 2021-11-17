@@ -34,6 +34,7 @@ export default function MarketSectorAnalysis() {
           lotOfIndustries.push(info[i].category)
         }
       }
+      lotOfIndustries.sort()
       setIndustries(lotOfIndustries)
     })
 
