@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
-import { Typography, Grid, IconButton } from '@material-ui/core';
-import HelpIcon from '@mui/icons-material/Help';
+import { Typography, Grid } from '@material-ui/core';
 
 import { get_info, get_key_metrics } from './utils';
 import { CompanyProfile, KeyMetrics } from './models';
@@ -75,7 +74,11 @@ export default function Stock() {
                     </Grid>
                     {showDividends()}
                 </Grid>
-
+                <Grid item>
+                    <Typography variant="h4" color="inherit">Ratios</Typography>
+                    <MetricsGraph title="Price to Book" dataKey="pbRatio" label="Ratio" description="Price to assets" />
+                    <MetricsGraph title="P/E historical" dataKey="peRatio" label="Ratio" description="P/E historical" />
+                    </Grid>
             </CustomGrid>
         </ResponsiveContainer>
     )

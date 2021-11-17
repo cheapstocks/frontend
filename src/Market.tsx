@@ -7,7 +7,7 @@ import { Grid, Link, ListItem, ListItemIcon, ListItemText } from '@material-ui/c
 import MonetizationOnIcon from '@material-ui/icons/MonetizationOn';
 import TrendingUpIcon from '@material-ui/icons/TrendingUp';
 import { ResponsiveContainer } from 'recharts';
-
+import BusinessIcon from '@material-ui/icons/Business';
 
 export default function Market() {
     const params: { market: string } = useParams()
@@ -31,6 +31,14 @@ export default function Market() {
                                 <TrendingUpIcon style={{ fontSize: 120 }} />
                             </ListItemIcon>
                             <ListItemText primary="Cheap Value Stocks" />
+                        </ListItem>
+                    </Grid >
+                    <Grid item xs>
+                        <ListItem button component={Link} href={`/#/market/${params.market}/sector`}>
+                            <ListItemIcon>
+                                <BusinessIcon style={{ fontSize: 120 }} />
+                            </ListItemIcon>
+                            <ListItemText primary="Stocks by sector" />
                         </ListItem>
                     </Grid >
                 </Grid >
