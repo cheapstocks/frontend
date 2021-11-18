@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { ResponsiveContainer, Scatter, ScatterChart, Tooltip, XAxis, YAxis } from 'recharts';
+import { Label, ResponsiveContainer, Scatter, ScatterChart, Tooltip, XAxis, YAxis } from 'recharts';
 import { get_metrics } from './utils';
 import { useParams } from 'react-router-dom';
 import Title from './template/Title';
@@ -59,7 +59,7 @@ export default function MarketAnalysis() {
   useMemo(() => {
     // TODO: use binary search to find peRatio to cut
     for (let i = 0; i < peRatio.length; i++) {
-      if ((peRatio[i]._peNormalizedAnnual >= limit) && (peRatio[i]._peNormalizedAnnual < (limit + 0.2 ))) {
+      if ((peRatio[i]._peNormalizedAnnual >= limit) && (peRatio[i]._peNormalizedAnnual < (limit + 0.2))) {
         setPeRatioIndex(i)
         break
       }
@@ -115,7 +115,10 @@ export default function MarketAnalysis() {
           }}
         >
           <XAxis type="category" dataKey="category" allowDuplicatedCategory={false} minTickGap={1} />
-          <YAxis type="number" dataKey="_peNormalizedAnnual" name="ratio" allowDataOverflow={true} />
+          <YAxis type="number" dataKey="_peNormalizedAnnual" name="ratio" allowDataOverflow={true} >
+            <Label value="P/E" offset={0} position="insideLeft" />
+          </YAxis>
+
           <Tooltip content={<CustomTooltip />} />
           <Scatter name="A school" data={peRatio.slice(0, peRatioIndex)} fill="#8884d8" onClick={ev => redirectStock(ev)} />
         </ScatterChart>

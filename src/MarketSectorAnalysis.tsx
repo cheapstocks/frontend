@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { ResponsiveContainer, Scatter, ScatterChart, Tooltip, XAxis, YAxis } from 'recharts';
+import { Label, LabelList, ReferenceLine, ResponsiveContainer, Scatter, ScatterChart, Tooltip, XAxis, YAxis } from 'recharts';
 import { get_metrics } from './utils';
 import { useParams } from 'react-router-dom';
 import Title from './template/Title';
@@ -118,10 +118,21 @@ export default function MarketSectorAnalysis() {
             left: 20,
           }}
         >
-          <XAxis type="number" label={{ value: "Net Margin" }} dataKey="_netProfitMarginTTM" domain={[-1, 1]} allowDataOverflow={true} />
-          <YAxis type="number" label="P/E" dataKey="_peNormalizedAnnual" domain={[-50, 150]} allowDataOverflow={true} />
+          <XAxis type="number" dataKey="_netProfitMarginTTM" domain={[-1, 1]} allowDataOverflow={true} >
+            <Label value="Net Margin" offset={0} position="bottom" />
+          </XAxis>
+
+          <YAxis type="number" dataKey="_peNormalizedAnnual" domain={[-20, 50]} allowDataOverflow={true} >
+            <Label value="P/E" offset={0} position="insideLeft" />
+          </YAxis>
+
           <Tooltip content={<CustomTooltip />} />
-          <Scatter name="A school" data={selectedPeRatio} fill="#8884d8" onClick={ev => redirectStock(ev)} />
+          <Scatter name="A school" data={selectedPeRatio} fill="#8884d8" onClick={ev => redirectStock(ev)}>
+            <LabelList dataKey="name" position="top" />
+          </Scatter>
+
+          <ReferenceLine y={0} stroke="#000000" />
+          <ReferenceLine x={0} stroke="#000000" />
         </ScatterChart>
       </ResponsiveContainer>
     </CustomGrid>
