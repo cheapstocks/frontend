@@ -365,3 +365,18 @@ export interface KeyMetrics {
   tangibleBookValuePerShare: number;
   workingCapital: number;
 }
+
+export interface DCF {
+  "Stock Price": number;
+  date: string;
+  dcf: number;
+  symbol: string;
+}
+
+export interface DCFRatio {
+  date: string;
+  price: number;
+  ratio: number;
+  symbol: string;
+  target_price: number;
+}

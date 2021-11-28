@@ -2,8 +2,8 @@ import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import { Typography, Grid } from '@material-ui/core';
 
-import { get_info, get_key_metrics } from './utils';
-import { CompanyProfile, KeyMetrics } from './models';
+import { get_dcf, get_info, get_key_metrics } from './utils';
+import { CompanyProfile, DCF, KeyMetrics } from './models';
 import Title from './template/Title';
 import { Line, LineChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
 import CustomGrid from './template/CustomGrid';
@@ -13,6 +13,7 @@ export default function Stock() {
     const params: { market: string, stock: string } = useParams()
     const [companyProfile, setcompanyProfile] = useState<CompanyProfile>()
     const [keyMetrics, setKeyMetrics] = useState<KeyMetrics[]>()
+    const [dcf, setDCF] = useState<DCF>()
 
     useEffect(() => {
         get_info(params.market, params.stock).then(response => {
@@ -25,6 +26,13 @@ export default function Stock() {
             let resp = response as KeyMetrics[];
             if (resp !== undefined) {
                 setKeyMetrics(resp)
+            }
+        })
+
+        get_dcf(params.market, params.stock).then(response => {
+            let resp = response as DCF;
+            if (resp !== undefined) {
+                setDCF(resp)
             }
         })
 
@@ -73,12 +81,18 @@ export default function Stock() {
                         <MetricsGraph title="Current Ratio" dataKey="currentRatio" label="Ratio" description="Assets/Liabilities" />
                     </Grid>
                     {showDividends()}
-                </Grid>
-                <Grid item>
-                    <Typography variant="h4" color="inherit">Ratios</Typography>
-                    <MetricsGraph title="Price to Book" dataKey="pbRatio" label="Ratio" description="Price to assets" />
-                    <MetricsGraph title="P/E historical" dataKey="peRatio" label="Ratio" description="P/E historical" />
+                    <Grid item>
+                        <Typography variant="h4" color="inherit">Ratios</Typography>
+                        <MetricsGraph title="Price to Book" dataKey="pbRatio" label="Ratio" description="Price to assets" />
+                        <MetricsGraph title="P/E historical" dataKey="peRatio" label="Ratio" description="P/E historical" />
                     </Grid>
+                    <Grid item>
+                    <Typography variant="h4" color="inherit">DCF</Typography>
+                        <Typography variant="h5" color="inherit">Price: {dcf?.['Stock Price']}</Typography>
+                        <Typography variant="h5" color="inherit">Target Price: {dcf?.dcf.toFixed(.2)}</Typography>
+                    </Grid>
+                </Grid>
+
             </CustomGrid>
         </ResponsiveContainer>
     )

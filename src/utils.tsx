@@ -1,4 +1,4 @@
-import { CompanyProfile, StockMetric, MarketSymbols, GeneralMetrics, DividendsRatio, CompanyPeers, KeyMetrics } from "./models";
+import { CompanyProfile, StockMetric, MarketSymbols, GeneralMetrics, DividendsRatio, CompanyPeers, KeyMetrics, DCFRatio, DCF } from "./models";
 
 const URL = "https://api.cheapstocks.app"
 const INFO = "info"
@@ -138,6 +138,34 @@ export function get_markets(): Promise<void | string[] | null | undefined> {
 
 export function get_all_symbols(): Promise<string[]> {
   return fetch(`${URL}/markets/symbols.json`, {
+    method: 'GET',
+  })
+    .then(response => response.json())
+    .then(data => {
+      return data
+    })
+    .catch((error) => {
+      console.error('Error:', error);
+    });
+}
+
+export function get_dcf_ratio(market: string): Promise<void | DCFRatio[] | null | undefined> {
+
+  return fetch(`${URL}/markets/${market}/dcf.json`, {
+    method: 'GET',
+  })
+    .then(response => response.json())
+    .then(data => {
+      return data
+    })
+    .catch((error) => {
+      console.error('Error:', error);
+    });
+}
+
+export function get_dcf(market: string, symbol: string): Promise<void | DCF | null | undefined> {
+
+  return fetch(`${URL}/markets/${market}/dcf/${symbol}.json`, {
     method: 'GET',
   })
     .then(response => response.json())
