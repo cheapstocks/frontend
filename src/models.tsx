@@ -278,6 +278,7 @@ export interface GeneralMetrics {
   capexNetIncomeRatio: number,
   debtNetIncomeRatio: number,
   category: string
+  enterpriseValueMultipleTTM: number
 }
 export interface DividendsRatio {
   name: string,
