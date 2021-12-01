@@ -56,7 +56,7 @@ export default function Stock() {
                     <XAxis dataKey="date" />
                     <YAxis hide />
                     <Line type="monotone" dataKey={props.dataKey} stroke="#8884d8" name={props.label} strokeWidth={2} />
-                    <Tooltip />
+                    <Tooltip formatter={(value:number) => value.toFixed(3)} />
                 </LineChart>
             </React.Fragment>
         )
@@ -89,7 +89,7 @@ export default function Stock() {
                     <Grid item>
                     <Typography variant="h4" color="inherit">DCF</Typography>
                         <Typography variant="h5" color="inherit">Price: {dcf?.['Stock Price']}</Typography>
-                        <Typography variant="h5" color="inherit">Target Price: {dcf?.dcf.toFixed(.2)}</Typography>
+                        <Typography variant="h5" color="inherit">Target Price: {dcf?.dcf?.toFixed(.2)}</Typography>
                     </Grid>
                 </Grid>
 

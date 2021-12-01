@@ -40,7 +40,7 @@ export default function DividensChart() {
           >
             <XAxis dataKey="date" tickFormatter={d => `${new Date(d).getFullYear().toString()}`} stroke={theme.palette.text.secondary} />
             <YAxis dataKey="dividendYield"  stroke={theme.palette.text.secondary} />
-            <Tooltip />
+            <Tooltip formatter={(value:number) => value.toFixed(3)}/>
             <Legend />
             <Line
               type="monotone"
