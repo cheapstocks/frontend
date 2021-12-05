@@ -260,13 +260,12 @@ export interface StockMetric {
 }
 
 export interface MarketSymbols {
+  category: string;
   currency: string;
   description: string;
   displaySymbol: string;
-  figi: string;
-  mic: string;
+  name: string;
   symbol: string;
-  type: string;
 }
 
 export interface GeneralMetrics {

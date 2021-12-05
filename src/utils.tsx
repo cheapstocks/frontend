@@ -32,9 +32,23 @@ export function get_info(market: string, ticker: string): Promise<void | Company
     })
 }
 
-export function get_tickers(market: string): Promise<void | MarketSymbols[] | null | undefined> {
+export function get_market_tickers(market: string): Promise<void | MarketSymbols[] | null | undefined> {
 
   return fetch(`${URL}/markets/${market}/tickers.json`, {
+    method: 'GET',
+  })
+    .then(response => response.json())
+    .then(data => {
+      return data
+    })
+    .catch((error) => {
+      console.error('Error:', error);
+    });
+}
+
+export function get_all_tickers(): Promise<void | MarketSymbols[] | null | undefined> {
+
+  return fetch(`${URL}/markets/tickers.json`, {
     method: 'GET',
   })
     .then(response => response.json())

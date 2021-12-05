@@ -12,7 +12,7 @@ import Container from '@material-ui/core/Container';
 import { mainListItems } from './listitems.js';
 import Autocomplete from '@material-ui/lab/Autocomplete';
 import TextField from '@material-ui/core/TextField';
-import { get_all_symbols } from '../utils.tsx';
+import { get_all_tickers } from '../utils.tsx';
 
 const drawerWidth = 180;
 
@@ -63,11 +63,11 @@ const useStyles = makeStyles((theme) => ({
 const URL = window.location.origin
 
 function redirect(event) {
-  if ( event === undefined) {
+  if ( event?.symbol === undefined) {
     return
   }
 
-  let str = event.split(".")
+  let str = event?.symbol.split(".")
   let market = "US"
   if (str.length > 1){
     market = str[1]
@@ -83,7 +83,7 @@ export default function Dashboard(props) {
 
   useMemo(() => {
     // download markets
-    get_all_symbols().then(resp => {
+    get_all_tickers().then(resp => {
       setSymbols(resp)
     })
   }, [])
@@ -104,7 +104,7 @@ export default function Dashboard(props) {
             onOpen={() => { setOpen(true) }}
             onClose={() => { setOpen(false) }}
             getOptionSelected={(option, value) => option === value}
-            getOptionLabel={option => `${option}`}
+            getOptionLabel={option => `${option?.symbol}: ${option?.name}`}
             options={symbols}
             onChange={(event, newValue) => {
               redirect(newValue);
