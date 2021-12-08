@@ -36,7 +36,7 @@ export default function Stock() {
                 setDCF(resp)
             }
         })
-        
+
         get_historical_price(params.market, params.stock).then(response => {
             let resp = response as HistoricalPrice;
             function compare(a: Historical, b: Historical) {
@@ -88,9 +88,9 @@ export default function Stock() {
                             <Label value="Date" position="bottom" />
                         </XAxis>
                         <YAxis >
-                            <Label value="USD" position="left"/>
+                            <Label value="USD" position="left" />
                         </YAxis>
-                        <Line dataKey="close" type="linear" stroke="#8884d8" dot={false}/>
+                        <Line dataKey="close" type="linear" stroke="#8884d8" dot={false} />
                         <Tooltip formatter={(value: number) => value.toFixed(3)} />
                     </LineChart>
 
