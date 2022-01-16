@@ -73,7 +73,7 @@ export default function MarketSectorAnalysis() {
         <GetComparison title="Gross Margin" data={payload._grossMarginTTM} averageData={0} />
         <GetComparison title="Net Margin" data={payload._netProfitMarginTTM} averageData={0} />
         <GetComparison title="ROE" data={payload._roeTTM} averageData={0} />
-        <GetComparison title="Debt Ratio:" data={payload.debtNetIncomeRatio} averageData={0} />
+        <GetComparison title="Debt Ratio" data={payload.debtNetIncomeRatio} averageData={0} />
         <p className="intro">Category: {`${payload.category}`}</p>
       </Paper>
     );
