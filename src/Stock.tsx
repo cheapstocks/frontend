@@ -116,20 +116,19 @@ export default function Stock() {
             },
             yAxis: {
                 type: 'value',
+                scale: true,
             },
             dataZoom: [
                 {
-                    type: 'inside',
-                    xAxisIndex: 0,
-                    minSpan: 5
+                  type: 'inside',
+                  start: 0,
+                  end: 10
                 },
                 {
-                    type: 'slider',
-                    xAxisIndex: 0,
-                    minSpan: 5,
-                    bottom: 50
+                  start: 0,
+                  end: 10
                 }
-            ],
+              ],
             dataset: {
                 source: price?.historical,
                 dimensions: [
@@ -166,7 +165,7 @@ export default function Stock() {
                     <br />
                     <br />
                     <Grid container spacing={4} >
-                        <Grid item spacing={5}>
+                        <Grid item >
                             <Typography variant="h4" color="inherit">Income and Revenue</Typography>
                             <MetricsGraph title="ROE" dataKey="roe" label="Ratio" description="Profit/Equity" />
                             <MetricsGraph title="EPS" dataKey="earningsYield" label="Ratio" description="Earns per Share" />
