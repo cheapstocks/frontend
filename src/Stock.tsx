@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
-import { Typography, Grid } from '@material-ui/core';
+import { Typography, Grid } from '@mui/material';
 
 import { get_dcf, get_historical_price, get_info, get_key_metrics } from './utils';
 import { CompanyProfile, DCF, HistoricalPrice, KeyMetrics, Historical } from './models';
