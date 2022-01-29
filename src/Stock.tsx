@@ -5,9 +5,9 @@ import { Typography, Grid } from '@material-ui/core';
 import { get_dcf, get_historical_price, get_info, get_key_metrics } from './utils';
 import { CompanyProfile, DCF, HistoricalPrice, KeyMetrics, Historical } from './models';
 import Title from './template/Title';
-import { Label, Line, LineChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
+import { Line, LineChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
 import CustomGrid from './template/CustomGrid';
-
+import ReactECharts from 'echarts-for-react';
 
 export default function Stock() {
     const params: { market: string, stock: string } = useParams()
@@ -78,22 +78,85 @@ export default function Stock() {
         )
     }
 
+    function PriceGraph(): any {
+
+        if (!price) {
+            return {}
+        }
+
+        return {
+            title: {
+                left: 'center',
+                text: `${params.stock} price chart`,
+            },
+            toolbox: {
+                feature: {
+                    dataZoom: {
+                        yAxisIndex: 'none'
+                    },
+                    restore: {},
+                    saveAsImage: {}
+                }
+            },
+            xAxis: {
+                type: 'category',
+                axisLabel: {
+                    formatter: function (dateString: string) {
+                        let date = new Date(dateString)
+                        return `${date.toLocaleString('en-gb', {
+                            year: "numeric",
+                            month: "numeric",
+                            day: "numeric",
+                        })}`
+                    },
+                },
+                axisLine: { onZero: false },
+                axisTick: { show: false },
+                splitLine: { show: false },
+            },
+            yAxis: {
+                type: 'value',
+            },
+            dataZoom: [
+                {
+                    type: 'inside',
+                    xAxisIndex: 0,
+                    minSpan: 5
+                },
+                {
+                    type: 'slider',
+                    xAxisIndex: 0,
+                    minSpan: 5,
+                    bottom: 50
+                }
+            ],
+            dataset: {
+                source: price?.historical,
+                dimensions: [
+                    { name: 'date', type: 'string' },
+                    { name: 'close', type: 'number', displayName: 'Price' },
+                ]
+            },
+            series: [
+                {
+                    type: 'line',
+                    smooth: true
+                },
+            ],
+            tooltip: {
+                trigger: 'axis',
+            }
+        };
+    }
+
     return (
         <React.Fragment>
             <ResponsiveContainer width="100%" height="100%">
                 <CustomGrid>
-                    <Title>{params.stock} - {companyProfile?.companyName}</Title>
-                    <LineChart width={1000} height={600} data={price?.historical}>
-                        <XAxis dataKey="date" >
-                            <Label value="Date" position="bottom" />
-                        </XAxis>
-                        <YAxis >
-                            <Label value="USD" position="left" />
-                        </YAxis>
-                        <Line dataKey="close" type="linear" stroke="#8884d8" dot={false} />
-                        <Tooltip formatter={(value: number) => value.toFixed(3)} />
-                    </LineChart>
-
+                    <ReactECharts
+                        option={PriceGraph()}
+                        style={{ height: '100%  ', width: '100%' }}
+                    />
                 </CustomGrid>
             </ResponsiveContainer>
             <ResponsiveContainer width="100%" height="100%">

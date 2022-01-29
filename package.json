@@ -13,6 +13,8 @@
     "@mui/icons-material": "^5.1.0",
     "@types/react": "latest",
     "@types/react-dom": "latest",
+    "echarts": "^5.3.0",
+    "echarts-for-react": "^3.0.2",
     "material-ui": "file:../../../../../../core/Toolbar",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -21,7 +23,7 @@
     "react-scripts-ts": "3.1.0",
     "react-spring": "^8.0.27",
     "react-world-flags": "^1.4.0",
-    "recharts": "^2.0.9",
+    "recharts": "^2.1.8",
     "typescript": "^3",
     "web-vitals": "latest"
   },
