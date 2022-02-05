@@ -1,142 +1,130 @@
-import React, { useState, useEffect, useMemo } from 'react';
-import { Label, ResponsiveContainer, Scatter, ScatterChart, Tooltip, XAxis, YAxis } from 'recharts';
+import React, { useState, useEffect } from 'react';
 import { get_metrics } from './utils';
 import { useParams } from 'react-router-dom';
-import Title from './template/Title';
 import CustomGrid from './template/CustomGrid';
 import { GeneralMetrics } from './models';
-import { createStyles, makeStyles, Paper, Slider, Theme, Typography } from '@material-ui/core';
-
-const useStyles = makeStyles((theme: Theme) =>
-  createStyles({
-    root: {
-      width: 250,
-    },
-    margin: {
-      height: theme.spacing(3),
-    },
-  }),
-);
-
-// change this dinamically
-const THRESHOLD = 20
+import ReactECharts from 'echarts-for-react';
 
 export default function MarketAnalysis() {
   const [peRatio, setPeRate] = useState<GeneralMetrics[]>([]);
-  const [peRatioIndex, setPeRatioIndex] = useState<number>(0);
   const params: { market: string } = useParams()
-  const [limit, setLimit] = useState<number>(THRESHOLD);
-
-  const handleChange = (event: any, value: number | number[]) => {
-    if (typeof (value) === "number") {
-      setLimit(value)
-    }
-  };
 
   useEffect(() => {
     get_metrics(params.market).then(response => {
       let info = response as GeneralMetrics[]
-
-      // sort list
-      function compare(a: GeneralMetrics, b: GeneralMetrics) {
-        if (a._peNormalizedAnnual < b._peNormalizedAnnual) {
-          return -1;
-        }
-        return 0;
-      }
-      info.sort(compare);
       setPeRate(info)
     })
 
   }, [params.market])
 
+  function createChart(): any {
+
+    if (peRatio.length === 0) {
+      return {}
+    }
+
+    return {
+      title: {
+        left: 'center',
+        text: `${params.market} smallest P/E`,
+      },
+      xAxis: {
+        type: 'category',
+
+      },
+      yAxis: {
+        type: 'value',
+        min: -200,
+        max: 2000,
+      },
+      toolbox: {
+        feature: {
+          dataZoom: {}
+        }
+      },
+      dataZoom: [
+        {
+          type: 'inside'
+        },
+        {
+          type: 'slider'
+        },
+        {
+          type: 'inside',
+          orient: 'vertical',
+          filterMode: 'filter',
+          startValue: 0,
+          endValue: 20,
+          moveHandleSize: '180%'
+        },
+        {
+          type: 'slider',
+          orient: 'vertical',
+          showDataShadow: false,
+          handleSize: '180%',
+          moveSize: 20,
+        }
+      ],
+      dataset: {
+        source: peRatio,
+        dimensions: [
+          { name: 'category', type: 'string', displayName: 'Industry' },
+          { name: '_peNormalizedAnnual', type: 'number' },
+        ]
+      },
+      series: [
+        {
+          type: 'scatter',
+          tooltip: {
+            formatter: function (param: any): any {
+              let payload = param?.data as GeneralMetrics
+              return [
+                'Name: ' + payload.name + '<br/>',
+                'Industry: '+ payload.category + '<hr size=1 style="margin: 3px 0">',
+                'P/E: ' + twoDecimals(payload._peNormalizedAnnual) + '<br/>',
+                'Gross Margin: ' + percentageNumber(payload._grossMarginTTM) + '<br/>',
+                'Net Profit: ' + percentageNumber(payload._netProfitMarginTTM) + '<br/>',
+                'ROE: ' + percentageNumber(payload._netProfitMarginTTM) + '<br/>',
+                'Capex/Net Income: ' + percentageNumber(payload.capexNetIncomeRatio) + '<br/>',
+                'Debt/Net Income: ' + percentageNumber(payload.debtNetIncomeRatio) + '<br/>',
+                'Enterprise Value: ' + twoDecimals(payload.enterpriseValueMultipleTTM) + '<br/>',
+              ].join('');
+            }
+          }
+        },
+      ],
+      tooltip: {
+        trigger: 'item',
+        borderWidth: 1,
+        borderColor: '#ccc',
+        textStyle: {
+          color: '#000'
+        },
+        // extraCssText: 'width: 170px'
+      },
+    };
+  }
+
   function redirectStock(ev: any) {
+    let data = ev?.data as GeneralMetrics
     if (ev?.name !== undefined) {
-      window.location.href = `/#/market/${params.market}/${ev.name}`
+      window.location.href = `/#/market/${params.market}/${data.name}`
     }
   }
-
-  useMemo(() => {
-    // TODO: use binary search to find peRatio to cut
-    for (let i = 0; i < peRatio.length; i++) {
-      if ((peRatio[i]._peNormalizedAnnual >= limit) && (peRatio[i]._peNormalizedAnnual < (limit + 0.2))) {
-        setPeRatioIndex(i)
-        break
-      }
-    }
-
-  }, [limit, peRatio]);
-
-  const classes = useStyles();
-
-  function CustomTooltip(props: any, aaa: {}) {
-    let a = props as { payload: { payload: GeneralMetrics }[] }
-
-    if ((a == null) || (a.payload == null) || (a.payload[0] == null)) {
-      return null
-    }
-    let payload = a.payload[0].payload
-
-    return (
-      <Paper elevation={3} >
-        <p className="label">Name: {`${payload.name}`}</p>
-        <GetComparison title="P/E Ratio" data={payload._peNormalizedAnnual} averageData={0} />
-        <GetComparison title="Gross Margin" data={payload._grossMarginTTM} averageData={0} />
-        <GetComparison title="Net Margin" data={payload._netProfitMarginTTM} averageData={0} />
-        <GetComparison title="ROE" data={payload._roeTTM} averageData={0} />
-        <GetComparison title="Debt Ratio" data={payload.debtNetIncomeRatio} averageData={0} />
-        <GetComparison title="Enterprise Value" data={payload.enterpriseValueMultipleTTM} averageData={0} />
-        <p className="intro">Category: {`${payload.category}`}</p>
-      </Paper>
-    );
-  };
-
-  const GetComparison = (props: { title: string, data: number, averageData: number }) => {
-    let data = 0.0
-    if (props.data !== null) {
-      data = props.data
-    }
-    return <p className="intro">{props.title}: {`${data.toFixed(2)}`}</p>
+  const percentageNumber = (value: number) => { if (!value){return null} return `${twoDecimals(value)}%` }
+  const twoDecimals = (value: number) => { return `${value.toFixed(2)}` }
+  const onEvents = {
+    'click': redirectStock,
   }
-
-  const valuetext = (value: number) => { return `${value}%` }
-
   return (
-    <CustomGrid>
-      <Title>{params.market} smallest P/E</Title>
-      <ResponsiveContainer width="100%" height="100%">
-        <ScatterChart
-          width={400}
-          height={400}
-          margin={{
-            top: 20,
-            right: 20,
-            bottom: 20,
-            left: 20,
-          }}
-        >
-          <XAxis type="category" dataKey="category" allowDuplicatedCategory={false} minTickGap={1} />
-          <YAxis type="number" dataKey="_peNormalizedAnnual" name="ratio" allowDataOverflow={true} >
-            <Label value="P/E" offset={0} position="insideLeft" />
-          </YAxis>
-
-          <Tooltip content={<CustomTooltip />} />
-          <Scatter name="A school" data={peRatio.slice(0, peRatioIndex)} fill="#8884d8" onClick={ev => redirectStock(ev)} />
-        </ScatterChart>
-      </ResponsiveContainer>
-      <div className={classes.root}>
-        <Typography id="track-inverted-slider" gutterBottom>
-          Max P/E ratio
-        </Typography>
-        <Slider
-          track="inverted"
-          aria-labelledby="track-inverted-slider"
-          getAriaValueText={valuetext}
-          value={limit}
-          onChange={handleChange}
-          valueLabelDisplay="auto"
+    <React.Fragment>
+      <CustomGrid>
+        <ReactECharts
+          option={createChart()}
+          style={{ height: '100%  ', width: '100%' }}
+          onEvents={onEvents}
         />
-      </div>
-    </CustomGrid>
+      </CustomGrid >
+    </React.Fragment>
   )
 }

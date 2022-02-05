@@ -40,7 +40,7 @@ export default function Stock() {
         get_historical_price(params.market, params.stock).then(response => {
             let resp = response as HistoricalPrice;
             function compare(a: Historical, b: Historical) {
-                if (a.close < b.close) {
+                if (a.date < b.date) {
                     return -1;
                 }
                 return 0;
@@ -103,7 +103,7 @@ export default function Stock() {
                 axisLabel: {
                     formatter: function (dateString: string) {
                         let date = new Date(dateString)
-                        return `${date.toLocaleString('en-gb', {
+                        return `${date.toLocaleDateString('en-gb', {
                             year: "numeric",
                             month: "numeric",
                             day: "numeric",
@@ -116,19 +116,15 @@ export default function Stock() {
             },
             yAxis: {
                 type: 'value',
-                scale: true,
             },
             dataZoom: [
                 {
-                  type: 'inside',
-                  start: 0,
-                  end: 10
+                    type: 'inside',
                 },
                 {
-                  start: 0,
-                  end: 10
+                    type: 'slider',
                 }
-              ],
+            ],
             dataset: {
                 source: price?.historical,
                 dimensions: [
