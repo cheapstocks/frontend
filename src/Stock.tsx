@@ -5,7 +5,6 @@ import { Typography, Grid } from '@mui/material';
 import { get_dcf, get_historical_price, get_info, get_key_metrics } from './utils';
 import { CompanyProfile, DCF, HistoricalPrice, KeyMetrics, Historical } from './models';
 import Title from './template/Title';
-import { Line, LineChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
 import CustomGrid from './template/CustomGrid';
 import ReactECharts from 'echarts-for-react';
 
@@ -64,16 +63,55 @@ export default function Stock() {
     }
 
     function MetricsGraph(props: { title: string, label: string, dataKey: string, description: string }): JSX.Element {
+        if (!keyMetrics) {
+            return (<></>)
+        }
+
         return (
             <React.Fragment>
-                <Typography variant="h6" color="inherit">{props.title}</Typography>
-                {/* {props.description} show in a popup with question mark */}
-                <LineChart width={300} height={100} data={keyMetrics}>
-                    <XAxis dataKey="date" />
-                    <YAxis hide />
-                    <Line type="monotone" dataKey={props.dataKey} stroke="#8884d8" name={props.label} strokeWidth={2} />
-                    <Tooltip formatter={(value: number) => value.toFixed(3)} />
-                </LineChart>
+                <ReactECharts
+                    style={{ height: '100px', width: '300px' }}
+                    option={{
+                        title: {
+                            left: 'center',
+                            text: props.title,
+                        },
+                        xAxis: {
+                            type: 'category',
+                            axisLabel: {
+                                formatter: function (dateString: string) {
+                                    let date = new Date(dateString)
+                                    return `${date.toLocaleDateString('en-gb', {
+                                        year: "numeric",
+                                        month: "numeric",
+                                        day: "numeric",
+                                    })}`
+                                },
+                            },
+                        },
+                        yAxis: {
+                            type: 'value',
+                            show: false,
+                        },
+                        dataset: {
+                            source: keyMetrics,
+                            dimensions: [
+                                { name: 'date', type: 'string', displayName: props.label },
+                                { name: props.dataKey },
+                            ]
+                        },
+                        series: [
+                            {
+                                type: 'line',
+                                smooth: true,
+                                symbol: 'none'
+                            },
+                        ],
+                        tooltip: {
+                            trigger: 'axis',
+                            valueFormatter: (value: number) => `${(value * 100).toFixed()}%`
+                        }
+                    }} />
             </React.Fragment>
         )
     }
@@ -110,12 +148,12 @@ export default function Stock() {
                         })}`
                     },
                 },
-                axisLine: { onZero: false },
-                axisTick: { show: false },
-                splitLine: { show: false },
             },
             yAxis: {
                 type: 'value',
+                axisLabel: {
+                    formatter: companyProfile?.currency + ' {value}'
+                }
             },
             dataZoom: [
                 {
@@ -140,51 +178,48 @@ export default function Stock() {
             ],
             tooltip: {
                 trigger: 'axis',
+                valueFormatter: (value: number) => `${companyProfile?.currency} ${value.toFixed(2)}`
             }
         };
     }
 
     return (
         <React.Fragment>
-            <ResponsiveContainer width="100%" height="100%">
-                <CustomGrid>
-                    <ReactECharts
-                        option={PriceGraph()}
-                        style={{ height: '100%  ', width: '100%' }}
-                    />
-                </CustomGrid>
-            </ResponsiveContainer>
-            <ResponsiveContainer width="100%" height="100%">
-                <CustomGrid>
-                    <Title>{params.stock} - {companyProfile?.companyName}</Title>
-                    <Typography variant="h5" color="inherit">Industry: {companyProfile?.industry}</Typography>
-                    <br />
-                    <br />
-                    <Grid container spacing={4} >
-                        <Grid item >
-                            <Typography variant="h4" color="inherit">Income and Revenue</Typography>
-                            <MetricsGraph title="ROE" dataKey="roe" label="Ratio" description="Profit/Equity" />
-                            <MetricsGraph title="EPS" dataKey="earningsYield" label="Ratio" description="Earns per Share" />
-                        </Grid>
-                        <Grid item>
-                            <Typography variant="h4" color="inherit">Debt and liabilites</Typography>
-                            <MetricsGraph title="Debt to Equity" dataKey="debtToEquity" label="Ratio" description="Total Debt/Equity" />
-                            <MetricsGraph title="Current Ratio" dataKey="currentRatio" label="Ratio" description="Assets/Liabilities" />
-                        </Grid>
-                        {showDividends()}
-                        <Grid item>
-                            <Typography variant="h4" color="inherit">Ratios</Typography>
-                            <MetricsGraph title="Price to Book" dataKey="pbRatio" label="Ratio" description="Price to assets" />
-                            <MetricsGraph title="P/E historical" dataKey="peRatio" label="Ratio" description="P/E historical" />
-                        </Grid>
-                        <Grid item>
-                            <Typography variant="h4" color="inherit">DCF</Typography>
-                            <Typography variant="h5" color="inherit">Price: {dcf?.['Stock Price']}</Typography>
-                            <Typography variant="h5" color="inherit">Target Price: {dcf?.dcf?.toFixed(.2)}</Typography>
-                        </Grid>
+            <CustomGrid>
+                <ReactECharts
+                    option={PriceGraph()}
+                    style={{ height: '100%  ', width: '100%' }}
+                />
+            </CustomGrid>
+            <CustomGrid>
+                <Title>{params.stock} - {companyProfile?.companyName}</Title>
+                <Typography variant="h5" color="inherit">Industry: {companyProfile?.industry}</Typography>
+                <br />
+                <br />
+                <Grid container spacing={4} >
+                    <Grid item >
+                        <Typography variant="h4" color="inherit">Income and Revenue</Typography>
+                        <MetricsGraph title="ROE" dataKey="roe" label="Ratio" description="Profit/Equity" />
+                        <MetricsGraph title="EPS" dataKey="earningsYield" label="Ratio" description="Earns per Share" />
                     </Grid>
-                </CustomGrid>
-            </ResponsiveContainer>
+                    <Grid item>
+                        <Typography variant="h4" color="inherit">Debt and liabilites</Typography>
+                        <MetricsGraph title="Debt to Equity" dataKey="debtToEquity" label="Ratio" description="Total Debt/Equity" />
+                        <MetricsGraph title="Current Ratio" dataKey="currentRatio" label="Ratio" description="Assets/Liabilities" />
+                    </Grid>
+                    {showDividends()}
+                    <Grid item>
+                        <Typography variant="h4" color="inherit">Ratios</Typography>
+                        <MetricsGraph title="Price to Book" dataKey="pbRatio" label="Ratio" description="Price to assets" />
+                        <MetricsGraph title="P/E historical" dataKey="peRatio" label="Ratio" description="P/E historical" />
+                    </Grid>
+                    <Grid item>
+                        <Typography variant="h4" color="inherit">DCF</Typography>
+                        <Typography variant="h5" color="inherit">Price: {dcf?.['Stock Price']}</Typography>
+                        <Typography variant="h5" color="inherit">Target Price: {dcf?.dcf?.toFixed(.2)}</Typography>
+                    </Grid>
+                </Grid>
+            </CustomGrid>
         </React.Fragment>
     )
 }

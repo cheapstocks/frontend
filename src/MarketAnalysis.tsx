@@ -30,7 +30,6 @@ export default function MarketAnalysis() {
       },
       xAxis: {
         type: 'category',
-
       },
       yAxis: {
         type: 'value',
@@ -69,7 +68,8 @@ export default function MarketAnalysis() {
         source: peRatio,
         dimensions: [
           { name: 'category', type: 'string', displayName: 'Industry' },
-          { name: '_peNormalizedAnnual', type: 'number' },
+          { name: '_peNormalizedAnnual', type: 'number', displayName: 'P/E' },
+          { name: '_roeTTM', type: 'number', displayNumber: 'ROE'}
         ]
       },
       series: [
@@ -80,11 +80,11 @@ export default function MarketAnalysis() {
               let payload = param?.data as GeneralMetrics
               return [
                 'Name: ' + payload.name + '<br/>',
-                'Industry: '+ payload.category + '<hr size=1 style="margin: 3px 0">',
+                'Industry: ' + payload.category + '<hr size=1 style="margin: 3px 0">',
                 'P/E: ' + twoDecimals(payload._peNormalizedAnnual) + '<br/>',
                 'Gross Margin: ' + percentageNumber(payload._grossMarginTTM) + '<br/>',
                 'Net Profit: ' + percentageNumber(payload._netProfitMarginTTM) + '<br/>',
-                'ROE: ' + percentageNumber(payload._netProfitMarginTTM) + '<br/>',
+                'ROE: ' + percentageNumber(payload._roeTTM) + '<br/>',
                 'Capex/Net Income: ' + percentageNumber(payload.capexNetIncomeRatio) + '<br/>',
                 'Debt/Net Income: ' + percentageNumber(payload.debtNetIncomeRatio) + '<br/>',
                 'Enterprise Value: ' + twoDecimals(payload.enterpriseValueMultipleTTM) + '<br/>',
@@ -100,8 +100,25 @@ export default function MarketAnalysis() {
         textStyle: {
           color: '#000'
         },
-        // extraCssText: 'width: 170px'
       },
+      visualMap: [
+        {
+          type: 'continuous',
+          min: -1.0,
+          max: 2.0,
+          precision: 3,
+          range: [0.05, 2],
+          dimension: "_roeTTM",
+          orient: 'vertical',
+          left: 0,
+          top: 'center',
+          text: ['ROE'],
+          calculable: true,
+          inRange: {
+            color: ['#033e76', '#47b8d6']
+          }
+        },
+      ],
     };
   }
 
@@ -111,7 +128,7 @@ export default function MarketAnalysis() {
       window.location.href = `/#/market/${params.market}/${data.name}`
     }
   }
-  const percentageNumber = (value: number) => { if (!value){return null} return `${twoDecimals(value)}%` }
+  const percentageNumber = (value: number) => { if (!value) { return null } return `${(value * 100).toFixed(0)}%` }
   const twoDecimals = (value: number) => { return `${value.toFixed(2)}` }
   const onEvents = {
     'click': redirectStock,
