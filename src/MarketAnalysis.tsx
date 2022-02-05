@@ -128,20 +128,18 @@ export default function MarketAnalysis() {
       window.location.href = `/#/market/${params.market}/${data.name}`
     }
   }
+  
   const percentageNumber = (value: number) => { if (!value) { return null } return `${(value * 100).toFixed(0)}%` }
   const twoDecimals = (value: number) => { return `${value.toFixed(2)}` }
-  const onEvents = {
-    'click': redirectStock,
-  }
   return (
-    <React.Fragment>
       <CustomGrid>
         <ReactECharts
           option={createChart()}
           style={{ height: '100%  ', width: '100%' }}
-          onEvents={onEvents}
+          onEvents={{
+            'click': redirectStock,
+          }}
         />
       </CustomGrid >
-    </React.Fragment>
   )
 }
