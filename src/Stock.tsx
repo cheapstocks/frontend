@@ -109,7 +109,7 @@ export default function Stock() {
                         ],
                         tooltip: {
                             trigger: 'axis',
-                            valueFormatter: (value: number) => `${(value * 100).toFixed()}%`
+                            valueFormatter: (value: number) => `${value.toFixed(2)}`
                         }
                     }} />
             </React.Fragment>
