@@ -6,7 +6,6 @@ import CustomGrid from './template/CustomGrid';
 import { Grid, Link, ListItem, ListItemIcon, ListItemText } from '@material-ui/core';
 import MonetizationOnIcon from '@material-ui/icons/MonetizationOn';
 import TrendingUpIcon from '@material-ui/icons/TrendingUp';
-import { ResponsiveContainer } from 'recharts';
 import BusinessIcon from '@material-ui/icons/Business';
 import { Money } from '@material-ui/icons';
 
@@ -16,7 +15,6 @@ export default function Market() {
     return (
         <CustomGrid>
             <Title>{params.market} market insights</Title>
-            <ResponsiveContainer>
                 <Grid container >
                     <Grid item xs>
                         <ListItem button component={Link} href={`/#/market/${params.market}/dividends`}>
@@ -51,6 +49,5 @@ export default function Market() {
                         </ListItem>
                     </Grid >
                 </Grid >
-            </ResponsiveContainer>
         </CustomGrid>)
 }
