@@ -1,12 +1,12 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { Label, LabelList, ReferenceLine, ResponsiveContainer, Scatter, ScatterChart, Tooltip, XAxis, YAxis } from 'recharts';
 import { get_metrics } from './utils';
 import { useParams } from 'react-router-dom';
 import Title from './template/Title';
 import CustomGrid from './template/CustomGrid';
 import { GeneralMetrics } from './models';
-import { Paper, TextField } from '@material-ui/core';
+import { TextField } from '@material-ui/core';
 import { Autocomplete } from '@material-ui/lab';
+import ReactECharts from 'echarts-for-react';
 
 
 export default function MarketSectorAnalysis() {
@@ -58,38 +58,118 @@ export default function MarketSectorAnalysis() {
     setSelectedPeRatio(select)
   }, [industry, peRatio]);
 
-  function CustomTooltip(props: any, aaa: {}) {
-    let a = props as { payload: { payload: GeneralMetrics }[] }
+  function createChart(): any {
 
-    if ((a == null) || (a.payload == null) || (a.payload[0] == null)) {
-      return null
+    if (peRatio.length === 0) {
+      return {}
     }
-    let payload = a.payload[0].payload
 
-    return (
-      <Paper elevation={3} >
-        <p className="label">Name: {`${payload.name}`}</p>
-        <GetComparison title="P/E Ratio" data={payload._peNormalizedAnnual} averageData={0} />
-        <GetComparison title="Gross Margin" data={payload._grossMarginTTM} averageData={0} />
-        <GetComparison title="Net Margin" data={payload._netProfitMarginTTM} averageData={0} />
-        <GetComparison title="ROE" data={payload._roeTTM} averageData={0} />
-        <GetComparison title="Debt Ratio" data={payload.debtNetIncomeRatio} averageData={0} />
-        <p className="intro">Category: {`${payload.category}`}</p>
-      </Paper>
-    );
-  };
-
-  const GetComparison = (props: { title: string, data: number, averageData: number }) => {
-    let data = 0.0
-    if (props.data !== null) {
-      data = props.data
-    }
-    return <p className="intro">{props.title}: {`${data.toFixed(2)}`}</p>
+    return {
+      xAxis: {
+        type: 'value',
+        axisLabel: {
+          formatter: function (value: number, index: any) {
+            return percentageNumber(value);
+          },
+        },
+        name: "Net Margin",
+        nameLocation: "end"
+      },
+      yAxis: {
+        type: 'value',
+        name: "P/E",
+      },
+      toolbox: {
+        feature: {
+          dataZoom: {}
+        }
+      },
+      dataZoom: [
+        {
+          type: 'inside',
+          orient: 'horizontal',
+          filterMode: 'filter',
+          startValue: -0.1,
+          endValue: 1,
+          moveHandleSize: '180%'
+        },
+        {
+          type: 'slider',
+          orient: 'horizontal',
+          showDataShadow: true,
+          handleSize: '180%',
+        },
+        {
+          type: 'inside',
+          orient: 'vertical',
+          filterMode: 'filter',
+          startValue: -10,
+          endValue: 20,
+          moveHandleSize: '180%'
+        },
+        {
+          type: 'slider',
+          orient: 'vertical',
+          showDataShadow: true,
+          handleSize: '180%',
+          moveSize: 20,
+        }
+      ],
+      dataset: {
+        source: selectedPeRatio,
+        dimensions: [
+          { name: '_netProfitMarginTTM', type: 'number', displayName: 'Net Profit Margin' },
+          { name: '_peNormalizedAnnual', type: 'number', displayName: 'P/E' },
+        ]
+      },
+      series: [
+        {
+          type: 'scatter',
+          label: {
+            show: true,
+            formatter: function (event : any ){
+              let payload = event?.data as GeneralMetrics
+              return payload.name
+            },
+            position: 'top',
+            distance: 0,
+            color: '#000'
+          },
+          tooltip: {
+            formatter: function (param: any): any {
+              let payload = param?.data as GeneralMetrics
+              return [
+                'Name: ' + payload.name + '<br/>',
+                'Industry: ' + payload.category + '<hr size=1 style="margin: 3px 0">',
+                'P/E: ' + twoDecimals(payload._peNormalizedAnnual) + '<br/>',
+                'Gross Margin: ' + percentageNumber(payload._grossMarginTTM) + '<br/>',
+                'Net Profit: ' + percentageNumber(payload._netProfitMarginTTM) + '<br/>',
+                'ROE: ' + percentageNumber(payload._roeTTM) + '<br/>',
+                'Capex/Net Income: ' + percentageNumber(payload.capexNetIncomeRatio) + '<br/>',
+                'Debt/Net Income: ' + percentageNumber(payload.debtNetIncomeRatio) + '<br/>',
+                'Enterprise Value: ' + twoDecimals(payload.enterpriseValueMultipleTTM) + '<br/>',
+              ].join('');
+            }
+          }
+        },
+      ],
+      tooltip: {
+        trigger: 'item',
+        borderWidth: 1,
+        borderColor: '#ccc',
+        textStyle: {
+          color: '#000'
+        },
+      },
+    };
   }
+
+  const percentageNumber = (value: number) => { if (!value) { return null } return `${(value * 100).toFixed(0)}%` }
+  const twoDecimals = (value: number) => { return `${value.toFixed(2)}` }
 
   return (
     <CustomGrid>
-      <Title>{params.market} - {industry} P/E vs Net Margin</Title>
+      <Title>Industries on {params.market} - {industry}</Title>
       <Autocomplete
         multiple
         id="tags-standard"
@@ -107,34 +187,13 @@ export default function MarketSectorAnalysis() {
           />
         )}
       />
-      <ResponsiveContainer width="100%" height="85%">
-        <ScatterChart
-          width={400}
-          height={400}
-          margin={{
-            top: 20,
-            right: 20,
-            bottom: 20,
-            left: 20,
-          }}
-        >
-          <XAxis type="number" dataKey="_netProfitMarginTTM" domain={[-1, 1]} allowDataOverflow={true} >
-            <Label value="Net Margin" offset={0} position="bottom" />
-          </XAxis>
-
-          <YAxis type="number" dataKey="_peNormalizedAnnual" domain={[-20, 50]} allowDataOverflow={true} >
-            <Label value="P/E" offset={0} position="insideLeft" />
-          </YAxis>
-
-          <Tooltip content={<CustomTooltip />} />
-          <Scatter name="A school" data={selectedPeRatio} fill="#8884d8" onClick={ev => redirectStock(ev)}>
-            <LabelList dataKey="name" position="top" />
-          </Scatter>
-
-          <ReferenceLine y={0} stroke="#000000" />
-          <ReferenceLine x={0} stroke="#000000" />
-        </ScatterChart>
-      </ResponsiveContainer>
+      <ReactECharts
+        option={createChart()}
+        style={{ height: '100%  ', width: '100%' }}
+        onEvents={{
+          'click': redirectStock,
+        }}
+      />
     </CustomGrid>
   )
 }
