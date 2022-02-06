@@ -112,7 +112,7 @@ export default function Dashboard(props) {
             renderInput={params => (
               <TextField
                 {...params}
-                label="Search for stock, market"
+                label="Search for stocks"
                 variant="outlined"
                 InputProps={{
                   ...params.InputProps,
