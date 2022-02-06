@@ -38,8 +38,9 @@ export default function MarketSectorAnalysis() {
   }, [params.market])
 
   function redirectStock(ev: any) {
+    let data = ev?.data as GeneralMetrics
     if (ev?.name !== undefined) {
-      window.location.href = `/#/market/${params.market}/${ev.name}`
+      window.location.href = `/#/market/${params.market}/${data.name}`
     }
   }
 
