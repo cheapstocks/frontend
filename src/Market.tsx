@@ -7,7 +7,6 @@ import { Grid, Link, ListItem, ListItemIcon, ListItemText } from '@material-ui/c
 import MonetizationOnIcon from '@material-ui/icons/MonetizationOn';
 import TrendingUpIcon from '@material-ui/icons/TrendingUp';
 import BusinessIcon from '@material-ui/icons/Business';
-import { Money } from '@material-ui/icons';
 
 export default function Market() {
     const params: { market: string } = useParams()
@@ -38,14 +37,6 @@ export default function Market() {
                                 <BusinessIcon style={{ fontSize: 120 }} />
                             </ListItemIcon>
                             <ListItemText primary="Stocks by sector" />
-                        </ListItem>
-                    </Grid >
-                    <Grid item xs>
-                        <ListItem button component={Link} href={`/#/market/${params.market}/dcf`}>
-                            <ListItemIcon>
-                                <Money style={{ fontSize: 120 }} />
-                            </ListItemIcon>
-                            <ListItemText primary="Stocks by DCF ratio" />
                         </ListItem>
                     </Grid >
                 </Grid >
