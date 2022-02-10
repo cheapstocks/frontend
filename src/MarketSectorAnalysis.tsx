@@ -8,16 +8,35 @@ import { TextField } from '@material-ui/core';
 import { Autocomplete } from '@material-ui/lab';
 import ReactECharts from 'echarts-for-react';
 
-
 export default function MarketSectorAnalysis() {
   const [peRatio, setPeRate] = useState<GeneralMetrics[]>([]);
   const [selectedPeRatio, setSelectedPeRatio] = useState<GeneralMetrics[]>([]);
   const [industry, setIndustry] = useState<string[]>([]);
   const [industries, setIndustries] = useState<string[]>([]);
 
-  const params: { market: string } = useParams()
+  const params: { market: string, sectors: string } = useParams()
+  const baseURL = `#/market/${params.market}/sector/`
+
+  function getSectorsFromURL(): string[] {
+    var listOfSectors: string[] = [];
+
+    let postBaseURL = window.location.hash.split(baseURL)
+
+    if (postBaseURL.length === 2) {
+      postBaseURL[1].split("/").forEach(sector => {
+        listOfSectors.push(decodeURI(sector.replace("_", " ")))
+      })
+    }
+
+    return listOfSectors
+  }
 
   function redirect(event: string[]) {
+    var newURL = event.map(function (ind) {
+      return ind.replace(" ", "_")
+    }).join("/")
+
+    window.location.hash = `${baseURL}${newURL}`
     setIndustry(event)
   }
 
@@ -33,9 +52,11 @@ export default function MarketSectorAnalysis() {
       }
       lotOfIndustries.sort()
       setIndustries(lotOfIndustries)
+
+      setIndustry(getSectorsFromURL())
     })
 
-  }, [params.market])
+  })
 
   function redirectStock(ev: any) {
     let data = ev?.data as GeneralMetrics
@@ -128,7 +149,7 @@ export default function MarketSectorAnalysis() {
           type: 'scatter',
           label: {
             show: true,
-            formatter: function (event : any ){
+            formatter: function (event: any) {
               let payload = event?.data as GeneralMetrics
               return payload.name
             },
@@ -179,6 +200,7 @@ export default function MarketSectorAnalysis() {
         onChange={(event, newValue) => {
           redirect(newValue);
         }}
+        value={industry}
         renderInput={(params) => (
           <TextField
             {...params}

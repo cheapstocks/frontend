@@ -17,7 +17,7 @@ render(
           <Route exact path="/market/:market" component={Market} />
           <Route exact path="/market/:market/dividends" component={MarketDividends} />
           <Route exact path="/market/:market/analysis" component={MarketAnalysis} />
-          <Route exact path="/market/:market/sector" component={MarketSectorAnalysis} />
+          <Route path="/market/:market/sector" component={MarketSectorAnalysis} />
           <Route exact path="/market/:market/:stock" component={Stock} />
         </Switch>
       </Router>
